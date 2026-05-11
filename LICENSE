@@ -1,0 +1,15 @@
+The Consolidated Heliand corpus is released under a CC BY-NC-SA 4.0 license (https://creativecommons.org/licenses/by-nc-sa/4.0)
+
+The restrictive licensing is due to the incorporation of restrictively licensed annotations. In accordance with the Open MinTeD compatibility matrix, the most restrictive license is to be adopted in this case [1]. In addition, different versions of CC licenses have been applied to the original annotations. We assume that more recent licenses are downward-compatible, so that we use the most recent license version that was applied to any of the source data.
+
+Original source licenses:
+- CC-BY 4.0: HeliPaD/CHLG corpus
+  Attribution: Walkden, George. 2015. HeliPaD: the Heliand Parsed Database. Version 0.9. http://www.chlg.ac.uk/helipad/
+- CC BY-NC-SA 3.0: Referenzkorpus Altdeutsch.
+  Attribution: Karin Donhauser, Jost Gippert, Rosemarie Lühr (2018); Deutsch Diachron Digital - Referenzkorpus Altdeutsch Version 1.1; Humboldt-Universität zu Berlin; Homepage: http://www.deutschdiachrondigital.de/ DOI: https://doi.org/10.34644/laudatio-dev-WiWkDnMB7CArCQ9CyBEw
+- CC BY 3.0: Heliand Corpus
+  Attribution: Svetlana Petrova, Karin Donhauser, Sonja Linde (2015). Heliand (1.0). Humboldt-Universität zu Berlin. Homepage: https://www.sfb632.uni-potsdam.de/aprojekte/b4.html.
+  
+We provide a conversion of the original annotations to CoNLL TSV. These files are distributed under the original license, with an addition to the attribution.
+
+[1] https://services.openminted.eu/support/licenseCompatibilityMatrix
