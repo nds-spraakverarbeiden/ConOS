@@ -1,0 +1,1 @@
+scott-1966.pdf is a rather non-literal, poetic translation
