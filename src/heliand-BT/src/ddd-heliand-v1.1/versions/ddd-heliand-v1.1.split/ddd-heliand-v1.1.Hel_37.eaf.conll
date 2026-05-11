@@ -1,0 +1,652 @@
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+bist	bist	wesan	*	sein	*	*	*	bist	VA	VAFIN	ST5	IRR	IND_PRES_SG_2	Hel_37.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_37.eaf
+uuâro	uuâro	war	S1	wahr, wahrhaftig	*	*	*	uuaro	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_37.eaf
+uualdandes	uualdandes	waldand	S2	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_37.eaf
+sunu	sunu	sunu	*	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3057	,	$,	$,	*	*	*	Hel_37.eaf
+libbiendes	libbiendes	libbian	S1	leben	*	*	*	libbiendes	VV	VVPSA	WK3	WK3	P_POS_MASC_SG_GEN_ST	Hel_37.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+the	the	the	*	der, das, die, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_37.eaf
+thit	thit	thesa	*	dieser, dieses, diese	*	*	*	thit	DD	DD	*	*	NEUT_SG_ACC	Hel_37.eaf
+lioht	lioht	lioht	S2	Himmelreich	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_37.eaf
+giscôp	giscôp	giskeppian	*	schaffen	*	*	*	giscop	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_37.eaf
+,	,	*	*	*	*	*	3058	,	$,	$,	*	*	*	Hel_37.eaf
+Crist	Crist	Krist	S1a	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+cuning	cuning	kuning	S1b	König	*	*	*	cuning	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+êuuig	êuuig	ewig	*	ewig	CF_I_Rel	*	*	euuig	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+sô	sô	so	*	so, in solcher Weise; so sehr; nun also	*	*	*	so	ADV	ADV	*	*	*	Hel_37.eaf
+uuilliad	uuilliad	willian	*	wollen	*	*	*	uuilliad	VM	VMFIN	IRR	IRR	IND_PRES_PL_1	Hel_37.eaf
+uui	uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_37.eaf
+queðen	queðen	queđan	S2	sprechen, sagen	*	*	*	queden	VV	VVINF	ST5	ST5	*	Hel_37.eaf
+alle	alle	all	*	all	*	*	*	alle	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_37.eaf
+,	,	*	*	*	*	*	3059	,	$,	$,	*	*	*	Hel_37.eaf
+iungaron	iungaron	jungaro	S1	Jünger, Diener	*	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_37.eaf
+thîne	thîne	thin	*	dein	CF_U_M	*	*	thine	DPOS	DPOSN	A,O	P	MASC_PL_NOM_ST	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+sîs	sîs	wesan	*	sein	*	*	*	sis	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_2	Hel_37.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_37.eaf
+selƀo	selƀo	self	*	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_37.eaf
+,	,	*	*	*	*	*	3060	,	$,	$,	*	*	*	Hel_37.eaf
+hêleandero	hêleandero	heliand	S1	Heiland	*	*	*	heleandero	NA	NA	ND_MASC	A_MASC	PL_GEN	Hel_37.eaf
+bezt	bezt	betst	*	best	CF_I_O	*	*	bezt	ADJ	ADJS	A,O	A,O	SUP_MASC_SG_NOM_0	Hel_37.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_37.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_37.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_37.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+hêrro	hêrro	herro	S2	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_37.eaf
+angegin	angegin	angegin	*	entgegen	CF_U_M	*	*	angegin	ADV	ADV	*	*	*	Hel_37.eaf
+:	*	*	*	*	*	*	3061	:	$.	$.	*	*	*	Hel_37.eaf
+
+"	:	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+sâlig	sâlig	salig	S1a	glücklich, gepriesen, selig	*	*	*	salig	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+bist	bist	wesan	*	sein	*	*	*	bist	VA	VAFIN	ST5	IRR	IND_PRES_SG_2	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+Sîmon	Sîmon	Simon	S1b	Simon	CF_CS_U_M	*	*	simon	NE	NE	0_MASC	0_MASC	SG_NOM	Hel_37.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_37.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_37.eaf
+,	*	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+"	,	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+sunu	sunu	sunu	S1c	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_37.eaf
+Ionases	Ionases	Ionas	*	Jonas	CF_CC_U_M	*	*	ionases	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_37.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+mahtes	mahtes	mugan	*	die Fähigkeit wozu haben, vermögen, können	*	*	*	mahtes	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_2	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_37.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_37.eaf
+gehuggean	gehuggean	gihuggian	*	erdenken	*	*	*	gehuggean	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+,	,	*	*	*	*	*	3062	,	$,	$,	*	*	*	Hel_37.eaf
+gimarcon	gimarcon	gimarkon	S1a	bemerken, gewahr werden	*	*	*	gimarcon	VV	VVINF	WK2	WK2	*	Hel_37.eaf
+an	an	an	*	in, an, bei	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	MASC_PL_DAT_ST	Hel_37.eaf
+môdgithâhtiun	môdgithâhtiun	modgithaht	S1b	Gedanke, Empfindung des Herzens	CF_U_M	*	*	modgithahtiun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_37.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_37.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+mahte	mahte	mugan	*	die Fähigkeit wozu haben, vermögen, können	*	*	*	mahte	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+mannes	mannes	mann	S2	Mensch	*	*	*	mannes	NA	NA	C,A_MASC	C,A_MASC	SG_GEN	Hel_37.eaf
+tunge	tunge	tunga	*	Zunge	*	*	3063	tunge	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_37.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_37.eaf
+geuuîsien	geuuîsien	giwisian	S1b	zeigen, verkünden, lehren	CF_U_M	*	*	geuuisien	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_37.eaf
+dede	dede	don	*	tun, machen	*	*	*	dede	VV	VVFIN	IRR	IRR	IND_PAST_SG_3	Hel_37.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_37.eaf
+selƀo	selƀo	self	*	selbst	*	*	*	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_37.eaf
+,	,	*	*	*	*	*	3064	,	$,	$,	*	*	*	Hel_37.eaf
+fader	fader	fadar	S1a	Vater	*	*	*	fader	NA	NA	ER_MASC	ER_MASC	SG_NOM	Hel_37.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_37.eaf
+firiho	firiho	firihos	S1b	Menschen	*	*	*	firiho	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_37.eaf
+barno	barno	barn	*	Kind	CF_I_M	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_37.eaf
+forð	forð	forđ	S2	heraus	*	*	*	ford	ADV	ADV	*	*	*	Hel_37.eaf
+gisprâki	gisprâki	gisprekan	*	sprechen, reden, sagen	*	*	*	gispraki	VV	VVFIN	ST4	ST4	IND_PAST_SG_2	Hel_37.eaf
+,	,	*	*	*	*	*	3065	,	$,	$,	*	*	*	Hel_37.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_37.eaf
+diapo	diapo	diopo	S1a	tief	*	*	*	diapo	ADV	ADV	*	*	*	Hel_37.eaf
+bi	bi	bi	*	von, über	*	*	*	bi	AP	APPR	*	*	*	Hel_37.eaf
+drohtin	drohtin	drohtin	S1b	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_37.eaf
+thînen	thînen	thin	*	dein	CF_I_O	*	*	thinen	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Diurlîco	Diurlîco	diurliko	S2	auf herrliche Weise	*	*	*	diurlico	ADV	ADV	*	*	*	Hel_37.eaf
+scalt	scalt	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_37.eaf
+lôn	lôn	lon	*	Lohn, Vergeltung	*	*	*	lon	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_37.eaf
+antfâhen	antfâhen	antfahan	*	empfangen, aufnehmen, annehmen	CF_U_M	*	*	antfahen	VV	VVINF	RED1B	RED1B	*	Hel_37.eaf
+,	,	*	*	*	*	*	3066	,	$,	$,	*	*	*	Hel_37.eaf
+hluttro	hluttro	hluttro	S1a	aufrichtig	*	*	*	hluttro	ADV	ADV	*	*	*	Hel_37.eaf
+haƀas	haƀas	hebbian	*	haben, besitzen; halten	*	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+thînan	thînan	thin	*	dein	*	*	*	thinan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_37.eaf
+hêrron	hêrron	herro	S1b	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_37.eaf
+gilôƀon	gilôƀon	gilobo	*	Glaube, Gesinnung	CF_U_M	*	*	gilobon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+hugiskefti	hugiskefti	hugiskefti	S2	Gesinnung, Gemüt, Herz	*	*	*	hugiskefti	NA	NA	I_FEM	I_FEM	PL_NOM	Hel_37.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_37.eaf
+thîne	thîne	thin	*	dein	*	*	*	thine	DPOS	DPOSS	A,O	P	FEM_PL_NOM_ST	Hel_37.eaf
+stêne	stêne	sten	*	Stein, Fels	*	*	*	stene	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_37.eaf
+gelîca	gelîca	gilik	*	von derselben Art, gleich	CF_U_M	*	*	gelica	ADJ	ADJD	A,O	P	POS_FEM_PL_NOM_ST	Hel_37.eaf
+,	,	*	*	*	*	*	3067	,	$,	$,	*	*	*	Hel_37.eaf
+sô	sô	so	*	so (so sehr) - wie (als), wie	*	*	*	so	ADV	ADV	*	*	*	Hel_37.eaf
+fast	fast	fast	S1a	fest, beständig, unerschüttert	*	*	*	fast	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+bist	bist	wesan	*	sein	*	*	*	bist	VA	VAFIN	ST5	IRR	IND_PRES_SG_2	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+sô	sô	so	*	so, wie	*	*	*	so	ADV	ADV	*	*	*	Hel_37.eaf
+felis	felis	felis	S1b	Fels, Stein	*	*	*	felis	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_37.eaf
+hardo	hardo	hard	*	hart, scharf, schwer	CF_U_M	*	*	hardo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_37.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+hêten	hêten	hetan	*	heißen, nennen, einen Namen geben	*	*	*	heten	VV	VVINF	RED1B	RED1B	*	Hel_37.eaf
+sculun	sculun	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_37.eaf
+firiho	firiho	firihos	S2	Menschen	*	*	*	firiho	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_37.eaf
+barn	barn	barn	*	Kind	*	*	3068	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_37.eaf
+sancte	sancte	sancte	S1	sankt	*	*	*	sancte	ADJ	ADJE	0	0	POS_MASC_SG_ACC_0	Hel_37.eaf
+Pêter	Pêter	Peter	*	Peter	CF_U_M	*	*	peter	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+oƀar	oƀar	obar	*	über, auf	*	*	*	obar	AP	APPR	*	*	*	Hel_37.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_37.eaf
+stêne	stêne	sten	*	Stein, Fels	*	*	*	stene	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_37.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_37.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_37.eaf
+mînen	mînen	min	*	mein	*	*	*	minen	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_37.eaf
+seli	seli	seli	S2	Saal, Hauptraum in der Wohnung, Haus	*	*	*	seli	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_37.eaf
+uuirkean	uuirkean	wirkian	*	machen, bereiten	*	*	*	uuirkean	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+,	,	*	*	*	*	*	3069	,	$,	$,	*	*	*	Hel_37.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_37.eaf
+hûs	hûs	hus	S1b	Haus	*	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_37.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+thar	thar	thar	*	da, dort, dahin, dorthin	*	*	*	thar	ADV	ADV	*	*	*	Hel_37.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+hîuuiski	hîuuiski	hiwiski	S2	Hausgemeinschaft, Familie, Geschlecht	*	*	*	hiuuiski	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_37.eaf
+tô	tô	to	*	zu, hinzu, herzu	*	*	3070	to	ADV	ADV	*	*	*	Hel_37.eaf
+sâlig	sâlig	salig	S1a	glücklich, gepriesen, selig	*	*	*	salig	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+samnon	samnon	samnon	S1b	sich versammeln	CF_U_M	*	*	samnon	VV	VVINF	WK2	WK2	*	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+mugun	mugun	mugan	*	die Fähigkeit wozu haben, vermögen, können	*	*	*	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_37.eaf
+uuið	uuið	wiđ	*	gegen	*	*	*	uuid	ADV	ADV	*	*	*	Hel_37.eaf
+them	them	the	*	der, das, die	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_37.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	N	MASC_SG_DAT_WK	Hel_37.eaf
+suîðeun	suîðeun	swiđ	S2	kräftig, heftig, stark	*	*	*	suideun	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_37.eaf
+crafte	crafte	kraft	*	Gewalt, Macht, Kraft	*	*	3071	crafte	NA	NA	C,I_FEM,C,A,I_MASC	A_MASC	SG_DAT	Hel_37.eaf
+anthebbien	anthebbien	anthebbian	S1a	aufrecht erhalten, standhalten	*	*	*	anthebbien	VA	VAINF	WK1A	WK1A	*	Hel_37.eaf
+hellie	hellie	hellia	S1b	Hölle	*	*	*	hellie	NA	NA	N,JO_FEM	JO_FEM	SG_GEN	Hel_37.eaf
+portun	portun	porta	*	Pforte, Tür	CF_U_M	*	*	portun	NA	NA	N_FEM	N_FEM	PL_NOM	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Ik	Ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+fargiƀu	fargiƀu	fargeban	*	geben, hingeben, verleihen, schenken	*	*	*	fargibu	VV	VVFIN	ST5	ST5	IND_PRES_SG_1	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+himilrîceas	himilrîceas	himilriki	S2	Himmelreich	*	*	*	himilriceas	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_37.eaf
+slutilas	slutilas	slutil	*	Schlüssel	CF_U_M	*	*	slutilas	NA	NA	A_MASC	A_MASC	PL_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	3072	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	damit	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+môst	môst	motan	*	in der Lage sein, Gelegenheit haben, können, dürfen, mögen	*	*	*	most	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_37.eaf
+aftar	aftar	aftar	S1	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_37.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_37.eaf
+allun	allun	all	S2	all	*	*	*	allun	DI	DIS	A,O	P	NEUT_PL_DAT_ST	Hel_37.eaf
+giuualdan	giuualdan	giwaldan	*	Gewalt haben, herrschen über, Macht haben über	*	*	3073	giuualdan	VV	VVINF	RED1A	RED1A	*	Hel_37.eaf
+kristinum	kristinum	kristin	S1	christlich	*	*	*	kristinum	ADJ	ADJ	A,O	P	POS_NEUT_SG_DAT_ST	Hel_37.eaf
+folke	folke	folk	*	Volk, Schar, Menge, Leute	CF_I_Adv_Fin	*	*	folke	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_37.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+kumad	kumad	kuman	S2	kommen	*	*	*	kumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_37.eaf
+alle	alle	all	*	all	*	*	*	alle	PI	PI	A,O	P	MASC_PL_NOM_ST	Hel_37.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_37.eaf
+thi	thi	thu	*	du	*	*	3074	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+gumono	gumono	gumo	S1a	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_37.eaf
+gêstos	gêstos	gest	S1b	Geist	CF_U_M	*	*	gestos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_37.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+haƀe	haƀe	hebbian	*	haben, besitzen; halten	*	*	*	habe	VA	VVIMP	WK3	WK3	IMP_PRES_SG_2	Hel_37.eaf
+grôte	grôte	grot	S2	groß, ausgedehnt, schwer; bedeutend	*	*	*	grote	ADJ	ADJ	A,O	P	POS_FEM_SG_ACC_ST	Hel_37.eaf
+giuuald	giuuald	giwald	*	Macht, Gewalt, Verfügung. mit abhäng. Satze allein	CF_U_Imp	*	*	giuuald	NA	NA	I_FEM,A_MASC	I_FEM	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	3075	,	$,	$,	*	*	*	Hel_37.eaf
+huene	huene	hwe	*	wer – was	*	*	*	huene	PW	PWREL	*	*	MASC_SG_ACC	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_37.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+erðu	erðu	erđa	S1	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_37.eaf
+eldibarno	eldibarno	eldibarn	S2	Menschenkinder, Menschen	*	*	3076	eldibarno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_37.eaf
+gebinden	gebinden	gibindan	S1	zusammenbinden, fesseln	*	*	*	gebinden	VV	VVINF	ST3A	ST3A	*	Hel_37.eaf
+uuillies	uuillies	willian	*	wollen	CF_I_O	*	*	uuillies	VM	VMFIN	IRR	IRR	SUBJ_PRES_SG_2	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+themu	themu	the	*	der, das, die, derjenige, diejenige, dasjenige	*	*	*	themu	DD	DDS	*	*	MASC_SG_DAT	Hel_37.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_37.eaf
+bêðiu	bêðiu	beđie	S2	beide	*	*	*	bediu	DI	DIS	*	*	NEUT_PL_ACC	Hel_37.eaf
+giduan	giduan	gidon	*	tun, machen	*	*	*	giduan	VV	VVPP	IRR	IRR	*	Hel_37.eaf
+,	,	*	*	*	*	*	3077	,	$,	$,	*	*	*	Hel_37.eaf
+himilrîki	himilrîki	himilriki	S1	Himmelreich	*	*	*	himilriki	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_37.eaf
+biloken	biloken	bilukan	*	verschließen, einschließen	CF_U_M	*	*	biloken	VV	VVPP	RED2	RED2	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+hellie	hellie	hellia	S2	Hölle	*	*	*	hellie	NA	NA	N,JO_FEM	JO_FEM	PL_NOM	Hel_37.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_37.eaf
+opana	opana	opan	*	offen, aufgeschlossen	*	*	*	opana	ADJ	ADJD	A,O	P	POS_FEM_PL_NOM_ST	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+]	]	*	*	*	*	*	3078	]	$(	$(	*	*	*	Hel_37.eaf
+brinnandi	brinnandi	brinnan	S1	brennen	*	*	*	brinnandi	VV	VVPPA	ST3A	ST3A	JA,JO_POS_NEUT_SG_NOM_0	Hel_37.eaf
+fiur	fiur	fiur	*	Feuer	CF_I_M	*	*	fiur	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_37.eaf
+;	;+sô+huene	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_37.eaf
+
+sô huene sô	sô	so hwe so	*	jeder der, wer immer	*	*	*	so huene so	PW	PWGREL	*	*	MASC_SG_ACC	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+eft	eft	eft	*	hinwiederum, andrerseits, dagegen; zum Entgelt	*	*	*	eft	ADV	ADV	*	*	*	Hel_37.eaf
+antbinden	antbinden	antbindan	S2	entbinden, lösen	*	*	*	antbinden	VV	VVINF	ST3A	ST3A	*	Hel_37.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_PL_2	Hel_37.eaf
+,	,	*	*	*	*	*	3079	,	$,	$,	*	*	*	Hel_37.eaf
+antheftien	antheftien	antheftian	S1a	entfesseln, los machen	*	*	*	antheftien	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+hendi	hendi	hand	S1b	Hand	CF_I_Rel	*	*	hendi	NA	NA	U,I_FEM	I_FEM	PL_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+themu	themu	the	*	der, das, die, derjenige, diejenige, dasjenige	*	*	*	themu	DD	DDS	*	*	MASC_SG_DAT	Hel_37.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_37.eaf
+himilrîki	himilrîki	himilriki	S2	Himmelreich	*	*	*	himilriki	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3080	,	$,	$,	*	*	*	Hel_37.eaf
+antloken	antloken	antlukan	S1a	erschließen, öffnen	*	*	*	antloken	VV	VVPP	RED2	RED2	*	Hel_37.eaf
+liohto	liohto	lioht	S1b	Himmelreich	*	*	*	liohto	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_37.eaf
+mêst	mêst	mest	*	größt, meist	*	*	*	mest	ADJ	ADJN	A,O	A,O	SUP_NEUT_SG_NOM_0	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+lîf	lîf	lif	S2	Leben	*	*	*	lif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_37.eaf
+êuuig	êuuig	ewig	*	ewig	*	*	*	euuig	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_37.eaf
+,	,	*	*	*	*	*	3081	,	$,	$,	*	*	*	Hel_37.eaf
+grôni	grôni	groni	S1a	grün	*	*	*	groni	ADJ	ADJ	JA,JO	P	POS_MASC_SG_NOM_ST	Hel_37.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+uuang	uuang	wang	*	Feld, Aue	CF_U_M	*	*	uuang	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Mid	Mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_37.eaf
+sulicaru	sulicaru	sulik	*	solch, so beschaffen	*	*	*	sulicaru	DI	DI	A,O	P	FEM_SG_DAT_ST	Hel_37.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+geƀu	geƀu	geba	S2	Gabe, Geschenk	*	*	*	gebu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_37.eaf
+uuilliu	uuilliu	willian	*	wollen	*	*	3082	uuilliu	VM	VMFIN	IRR	IRR	IND_PRES_SG_1	Hel_37.eaf
+lônon	lônon	lonon	S1a	vergelten, lohnen	*	*	*	lonon	VV	VVINF	WK2	WK2	*	Hel_37.eaf
+thînen	thînen	thin	*	dein	*	*	*	thinen	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_37.eaf
+gilôƀon	gilôƀon	gilobo	S1b	Glaube, Gesinnung	CF_U_M	*	*	gilobon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+uuilliu	uuilliu	willian	*	wollen	*	*	*	uuilliu	VM	VMFIN	IRR	IRR	IND_PRES_SG_1	Hel_37.eaf
+ik	ik	ik	*	ich	CF_U_M	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_37.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese	*	*	*	thesun	DD	DD	*	*	MASC_PL_DAT	Hel_37.eaf
+liudiun	liudiun	liudi	S2	Leute, Menschen, Volk	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_37.eaf
+noh	noh	noh	*	noch, bis jetzt	*	*	*	noh	ADV	ADV	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	3083	,	$,	$,	*	*	*	Hel_37.eaf
+mârien	mârien	marian	S1a	verkünden, rühmen	*	*	*	marien	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_PL_2	Hel_37.eaf
+thesaru	thesaru	thesa	*	dieser, dieses, diese	*	*	*	thesaru	DD	DD	*	*	FEM_SG_DAT	Hel_37.eaf
+menigi	menigi	menigi	S1b	Menge, Schar, Volk	CF_I_O	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_37.eaf
+mahtig	mahtig	mahtig	S2	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_37.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3084	,	$,	$,	*	*	*	Hel_37.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+êgan	êgan	egan	*	eigen	*	*	*	egan	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_37.eaf
+barn	barn	barn	*	Kind, Sohn	CF_I_O	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Mi	Mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_37.eaf
+sculun	sculun	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_37.eaf
+Iudeon	Iudeon	Iudeo	S2	der Jude	*	*	*	iudeon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_37.eaf
+noh	noh	noh	*	dann noch	*	*	*	noh	ADV	ADV	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	3085	,	$,	$,	*	*	*	Hel_37.eaf
+unsculdigna	unsculdigna	unskuldig	S1	unschuldig	*	*	*	unsculdigna	ADJ	ADJ	A,O	P	POS_MASC_PL_NOM_ST	Hel_37.eaf
+erlos	erlos	erl	S2	der bedeutende, vornehme, adliche Mann	*	*	*	erlos	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_37.eaf
+binden	binden	bindan	*	binden, fesseln	*	*	*	binden	VV	VVINF	ST3A	ST3A	*	Hel_37.eaf
+,	,	*	*	*	*	*	3086	,	$,	$,	*	*	*	Hel_37.eaf
+uuêgean	uuêgean	wegian	S1a	quälen, peinigen	*	*	*	uuegean	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+mi	mi+te	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_37.eaf
+te uundrun	*	te wundron	S1b	außerordentlich, aufs höchste	CF_CS_U_M	*	*	te uundrun	ADV	ADV	*	*	*	Hel_37.eaf
+-	uundrun-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_37.eaf
+dôt	dôt	don	*	tun, machen	*	*	*	dot	VV	VVFIN	IRR	IRR	IND_PRES_PL_3	Hel_37.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_37.eaf
+uuîties	uuîties	witi	S2	Strafe, Qual, Leiden	*	*	*	uuities	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_37.eaf
+filo	filo	filu	*	viel, Vieles	CF_U_M	*	*	filo	NA	NA	U_NEUT	0_NEUT	SG_NOM	Hel_37.eaf
+-	-	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_37.eaf
+]	]	*	*	*	*	*	3087	]	$(	$(	*	*	*	Hel_37.eaf
+innan	innan	innan	*	in	*	*	*	innan	AP	APPR	*	*	*	Hel_37.eaf
+Hierusalem	Hierusalem	Hierusalem	S1	Jerusalem	*	*	*	hierusalem	NE	NEO	0_NEUT	0_NEUT	SG_DAT	Hel_37.eaf
+gêres	gêres	ger	S2	Speer	*	*	*	geres	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+ordun	ordun	ord	*	Spitze	*	*	*	ordun	NA	NA	A_MASC	A_MASC	PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	3088	,	$,	$,	*	*	*	Hel_37.eaf
+âhtien	âhtien	ahtian	S1a	ächten, nachstellen	*	*	*	ahtien	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+mînes	mînes	min	*	mein	*	*	*	mines	DPOS	DPOS	A,O	P	NEUT_SG_GEN_ST	Hel_37.eaf
+aldres	aldres	aldar	S1b	Leben	*	*	*	aldres	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_37.eaf
+eggiun	eggiun	eggia	S2	Schwert	*	*	*	eggiun	NA	NA	JO_FEM	JO_FEM	PL_DAT	Hel_37.eaf
+scarpun	scarpun	skarp	*	scharf	*	*	*	scarpun	ADJ	ADJN	A,O	P,N	POS_FEM_PL_DAT_ST,WK	Hel_37.eaf
+,	,	*	*	*	*	*	3089	,	$,	$,	*	*	*	Hel_37.eaf
+bilôsien	bilôsien	bilosian	S1a	loslösen, berauben	*	*	*	bilosien	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_37.eaf
+lîƀu	lîƀu	lif	S1b	Leben	CF_CC_U_M	*	*	libu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Ik	Ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+an	an	an	*	in, an, bei	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_37.eaf
+liohte	liohte	lioht	S2	Himmelreich	*	*	*	liohte	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_37.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	3090	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_37.eaf
+thurh	thurh	thurh	*	durch	*	*	*	thurh	AP	APPR	*	*	*	Hel_37.eaf
+ûses	ûses	usa	*	unser	*	*	*	uses	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_37.eaf
+drohtines	drohtines	drohtin	S1	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_37.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_37.eaf
+dôde	dôde	dođ	S2	Tod	*	*	*	dode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_37.eaf
+astanden	astanden	astandan	*	aufstehen; auferstehen	*	*	3091	astanden	VV	VVINF	ST6	ST6	*	Hel_37.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+thriddiumu	thriddiumu	thriddio	S1	dritte	*	*	*	thriddiumu	ADJO	ADJO	N	P	MASC_SG_DAT_ST	Hel_37.eaf
+dage	dage	dag	*	Tag	CF_U_M	*	*	dage	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_37.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_37.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_37.eaf
+uuarð	uuarð	werđan	*	in einen Zustand geraten, zu etwas gereichen	*	*	*	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_37.eaf
+thegno	thegno	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegno	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_37.eaf
+bezt	bezt	betst	*	best	*	*	3092	bezt	ADJ	ADJS	A,O	A,O	SUP_MASC_SG_NOM_0	Hel_37.eaf
+suîðo	suîðo	swiđo	S1a	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_37.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+sorgun	sorgun	soraga	S1b	Sorge, Besorgnis, Kummer	*	*	*	sorgun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+Sîmon	Sîmon	Simon	S2	Simon	*	*	*	simon	NE	NE	0_MASC	0_MASC	SG_NOM	Hel_37.eaf
+Petrus	Petrus	Petrus	*	Petrus	CF_U_M	*	*	petrus	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3093	,	$,	$,	*	*	*	Hel_37.eaf
+uuarð	uuarð	werđan	*	in einen Zustand geraten, zu etwas gereichen	*	*	*	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_37.eaf
+hugi	hugi	hugi	S1a	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_37.eaf
+hriuuig	hriuuig	hriuwig	S1b	betrübt, bekümmert, traurig	CF_U_M	*	*	hriuuig	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+]	]	*	*	*	*	*	*	]	$(	$(	*	*	*	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+hêrron	hêrron	herro	S2	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_37.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	3094	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_37.eaf
+rink	rink	rink	S1a	junger Krieger, Mann	*	*	*	rink	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+rûnun	rûnun	runa	S1b	vertrauliche Besprechung, Beratung, geheimes Gespräch	CF_I_M	*	*	runun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_37.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_37.eaf
+rîki	rîki	riki	S2	mächtig, herrschgewaltig	*	*	*	riki	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_37.eaf
+god	god	god	*	Gott	CF_CS_U_M	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_37.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_37.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_37.eaf
+,	,	*	*	*	*	*	3095	,	$,	$,	*	*	*	Hel_37.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+uualdand	uualdand	waldand	S1a	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_37.eaf
+uuillien	uuillien	willian	S1b	wollen	CF_CC_U_M	*	*	uuillien	VM	VMINF	IRR	IRR	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+eo	eo	io	*	zu irgend einer Zeit, je	*	*	*	eo	ADV	ADV	*	*	*	Hel_37.eaf
+sulic	sulic	sulik	*	solch, so beschaffen	*	*	*	sulic	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_37.eaf
+uuîti	uuîti	witi	S2	Strafe, Qual, Leiden	*	*	*	uuiti	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_37.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	3096	mikil	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_37.eaf
+githolos	githolos	githolon	S1a	erdulden, ertragen, leiden	*	*	*	githolos	VV	VVFIN	WK2	WK2	SUBJ_PRES_SG_2	Hel_37.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_37.eaf
+thesaru	thesaru	thesa	*	dieser, dieses, diese	*	*	*	thesaru	DD	DD	*	*	FEM_SG_DAT	Hel_37.eaf
+thiod	thiod	thiod	S1b	Volk, Menge	CF_I_O	*	*	thiod	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+]	]	*	*	*	*	*	*	]	$(	$(	*	*	*	Hel_37.eaf
+n	*	ne	*	nicht	*	*	*	n	PTK	PTKNEG	*	*	*	Hel_37.eaf
+is	nis	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_37.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_37.eaf
+tharf	tharf	tharf	S2	Bedürfnis, Notdurft	*	*	*	tharf	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_37.eaf
+nigiean	nigiean	nigen	*	kein	*	*	*	nigiean	DI	DINEGN	A,O	A,O	FEM_SG_NOM_0	Hel_37.eaf
+,	,	*	*	*	*	*	3097	,	$,	$,	*	*	*	Hel_37.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_37.eaf
+drohtin	drohtin	drohtin	*	Herr	CF_U_M	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_37.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_37.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_37.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_37.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+hêrro	hêrro	herro	S2	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_37.eaf
+angegin	angegin	angegin	*	entgegen	*	*	*	angegin	ADV	ADV	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	3098	,	$,	$,	*	*	*	Hel_37.eaf
+mâri	mâri	mari	S1a	berühmt, angesehen, des Andenkens wert	*	*	*	mari	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_37.eaf
+mahtig	mahtig	mahtig	S1b	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_37.eaf
+Crist	*	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+-	Crist-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_37.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_37.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+môde	môde	mod	S2	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_37.eaf
+hold	hold	hold	*	gnädig, mild, freundlich	CF_U_M	*	*	hold	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+-	-	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_37.eaf
+:	:	*	*	*	*	*	3099	:	$.	$.	*	*	*	Hel_37.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+huat	huat	hwat	*	ja, fürwahr	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_37.eaf
+uuiðeruuard	uuiðeruuard	wiđarward	S1	entgegengesetzt, feindselig	*	*	*	uuideruuard	ADJ	ADJD	A,O	A,O	POS	Hel_37.eaf
+bist	bist	wesan	*	sein	CF_CS_U_M	*	*	bist	VA	VAFIN	ST5	IRR	IND_PRES_SG_2	Hel_37.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_37.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_37.eaf
+uuilleon	uuilleon	willio	S2	Wille, Absicht	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_37.eaf
+mînes	mînes	min	*	mein	*	*	*	mines	DPOS	DPOSN	A,O	P	MASC_SG_GEN_ST	Hel_37.eaf
+,	,	*	*	*	*	*	3100	,	$,	$,	*	*	*	Hel_37.eaf
+thegno	thegno	thegan	S1	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegno	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_37.eaf
+bezto	bezto	betst	*	best	CF_U_M	*	*	bezto	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_37.eaf
+!	!	*	*	*	*	*	*	!	$.	$.	*	*	*	Hel_37.eaf
+
+Huat	Huat	hwat	*	ja, fürwahr	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+thesaro	thesaro	thesa	*	dieser, dieses, diese	*	*	*	thesaro	DD	DD	*	*	FEM_PL_GEN	Hel_37.eaf
+thiodo	thiodo	thiod	S2	Volk, Menge	*	*	*	thiodo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_37.eaf
+canst	canst	kunnan	*	kennen, wissen, verstehen	*	*	3101	canst	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_37.eaf
+menniscan	menniscan	mennisk	S1	menschlich	*	*	*	menniscan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_37.eaf
+sidu	sidu	sidu	*	Sitte, Gebrauch, Gewohnheit	CF_U_M	*	*	sidu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+]	]	*	*	*	*	*	*	]	$(	$(	*	*	*	Hel_37.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_37.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+uuêst	uuêst	witan	*	wissen, kennen, verstehen	*	*	*	uuest	VV	VVFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_37.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	FEM_SG_ACC	Hel_37.eaf
+maht	maht	maht	S2	Macht, Kraft, Gewalt	*	*	*	maht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_37.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+,	,	*	*	*	*	*	3102	,	$,	$,	*	*	*	Hel_37.eaf
+the	the	the	*	der, das, die, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	FEM_SG_ACC	Hel_37.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+gifrummien	gifrummien	gifrummian	S1a	vollbringen, ausführen, tun	*	*	*	gifrummien	VV	VVINF	WK1B	WK1B	*	Hel_37.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	CF_I_Rel	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Ik	Ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_37.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_37.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_37.eaf
+filu	filu	filu	S1b	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_37.eaf
+seggean	seggean	seggian	*	sagen	*	*	3103	seggean	VV	VVINF	WK3	WK3	*	Hel_37.eaf
+uuârun	uuârun	war	S1a	wahr, wahrhaftig	*	*	*	uuarun	ADJ	ADJ	A,O	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_37.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_37.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_37.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_37.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_37.eaf
+uuerode	uuerode	werod	S2	Mannschaft, Volksmenge, Leute, Volk	*	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_37.eaf
+standad	standad	standan	*	stehen, sich befinden, vorhanden sein. mit oder ohne adverb. Bestimmung	*	*	3104	standad	VV	VVFIN	ST6	ST6	IND_PRES_PL_3	Hel_37.eaf
+gesîðos	gesîðos	gisiđ	S1	Gefolgsmann, Dienstmann	*	*	*	gesidos	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_37.eaf
+mîne	mîne	min	*	mein	CF_U_M	*	*	mine	DPOS	DPOSN	A,O	P	MASC_PL_NOM_ST	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+thea	thea	the	*	der, das, die, welcher, welches, welche	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_37.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_37.eaf
+môtun	môtun	motan	*	in der Lage sein, Gelegenheit haben, können, dürfen, mögen	*	*	*	motun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_37.eaf
+suelten	suelten	sweltan	S2	sterben, umkommen	*	*	*	suelten	VV	VVINF	ST3B	ST3B	*	Hel_37.eaf
+êr	êr	er	*	früher, vorher, vormals	*	*	*	er	ADV	ADV	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	3105	,	$,	$,	*	*	*	Hel_37.eaf
+huerƀen	huerƀen	hwerban	S1a	sich wohin wenden, gehen	*	*	*	huerben	VV	VVINF	ST3A	ST3A	*	Hel_37.eaf
+an	an	an	*	an, auf, nach; hinan, hinauf	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+hinenfard	hinenfard	hinfard	S1b	Hingang, Tod	CF_I_Rel	*	*	hinenfard	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_37.eaf
+êr	êr	er	*	ehe, bevor	*	*	*	er	KO	KOUS	*	*	*	Hel_37.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_37.eaf
+himiles	himiles	himil	S2	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_37.eaf
+lioht	lioht	lioht	*	Himmelreich	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	3106	,	$,	$,	*	*	*	Hel_37.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_37.eaf
+rîki	rîki	riki	*	das beherrschte Land, Reich	*	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_37.eaf
+sehat	sehat	sehan	*	sehen	CF_I_Adv_Temp	*	*	sehat	VV	VVFIN	ST5	ST5	IND_PRES_PL_3	Hel_37.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_37.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_37.eaf
+Côs	Côs	kiosan	*	wählen, erwählen, ausersehen	*	*	*	cos	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_37.eaf
+iungarono	iungarono	jungaro	S2	Jünger, Diener	*	*	*	iungarono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_37.eaf
+thô	thô	tho	*	da, dann	*	*	3107	tho	ADV	ADV	*	*	*	Hel_37.eaf
+sân	sân+aftar	san	S1	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_37.eaf
+aftar thiu	thiu	aftar thiu	*	danach, darauf, dann	*	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_37.eaf
+Sîmon	Sîmon	Simon	S2	Simon	*	*	*	simon	NE	NE	0_MASC	0_MASC	SG_ACC	Hel_37.eaf
+Petrus	Petrus	Petrus	*	Petrus	*	*	*	petrus	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	3108	,	$,	$,	*	*	*	Hel_37.eaf
+Iacob	Iacob	Iakob	S1a	Jakob	*	*	*	iacob	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+Iohannes	Iohannes	Iohannes	S1b	Johannes	*	*	*	iohannes	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+thea	ea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_37.eaf
+gumon	gumon	gumo	S2	Mann, Mensch	*	*	*	gumon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_37.eaf
+tuêne	tuêne	twene	*	zwei	*	*	*	tuene	CARD	CARDN	IRR	IRR	MASC_PL_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3109	,	$,	$,	*	*	*	Hel_37.eaf
+bêðea	bêðea	beđie	S1a	beide	*	*	*	bedea	DI	DI	*	*	MASC_PL_ACC	Hel_37.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_37.eaf
+gibrôðer	gibrôðer	gibrođar	S1b	Gebrüder	CF_U_M	*	*	gibroder	NA	NA	ER_MASC	ER_MASC	PL_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_37.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_37.eaf
+uppen	uppen	uppan	*	hinauf, auf	*	*	*	uppen	AP	APPR	*	*	*	Hel_37.eaf
+thene	thene	the	*	der, das, die	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_37.eaf
+berg	berg	berg	S2	Berg	*	*	*	berg	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+giuuêt	giuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	3110	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_PL_3	Hel_37.eaf
+sunder	sunder	sundar	S1a	abgesondert, besonders	*	*	*	sunder	ADV	ADV	*	*	*	Hel_37.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_37.eaf
+them	them	the	*	der, das, die	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_37.eaf
+gesîðun	gesîðun	gisiđ	S1b	Gefolgsmann, Dienstmann	*	*	*	gesidun	NA	NA	A_MASC	A_MASC	PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+sâlig	sâlig	salig	S2	gut, fromm	*	*	*	salig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_37.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_37.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_37.eaf
+,	,	*	*	*	*	*	3111	,	$,	$,	*	*	*	Hel_37.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_37.eaf
+them	them	the	*	der, das, die	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_37.eaf
+thegnun	thegnun	thegan	S1a	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegnun	NA	NA	A_MASC	A_MASC	PL_DAT	Hel_37.eaf
+thrim	thrim	thrie	S1b	drei	*	*	*	thrim	CARD	CARDN	IRR	IRR	MASC_PL_DAT	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+thiodo	thiodo	thiod	S2	Volk, Menge, im Pl. auch Leute	*	*	*	thiodo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_37.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3112	,	$,	$,	*	*	*	Hel_37.eaf
+uualdand	uualdand	waldand	S1a	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_37.eaf
+thesaro	thesaro	thesa	*	dieser, dieses, diese	*	*	*	thesaro	DD	DD	*	*	FEM_PL_GEN	Hel_37.eaf
+uueroldes	uueroldes	weroldi	S1b	Welt, Erde	CF_I_M	*	*	uueroldes	NA	NA	C,I_FEM,I_MASC	A_MASC	SG_GEN	Hel_37.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_37.eaf
+
+uuelde	uuelde	willian	*	wollen	*	*	*	uuelde	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_37.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_37.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_37.eaf
+uundres	uundres	wundar	S2	etwas Wunderbares, Wunder	*	*	*	uundres	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_37.eaf
+filu	filu	filu	*	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	3113	,	$,	$,	*	*	*	Hel_37.eaf
+têcno	têcno	tekan	S1a	Zeichen	*	*	*	tecno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_37.eaf
+tôgean	tôgean	togian	S1b	vor Augen stellen, zum Vorschein bringen, zeigen; erzeigen, beweisen	CF_U_M	*	*	togean	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_37.eaf
+gitrûodin	gitrûodin	gitruon	S2	glauben, vertrauen	*	*	*	gitruodin	VV	VVFIN	WK2	WK2	SUBJ_PAST_PL_3	Hel_37.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDS	*	*	NEUT_SG_INS	Hel_37.eaf
+bet	bet	bet	*	besser	CF_I_Adv_Fin	*	*	bet	ADV	ADV	*	*	*	Hel_37.eaf
+,	,	*	*	*	*	*	3114	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_37.eaf
+selƀo	selƀo	self	S1	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_37.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_37.eaf
+sunu	sunu	sunu	S2	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_37.eaf
+drohtines	drohtines	drohtin	*	Herr	*	*	*	drohtines	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_37.eaf
+,	,	*	*	*	*	*	3115	,	$,	$,	*	*	*	Hel_37.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_37.eaf
+heƀencuning	heƀencuning	hebankuning	S1b	Himmelskönig	CF_I_O	*	*	hebencuning	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_37.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_37.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_37.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_37.eaf
+hôhan	hôhan	hoh	S2	hoch, hochragend, in der Höhe befindlich	*	*	*	hohan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_37.eaf
+uuall	uuall	wal	*	eine natürliche Wand, Klippe	*	*	3116	uuall	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+stigun	stigun	stigan	*	steigen	*	*	*	stigun	VV	VVFIN	ST1	ST1	IND_PAST_PL_3	Hel_37.eaf
+stên	stên	sten	S1	Stein, Fels	*	*	*	sten	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_37.eaf
+berg	berg	berg	*	Berg	CF_U_M	*	*	berg	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+antat	antat	antthat	*	bis daß	*	*	*	antat	KO	KOUS	*	*	*	Hel_37.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_37.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_37.eaf
+theru	theru	the	*	der, das, die	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_37.eaf
+stedi	stedi	stedi	S2	Stelle, Stätte, Ort	*	*	*	stedi	NA	NA	I,JO_FEM	I_FEM	SG_DAT	Hel_37.eaf
+quâmun	quâmun	kuman	*	kommen	*	*	*	quamun	VV	VVFIN	ST4	ST4	IND_PAST_PL_3	Hel_37.eaf
+,	,	*	*	*	*	*	3117	,	$,	$,	*	*	*	Hel_37.eaf
+uueros	uueros	wer	S1a	Mann, Mensch	*	*	*	uueros	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_37.eaf
+uuiðer	uuiðer	wiđar	*	wider, gegen, vor	*	*	*	uuider	AP	APPR	*	*	*	Hel_37.eaf
+uuolcan	uuolcan	wolkan	S1b	Wolke	CF_I_Adv_Temp	*	*	uuolcan	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_37.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_37.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_37.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_37.eaf
+Krist	Krist	Krist	*	Christus	*	*	*	krist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_37.eaf
+,	,	*	*	*	*	*	3118	,	$,	$,	*	*	*	Hel_37.eaf
+cuningo	cuningo	kuning	S1a	König	*	*	*	cuningo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_37.eaf
+craftigost	craftigost	kraftag	S1b	mächtig, gewaltig	*	*	*	craftigost	ADJ	ADJS	A,O	A,O	SUP_MASC_SG_NOM_0	Hel_37.eaf
+gicoren	gicoren	gikiosan	S2	wählen, erwählen, ausersehen	*	*	*	gicoren	VV	VVPP	ST2	ST2	*	Hel_37.eaf
+habde	habde	hebbian	*	haben	CF_I_Rel	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_37.eaf
+,	,	*	*	*	*	*	3119	,	$,	$,	*	*	*	Hel_37.eaf
+that	that	that	*	dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_37.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+godkundi	godkundi	godkundi	S1	Göttlichkeit	*	*	*	godkundi	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_37.eaf
+iungarun	iungarun	jungaro	S2	Jünger, Diener	*	*	*	iungarun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_37.eaf
+sînun	sînun	sin	*	sein	*	*	3120	sinun	DPOS	DPOSN	A,O	P	MASC_PL_DAT_ST	Hel_37.eaf
+thurh	thurh	thurh	*	durch, vermittelst, vermöge	*	*	*	thurh	AP	APPR	*	*	*	Hel_37.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_37.eaf
+ênes	ênes	en	S1	einzig, alleinig	*	*	*	enes	ADJ	ADJ	A,O	P	POS_MASC_SG_GEN_ST	Hel_37.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_37.eaf
+ôgean	ôgean	ogian	S2	vor Augen stellen, zeigen	*	*	*	ogean	VV	VVINF	WK1A	WK1A	*	Hel_37.eaf
+uuelde	uuelde	willian	*	wollen	*	*	*	uuelde	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_37.eaf
+,	,	*	*	*	*	*	3121	,	$,	$,	*	*	*	Hel_37.eaf
+berhtlîc	berhtlîc	berhtlik	S1a	glänzend, leuchtend	*	*	*	berhtlic	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_37.eaf
+biliði	biliði	biliđi	S1b	Zeichen, Wunderzeichen	CF_I_Adv_Fin	*	*	bilidi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_37.eaf
+.	*	*	*	*	*	XXXVII	3122	. 	$.	$.	*	*	*	Hel_37.eaf

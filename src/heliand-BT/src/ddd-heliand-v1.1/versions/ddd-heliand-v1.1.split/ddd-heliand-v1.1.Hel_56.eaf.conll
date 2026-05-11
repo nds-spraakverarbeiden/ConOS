@@ -1,0 +1,745 @@
+
+Giuuêt	Giuuêt	giwitan	S1	sich auf den Weg machen, gehen	*	*	*	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_56.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_56.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_56.eaf
+ût	ût	ut	*	heraus, hinaus	*	*	*	ut	ADV	ADV	*	*	*	Hel_56.eaf
+thanen	thanen	thanan	*	von dannen, daher, daraus	*	*	*	thanen	ADV	ADV	*	*	*	Hel_56.eaf
+inuuideas	inuuideas	inwid	S2	Feindseligkeit, Bosheit, Übeltat, Sünde	*	*	*	inuuideas	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_56.eaf
+gern	gern	gern	*	begehrend, verlangend	*	*	4628	gern	ADJ	ADJD	A,O	A,O	POS	Hel_56.eaf
+Iudas	Iudas	Iudas	S1a	Judas	*	*	*	iudas	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+gangan	gangan	gangan	S1b	gehen, wandeln	CF_U_M	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+habde	habde	hebbian	*	haben, besitzen; halten	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_56.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_56.eaf
+grimmen	grimmen	grim	S2	grimmig, feindlich, böse	*	*	*	grimmen	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_56.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	4629	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_56.eaf
+thegan	thegan	thegan	S1a	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegan	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_56.eaf
+uuið	uuið	wiđ	*	gegen, gegenüber	*	*	*	uuid	AP	APPR	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+thiodan	thiodan	thiodan	S1b	Volksherr, Herrscher	CF_U_M	*	*	thiodan	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Uuas	Uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_56.eaf
+iu	iu	giu	*	schon, bereits	*	*	*	iu	ADV	ADV	*	*	*	Hel_56.eaf
+thiustri	thiustri	thiustri	S2	düster, dunkel, finster	*	*	*	thiustri	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_56.eaf
+naht	naht	naht	*	Nacht	*	*	*	naht	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4630	,	$,	$,	*	*	*	Hel_56.eaf
+suîðo	suîðo	swiđo	S1a	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_56.eaf
+gisuorken	gisuorken	giswerkan	S1b	finster, umwölkt werden, sich verfinstern, traurig werden	CF_U_M	*	*	gisuorken	VV	VVPPD	ST3B	ST3B	POS	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Sunu	Sunu	sunu	S2	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_56.eaf
+drohtines	drohtines	drohtin	*	Herr	*	*	4631	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_56.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+imu	ima	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_56.eaf
+at	at	an	*	in, an, auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_56.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_56.eaf
+gômun	gômun	goma	S1	Bewirtung, Gastmahl	*	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_56.eaf
+forð	forð	forđ	*	fortan, in der Zukunft, weiter, sofort	*	*	*	ford	ADV	ADV	*	*	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+iungarun	iungarun	jungaro	S2	Jünger, Diener	CF_U_M	*	*	iungarun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_56.eaf
+thar	thar	thar	*	da, dort	*	*	4632	thar	ADV	ADV	*	*	*	Hel_56.eaf
+uualdand	uualdand	waldand	S1a	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_56.eaf
+uuîn	uuîn	win	S1b	Wein	*	*	*	uuin	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_ACC	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+brôd	brôd	brod	*	Brot, Brotlaib	*	*	*	brod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+uuîhide	uuîhide	wihian	S2	segnen, heiligen	*	*	*	uuihide	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_56.eaf
+bêðiu	bêðiu	beđie	*	beide	*	*	*	bediu	DI	DIS	*	*	NEUT_PL_ACC	Hel_56.eaf
+,	,	*	*	*	CF_U_M	*	4633	,	$,	$,	*	*	*	Hel_56.eaf
+hêlagode	hêlagode	helagon	S1a	segnen	*	*	*	helagode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_56.eaf
+heƀencuning	heƀencuning	hebankuning	S1b	Himmelskönig	*	*	*	hebencuning	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+,	,	*	*	*	CF_U_M	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+handun	handun	hand	S2	Hand, Seite	*	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_56.eaf
+brak	brak	brekan	*	brechen, zerbrechen, zerreißen	CF_U_M	*	*	brak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4634	,	$,	$,	*	*	*	Hel_56.eaf
+gaf	gaf	geban	S1a	geben, hingeben, übergeben	*	*	*	gaf	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_56.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_56.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+iungarun	iungarun	jungaro	S1b	Jünger, Diener	CF_U_M	*	*	iungarun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+gode	gode	god	S2	Gott	*	*	*	gode	NA	NE	A,I_MASC	A_MASC	SG_DAT	Hel_56.eaf
+thancode	thancode	thankon	*	danken	*	*	*	thancode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	CF_I_M	*	4635	,	$,	$,	*	*	*	Hel_56.eaf
+sagde	sagde	seggian	*	sagen	*	*	*	sagde	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_56.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDS	*	*	MASC_SG_DAT	Hel_56.eaf
+ôlat	ôlat	olat	S1	Dank	CF_U_M	*	*	olat	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+the	the	the	*	der, die, das, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_56.eaf
+thar	thar	thar	*	da, dort, hier	*	*	*	thar	ADV	ADV	*	*	*	Hel_56.eaf
+al	al	all	S2	all	*	*	*	al	DI	DIS	A,O	A,O	NEUT_SG_ACC_0	Hel_56.eaf
+giscôp	giscôp	giskeppian	*	schaffen	*	*	*	giscop	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4636	,	$,	$,	*	*	*	Hel_56.eaf
+uuerold	uuerold	werold	S1a	Welt, Menschheit, Leben	*	*	*	uuerold	NA	NA	C,I_FEM,I_MASC	C,I_FEM,I_MASC	SG_ACC	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+uunnea	uunnea	wunuia	S1b	Wonne, Freude, Lust	CF_I_Rel	*	*	uunnea	NA	NA	JO_FEM	JO_FEM	PL_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+uuord	uuord	word	S2	Wort, Rede	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+manag	manag	manag	*	manch, viel	CF_I_M	*	*	manag	DI	DIN	A,O	A,O	NEUT_SG_ACC_0	Hel_56.eaf
+:	:	*	*	*	*	*	4637	:	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+gilôƀiot	gilôƀiot	gilobian	S1a	glauben	*	*	*	gilobiot	VV	VVIMP	WK1A	WK1A	IMP_PRES_PL_2	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_56.eaf
+liohto	liohto	liohto	S1b	unzweideutig, aufrichtig, fest	CF_U_Imp	*	*	liohto	ADV	ADV	*	*	*	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+thit	thit	thesa	*	dieser, dieses, diese, derartig	*	*	*	thit	DD	DDS	*	*	NEUT_SG_NOM	Hel_56.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_56.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	MASC_SG_NOM_0	Hel_56.eaf
+lîchamo	lîchamo	likhamo	S2	Körper, Leib	*	*	4638	lichamo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	NEUT_SG_NOM_0	Hel_56.eaf
+blôd	blôd+sô	blod	S1	Blut	*	*	*	blod	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_56.eaf
+sô same	same	so samo	*	ebenso	CF_I_O	*	*	so same	ADV	ADV	*	*	*	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+giƀu	giƀu	geban	*	geben, hingeben, übergeben	*	*	*	gibu	VV	VVFIN	ST5	ST5	IND_PRES_SG_1	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_56.eaf
+bêðiu	bêðiu	beđie	S2	beide	*	*	*	bediu	DI	DIS	*	*	NEUT_PL_ACC	Hel_56.eaf
+samad	samad	samad	*	zusammen	*	*	4639	samad	ADV	ADV	*	*	*	Hel_56.eaf
+etan	etan	etan	S1	essen	*	*	*	etan	VV	VVINF	ST5	ST5	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+drinkan	drinkan	drinkan	*	trinken	CF_U_M	*	*	drinkan	VV	VVINF	ST3A	ST3A	*	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Thit	Thit	thesa	*	dieser, diese, dieses	*	*	*	thit	DD	DDS	*	*	NEUT_SG_ACC	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+erðu	erðu	erđa	S2	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_56.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	4640	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_56.eaf
+geƀan	geƀan	geban	S1a	geben, hingeben, übergeben	*	*	*	geban	VV	VVINF	ST5	ST5	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+geotan	geotan	giotan	S1b	vergießen	*	*	*	geotan	VV	VVINF	ST2	ST2	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_56.eaf
+rîkie	rîkie	riki	*	das beherrschte Land, Reich	*	*	4641	rikie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_56.eaf
+lôsien	lôsien	losian	S1a	lösen; erlösen, befreien	*	*	*	losien	VV	VVINF	WK1A	WK1A	*	Hel_56.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+mînu	mînu	min	*	mein	*	*	*	minu	DPOS	DPOS	A,O	P	MASC_SG_INS_ST	Hel_56.eaf
+lîchamen	lîchamen	likhamo	S1b	Körper, Leib	*	*	*	lichamen	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_56.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+lîf	lîf	lif	S2	Leben	*	*	*	lif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+êuuig	êuuig	ewig	*	ewig	*	*	*	euuig	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_56.eaf
+,	,	*	*	*	*	*	4642	,	$,	$,	*	*	*	Hel_56.eaf
+an	an	an	*	in, in – hinein, an, bei, auf, unter	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_56.eaf
+himiles	himiles	himil	S1	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_56.eaf
+lioht	lioht	lioht	*	Himmelreich, Licht	CF_U_M	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Gihuggeat	Gihuggeat	gihuggian	S2	an etwas denken, erwägen, eingedenk sein	*	*	*	gihuggeat	VV	VVIMP	WK3	WK3	IMP_PRES_PL_2	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+simlun	simlun	simblon	*	immer, jederzeit, stets	CF_U_Imp	*	*	simlun	ADV	ADV	*	*	*	Hel_56.eaf
+,	,+]	*	*	*	*	*	4643	,+]	$,+$(	$,+$(	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDS	*	*	NEUT_PL_ACC	Hel_56.eaf
+ful	*	ful	*	voll, angefüllt	*	*	*	ful	ADJ	PTKVZ	A,O	*	*	Hel_56.eaf
+gangan	fulgangan	fulgangan	S1	tun, befolgen, erfüllen	CF_I_O	*	*	gangan	VV	VVFIN	RED1A	RED1A	SUBJ_PRES_PL_2	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+thiu	thiu	the	*	der, die, das, welcher, welches, welche	*	*	*	thiu	DD	DDSREL	*	*	NEUT_PL_ACC	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesun	DD	DD	*	*	FEM_PL_DAT	Hel_56.eaf
+gômun	gômun	goma	S2	Bewirtung, Gastmahl	*	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_56.eaf
+dôn	dôn	don	*	tun, machen	CF_I_Rel	*	*	don	VV	VVFIN	IRR	IRR	IND_PRES_SG_1	Hel_56.eaf
+;	;	*	*	*	*	*	4644	;	$.	$.	*	*	*	Hel_56.eaf
+
+mâriad	mâriad	marian	S1a	verkünden, rühmen	*	*	*	mariad	VV	VVIMP	WK1A	WK1A	IMP_PRES_PL_2	Hel_56.eaf
+thit	thit	thesa	*	dieser, dieses, diese, derartig	*	*	*	thit	DD	DDS	*	*	NEUT_SG_ACC	Hel_56.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_56.eaf
+menegi	menegi	menigi	S1b	Menge, Schar, Volk	CF_U_Imp	*	*	menegi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+thit	thit	thesa	*	dieser, dieses, diese, derartig	*	*	*	thit	DD	DDS	*	*	NEUT_SG_NOM	Hel_56.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_56.eaf
+mahtig	mahtig	mahtig	S2	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_56.eaf
+thing	thing	thing	*	Gegenstand, Wesen, Sache, Etwas	CF_U_M	*	*	thing	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4645	,	$,	$,	*	*	*	Hel_56.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+thius	thius	thesa	*	dieser, dieses, diese, derartig	*	*	*	thius	DD	DDS	*	*	NEUT_SG_INS	Hel_56.eaf
+sculun	sculun	skulan	*	sollen, müssen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+iuuuomu	iuuuomu	iwa	*	euer	*	*	*	iuuuomu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_56.eaf
+drohtine	drohtine	drohtin	S1	Herr	*	*	*	drohtine	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_56.eaf
+diuriða	diuriða	diuriđa	S2	Ehrung, Würdigung, Teilnahme, Liebe	*	*	*	diurida	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_56.eaf
+frummien	frummien	frummian	*	ausführen, tun	CF_U_M	*	*	frummien	VV	VVINF	WK1B	WK1B	*	Hel_56.eaf
+,	,	*	*	*	*	*	4646	,	$,	$,	*	*	*	Hel_56.eaf
+habbiad	habbiad	hebbian	S1a	haben, besitzen; halten	*	*	*	habbiad	VA	VAIMP	WK3	WK3	IMP_PRES_PL_2	Hel_56.eaf
+thit	thit	thesa	*	dieser, dieses, diese, derartig	*	*	*	thit	DD	DDS	*	*	NEUT_SG_ACC	Hel_56.eaf
+mîn	mîn	min	*	ich	*	*	*	min	PPER	PPER	*	*	SG_GEN_1	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+gihugdiun	gihugdiun	gihugd	S1b	Gedächtnis, Erinnerung	*	*	*	gihugdiun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+hêlag	hêlag	helag	S2	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_56.eaf
+biliði	biliði	biliđi	*	Zeichen, Wunderzeichen	CF_U_Imp	*	*	bilidi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	4647	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_56.eaf
+eldibarn	eldibarn	eldibarn	S1	Menschenkinder, Menschen	*	*	*	eldibarn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_56.eaf
+aftar	aftar	aftar	S2	nachher, darauf, dann	*	*	*	aftar	ADV	ADV	*	*	*	Hel_56.eaf
+lêstien	lêstien	lestian	*	befolgen, ausführen, vollführen, vollbringen	*	*	*	lestien	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_PL_3	Hel_56.eaf
+,	,	*	*	*	*	*	4648	,	$,	$,	*	*	*	Hel_56.eaf
+uuaron	uuaron	waron	S1a	beachten	*	*	*	uuaron	VV	VVFIN	WK2	WK2	SUBJ_PRES_PL_3	Hel_56.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+thesaru	thesaru	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesaru	DD	DD	*	*	FEM_SG_DAT	Hel_56.eaf
+uueroldi	uueroldi	werold	S1b	Welt, Erde	CF_I_Adv_Fin	*	*	uueroldi	NA	NA	C,I_FEM,I_MASC	I_FEM	SG_DAT	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_56.eaf
+uuitin	uuitin	witan	S2	wissen, kennen, verstehen	*	*	*	uuitin	VV	VVFIN	PRPR	PRPR	SUBJ_PRES_PL_2	Hel_56.eaf
+alle	alle	all	*	all	*	*	*	alle	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+,	,	*	*	*	*	*	4649	,	$,	$,	*	*	*	Hel_56.eaf
+man	man	mann	S1a	Mensch	*	*	*	man	NA	NA	C,A_MASC	C_MASC	PL_NOM	Hel_56.eaf
+oƀar	oƀar	obar	*	über, auf	*	*	*	obar	AP	APPR	*	*	*	Hel_56.eaf
+thesan	thesan	thesa	*	dieser, diese, dieses	*	*	*	thesan	DD	DD	*	*	MASC_SG_ACC	Hel_56.eaf
+middilgard	middilgard	middilgard	S1b	Erde	CF_I_Adv_Fin	*	*	middilgard	NA	NA	C_FEM,A_MASC	A_MASC	SG_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_56.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_56.eaf
+thurh	thurh	thurh	*	durch, aus, mit	*	*	*	thurh	AP	APPR	*	*	*	Hel_56.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_56.eaf
+minnea	minnea	minnea	S2	Liebe	*	*	*	minnea	NA	NA	JO_FEM	JO_FEM	SG_ACC	Hel_56.eaf
+giduan	giduan	gidon	*	tun, machen	*	*	4650	giduan	VV	VVPP	IRR	IRR	*	Hel_56.eaf
+hêrron	hêrron	herro	S1a	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+huldi	huldi	huldi	S1b	Wohlgefallen	CF_I_Adv_Fin	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Gehuggiad	Gehuggiad	gihuggian	S2	an etwas denken, erwägen, eingedenk sein	*	*	*	gehuggiad	VV	VVIMP	WK3	WK3	IMP_PRES_PL_2	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+simlun	simlun	simbla	*	immer, jederzeit, stets	CF_U_Imp	*	*	simlun	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	4651	,	$,	$,	*	*	*	Hel_56.eaf
+hueo	hueo	hwo	*	wie	*	*	*	hueo	PW	PWAV	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_56.eaf
+gebiudu	gebiudu	gibiodan	S1	gebieten, befehlen	CF_I_O	*	*	gebiudu	VV	VVFIN	ST2	ST2	IND_PRES_SG_1	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+iuuuan	iuuuan	iwa	*	euer	*	*	*	iuuuan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_56.eaf
+brôðerskepi	brôðerskepi	brođarskepi	S2	Brüderschaft	*	*	4652	broderskepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_56.eaf
+fasto	fasto	fasto	S1a	fest, unerschüttert, eindringlich, gründlich	*	*	*	fasto	ADV	ADV	*	*	*	Hel_56.eaf
+frummiad	frummiad	frummian	S1b	ausführen, tun	CF_I_Adv_Fin	*	*	frummiad	VV	VVFIN	WK1B	WK1B	IND_PRES_PL_2	Hel_56.eaf
+:	:+]	*	*	*	*	*	*	:+]	$.+$(	$.+$(	*	*	*	Hel_56.eaf
+
+habbiad	habbiad	hebbian	*	haben, besitzen; halten	*	*	*	habbiad	VA	VAIMP	WK3	WK3	IMP_PRES_PL_2	Hel_56.eaf
+ferhtan	ferhtan	ferht	S2	verständig, weise, fromm	*	*	*	ferhtan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_56.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	CF_U_Imp	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	4653	,	$,	$,	*	*	*	Hel_56.eaf
+minniod	minniod	minnion	S1a	lieben	*	*	*	minniod	VV	VVIMP	WK2	WK2	IMP_PRES_PL_2	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_56.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+iuuuomu	iuuuomu	iwa	*	euer	*	*	*	iuuuomu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_56.eaf
+môde	môde	mod	S1b	Sinn, Gesinnung, Mut, Inneres, Herz	CF_U_Imp	*	*	mode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_56.eaf
+manno	manno	mann	S2	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_56.eaf
+barn	barn	barn	*	Kind, Mensch, Menschenkind	*	*	4654	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_56.eaf
+oƀar	oƀar	obar	*	über, bei, von	*	*	*	obar	AP	APPR	*	*	*	Hel_56.eaf
+irminthiod	irminthiod	irminthiod	S1	Menschenvolk, Menschheit	*	*	*	irminthiod	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_56.eaf
+alle	alle	all	*	all	*	*	*	alle	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+farstanden	farstanden	farstandan	S2	verstehen, einsehen, erkennen	CF_I_Adv_Fin	*	*	farstanden	VV	VVFIN	RED1A	RED1A	SUBJ_PRES_PL_3	Hel_56.eaf
+,	,	*	*	*	*	*	4655	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_2	Hel_56.eaf
+gegnungo	gegnungo	gegnungo	S1	in Wahrheit, gewiss	*	*	*	gegnungo	ADV	ADV	*	*	*	Hel_56.eaf
+iungaron	iungaron	jungaro	S2	Jünger, Diener	*	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_56.eaf
+mîne	mîne	min	*	mein	CF_I_O	*	*	mine	DPOS	DPOSN	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+.	.	*	*	*	*	*	4656	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Ôk	Ôk	ok	*	auch	*	*	*	ok	ADV	ADV	*	*	*	Hel_56.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+cûðien	cûðien	kuđian	S1	bekannt machen, verkünden, zeigen	CF_U_M	*	*	cudien	VV	VVINF	WK1A	WK1A	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+huô	huô	hwo	*	wie, dass	*	*	*	huo	PW	PWAV	*	*	*	Hel_56.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_56.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_56.eaf
+craftag	craftag	kraftag	S2	mächtig, gewaltig	*	*	*	craftag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_56.eaf
+fîund	fîund	fiund	*	Feind	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4657	,	$,	$,	*	*	*	Hel_56.eaf
+hetteand	hetteand	hettiand	S1a	Verfolger, Feind	*	*	*	hetteand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_56.eaf
+herugrim	herugrim	herugrim	S1b	schwertgrimmig, mordgrimmig	*	*	*	herugrim	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+umbi	umbi	umbi	*	wegen, um	*	*	*	umbi	AP	APPR	*	*	*	Hel_56.eaf
+iuuuan	iuuuan	iwa	*	euer	*	*	*	iuuuan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_56.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_56.eaf
+niusien	niusien	niusian	*	versuchen, in Versuchung führen	CF_I_O	*	*	niusien	VV	VVINF	WK1B	WK1B	*	Hel_56.eaf
+,	,	*	*	*	*	*	4658	,	$,	$,	*	*	*	Hel_56.eaf
+Satanas	Satanas	Satanas	S1a	Satan	*	*	*	satanas	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+selƀo	selƀo	self	S1b	selbst	CF_CS_U_M	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+cumid	cumid	kuman	*	kommen	CF_CC_U_M	*	*	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_56.eaf
+iuuuaro	iuuuaro	iwa	*	euer	*	*	*	iuuuaro	DPOS	DPOS	A,O	P	FEM_PL_GEN_ST	Hel_56.eaf
+seolono	seolono	seola	S2	Seele	*	*	*	seolono	NA	NA	N,O_FEM	N,O_FEM	PL_GEN	Hel_56.eaf
+herod	herod	herod	*	hierher	*	*	4659	herod	ADV	ADV	*	*	*	Hel_56.eaf
+frôkno	frôkno	frokno	S1a	kühn, verwegen, frech	*	*	*	frokno	ADV	ADV	*	*	*	Hel_56.eaf
+frêson	frêson	freson	S1b	versuchen, nachstellen	CI_U_Adv_Fin	*	*	freson	VV	VVINF	WK2	WK2	*	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Simlun	Simlun	simblon	*	immer, jederzeit, stets	*	*	*	simlun	ADV	ADV	*	*	*	Hel_56.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+fasto	fasto	fasto	S2	fest, unerschüttert, eindringlich, gründlich	*	*	*	fasto	ADV	ADV	*	*	*	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+gode	gode	god	*	Gott	*	*	4660	gode	NA	NE	A,I_MASC	A_MASC	SG_DAT	Hel_56.eaf
+berad	berad	beran	S1a	tragen	*	*	*	berad	VV	VVIMP	ST4	ST4	IMP_PRES_PL_2	Hel_56.eaf
+iuuua	iuuua	iwa	*	euer	*	*	*	iuuua	DPOS	DPOS	A,O	A,O	FEM_SG_ACC_0	Hel_56.eaf
+breostgithâht	breostgithâht	briostgithaht	S1b	Gemüt, Mut, Zuversicht	CF_U_M	*	*	breostgithaht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_56.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+iuuuaru	iuuuaru	iwa	*	euer	*	*	*	iuuuaru	DPOS	DPOS	A,O	P	FEM_SG_DAT_ST	Hel_56.eaf
+bedu	bedu	beda	S2	Gebet	*	*	*	bedu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_56.eaf
+standen	standen	standan	*	stehen, sich befinden, vorhanden sein	CF_U_M	*	*	standen	VV	VVINF	ST6	ST6	*	Hel_56.eaf
+,	,	*	*	*	*	*	4661	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_56.eaf
+mugi	mugi	mugan	S1a	vermögen, können	*	*	*	mugi	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_3	Hel_56.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_56.eaf
+mênscaðo	mênscaðo	menskađo	S1b	Verderber, Unheilstifter, der Teufel	*	*	*	menscado	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+môd	môd	mod	S2	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_56.eaf
+getuîflean	getuîflean	gitwiflian	*	in Zweifel versetzen	CF_I_Adv_Fin	*	*	getuiflean	VV	VVINF	WK1A	WK1A	*	Hel_56.eaf
+;	;	*	*	*	*	*	4662	;	$.	$.	*	*	*	Hel_56.eaf
+
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+fullêstiu	fullêstiu	fullestian	S1a	helfen	*	*	*	fullestiu	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_1	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+uuiðer	uuiðer	wiđar	*	gegen, vor, gegenüber	*	*	*	uuider	AP	APPR	*	*	*	Hel_56.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_56.eaf
+fîunde	fîunde	fiund	S1b	Feind	CF_U_M	*	*	fiunde	NA	NA	ND_MASC	A_MASC	SG_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Ôk	Ôk	ok	*	auch	*	*	*	ok	ADV	ADV	*	*	*	Hel_56.eaf
+quam	quam	kuman	*	kommen	*	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+herod	herod	herod	*	hierher	*	*	*	herod	ADV	ADV	*	*	*	Hel_56.eaf
+giu	giu	giu	*	einst, vordem	*	*	*	giu	ADV	ADV	*	*	*	Hel_56.eaf
+frêson	frêson	freson	S2	versuchen, nachstellen	*	*	*	freson	VV	VVINF	WK2	WK2	*	Hel_56.eaf
+mîn	mîn	ik	*	ich	CF_U_M	*	*	min	PPER	PPER	*	*	SG_GEN_1	Hel_56.eaf
+,	,	*	*	*	*	*	4663	,	$,	$,	*	*	*	Hel_56.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_56.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+uuilleon	uuilleon	willio	S1	Wille, Absicht	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_56.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_56.eaf
+uuiht	uuiht	wiht	S2	ein Ding, etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_NOM	Hel_56.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_56.eaf
+gistôdi	gistôdi	gistandan	*	zuteil, erfüllt werden	*	*	*	gistodi	VV	VVFIN	ST6	ST6	SUBJ_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4664	,	$,	$,	*	*	*	Hel_56.eaf
+lioƀes	lioƀes	liof	S1a	Gutes; hier: Verlangen	*	*	*	liobes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_56.eaf
+an	an	an	*	in, nach	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DD	*	*	MASC_SG_DAT	Hel_56.eaf
+mînumu	mînumu	min	*	mein	*	*	*	minumu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_56.eaf
+lîchamon	lîchamon	likhamo	S1b	Körper, Leib	CF_I_Adv_Cnc	*	*	lichamon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Nu	Nu	nu	*	nun	*	*	*	nu	ADV	ADV	*	*	*	Hel_56.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_56.eaf
+uuilliu	uuilliu	willian	*	wollen	*	*	*	uuilliu	VM	VMFIN	IRR	IRR	IND_PRES_SG_1	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+leng	leng	lango	S2	lange, lange Zeit	*	*	*	leng	ADV	ADV	*	*	*	Hel_56.eaf
+helen	helen	helan	*	verhehlen, verbergen	CF_U_M	*	*	helen	VV	VVINF	ST4	ST4	*	Hel_56.eaf
+,	,	*	*	*	*	*	4665	,	$,	$,	*	*	*	Hel_56.eaf
+huat	huat	hwe	*	wer, was	*	*	*	huat	PW	PW	*	*	NEUT_SG_NOM	Hel_56.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_56.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_56.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_56.eaf
+sniumo	sniumo	sniumo	S1a	eilig, schleunig, alsbald	*	*	*	sniumo	ADV	ADV	*	*	*	Hel_56.eaf
+scal	scal	skulan	S1b	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+sorgu	sorgu	soraga	S2	Sorge, Besorgnis, Kummer	*	*	*	sorgu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_56.eaf
+gistanden	gistanden	gistandan	*	gereichen	CF_I_O	*	*	gistanden	VV	VVINF	ST6	ST6	*	Hel_56.eaf
+:	:	*	*	*	*	*	4666	:	$.	$.	*	*	*	Hel_56.eaf
+
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_56.eaf
+sculun	sculun	skulan	S1a	sollen, müssen; werden (Futur)	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_56.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_56.eaf
+gesuîkan	gesuîkan	giswikan	S1b	einer Pflicht untreu werden	*	*	*	gesuikan	VV	VVINF	ST1	ST1	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+gesîðos	gesîðos	gisiđ	S2	Gefolgsmann, Dienstmann	*	*	*	gesidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_56.eaf
+mîne	mîne	min	*	mein	*	*	*	mine	DPOS	DPOSN	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+,	,	*	*	*	*	*	4667	,	$,	$,	*	*	*	Hel_56.eaf
+iuuues	iuuues	iwa	*	euer	*	*	*	iuuues	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_56.eaf
+theganscepies	theganscepies	theganskepi	S1	Dienst, Jüngerschaft	CF_U_M	*	*	theganscepies	NA	NA	I_MASC	I_MASC	SG_GEN	Hel_56.eaf
+,	,+êr	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+êr than	than	er than	*	bevor, ehe	*	*	*	er than	KO	KOUS	*	*	*	Hel_56.eaf
+thius	thius	thesa	*	dieser, dieses, diese, derartig	*	*	*	thius	DD	DD	*	*	FEM_SG_NOM	Hel_56.eaf
+thiustrie	thiustrie	thiustri	S2	düster, dunkel, finster	*	*	*	thiustrie	ADJ	ADJ	JA,JO	P	POS_FEM_SG_NOM_ST	Hel_56.eaf
+naht	naht	naht	*	Nacht	*	*	4668	naht	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_56.eaf
+liudi	liudi	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_ACC	Hel_56.eaf
+farlîða	farlîða	farliđan	S1b	verlassen	*	*	*	farlida	VV	VVFIN	ST1	ST1	SUBJ_PRES_SG_3	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_56.eaf
+lioht	lioht	lioht	S2	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_56.eaf
+cume	cume	kuman	*	kommen	*	*	*	cume	VV	VVFIN	ST4	ST4	SUBJ_PRES_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4669	,	$,	$,	*	*	*	Hel_56.eaf
+morgan	morgan	morgan	S1a	Morgen	*	*	*	morgan	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+mannun	mannun	mann	S1b	Mensch, Leute	CF_I_Adv_Temp	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+Thô	Thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_56.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_56.eaf
+môd	môd	mod	S2	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+gumon	gumon	gumo	*	Mann, Mensch	*	*	4670	gumon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_56.eaf
+suîðo	suîðo	swiđo	S1a	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_56.eaf
+gisuorken	gisuorken	giswerkan	S1b	finster, umwölkt werden, sich verfinstern, traurig werden	*	*	*	gisuorken	VV	VVPP	ST3B	ST3B	*	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+sêr	sêr	ser	S2	schmerzlich, bekümmert, traurig	*	*	*	ser	ADJ	ADJD	A,O	A,O	POS	Hel_56.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4671	,	$,	$,	*	*	*	Hel_56.eaf
+hriuuig	hriuuig	hriuwig	S1a	betrübt, bekümmert, traurig	*	*	*	hriuuig	ADJ	ADJD	A,O	A,O	POS	Hel_56.eaf
+umbi	umbi	umbi	*	um, um herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_56.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_56.eaf
+herte	herte	herta	S1b	Herz, als Sitz der Seele, des Verstandes; Gemüt	*	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_56.eaf
+hêrron	hêrron	herro	S2	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_56.eaf
+uuord	uuord	word	*	Wort	*	*	4672	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+suîðo	suîðo	swiđo	S1a	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_56.eaf
+an	an	an	*	in, an bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+sorgun	sorgun	soraga	S1b	Sorge, Besorgnis, Kummer	CF_U_M	*	*	sorgun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Sîmon	Sîmon	Simon	S2	Simon	*	*	*	simon	NE	NE	0_MASC	0_MASC	SG_NOM	Hel_56.eaf
+Petrus	Petrus	Petrus	*	Petrus	*	*	*	petrus	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	4673	,	$,	$,	*	*	*	Hel_56.eaf
+thegan	thegan	thegan	S1a	Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegan	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_56.eaf
+uuið	uuið	wiđ	*	zu, gegenüber, mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+thiodan	thiodan	thiodan	S1b	Volksherr, Herrscher	*	*	*	thiodan	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_56.eaf
+thrîstuuordun	thrîstuuordun	thristword	S2	mutige, zuversichtliche Rede	*	*	*	thristuuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_56.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	4674	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+bi	bi	bi	*	wegen, aus, durch	*	*	*	bi	AP	APPR	*	*	*	Hel_56.eaf
+huldi	huldi	huldi	S1a	Ergebenheit, treue Gesinnung gegen jemand	*	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_56.eaf
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	Hel_56.eaf
+uuið	uuið	wiđ	*	zu, gegenüber, mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+hêrron	hêrron	herro	S1b	Herr	CF_U_M	*	*	herron	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+thoh	thoh	thoh	*	obgleich, obwohl	*	*	*	thoh	KO	KOUS	*	*	*	Hel_56.eaf
+thi	thi	thu	*	ihr	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+all	all	all	*	ganz, all	*	*	*	all	DI	DI	A,O	A,O	NEUT_SG_NOM_0	Hel_56.eaf
+thit	thit	thesa	*	dieser, dieses, diese, derartig	*	*	*	thit	DD	DD	*	*	NEUT_SG_NOM	Hel_56.eaf
+heliðo	heliðo	heliđ	S2	Held, Mann, Mensch	*	*	*	helido	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_56.eaf
+folc	folc	folk	*	Volk, Schar, Menge, Leute	CF_CS_I_Adv_Cnc	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+quat	*	queđan	*	sprechen, sagen	*	*	*	quat	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+hie	quathie	he	*	er, sie, es	CF_U_M	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+,	,	*	*	*	*	*	4675	,	$,	$,	*	*	*	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+gisuîcan	gisuîcan	giswikan	S1a	im Stiche lassen	*	*	*	gisuican	VV	VVFIN	ST1	ST1	SUBJ_PRES_PL_3	Hel_56.eaf
+thîna	thîna	thin	*	dein	*	*	*	thina	DPOS	DPOS	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+gisîðos	gisîðos	gisiđ	S1b	Gefolgsmann, Dienstmann	CF_CC_I_Adv_Cnc	*	*	gisidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+thoh	thoh	thoh	*	doch, dennoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+sinnon	sinnon	simnon	S2	immer	*	*	*	sinnon	ADV	ADV	*	*	*	Hel_56.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+thi	thi	thu	*	du	CF_U_M	*	4676	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+at	at	at	*	in, an, auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_56.eaf
+allon	allon	all	*	all	*	*	*	allon	DI	DI	A,O	N	FEM_PL_DAT_WK	Hel_56.eaf
+tharaƀon	tharaƀon	tharf	S1	Not, Mangel, Entbehrung	*	*	*	tharabon	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_56.eaf
+tholoian	tholoian	tholon	S2	ausharren, standhalten	*	*	*	tholoian	VV	VVINF	WK2	WK2	*	Hel_56.eaf
+uuilliu	uuilliu	willian	*	wollen	CF_U_M	*	*	uuilliu	VM	VMFIN	IRR	IRR	IND_PRES_SG_1	Hel_56.eaf
+.	.	*	*	*	*	*	4677	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Ik	Ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+biun	biun	wesan	*	sein	*	*	*	biun	VA	VVFIN	ST5	IRR	IND_PRES_SG_1	Hel_56.eaf
+garo	garo	garo	S1	bereit	*	*	*	garo	ADV	ADV	*	*	*	Hel_56.eaf
+sinnon	sinnon	simnon	*	immer	CF_U_M	*	*	sinnon	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_56.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_56.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+lâtið	lâtið	latan	*	lassen	CF_I_Adv_Cnd	*	*	latid	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4678	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+an	an	an	*	in, an, zu	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+thînon	thînon	thin	*	dein	*	*	*	thinon	DPOS	DPOS	A,O	N	MASC_SG_DAT_WK	Hel_56.eaf
+fullêstie	fullêstie	fullesti	S1	Beistand, Unterstützung, Hilfe	*	*	*	fullestie	NA	NA	JA_MASC	JA_MASC	SG_DAT	Hel_56.eaf
+fasto	fasto	fasto	S2	fest, unerschüttert, eindringlich, gründlich	*	*	*	fasto	ADV	ADV	*	*	*	Hel_56.eaf
+gistande	gistande	gistandan	*	stehen, feststehen	CF_I_O	*	*	gistande	VV	VVFIN	RED1A	RED1A	SUBJ_PRES_SG_1	Hel_56.eaf
+;	;	*	*	*	*	*	4679	;	$.	$.	*	*	*	Hel_56.eaf
+
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_56.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_56.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_56.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+carcaries	carcaries	karkari	S1	Kerker	*	*	*	carcaries	NA	NA	JA_MASC	JA_MASC	SG_GEN	Hel_56.eaf
+clûstron	clûstron	klustar	S2	Verschluss	*	*	*	clustron	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_56.eaf
+hardo	hardo	hardo	*	fest	*	*	*	hardo	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	4680	,	$,	$,	*	*	*	Hel_56.eaf
+thesa	thesa	these	*	dieser, dieses, diese, derartig	*	*	*	thesa	DD	DD	*	*	MASC_PL_NOM	Hel_56.eaf
+liudi	liudi	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_NOM	Hel_56.eaf
+bilûcan	bilûcan	bilukan	S1b	verschließen, einschließen	CF_I_Adv_Cnc	*	*	bilucan	VV	VVFIN	RED2	RED2	SUBJ_PRES_PL_3	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+thoh	thoh	thoh	*	doch, dennoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_56.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_56.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_56.eaf
+luttil	luttil	luttil	S2	klein, wenig	*	*	*	luttil	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_56.eaf
+tueho	tueho	tweho	*	Zweifel, Bedenken	CF_U_M	*	*	tueho	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4681	,	$,	$,	*	*	*	Hel_56.eaf
+ne	ne	ne	*	daß (nicht)	*	*	*	ne	KO	KOUS	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_56.eaf
+bendion	bendion	bendi	S1	Bande, Fesseln	*	*	*	bendion	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_56.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+bîdan	bîdan	bidan	S2	harren, warten, verweilen, bleiben; mit adverb. Bestimmung	*	*	*	bidan	VV	VVINF	ST1	ST1	*	Hel_56.eaf
+uuillie	uuillie	willian	*	wollen	*	*	*	uuillie	VM	VMFIN	IRR	IRR	SUBJ_PRES_SG_1	Hel_56.eaf
+,	,	*	*	*	*	*	4682	,	$,	$,	*	*	*	Hel_56.eaf
+liggian	liggian	liggian	S1a	liegen, gelegen sein, darniederliegen	*	*	*	liggian	VV	VVINF	ST5	ST5	*	Hel_56.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+sô	sô	so	*	so, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_56.eaf
+lieƀen	lieƀen	liof	S1b	lieb, wert, freundlich	CF_I_O	*	*	lieben	ADJ	ADJS	A,O	N	POS_MASC_SG_DAT_WK	Hel_56.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_56.eaf
+
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_56.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_56.eaf
+thînes	thînes	thin	*	dein	*	*	*	thines	DPOS	DPOS	A,O	P	NEUT_SG_GEN_ST	Hel_56.eaf
+lîƀes	lîƀes	lif	S2	Leben	*	*	*	libes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_56.eaf
+than	than	than	*	dann	*	*	4683	than	ADV	ADV	*	*	*	Hel_56.eaf
+thuru	thuru	thurh	*	durch, vermittelst, vermöge	*	*	*	thuru	AP	APPR	*	*	*	Hel_56.eaf
+eggia	eggia	eggia	S1	Schneide; Schwert	*	*	*	eggia	NA	NA	JO_FEM	JO_FEM	SG_GEN	Hel_56.eaf
+nîð	nîð	niđ	*	Streben, Eifer, Streitbegier	*	*	*	nid	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_56.eaf
+âhtian	âhtian	ahtian	S2	ächten, nachstellen	*	*	*	ahtian	VV	VVINF	WK1A	WK1A	*	Hel_56.eaf
+uuilliad	uuilliad	willian	*	wollen	*	*	*	uuilliad	VM	VMFIN	IRR	IRR	IND_PRES_PL_3	Hel_56.eaf
+,	,+]	*	*	*	*	*	4684	,+]	$,+$(	$,+$(	*	*	*	Hel_56.eaf
+frô	frô	fro	S1	Herr	*	*	*	fro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOSN	A,O	A,O	MASC_SG_NOM_0	Hel_56.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_56.eaf
+guodo	guodo	god	*	gut, trefflich, freundlich, nützlich	CF_I_Adv_Cnd	*	*	guodo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+giƀu	giƀu	geban	*	geben, hingeben, übergeben	*	*	*	gibu	VV	VVFIN	ST5	ST5	IND_PRES_SG_1	Hel_56.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_56.eaf
+ferah	ferah	ferah	S2	Leben	*	*	*	ferah	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+furi	furi	furi	*	für, wegen, um --- willen	*	*	*	furi	AP	APPR	*	*	*	Hel_56.eaf
+thik	thik	thu	*	du	*	*	4685	thik	PPER	PPER	*	*	SG_ACC_2	Hel_56.eaf
+an	an	an	*	in, an, auf, unter	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+uuâpno	uuâpno	wapan	S1	Waffe	*	*	*	uuapno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_56.eaf
+spil	spil	spil	*	Bewegung, Schwingen, Spiel	CF_U_M	*	*	spil	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+ni	*	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_56.eaf
+s	nis	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_56.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_56.eaf
+uuerð	uuerð	werđ	S2	passen, angemessen	*	*	*	uuerd	ADJ	ADJD	A,O	A,O	POS	Hel_56.eaf
+iouuiht	iouuiht	eowiht	*	etwas	*	*	4686	iouuiht	PI	PI	I	I	NEUT_SG_NOM	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	PTKZU	*	*	*	Hel_56.eaf
+bimîðanne	bimîðanne	bimiđan	S1	vermeiden, versäumen, unterlassen	CF_U_M	*	*	bimidanne	VV	VVINFS	ST1	ST1	SG_DAT	Hel_56.eaf
+,	,+sô+lango	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+sô lango sô	sô	so lango so	*	so lange wie	*	*	*	so lango so	KO	KOUS	*	*	*	Hel_56.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_56.eaf
+mîn	mîn	ik	S2	ich	*	*	*	min	PPER	PPER	*	*	SG_GEN_1	Hel_56.eaf
+uuarod	uuarod	waron	*	währen, dauern	*	*	4687	uuarod	VV	VVFIN	WK2	WK2	IND_PRES_SG_3	Hel_56.eaf
+hugi	hugi	hugi	S1a	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+handcraft	handcraft	handkraft	S1b	Kraft der Hände, Stärke	CF_I_Adv_Temp	*	*	handcraft	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_56.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_56.eaf
+
+"	"+]	*	*	*	*	*	*	"+]	$(	$(	*	*	*	Hel_56.eaf
+Thuo	Thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_56.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_56.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_56.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_56.eaf
+hêrro	hêrro	herro	S2	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+angegin	angegin	angegin	*	entgegen	CF_U_M	*	*	angegin	ADV	ADV	*	*	*	Hel_56.eaf
+:	:	*	*	*	*	*	4688	:	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+huat	huat	hwat	S1a	was	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+thik	thik	thu	*	du	*	*	*	thik	PPER	PPER	*	*	SG_ACC_2	Hel_56.eaf
+biuuânis	biuuânis	biwanian	S1b	sich zutrauen, sich vermessen	CF_CS_U_M	*	*	biuuanis	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+quat	*	queđan	*	sprechen, sagen	*	*	*	quat	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+hie	quathie	he	*	er, sie, es	CF_U_M	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+uuissaro	uuissaro	wis	S2	gewiss, sicher	*	*	*	uuissaro	ADJ	ADJ	A,O	P	POS_FEM_PL_GEN_ST	Hel_56.eaf
+treuuono	treuuono	treuwa	*	Treue, lautere Gesinnung	*	*	*	treuuono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_56.eaf
+,	,	*	*	*	*	*	4689	,	$,	$,	*	*	*	Hel_56.eaf
+thrîstero	thrîstero	thristi	S1a	kühn, zuversichtlich	*	*	*	thristero	ADJ	ADJ	JA,JO	P	POS_NEUT_PL_GEN_ST	Hel_56.eaf
+thingo	thingo	thing	S1b	Gegenstand, Wesen, Sache, Etwas	CF_CC_U_M	*	*	thingo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_56.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_56.eaf
+
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+haƀis	haƀis	hebbian	*	haben, besitzen	*	*	*	habis	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_56.eaf
+thegnes	thegnes	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegnes	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_56.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_56.eaf
+,	,	*	*	*	*	*	4690	,	$,	$,	*	*	*	Hel_56.eaf
+uuillion	uuillion	willio	S1	Gesinnung, Sinnesrichtung, Gedanke	*	*	*	uuillion	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_56.eaf
+guodan	guodan	god	*	gut, trefflich, freundlich, nützlich	CF_U_M	*	*	guodan	ADJ	ADJN	A,O	P	POS_MASC_SG_ACC_ST	Hel_56.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_56.eaf
+
+Ik	Ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_56.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+seggian	seggian	seggian	*	sagen	CF_U_M	*	*	seggian	VV	VVINF	WK3	WK3	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+huô	huô	hwo	*	wie	*	*	*	huo	KO	KOUS	*	*	*	Hel_56.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_56.eaf
+thoh	thoh	thoh	*	doch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_56.eaf
+giuuerðan	giuuerðan	giwerđan	S2	werden, geschehen, sich ereignen	*	*	*	giuuerdan	VV	VVINF	ST3B	ST3B	*	Hel_56.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	CF_I_O	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4691	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+uuirðis	uuirðis	werðan	S1a	werden	*	*	*	uuirdis	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_2	Hel_56.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_56.eaf
+uuêkmuod	uuêkmuod	wekmod	S1b	verzagten Mutes	CF_I_S	*	*	uuekmuod	ADJ	ADJD	A,O	A,O	POS	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_56.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_56.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_56.eaf
+uuânies	uuânies	wanian	S2	wähnen, glauben, meinen, hoffen	*	*	*	uuanies	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_2	Hel_56.eaf
+sô	sô	so	*	so, in solcher Weise	CF_I_Adv_Cnc	*	*	so	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	4692	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+thînes	thînes	thin	*	dein	*	*	*	thines	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_56.eaf
+thiadnes	thiadnes	thiodan	S1	Volksherr, Herrscher	*	*	*	thiadnes	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_56.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_56.eaf
+naht	naht	naht	*	Nacht	*	*	*	naht	NA	NA	C_FEM	C_FEM	SG_DAT	Hel_56.eaf
+thrîuuo	thrîuuo	thriwo	S2	dreimal	*	*	*	thriuuo	ADV	ADVM	*	*	*	Hel_56.eaf
+farlôgnis	farlôgnis	farlognian	*	verleugnen	*	*	4693	farlognis	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_56.eaf
+êr	êr	er	*	vor	*	*	*	er	AP	APPR	*	*	*	Hel_56.eaf
+hanocrâdi	hanocrâdi	hanokrad	S1	Hahnenschrei	*	*	*	hanocradi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_56.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_56.eaf
+quiðis	quiðis	queđan	*	sprechen, sagen	CF_I_O	*	*	quidis	VV	VVFIN	ST5	ST5	IND_PRES_SG_2	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+thak	thak	that	*	dass	*	*	*	thak	KO	KOUS	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+thîn	thîn	thin	*	dein	*	*	*	thin	DPOS	DPOS	A,O	A,O	MASC_SG_NOM_0	Hel_56.eaf
+hêrro	hêrro	herro	S2	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_56.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_56.eaf
+sî	sî	wesan	*	sein	CF_I_O	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_1	Hel_56.eaf
+,	,	*	*	*	*	*	4694	,	$,	$,	*	*	*	Hel_56.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_56.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_56.eaf
+farmanst	farmanst	farmunan	S1a	verleugnen	*	*	*	farmanst	VV	VVFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_56.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_56.eaf
+mundburd	mundburd	mundburd	S1b	Schutzherrschaft, Schutz, Hilfe	CF_I_M	*	*	mundburd	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_56.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+Thuo	Thuo	tho	*	da, nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_56.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_56.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_56.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_56.eaf
+man	man	mann	S2	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_56.eaf
+angegin	angegin	angegin	*	entgegen	CF_U_M	*	*	angegin	ADV	ADV	*	*	*	Hel_56.eaf
+:	:	*	*	*	*	*	4695	:	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+ef	ef	ef	*	wenn	*	*	*	ef	KO	KOUS	*	*	*	Hel_56.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_56.eaf
+gio	gio	io	*	zu irgend einer Zeit, je	*	*	*	gio	ADV	ADV	*	*	*	Hel_56.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+uueroldi	uueroldi	werold	S1	Welt, Erde	CF_CS_I_Adv_Cnd	*	*	uueroldi	NA	NA	C,I_FEM,I_MASC	I_FEM,MASC	SG_DAT	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_56.eaf
+quat	*	queđan	*	sprechen, sagen	*	*	*	quat	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_56.eaf
+hie	quathie	he	*	er, sie, es	CF_U_M	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+giuuerðan	giuuerðan	giwerđan	S2	werden, geschehen, sich ereignen	*	*	*	giuuerdan	VV	VVINF	ST3B	ST3B	*	Hel_56.eaf
+muosti	muosti	motan	*	vermeiden, versäumen, unterlassen	CF_CC_I_Adv_Cnd	*	*	muosti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4696	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+samad	samad	samad	S1	zusammen	*	*	*	samad	ADV	ADV	*	*	*	Hel_56.eaf
+midi	midi	mid	*	mit	*	*	*	midi	AP	APPR	*	*	*	Hel_56.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_56.eaf
+sueltan	sueltan	sweltan	S2	sterben, umkommen	*	*	*	sueltan	VV	VVINF	ST3B	ST3B	*	Hel_56.eaf
+muosti	muosti	motan	*	müssen, sollen	*	*	*	muosti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	4697	,	$,	$,	*	*	*	Hel_56.eaf
+dôian	dôian	doian	S1a	sterben	*	*	*	doian	VV	VVINF	WK1A	WK1A	*	Hel_56.eaf
+diurlîco	diurlîco	diurliko	S1b	auf liebevolle Weise, lieblich, preislich	CF_I_S	*	*	diurlico	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_56.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_56.eaf
+uuurði	uuurði	werðan	*	werden	*	*	*	uuurdi	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_56.eaf
+gio	gio	io	*	zu irgend einer Zeit, je. in Verbindung mit. nie, niemals	*	*	*	gio	ADV	ADV	*	*	*	Hel_56.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_56.eaf
+dag	dag	dag	S2	Tag	*	*	*	dag	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_56.eaf
+cuman	cuman	kuman	*	kommen	CF_U_M	*	*	cuman	VV	VVPP	ST4	ST4	*	Hel_56.eaf
+,	,	*	*	*	*	*	4698	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_56.eaf
+thîn	thîn	thu	*	du	*	*	*	thin	PPER	PPER	*	*	SG_GEN_2	Hel_56.eaf
+farlôgnidi	farlôgnidi	farlognian	S1	verleugnen	*	*	*	farlognidi	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_SG_3	Hel_56.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_56.eaf
+lieƀo	lieƀo	liof	S2	lieb, wert, freundlich	*	*	*	liebo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_56.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_56.eaf
+,	,	*	*	*	*	*	4699	,	$,	$,	*	*	*	Hel_56.eaf
+gerno	gerno	gerno	S1a	gern, freudig, willig, eifrig, angelegentlich	*	*	*	gerno	ADV	ADV	*	*	*	Hel_56.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_56.eaf
+theson	theson	these	*	dieser, dieses, diese	*	*	*	theson	DD	DD	*	*	MASC_PL_DAT	Hel_56.eaf
+Iuðeon	Iuðeon	Iudeo	S1b	Jude	CF_I_O	*	*	iudeon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_56.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_56.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_56.eaf
+Thuo	Thuo	tho	*	da, nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_56.eaf
+quâðun	quâðun	queđan	*	sprechen, sagen	*	*	*	quadun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_56.eaf
+alla	alla	all	*	all	*	*	*	alla	DI	DI	A,O	P	MASC_PL_NOM_ST	Hel_56.eaf
+thia	thia	the	*	der, die, das	*	*	*	thia	DD	DDA	*	*	MASC_PL_NOM	Hel_56.eaf
+iungron	iungron	jungaro	S2	Jünger, Diener	*	*	*	iungron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_56.eaf
+sô	sô	so	*	so	CF_I_M	*	*	so	ADV	ADV	*	*	*	Hel_56.eaf
+,	,	*	*	*	*	*	4700	,	$,	$,	*	*	*	Hel_56.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_56.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_56.eaf
+thar	thar	thar	S1a	da, dort, dahin, dorthin	*	*	*	thar	ADV	ADV	*	*	*	Hel_56.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_56.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_PL_DAT	Hel_56.eaf
+thingon	thingon	thing	S1b	Angelegenheit, Lage, Umstand, Verhältnis	*	*	*	thingon	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_56.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_56.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_56.eaf
+tholian	tholian	tholon	S2	ausharren, standhalten	*	*	*	tholian	VV	VVINF	WK2	WK2	*	Hel_56.eaf
+uueldin	uueldin	willian	*	wollen	CF_I_O	*	*	uueldin	VM	VMFIN	IRR	IRR	SUBJ_PAST_PL_3	Hel_56.eaf
+.	*	*	*	*	*	LVI	4701	. 	$.	$.	*	*	*	Hel_56.eaf

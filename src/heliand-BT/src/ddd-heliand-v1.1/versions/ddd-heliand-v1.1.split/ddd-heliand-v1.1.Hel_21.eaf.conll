@@ -1,0 +1,613 @@
+
+Ôc	Ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_21.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_21.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_21.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_21.eaf
+uuîsean	uuîsean	wisian	S1	zeigen, verkünden, lehren	CF_U_M	*	*	uuisean	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+huuô	huuô	hwo	*	wie, dass	*	*	*	huuo	KO	KOUS	*	*	*	Hel_21.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_21.eaf
+uuegos	uuegos	weg	S2	Weg, Straße	*	*	*	uuegos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_21.eaf
+tuêna	tuêna	twene	*	zwei	*	*	1771	tuena	CARD	CARDN	IRR	IRR	MASC_PL_NOM	Hel_21.eaf
+liggead	liggead	liggian	S1a	liegen, gelegen sein	*	*	*	liggead	VV	VVFIN	ST5	ST5	IND_PRES_PL_3	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_21.eaf
+liohte	liohte	lioht	S1b	Licht, Welt	CF_I_O	*	*	liohte	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_ACC	Hel_21.eaf
+farad	farad	faran	*	gehen	*	*	*	farad	VV	VVFIN	ST6	ST6	IND_PRES_PL_3	Hel_21.eaf
+liudeo	liudeo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_21.eaf
+barn	barn	barn	*	Kind	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1772	,	$,	$,	*	*	*	Hel_21.eaf
+al	al	all	S1a	ganz	*	*	*	al	DI	DI	A,O	P	FEM_SG_NOM_ST	Hel_21.eaf
+irminthiod	irminthiod	irminthiod	S1b	Menschenvolk	CF_I_Rel	*	*	irminthiod	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Thero	Thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDS	*	*	MASC_PL_GEN	Hel_21.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_21.eaf
+ôðar	ôðar	ođar	S2	der eine von beiden	*	*	*	odar	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_21.eaf
+sân	sân	san	*	durchaus, fürwahr	*	*	1773	san	ADV	ADV	*	*	*	Hel_21.eaf
+uuîd	uuîd	wiđ	S1	weit	*	*	*	uuid	ADJ	ADJ	 A,O	 A,O	POS_FEM_SG_NOM_0	Hel_21.eaf
+strâta	strâta	strata	*	Straße, Weg	*	*	*	strata	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+brêd	brêd	bred	*	breit	CF_U_M	*	*	bred	ADJ	ADJD	A,O	A,O	POS	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+-	-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_21.eaf
+farid	farid	faran	*	gehen	*	*	*	farid	VV	VVFIN	ST6	ST6	IND_PRES_SG_3	Hel_21.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_21.eaf
+uuerodes	uuerodes	werod	S2	Leute, Volk	*	*	*	uuerodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_21.eaf
+filu	filu	filu	*	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1774	,	$,	$,	*	*	*	Hel_21.eaf
+mancunnies	mancunnies	mankunni	S1a	Menschengeschlecht, Menschen	*	*	*	mancunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_21.eaf
+manag	manag	manag	S1b	manch	CF_U_M	*	*	manag	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_21.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_21.eaf
+tharod	tharod	tharod	*	dorthin	*	*	*	tharod	ADV	ADV	*	*	*	Hel_21.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_21.eaf
+môd	môd	mod	S2	Sinn, Mut, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_21.eaf
+spenit	spenit	spanan	*	antreiben, veranlassen, locken	*	*	*	spenit	VV	VVFIN	ST6	ST6	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1775	,	$,	$,	*	*	*	Hel_21.eaf
+uueroldlusta	uueroldlusta	weroldlust	S1a	Weltlust	*	*	*	uueroldlusta	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_21.eaf
+uueros	uueros	wer	S1b	Mann, Mensch	CF_I_Adv_Caus	*	*	uueros	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_21.eaf
+-	*	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_21.eaf
+thiu	-thiu	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	thiu	DD	DDSREL	*	*	FEM_SG_NOM	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_21.eaf
+uuirson	uuirson	wirsa	S2	schlimmer, schlechter	*	*	*	uuirson	ADJ	ADJ	A,O	N	COMP_FEM_SG_ACC_WK	Hel_21.eaf
+hand	hand	hand	*	Hand	*	*	1776	hand	NA	NA	U,I_FEM	U_FEM	SG_ACC	Hel_21.eaf
+liudi	liudi	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_ACC	Hel_21.eaf
+lêdid	lêdid	ledian	S1b	leiten, führen	CF_I_Rel	*	*	ledid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_21.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_21.eaf
+te	te	te	*	zu, in	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+farlora	farlora	farlor	S2	Verderben	*	*	*	farlora	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+uuerðad	uuerðad	werđan	*	werden	*	*	*	uuerdad	VA	VVFIN	ST3B	ST3B	IND_PRES_PL_3	Hel_21.eaf
+,	,	*	*	*	*	*	1777	,	$,	$,	*	*	*	Hel_21.eaf
+heliðos	heliðos	heliđ	S1a	Held, Mann, Mensch	*	*	*	helidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+helliu	helliu	hellia	S1b	Hölle	CF_I_Adv_Loc	*	*	helliu	NA	NA	N,JO_FEM	JO_FEM	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_21.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_21.eaf
+hêt	hêt	het	S2	Hitze	*	*	*	het	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+suart	suart	swart	*	Finsternis	*	*	*	suart	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1778	,	$,	$,	*	*	*	Hel_21.eaf
+egislîc	egislîc+an	egislik	S1a	schrecklich	*	*	*	egislic	ADJ	ADJD	A,O	A,O	POS	Hel_21.eaf
+an innan	innan	an innan	S1b	im Innern	CF_U_M	*	*	an innan	ADV	ADV	*	*	*	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+ôði	ôði	ođi	S2	leicht, mühelos	*	*	*	odi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_21.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_21.eaf
+tharod	tharod	tharod	*	dorthin	*	*	*	tharod	ADV	ADV	*	*	*	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	PTKZU	*	*	*	Hel_21.eaf
+faranne	faranne	faran	*	gehen	*	*	1779	faranne	VV	VVINFS	ST6	ST6	SG_DAT	Hel_21.eaf
+eldibarnun	eldibarnun	eldibarn	S1	Menschenkinder, Menschen	CF_U_M	*	*	eldibarnun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thoh	thoh	thoh	*	obwohl	*	*	*	thoh	KO	KOUS	*	*	*	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_21.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_21.eaf
+at	at	at	*	an	*	*	*	at	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+endie	endie	endi	S2	Ende	*	*	*	endie	NA	NA	JA_MASC	JA_MASC	SG_DAT	Hel_21.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_21.eaf
+dugi	dugi	dugan	*	taugen, nützen	CF_I_Adv_Cnc	*	*	dugi	VV	VVFIN	PRPR	PRPR	SUBJ_PRES_SG_3	Hel_21.eaf
+.	.	*	*	*	*	*	1780	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_21.eaf
+ligid	ligid	liggian	*	liegen, sich befinden	*	*	*	ligid	VV	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_21.eaf
+eft	eft	eft	*	hinwiederum, andrerseits, dagegen	*	*	*	eft	ADV	ADV	*	*	*	Hel_21.eaf
+ôðar	ôðar	ođar	S1	der andere von beiden	*	*	*	odar	DI	DI	A,O	A,O	MASC_SG_NOM_0	Hel_21.eaf
+engira	engira	engi	S2	eng, schmal	*	*	*	engira	ADJ	ADJ	JA,JO	N	COMP_MASC_SG_NOM_WK	Hel_21.eaf
+mikilu	mikilu	mikil	*	groß, viel; hier: bei weitem	*	*	1781	mikilu	ADJ	ADJS	A,O	P	POS_MASC_SG_INS_ST	Hel_21.eaf
+uueg	uueg	weg	S1a	Weg, Straße	*	*	*	uueg	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_21.eaf
+uueroldi	uueroldi	werold	S1b	Welt	CF_U_M	*	*	uueroldi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+ferid	ferid	faran	*	gehen	*	*	*	ferid	VV	VVFIN	ST6	ST6	IND_PRES_SG_3	Hel_21.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_21.eaf
+uuerodes	uuerodes	werod	S2	Leute, Volk	*	*	*	uuerodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_21.eaf
+lût	lût	lut	*	wenig	*	*	*	lut	ADJ	ADJS	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_21.eaf
+,	,	*	*	*	*	*	1782	,	$,	$,	*	*	*	Hel_21.eaf
+fâho	fâho	faho	S1a	wenig	*	*	*	faho	ADJ	ADJ	WA,WO	WA,WO	POS_NEUT_SG_NOM_0	Hel_21.eaf
+folcskepi	folcskepi	folkskepi	Sb	Volk, Stamm	CF_U_M	*	*	folcskepi	NA	NA	I_NEUT	I_NEUT	SG_NOM	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_21.eaf
+uuilliad	uuilliad	willian	*	wollen	*	*	*	uuilliad	VM	VMFIN	IRR	IRR	IND_PRES_PL_3	Hel_21.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_21.eaf
+firiho	firiho	firihos	S2	Menschen	*	*	*	firiho	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_21.eaf
+barn	barn	barn	*	Kind	*	*	1783	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_21.eaf
+gerno	gerno	gerno	S1a	gern, freudig	*	*	*	gerno	ADV	ADV	*	*	*	Hel_21.eaf
+gangan	gangan	gangan	S1b	gehen, wandeln	CF_U_M	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_21.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_21.eaf
+rîkea	rîkea	riki	*	Reich	*	*	*	rikea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	1784	,	$,	$,	*	*	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_21.eaf
+êuuiga	êuuiga	ewig	S1	ewig	*	*	*	euuiga	ADJ	ADJ	A,O	N	POS_NEUT_SG_ACC_WK	Hel_21.eaf
+lîf	lîf	lif	*	Leben	*	*	*	lif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+erlos	erlos	erl	S2	bedeutender, vornehmer Mann	*	*	*	erlos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_21.eaf
+lêdea	lêdea	ledian	*	leiten, führen	CF_I_Adv_Cnc	*	*	ledea	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_3	Hel_21.eaf
+.	.	*	*	*	*	*	1785	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_21.eaf
+nimad	nimad	niman	*	wählen, einschlagen	*	*	*	nimad	VV	VVIMP	ST4	ST4	IND_PRES_PL_2	Hel_21.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_21.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_21.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_21.eaf
+engean	engean	engi	S1	eng, schmal	CF_U_Imp	*	*	engean	ADJ	ADJS	JA,JO	P	POS_MASC_SG_ACC_ST	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_21.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+ôði	ôði	ođi	S2	leicht, mühelos	*	*	*	odi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_21.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_21.eaf
+sî	sî	wesan	*	sein	*	*	1786	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_21.eaf
+firihon	firihon	firihos	S1a	Menschen	*	*	*	firihon	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+faranne	faranne	faran	S1b	gehen	CF_I_Adv_Cnc	*	*	faranne	VV	VVINFS	ST6	ST6	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thoh	thoh	thoh	*	doch, dennoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_21.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+frumu	frumu	fruma	S2	Nutzen, Vorteil	*	*	*	frumu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_21.eaf
+uuerðan	uuerðan+sô	werđan	*	werden	*	*	1787	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_21.eaf
+sô huuemu	*	so hwe	*	jeder	CF_U_M	*	*	so huuemu 	PW	PWG	*	*	MASC_SG_DAT	Hel_21.eaf
+sô	huuemusô	so	*	so, wie; hier: relativisch	*	*	*	so	KO	KOUS	*	*	*	Hel_21.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_21.eaf
+thurh	*	thurh	*	durch	*	*	*	thurh	ADV	PTKVZ	*	*	*	Hel_21.eaf
+gengid	thurhgengid	thurhgangan	S1	bis ans Ende gehen, beharrllich bleiben	CF_I_Rel	*	*	gengid	VV	VVFIN	RED1A	RED1A	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_21.eaf
+geld	geld	geld	S2	Vergeltung, Lohn	*	*	*	geld	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+niman	niman	niman	*	annehmen, empfangen	*	*	*	niman	VV	VVINF	ST4	ST4	*	Hel_21.eaf
+,	,	*	*	*	*	*	1788	,	$,	$,	*	*	*	Hel_21.eaf
+suuîðo	suuîðo	swiđo	*	sehr	*	*	*	suuido	ADV	ADV	*	*	*	Hel_21.eaf
+langsam	langsam	langsam	S1a	lange dauernd, ewig während	*	*	*	langsam	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_21.eaf
+lôn	lôn	lon	S1b	Lohn	*	*	*	lon	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+lîf	lîf	lif	S2	Leben	*	*	*	lif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+êuuig	êuuig	ewig	*	ewig	*	*	*	euuig	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_21.eaf
+,	,	*	*	*	*	*	1789	,	$,	$,	*	*	*	Hel_21.eaf
+diurlîcan	diurlîcan	diurlik	S1a	teuer, herrlich	*	*	*	diurlican	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_21.eaf
+drôm	drôm	drom	S1b	himmlische Freude	CF_I_M	*	*	drom	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Eo	Eo	io	*	immer, stets	*	*	*	eo	ADV	ADV	*	*	*	Hel_21.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_21.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_21.eaf
+drohtin	drohtin	drohtin	S2	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_21.eaf
+sculun	sculun	skulan	*	sollen, müssen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_21.eaf
+,	,	*	*	*	*	*	1790	,	$,	$,	*	*	*	Hel_21.eaf
+uualdand	uualdand	waldand	S1	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_ACC	Hel_21.eaf
+biddien	biddien	biddian	*	bitten	CF_U_M	*	*	biddien	VV	VVINF	ST5	ST5	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_21.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_21.eaf
+uueg	uueg	weg	S2	Weg, Straße	*	*	*	uueg	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_21.eaf
+môtin	môtin	motan	*	können, dürfen	*	*	1791	motin	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_PL_2	Hel_21.eaf
+fan	fan	fan	*	von	*	*	*	fan	AP	APPR	*	*	*	Hel_21.eaf
+foran	foran	foran	S1a	vorn	*	*	*	foran	ADV	ADV	*	*	*	Hel_21.eaf
+antfâhan	antfâhan	antfahan	S1b	aufnehmen	*	*	*	antfahan	VV	VVINF	RED1B	RED1B	*	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+forð	forð	forđ	S2	vorwärts, fort	*	*	*	ford	ADV	ADV	*	*	*	Hel_21.eaf
+thurh	thurh	thurh	*	durch, hindurch	*	*	*	thurh	ADV	PTKVZ	*	*	*	Hel_21.eaf
+gigangan	gigangan	thurhgangan	*	bis zum Ende gehen	*	*	1792	gigangan	VV	VVINF	RED1A	RED1A	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_21.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_21.eaf
+rîki	rîki	riki	*	Reich	CF_I_O	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+He	He	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_21.eaf
+garu	garu	garu	S2	bereit	*	*	*	garu	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_21.eaf
+simbla	simbla+uuiðar	simbla	*	immer, stets	*	*	1793	simbla	ADV	ADV	*	*	*	Hel_21.eaf
+uuiðar thiu	thiu	wiđar thiu	*	andererseits	*	*	*	uuidar thiu	ADV	ADV	*	*	*	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+geƀanne	geƀanne	geban	S1	geben	CF_U_M	*	*	gebanne	VV	VVINFS	ST5	ST5	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_21.eaf
+man	man	mann	*	Mann, Mensch	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_21.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_21.eaf
+gerno	gerno	gerno	S2	gern, freudig	*	*	*	gerno	ADV	ADV	*	*	*	Hel_21.eaf
+bidid	bidid	biddian	*	bitten	CF_U_M	*	*	bidid	VV	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1794	,	$,	$,	*	*	*	Hel_21.eaf
+fergot	fergot	fergon	S1a	bitten	*	*	*	fergot	VV	VVFIN	WK2	WK2	IND_PRES_PL_3	Hel_21.eaf
+firiho	firiho	firihos	S1b	Menschen	*	*	*	firiho	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_21.eaf
+barn	barn	barn	*	Kind	CF_U_M	*	*	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Sôkead	Sôkead	sokian	*	suchen	*	*	*	sokead	VV	VVIMP	WK1A	WK1A	IMP_PRES_PL_2	Hel_21.eaf
+fadar	fadar	fadar	S2	Vater	*	*	*	fadar	NA	NA	ER_MASC	ER_MASC	SG_ACC	Hel_21.eaf
+iuuuan	iuuuan	iwa	*	euer	*	*	1795	iuuuan	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_21.eaf
+up	up	up	S1a	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_21.eaf
+êuuinom	êuuinom	ewin	S1b	ewig	*	*	*	euuinom	ADJ	ADJ	A,O	N	POS_NEUT_SG_DAT_WK	Hel_21.eaf
+rîkea	rîkea	riki	*	Reich	CF_U_Imp	*	*	rikea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_21.eaf
+môtun	môtun	motan	*	können, dürfen	*	*	*	motun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_21.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_21.eaf
+ina	ina+aftar	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_21.eaf
+aftar thiu	thiu	aftar thiu	S2	danach	*	*	1796	aftar thiu	ADV	ADV	*	*	*	Hel_21.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_21.eaf
+iuuuoru	iuuuoru	iwa	*	euer	*	*	*	iuuuoru	DPOS	DPOS	A,O	P	FEM_SG_DAT_ST	Hel_21.eaf
+frumu	frumu	fruma	S1a	Nutzen, Vorteil	*	*	*	frumu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_21.eaf
+fîðan	fîðan	findan	S1b	finden	CF_U_M	*	*	fidan	VV	VVINF	ST3A	ST3A	*	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Cûðead	Cûðead	kuđian	*	bekannt machen, verkünden	*	*	*	cudead	VV	VVIMP	WK1A	WK1A	IMP_PRES_PL_2	Hel_21.eaf
+iuuua	iuuua	iwa	*	euer	*	*	*	iuuua	DPOS	DPOS	A,O	A,O	FEM_SG_ACC_0	Hel_21.eaf
+fard	fard	fard	S2	Weg, Reise	*	*	*	fard	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_21.eaf
+tharod	tharod	tharod	*	dorthin	*	*	1797	tharod	ADV	ADV	*	*	*	Hel_21.eaf
+at	at	at	*	in, an	*	*	*	at	AP	APPR	*	*	*	Hel_21.eaf
+iuuuas	iuuuas	iwa	*	euer	*	*	*	iuuuas	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_21.eaf
+drohtines	drohtines	drohtin	S1a	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_21.eaf
+durun	durun	duru	S1b	Tür	CF_U_Imp	*	*	durun	NA	NA	U_FEM	U_FEM	PL_DAT	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_21.eaf
+uuerðad	uuerðad	werđan	*	werden	*	*	*	uuerdad	VA	VAFIN	ST3B	ST3B	IND_PRES_PL_3	Hel_21.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_21.eaf
+andôn	andôn+aftar	antdon	S2	auftun, öffnen	*	*	*	andon	VV	VVINF	IRR	IRR	*	Hel_21.eaf
+aftar thiu	thiu	aftar thiu	*	danach	*	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	1798	,	$,	$,	*	*	*	Hel_21.eaf
+himilportun	himilportun	himilporta	S1a	Himmelspforte	*	*	*	himilportun	NA	NA	N_FEM	N_FEM	PL_NOM	Hel_21.eaf
+anthlidan	anthlidan	anthlidan	S1b	sich öffnen, erschließen	CF_U_M	*	*	anthlidan	VV	VVINF	ST1	ST1	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	NOM_PL_2	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_21.eaf
+hêlage	hêlage	helag	S2	heilig	*	*	*	helage	ADJ	ADJ	A,O	N	POS_NEUT_SG_ACC_WK	Hel_21.eaf
+lioht	lioht	lioht	*	Licht	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+,	,	*	*	*	*	*	1799	,	$,	$,	*	*	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_21.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_21.eaf
+rîki	rîki	riki	*	Reich	*	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_21.eaf
+gangan	gangan	gangan	S2	gehen, wandeln	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_21.eaf
+môtun	môtun	motan	*	können,, dürfen	*	*	*	motun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_21.eaf
+,	,	*	*	*	*	*	1800	,	$,	$,	*	*	*	Hel_21.eaf
+sinlîf	sinlîf	sinlif	S1a	ewiges Leben	*	*	*	sinlif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+sehan	sehan	sehan	S1b	sehen	CF_I_Adv_Fin	*	*	sehan	VV	VVINF	ST5	ST5	*	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Ôc	Ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_21.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_21.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_21.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_21.eaf
+seggean	seggean	seggian	S2	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_21.eaf
+noh	noh	noh	*	noch	*	*	1801	noh	ADV	ADV	*	*	*	Hel_21.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_21.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_21.eaf
+uuerode	uuerode	werod	S1	Leute, Volk	*	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_21.eaf
+allun	allun	all	*	all	*	*	*	allun	DI	DIS	A,O	P	MASC_PL_DAT_ST	Hel_21.eaf
+uuârlîc	uuârlîc	warlik	S2	wahr	*	*	*	uuarlic	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_21.eaf
+biliði	biliði	biliđi	*	Gleichnis	CF_U_M	*	*	bilidi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_21.eaf
+,	,	*	*	*	*	*	1802	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	dass	CE	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_21.eaf
+liudeo	liudeo+sô+huilic+,	liudi	S1	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_21.eaf
+sô huilic , sô	sô	so hwilik so 	*	jeder der, wer immer	*	*	*	so huilic so  so	DW	DWGREL	 A,O	 A,O	MASC_SG_NOM_0	Hel_21.eaf
+thesa	thesa	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesa	DD	DD	*	*	FEM_SG_ACC	Hel_21.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_21.eaf
+lêra	lêra	lera	S2	Lehre, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_21.eaf
+uuili	uuili	willian	*	wollen	*	*	1803	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+gehaldan	gehaldan	gihaldan	S1a	halten, festhalten an	*	*	*	gehaldan	VV	VVINF	RED1A	RED1A	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_21.eaf
+herton	herton	herta	S1b	Herz	*	*	*	herton	NA	NA	N_NEUT	N_NEUT	SG_DAT	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+uuil	uuil	willian	*	wollen	*	*	*	uuil	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	PPER	*	*	FEM_SG_GEN_3	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_21.eaf
+hugi	hugi	hugi	S2	Sinn, Gemüt	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_21.eaf
+athenkean	athenkean	athenkean	*	denken an, gedenken	*	*	*	athenkean	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+,	,	*	*	*	*	*	1804	,	$,	$,	*	*	*	Hel_21.eaf
+lêstean	lêstean	lestian	S1a	befolgen, ausführen	*	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+sea	sea	he	*	er, sie, es (selbst)	*	*	*	sea	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_21.eaf
+lande	lande	land	S1b	Land, Reich	CF_I_Rel	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_21.eaf
+gilîco	gilîco	giliko	S2	auf gleiche Weise	*	*	*	gilico	ADV	ADV	*	*	*	Hel_21.eaf
+duot	duot	don	*	tun, handeln	*	*	1805	duot	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+uuîsumu	uuîsumu	wis	S1	klug, weise	*	*	*	uuisumu	ADJ	ADJ	A,O	P	POS_MASC_SG_DAT_ST	Hel_21.eaf
+manne	manne	mann	*	Mensch, Leute	CF_U_M	*	*	manne	NA	NA	C,A_MASC	A_MASC	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_21.eaf
+giuuit	giuuit	giwit	S2	Verstand, Weisheit	*	*	*	giuuit	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+haƀad	haƀad	hebbian	*	haben, besitzen	*	*	*	habad	VA	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1806	,	$,	$,	*	*	*	Hel_21.eaf
+horsca	horsca	horsk	S1a	klug	*	*	*	horsca	ADJ	ADJ	A,O	P	POS_FEM_SG_ACC_ST	Hel_21.eaf
+hugiskefti	hugiskefti	hugiskefti	S1b	Denkvermögen, Verstand	*	*	*	hugiskefti	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+hûsstedi	hûsstedi	husstedi	S2	Hausplatz	*	*	*	husstedi	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_21.eaf
+kiusid	kiusid	kiosan	*	wählen	*	*	1807	kiusid	VV	VVFIN	ST2	ST2	IND_PRES_SG_3	Hel_21.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+fastoro	fastoro	fast	S1a	fest	*	*	*	fastoro	ADJ	ADJ	A,O	P	POS_FEM_SG_DAT_ST	Hel_21.eaf
+foldun	foldun	folda	S1b	Erde	*	*	*	foldun	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+felisa	felisa	felis	S2	Fels, Stein	*	*	*	felisa	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+uppan	uppan	uppan	*	oben, hinauf	*	*	1808	uppan	ADV	ADV	*	*	*	Hel_21.eaf
+uuêgos	uuêgos	weg	S1a	Weg, Straße	*	*	*	uuegos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_21.eaf
+uuirkid	uuirkid	wirkian	S1b	tun, machen	CF_I_Rel	*	*	uuirkid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_21.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_21.eaf
+uuind	uuind	wind	S2	Wind	*	*	*	uuind	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_21.eaf
+mag	mag	mugan	*	können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1809	,	$,	$,	*	*	*	Hel_21.eaf
+ne	ne	ne	*	weder	*	*	*	ne	KO	KON	*	*	*	Hel_21.eaf
+uuâg	uuâg	wag	S1a	Woge, Flut	*	*	*	uuag	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_21.eaf
+ne	ne	ne	*	noch	*	*	*	ne	KO	KON	*	*	*	Hel_21.eaf
+uuatares	uuatares	watar	S1b	Wasser	*	*	*	uuatares	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_21.eaf
+strôm	strôm	strom	*	Strom, Strömung	*	*	*	strom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+uuihtiu	uuihtiu	wiht	S2	Ding, Etwas	*	*	*	uuihtiu	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_INS	Hel_21.eaf
+getiunean	getiunean	gitiunian	*	schaden	CF_I_Rel	*	*	getiunean	VV	VVINF	WK1B	WK1B	*	Hel_21.eaf
+,	,	*	*	*	*	*	1810	,	$,	$,	*	*	*	Hel_21.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_21.eaf
+mag	mag	mugan	*	können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_21.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_21.eaf
+uuið	uuið	wiđ	*	gegen	*	*	*	uuid	AP	APPR	*	*	*	Hel_21.eaf
+ungiuuidereon	ungiuuidereon	ungiwideri	S1	Ungewitter, Sturm	*	*	*	ungiuuidereon	NA	NA	JA_NEUT	JA_NEUT	PL_DAT	Hel_21.eaf
+allun	allun	all	S2	all	*	*	*	allun	DI	DIN	A,O	N	NEUT_PL_DAT_WK	Hel_21.eaf
+standan	standan	standan	*	stehen	*	*	1811	standan	VV	VVINF	RED1A	RED1A	*	Hel_21.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+felise	felise	felis	S1	Fels, Stein	*	*	*	felise	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+uppan	uppan	uppan	*	oben, hinauf	CF_I_M	*	*	uppan	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_21.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+fasto	fasto	fasto	S2	fest	*	*	*	fasto	ADV	ADV	*	*	*	Hel_21.eaf
+uuarð	uuarð	werđan	*	werden	*	*	1812	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_21.eaf
+gistellit	gistellit	stellian	S1a	hinstellen, setzen	*	*	*	gistellit	VV	VVPP	WK1A	WK1A	*	Hel_21.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+stêne	stêne	sten	S1b	Stein, Fels	CF_I_Adv_Caus	*	*	stene	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+anthaƀad	anthaƀad	anthebbian	*	aufrecht erhalten	*	*	*	anthabad	VV	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_21.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_21.eaf
+stedi	stedi	stedi	S2	Stelle, Stätte, Ort	*	*	*	stedi	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_21.eaf
+niðana	niðana	niđana	*	von unten her	CF_U_M	*	*	nidana	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	1813	,	$,	$,	*	*	*	Hel_21.eaf
+uureðid	uureðid	wređian	S1a	stützen	*	*	*	uuredid	VV	VVFIN	WK1B	WK1B	IND_PRES_SG_3	Hel_21.eaf
+uuiðar	uuiðar	wiđar	*	gegen, vor	*	*	*	uuidar	AP	APPR	*	*	*	Hel_21.eaf
+uuinde	uuinde	wind	S1b	Wind	CF_U_M	*	*	uuinde	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	dass, so dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_21.eaf
+uuîcan	uuîcan	wikan	S2	weichen	*	*	*	uuican	VV	VVINF	ST1	ST1	*	Hel_21.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_21.eaf
+mag	mag	mugan	*	können	CF_I_Adv_Fin	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+.	.	*	*	*	*	*	1814	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Sô	Sô	so	*	so, nun	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+duot	duot	don	*	tun, handeln	*	*	*	duot	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+eft	eft	eft	*	andrerseits, dagegen	*	*	*	eft	ADV	ADV	*	*	*	Hel_21.eaf
+manno	manno+sô	mann	S1	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_21.eaf
+sô huilic	huilic	so hwilik	*	jeder	CF_U_M	*	*	so huilic 	DW	DWS	*	*	MASC_SG_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	*	*	$,	$,	*	*	*	Hel_21.eaf
+sô	sô	so	*	so, wie; hier: relativisch	*	*	*	so	KO	KOUS	*	*	*	Hel_21.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesun	DD	DD	*	*	FEM_PL_DAT	Hel_21.eaf
+mînun	mînun	min	S2	mein	*	*	*	minun	DPOS	DPOS	A,O	P	FEM_PL_DAT_ST	Hel_21.eaf
+ni	ni	ne	*	weder	*	*	*	ni	KO	KON	*	*	*	Hel_21.eaf
+uuili	uuili	willian	*	wollen	*	*	1815	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+lêrun	lêrun	lera	S1	Lehre, Gebot	*	*	*	lerun	NA	NA	N,O_FEM	N_FEM	PL_DAT	Hel_21.eaf
+hôrien	hôrien	horian	*	gehorchen, folgen	*	*	*	horien	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+ne	ne	ne	*	noch	*	*	*	ne	KO	KON	*	*	*	Hel_21.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDS	*	*	FEM_PL_GEN	Hel_21.eaf
+lêstien	lêstien	lestian	S2	befolgen, ausführen	*	*	*	lestien	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+uuiht	uuiht	wiht	*	etwas	CF_I_Rel	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_21.eaf
+,	,	*	*	*	*	*	1816	,	$,	$,	*	*	*	Hel_21.eaf
+sô	sô	so	*	so, nun	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+duot	duot	don	*	tun, handeln	*	*	*	duot	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_21.eaf
+unuuîson	unuuîson	unwis	S1	töricht	*	*	*	unuuison	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_21.eaf
+erla	erla	erl	S2	bedeutender, vornehmer Mann	*	*	*	erla	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+gelîco	gelîco	giliko	*	auf gleiche Weise	*	*	*	gelico	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	1817	,	$,	$,	*	*	*	Hel_21.eaf
+ungeuuittigon	ungeuuittigon	ungiwittig	S1a	unverständig, töricht	*	*	*	ungeuuittigon	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_21.eaf
+uuere	uuere	wer	S1b	Mann, Mensch	CF_U_M	*	*	uuere	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_21.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_21.eaf
+be	be	bi	*	bei, an	*	*	*	be	AP	APPR	*	*	*	Hel_21.eaf
+uuatares	uuatares	watar	S2	Fluß, See, Wasser	*	*	*	uuatares	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_21.eaf
+staðe	staðe	stađ	*	Gestade, Ufer	*	*	1818	stade	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+sande	sande	sand	S1	Sand	*	*	*	sande	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_21.eaf
+selihûs	selihûs	selihus	S2	Haus	*	*	*	selihus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+uuirkean	uuirkean	wirkian	*	tun, machen	CF_I_Rel	*	*	uuirkean	VV	VVINF	WK1A	WK1A	*	Hel_21.eaf
+,	,	*	*	*	*	*	1819	,	$,	$,	*	*	*	Hel_21.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_21.eaf
+uuestrani	uuestrani	westroni	S1a	westlich	*	*	*	uuestrani	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_21.eaf
+uuind	uuind	wind	S1b	Wind	*	*	*	uuind	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+uuâgo	uuâgo	wag	S2	Woge, Flut	*	*	*	uuago	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_21.eaf
+strôm	strôm	strom	*	Strom, Flut	*	*	*	strom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1820	,	$,	$,	*	*	*	Hel_21.eaf
+sêes	sêes	seo	S1a	See, Meer	*	*	*	sees	NA	NA	WA_MASC	A_MASC	SG_GEN	Hel_21.eaf
+ûðeon	ûðeon	uđia	*	Welle, Woge	*	*	*	udeon	NA	NA	N_FEM	N_FEM	PL_NOM	Hel_21.eaf
+teslâad	teslâad	teslahan	S1b	zerschlagen, zerstören	CF_I_Rel	*	*	teslaad	VV	VVFIN	ST6	ST6	IND_PRES_PL_3	Hel_21.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_21.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_21.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_21.eaf
+sand	sand	sand	S2	Sand	*	*	*	sand	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_21.eaf
+greot	greot	griot	*	Gries, Sand, Ufer	*	*	1821	greot	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_21.eaf
+geuureðien	geuureðien	giwređian	S1a	stützen	*	*	*	geuuredien	VV	VVINF	WK1B	WK1B	*	Hel_21.eaf
+uuið	uuið	wiđ	*	gegen	*	*	*	uuid	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+uuinde	uuinde	wind	S1b	Wind	CF_U_M	*	*	uuinde	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_21.eaf
+uuirðid	uuirðid	werđan	*	werden	*	*	*	uuirdid	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_3	Hel_21.eaf
+teuuorpan	teuuorpan	tewerpan	S2	zerstören	*	*	*	teuuorpan	VV	VVPP	ST3B	ST3B	*	Hel_21.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	1822	,	$,	$,	*	*	*	Hel_21.eaf
+tefallen	tefallen	tefallan	S1a	zerfallen	*	*	*	tefallen	VV	VVPP	RED1A	RED1A	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+flôde	flôde	flod	S1b	Flut, Fluß, Wasser	CF_I_M	*	*	flode	NA	NA	I_FEM,A_MASC	A_MASC	SG_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_21.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_21.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+fastoro	fastoro	fast	S2	fest, beständig, unerschüttert; gefesselt	*	*	*	fastoro	ADJ	ADJ	A,O	P	POS_FEM_SG_DAT_ST	Hel_21.eaf
+n	*	ne	*	nicht	*	*	*	n	PTK	PTKNEG	*	*	*	Hel_21.eaf
+is	nis	wesan	*	sein	*	*	1823	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_21.eaf
+erðu	erðu	erđa	S1	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_21.eaf
+getimbrod	getimbrod	timbræn	*	bauen	CF_I_Adv_Caus	*	*	getimbrod	VV	VVPP	WK2	WK2	*	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Sô	Sô	so	*	so, auf diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_21.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_21.eaf
+erlo	erlo	erl	S2	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A,I_MASC	PL_GEN	Hel_21.eaf
+gehues	gehues	gihwe	*	jeder, jedes, alles	*	*	1824	gehues	DI	DI	A,O	N	NEUT_SG_ACC_WK	Hel_21.eaf
+uuerc	uuerc	werk	S1	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+gethîhan	gethîhan+uuiðar	githihan	*	gedeihen	*	*	*	gethihan	VV	VVINF	ST1	ST1	*	Hel_21.eaf
+uuiðar thiu	thiu	wiđar thiu	*	andererseits	CF_U_M	*	*	uuidar thiu	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der, die, das	*	*	*	the	PTK	PTKREL	*	*	*	Hel_21.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+thius	thius	thesa	*	dieser, dieses, diese, derartig	*	*	*	thius	DD	DD	*	*	NEUT_PL_ACC	Hel_21.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	NEUT_PL_GEN	Hel_21.eaf
+uuord	uuord	word	S2	Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_21.eaf
+frumid	frumid	frummian	*	ausführen, vollbringen	*	*	*	frumid	VV	VVFIN	WK1B	WK1B	IND_PRES_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1825	,	$,	$,	*	*	*	Hel_21.eaf
+haldid	haldid	haldan	S1a	an etwas festhalten	*	*	*	haldid	VV	VVFIN	RED1A	RED1A	IND_PRES_SG_3	Hel_21.eaf
+hêlag	hêlag	helag	S1b	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_21.eaf
+gebod	gebod	gibod	*	Gebot, Befehl	CF_I_Rel	*	*	gebod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_21.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_21.eaf
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_21.eaf
+bigunnun	bigunnun	biginnan	*	beginnen, anfangen	*	*	*	bigunnun	VV	VVFIN	ST3A	ST3A	IND_PAST_PL_3	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_21.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_21.eaf
+uundron	uundron	wundræn	*	sich verwundern	*	*	1826	uundron	VV	VVINF	WK2	WK2	*	Hel_21.eaf
+meginfolc	meginfolc	meginfolk	S1a	große Schar	*	*	*	meginfolc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_21.eaf
+mikil	mikil	mikil	S1b	groß, gewaltig, viel	CF_U_M	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+gehôrdun	gehôrdun	gihorian	*	hören, anhören	*	*	*	gehordun	VV	VVFIN	WK1A	WK1A	IND_PAST_PL_3	Hel_21.eaf
+mahtiges	mahtiges	mahtig	S2	mächtig, gewaltig	*	*	*	mahtiges	ADJ	ADJ	A,O	P	POS_MASC_SG_GEN_ST	Hel_21.eaf
+godes	godes	god	*	Gott	*	*	1827	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_21.eaf
+lioflîca	lioflîca	lioflik	S1a	lieblich	*	*	*	lioflica	ADJ	ADJ	A,O	P	POS_FEM_SG_ACC_ST	Hel_21.eaf
+lêra	lêra	lera	S1b	Lehre, Gebot	CF_U_M	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_21.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_21.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_21.eaf
+uuârun	uuârun	wesan	*	sein	*	*	*	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_21.eaf
+lande	lande	land	S2	Land, Reich	*	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_21.eaf
+geuuno	geuuno	giwono	*	gewöhnt (an)	CF_U_M	*	*	geuuno	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	1828	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_21.eaf
+eo	eo	io	*	zu irgend einer Zeit, je	*	*	*	eo	ADV	ADV	*	*	*	Hel_21.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_21.eaf
+sulicun	sulicun	sulik	S1	solch, so beschaffen	*	*	*	sulicun	DD	DD	A,O	N	NEUT_PL_DAT_WK	Hel_21.eaf
+êr	êr	er	*	vorher	*	*	*	er	ADV	ADV	*	*	*	Hel_21.eaf
+seggean	seggean	seggian	S2	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_21.eaf
+gehôrdin	gehôrdin	gihorian	*	hören, anhören	*	*	1829	gehordin	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_PL_3	Hel_21.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_21.eaf
+ettho	ettho	eftha	*	oder	*	*	*	ettho	KO	KON	*	*	*	Hel_21.eaf
+uuercun	uuercun	werk	S1b	Werk, Tat, Handlung	CF_I_O	*	*	uuercun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_21.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_21.eaf
+
+Farstôdun	Farstôdun	farstandan	*	verstehen, erkennen	*	*	*	farstodun	VV	VVFIN	ST6	ST6	IND_PAST_PL_3	Hel_21.eaf
+uuîse	uuîse	wis	S2	klug, weise	*	*	*	uuise	ADJ	ADJ	A,O	P	POS_MASC_PL_NOM_ST	Hel_21.eaf
+man	man	mann	*	Mensch	CF_U_M	*	*	man	NA	NA	C,A_MASC	C_MASC	PL_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1830	,	$,	$,	*	*	*	Hel_21.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_21.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+sô	sô	so	*	so, auf diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_21.eaf
+lêrde	lêrde	lerian	S1	lehren, unterweisen	*	*	*	lerde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+liudeo	liudeo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_21.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_21.eaf
+,	,	*	*	*	*	*	1831	,	$,	$,	*	*	*	Hel_21.eaf
+uuârun	uuârun	war	S1a	wahr, wahrhaftig	*	*	*	uuarun	ADJ	ADJ	A,O	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_21.eaf
+uuordun	uuordun	word	S1b	Wort, Rede	CF_I_O	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+sô	sô	so	*	so; hier: da, weil?	*	*	*	so	KO	KOUS	*	*	*	Hel_21.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+geuuald	geuuald	giwald	S2	Macht, Gewalt, Verfügung	*	*	*	geuuald	NA	NA	I_FEM,I_MASC	I_FEM,I_MASC	SG_ACC	Hel_21.eaf
+habde	habde	hebbian	*	haben, besitzen	*	*	*	habde	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1832	,	$,	$,	*	*	*	Hel_21.eaf
+allun	allun	all	*	all	*	*	*	allun	DI	DI	A,O	P	MASC_PL_DAT_ST	Hel_21.eaf
+them	them	the	*	 der, die, das	*	*	*	them	DD	DDS	*	*	MASC_PL_DAT	Hel_21.eaf
+ungelîco	ungelîco	ungiliko	S1	unähnlich	CF_I_Adv_Caus	*	*	ungelico	ADV	ADV	*	*	*	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDSREL	*	*	MASC_PL_NOM	Hel_21.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_21.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_21.eaf
+êrdagun	êrdagun	erdagos	S2	vergangene Tage, frühere Zeiten	*	*	1833	erdagun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_21.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_21.eaf
+them	them	the	*	 der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_21.eaf
+liudskepea	liudskepea	liudskepi	S1	Volk	*	*	*	liudskepea	NA	NA	I_NEUT	I_NEUT	SG_DAT	Hel_21.eaf
+lêreon	lêreon	lereo	S2	Lehrer	*	*	*	lereon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_21.eaf
+uuârun	uuârun	wesan	*	sein	*	*	1834	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_21.eaf
+acoran	acoran	akiosan	S1a	erwählen	*	*	*	acoran	VV	VVPP	ST2	ST2	*	Hel_21.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_21.eaf
+cunnie	cunnie	kunni	S1b	Volk; Leute	CF_I_Rel	*	*	cunnie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_21.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_21.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_21.eaf
+habdun	habdun	hebbian	*	haben, besitzen	*	*	*	habdun	VA	VVFIN	WK3	WK3	IND_PAST_PL_3	Hel_21.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_NOM	Hel_21.eaf
+Cristes	Cristes	Krist	S2	Christus	*	*	*	cristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_21.eaf
+uuord	uuord	word	*	Wort, Rede	*	*	1835	uuord	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_21.eaf
+gemacon	gemacon	gimako	S1a	Seinesgleichen	*	*	*	gemacon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_21.eaf
+mid	mid	mid	*	mit, unter, bei	*	*	*	mid	AP	APPR	*	*	*	Hel_21.eaf
+mannun	mannun	mann	S1b	Mensch	CF_U_M	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_21.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_21.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDSREL	*	*	NEUT_PL_ACC	Hel_21.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_21.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_21.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_21.eaf
+menigi	menigi	menigi	S2	Menge, Schar, Volk	*	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_21.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_21.eaf
+,	,	*	*	*	*	*	1836	,	$,	$,	*	*	*	Hel_21.eaf
+gebôd	gebôd	gibiodan	S1a	gebieten, befehlen	*	*	*	gebod	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_21.eaf
+uppan	uppan	uppan	*	oben, hinauf	*	*	*	uppan	ADV	ADV	*	*	*	Hel_21.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_21.eaf
+berge	berge	berg	S1b	Berg	CF_I_Rel	*	*	berge	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_21.eaf
+.	*	*	*	*	*	XXI	1837	. 	$.	$.	*	*	*	Hel_21.eaf

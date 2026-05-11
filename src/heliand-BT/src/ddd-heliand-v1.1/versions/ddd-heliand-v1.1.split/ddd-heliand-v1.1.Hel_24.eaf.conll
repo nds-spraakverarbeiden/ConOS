@@ -1,0 +1,865 @@
+
+Geuuêt	Geuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	geuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_24.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_24.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+umbi	umbi	umbi	*	um	*	*	*	umbi	AP	APPR	*	*	*	Hel_24.eaf
+threa	threa	thria	S1	drei	*	*	*	threa	CARD	CARD	IRR	IRR	FEM_PL_ACC	Hel_24.eaf
+naht	naht+aftar	naht	*	Nacht	*	*	*	naht	NA	NA	C,I_FEM	C_FEM	PL_ACC	Hel_24.eaf
+aftar thiu	thiu	aftar thiu	*	danach	*	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_PL_GEN	Hel_24.eaf
+thiodo	thiodo	thiod	S2	Volk, Menge	*	*	*	thiodo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_24.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	1994	drohtin	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_24.eaf
+an	an+Galileo	an	*	in, in – hinein	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+Galileo land	land	Galileo land	S1	Galiläa	CF_U_M	*	*	galileo land	NE	NEO	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_24.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+ênum	ênum	en	*	ein	*	*	*	enum	DI	DIA	A,O	P	FEM_PL_DAT_ST	Hel_24.eaf
+gômum	gômum	goma	S2	Gastmahl	*	*	*	gomum	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	1995	,	$,	$,	*	*	*	Hel_24.eaf
+gebedan	gebedan	gibiddian	S1a	erbitten, durch Bitten erreichen	*	*	*	gebedan	VV	VVPP	ST5	ST5	*	Hel_24.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_24.eaf
+barn	barn	barn	S1b	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+godes	godes	god	*	Gott	CF_I_Rel	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+scolda	scolda	skulan	*	sollen, müssen	*	*	*	scolda	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_24.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_24.eaf
+êna	êna	en	*	ein	*	*	*	ena	DI	DIA	A,O	P	FEM_SG_ACC_ST	Hel_24.eaf
+brûd	brûd	brud	S2	Frau, Gattin	*	*	*	brud	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_24.eaf
+geƀan	geƀan	geban	*	geben, übergeben	*	*	*	geban	VV	VVINF	ST5	ST5	*	Hel_24.eaf
+,	,	*	*	*	*	*	1996	,	$,	$,	*	*	*	Hel_24.eaf
+munalîca	munalîca	munilik	S1a	lieblich	*	*	*	munalica	ADJ	ADJ	A,O	P	POS_FEM_SG_ACC_ST	Hel_24.eaf
+magað	magað	magađ	S1b	Jungfrau	CF_U_M	*	*	magad	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+Maria	Maria	Maria	S2	Maria	*	*	*	maria	NE	NE	N_FEM	N_FEM	SG_NOM	Hel_24.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	1997	,	$,	$,	*	*	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_24.eaf
+suni	suni	sunu	S1a	Sohn	*	*	*	suni	NA	NA	U_MASC	I_MASC	SG_DAT	Hel_24.eaf
+selƀo	selƀo	self	S1b	selbst	*	*	*	selbo	DD	DDN	A,O	N	FEM_SG_NOM_WK	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+sâlig	sâlig	salig	S2	gut, fromm	*	*	*	salig	ADJ	ADJ	A,O	A,O	POS_FEM_SG_NOM_0	Hel_24.eaf
+thiorna	thiorna	thiorna	*	Jungfrau, Mädchen	*	*	*	thiorna	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	1998	,	$,	$,	*	*	*	Hel_24.eaf
+mahtiges	mahtiges	mahtig	S1a	mächtig, gewaltig	*	*	*	mahtiges	ADJ	ADJS	A,O	P	POS_MASC_SG_GEN_ST	Hel_24.eaf
+môder	môder	modar	S1b	Mutter	CF_U_M	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_NOM	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Managoro	Managoro	manag	S2	mancher, viel	*	*	*	managoro	DI	DIS	A,O	P	MASC_PL_GEN_ST	Hel_24.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	1999	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_24.eaf
+geng	geng	gangan	S1a	gehen, wandeln	*	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_24.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_24.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+iungoron	iungoron	jungaro	S1b	Jünger, Diener	*	*	*	iungoron	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+êgan	êgan	egan	*	eigen	*	*	*	egan	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_24.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2000	,	$,	$,	*	*	*	Hel_24.eaf
+an	an	an	*	in, in – hinein	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_24.eaf
+hôha	hôha	hoh	S1a	hoch, hochragend	*	*	*	hoha	ADJ	ADJ	A,O	N	POS_NEUT_SG_ACC_WK	Hel_24.eaf
+hûs	hûs	hus	S1b	Haus	CF_U_M	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_24.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_24.eaf
+heri	heri	heri	S2	Menge, Volk, Schar	*	*	*	heri	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_24.eaf
+dranc	dranc	drinkan	*	trinken	*	*	*	dranc	VV	VVFIN	ST3A	ST3A	IND_PAST_SG_1	Hel_24.eaf
+,	,	*	*	*	*	*	2001	,	$,	$,	*	*	*	Hel_24.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_24.eaf
+Iudeon	Iudeon	Iudeo	S1a	der Jude	*	*	*	iudeon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_24.eaf
+gastseli	gastseli	gastseli	S1b	Festsaal, Halle, Herberge	CF_I_Rel	*	*	gastseli	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_24.eaf
+ôc	ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_24.eaf
+at	at	at	*	in, an, auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_24.eaf
+gômun	gômun	goma	S2	Bewirtung, Gastmahl	*	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+uuas	uuas	wesan	*	sein	CF_U_M	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2002	,	$,	$,	*	*	*	Hel_24.eaf
+giac	giac	jak	*	und	*	*	*	giac	KO	KON	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+gecûðde	gecûðde	gikuđian	S1	bekannt machen, verkünden, zeigen	CF_I_M	*	*	gecudde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+habda	habda	hebbian	*	haben, besitzen	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_24.eaf
+craft	craft	kraft	S2	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_24.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	2003	,	$,	$,	*	*	*	Hel_24.eaf
+helpa	helpa	helpa	S1a	Hilfe, Rettung, Erlösung	*	*	*	helpa	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_24.eaf
+fan	fan	fan	*	von, von – her	*	*	*	fan	AP	APPR	*	*	*	Hel_24.eaf
+himilfader	himilfader	himilfader	S1b	himmlischer Vater	*	*	*	himilfader	NA	NA	ER_MASC	ER_MASC	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+hêlagna	hêlagna	helag	S2	heilig	*	*	*	helagna	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_24.eaf
+gêst	gêst	gest	*	Geist	*	*	*	gest	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	2004	,	$,	$,	*	*	*	Hel_24.eaf
+uualdandes	uualdandes	waldand	S1a	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_24.eaf
+uuîsdôm	uuîsdôm	wisdom	S1b	Erfahrung, Weisheit	CF_I_O	*	*	uuisdom	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Uuerod	Uuerod	werod	S2	Volksmenge, Leute, Volk	*	*	*	uuerod	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+blîðode	blîðode	bliđon	*	fröhlich sein	CF_U_M	*	*	blidode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2005	,	$,	$,	*	*	*	Hel_24.eaf
+uuârun	uuârun	wesan	*	sein	*	*	*	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+luston	luston	lust	S1	Lust, Begierde, Freude	*	*	*	luston	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_24.eaf
+liudi	liudi	liudi	S2	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_NOM	Hel_24.eaf
+atsamne	atsamne	atsamne	*	zusammen, vereint	*	*	*	atsamne	ADV	ADV	*	*	*	Hel_24.eaf
+,	,	*	*	*	*	*	2006	,	$,	$,	*	*	*	Hel_24.eaf
+gumon	gumon	gumo	S1a	Mann, Mensch	*	*	*	gumon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_24.eaf
+gladmôdie	gladmôdie	gladmod	S1b	fröhlich, frohgemut	CF_U_M	*	*	gladmodie	ADJ	ADJN	A,O	P	POS_MASC_PL_NOM_ST	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Gengun	Gengun	gangan	S2	gehen, wandeln	*	*	*	gengun	VV	VVFIN	RED1A	RED1A	IND_PAST_PL_3	Hel_24.eaf
+ambahtman	ambahtman	ambahtman	*	Dienstmann, Diener	*	*	*	ambahtman	NA	NA	C_MASC	C_MASC	PL_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2007	,	$,	$,	*	*	*	Hel_24.eaf
+skenkeon	skenkeon	skenkio	S1a	Mundschenk, Diener	*	*	*	skenkeon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+scâlun	scâlun	skala	S1b	Trinkschale	CF_U_M	*	*	scalun	NA	NA	N_FEM	N_FEM	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+drôgun	drôgun	dragan	*	tragen, auftragen, bringen	*	*	*	drogun	VV	VVFIN	ST6	ST6	IND_PAST_PL_3	Hel_24.eaf
+skîriane	skîriane	skiri	S2	schier, rein	*	*	*	skiriane	ADJ	ADJ	JA,JO	P	POS_MASC_PL_ACC_ST	Hel_24.eaf
+uuîn	uuîn	win	*	Wein	*	*	2008	uuin	NA	NA	A_MASC,A_NEUT	A_MASC	SG_ACC	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+orcun	orcun	ork	S1a	Krug	*	*	*	orcun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+alofatun	alofatun	alofat	S1b	Trinkgefäß	CF_U_M	*	*	alofatun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_24.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+erlo	erlo	erl	S2	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_24.eaf
+drôm	drôm	drom	*	fröhliches Treiben, Leben	*	*	2009	drom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_24.eaf
+fagar	fagar	fagar	S1a	friedlich	*	*	*	fagar	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_24.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+flettea	flettea	fletti	S1b	Gemach, Trinkhalle	CF_U_M	*	*	flettea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thô	thô	tho	*	als, nachdem	*	*	*	tho	KO	KOUS	*	*	*	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+folc	folc	folk	S2	Volk, Schar, Menge	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_24.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_24.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	2010	im	PPER	PRF	*	*	MASC_PL_DAT_3	Hel_24.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_24.eaf
+benkeon	benkeon	bank	S1a	Bank	*	*	*	benkeon	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_24.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+bezt	bezt	bezt	S1b	am besten	*	*	*	bezt	ADV	ADV	*	*	*	Hel_24.eaf
+blîðsea	blîðsea	bliđsea	S2	Fröhlichkeit, fröhliches Treiben	*	*	*	blidsea	NA	NA	JO_FEM	JO_FEM	SG_ACC	Hel_24.eaf
+af	*	af	*	hinauf	*	*	*	af	ADV	PTKVZ	*	*	*	Hel_24.eaf
+hôƀun	afhôƀun	afhebbian	*	erheben, anheben, beginnen	CF_I_Adv_Temp	*	*	hobun	VV	VVFIN	ST6	ST6	IND_PAST_PL_3	Hel_24.eaf
+,	,	*	*	*	*	*	2011	,	$,	$,	*	*	*	Hel_24.eaf
+uuârun	uuârun	wesan	*	sein	*	*	*	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+uunneun	uunneun	wunnia	S1	Wonne, Freude	CF_U_M	*	*	uunneun	NA	NA	JO_FEM	JO_FEM	PL_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	so	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_24.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_24.eaf
+uuînes	uuînes	win	S2	Wein	*	*	*	uuines	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_GEN	Hel_24.eaf
+brast	brast	brestan	*	mangeln	*	*	*	brast	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2012	,	$,	$,	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_24.eaf
+liudiun	liudiun	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_24.eaf
+lîðes	lîðes	liđ	S1b	Obstwein	CF_U_M	*	*	lides	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_24.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_24.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+farlêƀid	farlêƀid	farlebian	S2	übrig lassen	*	*	*	farlebid	VV	VVPP	WK1A	WK1A	*	Hel_24.eaf
+uuiht	uuiht	wiht	*	Ding, Etwas	*	*	2013	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_24.eaf
+huergin	huergin	hwergin	S1a	nirgendwo	*	*	*	huergin	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_24.eaf
+hûse	hûse	hus	S1b	Haus	CF_U_M	*	*	huse	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_ACC	Hel_24.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_24.eaf
+thene	thene	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_24.eaf
+heri	heri	heri	S2	Menge, Volk, Schar	*	*	*	heri	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_24.eaf
+forð	forð	forđ	*	hervor	*	*	2014	ford	ADV	ADV	*	*	*	Hel_24.eaf
+skenkeon	skenkeon	skenkio	S1	Mundschenk, Diener	*	*	*	skenkeon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_24.eaf
+drôgin	drôgin	dragan	*	tragen, auftragen, bringen	CF_I_Rel	*	*	drogin	VV	VVFIN	ST6	ST6	SUBJ_PAST_PL_3	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_24.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_NOM	Hel_24.eaf
+scapu	scapu	skap	S2	Gefäß	*	*	*	scapu	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_24.eaf
+uuârun	uuârun	wesan	*	sein	*	*	2015	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_24.eaf
+lîðes	lîðes	liđ	S1a	Obstwein	*	*	*	lides	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+alârid	alârid	alarian	S1b	leeren	CF_I_M	*	*	alarid	VV	VVPP	WK1A	WK1A	*	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_24.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+lang	lang+te	lang	S2	lang	*	*	*	lang	ADJ	ADJD	A,O	A,O	POS	Hel_24.eaf
+te thiu	thiu	te thiu	*	daraufhin	CF_U_M	*	*	te thiu	ADV	ADV	*	*	*	Hel_24.eaf
+,	,	*	*	*	*	*	2016	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+sân	sân	san	*	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_24.eaf
+antfunda	antfunda	antfindan	S1	finden, wahrnehmen	*	*	*	antfunda	VV	VVFIN	ST3A	ST3A	IND_PAST_SG_3	Hel_24.eaf
+frîo	frîo	fri	S2	Weib, Frau	*	*	*	frio	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_24.eaf
+scôniosta	scôniosta	skoni	*	glänzend, schön	*	*	*	sconiosta	ADJ	ADJS	JA,JO	N	SUP_FEM_SG_NOM_WK	Hel_24.eaf
+,	,	*	*	*	*	*	2017	,	$,	$,	*	*	*	Hel_24.eaf
+Cristes	Cristes	Krist	S1	Christus	*	*	*	cristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+môder	môder	modar	*	Mutter	CF_I_O	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_NOM	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+geng	geng	gangan	*	gehen, wandeln	CF_U_M	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_24.eaf
+uuið	uuið	wiđ	*	mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_24.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_24.eaf
+kind	kind	kind	S2	Kind	*	*	*	kind	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+sprecan	sprecan	sprekan	*	sprechen, reden	*	*	*	sprecan	VV	VVINF	ST4	ST4	*	Hel_24.eaf
+,	,	*	*	*	*	*	2018	,	$,	$,	*	*	*	Hel_24.eaf
+uuið	uuið	wiđ	*	mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_24.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_24.eaf
+sunu	sunu	sunu	S1a	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_24.eaf
+selƀon	selƀon	self	S1b	selbst	CI_U_Adv_Fin	*	*	selbon	DD	DDN	A,O	N	MASC_SG_ACC_WK	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+sagda	sagda	seggian	S2	sagen	*	*	*	sagda	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_24.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+uuordun	uuordun	word	*	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	2019	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thea	DD	DDA	*	*	NEUT_PL_NOM	Hel_24.eaf
+uuerdos	uuerdos	werod	S1	Volk, Leute	*	*	*	uuerdos	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_24.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+mêr	mêr	mer	*	mehr	*	*	*	mer	ADV	ADV	*	*	*	Hel_24.eaf
+uuînes	uuînes	win	S2	Wein	*	*	*	uuines	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_GEN	Hel_24.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_24.eaf
+habdun	habdun	hebbian	*	haben, besitzen	*	*	2020	habdun	VA	VVFIN	WK3	WK3	IND_PAST_PL_3	Hel_24.eaf
+them	them	the	*	 der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_24.eaf
+gestiun	gestiun	gast	S1a	Gast	*	*	*	gestiun	NA	NA	A,I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+gômun	gômun	goma	S1b	Bewirtung, Gastmahl	CF_I_O	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Siu	Siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_24.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+gerno	gerno	gerno	S2	willig, eifrig, angelegentlich	*	*	*	gerno	ADV	ADV	*	*	*	Hel_24.eaf
+bad	bad	biddian	*	bitten	CF_U_M	*	*	bad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2021	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_24.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_24.eaf
+hêlogo	hêlogo	helag	S1	heilig	*	*	*	helogo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_24.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_24.eaf
+helpa	helpa	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpa	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_24.eaf
+geriedi	geriedi	giradan	*	verschaffen	*	*	2022	geriedi	VV	VVFIN	RED1B	RED1B	SUBJ_PAST_SG_3	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_24.eaf
+uuerode	uuerode	werod	S1a	Volksmenge, Leute, Volk	*	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+uuilleon	uuilleon	willio	S1b	Vorteil, Gewinn, Nutzen	CF_I_O	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+habda	habda	hebbian	*	haben, besitzen	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_24.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+uuord	uuord	word	S2	Wort, Rede	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+garu	garu	garu	*	bereit	*	*	2023	garu	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_24.eaf
+mahtig	mahtig	mahtig	S1	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_24.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+uuið	uuið	wiđ	*	gegen, zu, mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+môder	môder	modar	S2	Mutter	*	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_ACC	Hel_24.eaf
+sprac	sprac	sprekan	*	sprechen, reden	CF_I_M	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_24.eaf
+:	:	*	*	*	*	*	2024	:	$.	$.	*	*	*	Hel_24.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_24.eaf
+huat	huat	hwe	*	wer, was	*	*	*	huat	PW	PW	*	*	NEUT_SG_NOM	Hel_24.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_24.eaf
+mi	mi	ik	S1	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+thi	thi	thu	*	du	CF_CS_I_Int	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_24.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_24.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_24.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_24.eaf
+umbi	umbi	umbi	*	um, wegen, in Bezug auf, in Betreff	*	*	*	umbi	AP	APPR	*	*	*	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	MASC_PL_GEN	Hel_24.eaf
+manno	manno	mann	S2	Mensch, Mann	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_24.eaf
+lið	lið	liđ	*	Obstwein	*	*	*	lid	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	2025	,	$,	$,	*	*	*	Hel_24.eaf
+umbi	umbi	umbi	*	um, wegen, in Bezug auf, in Betreff	*	*	*	umbi	AP	APPR	*	*	*	Hel_24.eaf
+theses	theses	thesa	*	dieser, dieses, diese	*	*	*	theses	DD	DD	*	*	NEUT_SG_GEN	Hel_24.eaf
+uuerodes	uuerodes	werod	S1a	Volksmenge, Leute, Volk	*	*	*	uuerodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+uuîn	uuîn	win	S1b	Wein	CF_CC_I_Int	*	*	uuin	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_ACC	Hel_24.eaf
+?	?+Te	*	*	*	*	*	*	?	$.	$.	*	*	*	Hel_24.eaf
+
+Te huî	huî	te hwe	*	warum, weshalb, wie	*	*	*	te hui	PW	PWAV	*	*	*	Hel_24.eaf
+sprikis	sprikis	sprekan	*	sprechen, reden	*	*	*	sprikis	VV	VVFIN	ST4	ST4	IND_PRES_SG_2	Hel_24.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_24.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_24.eaf
+uuîf	uuîf	wif	S2	Weib, Frau	*	*	*	uuif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_24.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+filu	filu	filu	*	viel	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	2026	,	$,	$,	*	*	*	Hel_24.eaf
+manos	manos	manon	S1a	mahnen, befehlen	*	*	*	manos	VV	VVFIN	WK2	WK2	IND_PRES_SG_2	Hel_24.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_24.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_24.eaf
+menigi	menigi	menigi	S1b	Menge, Schar, Volk	CF_I_Int	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_24.eaf
+?	?	*	*	*	*	*	*	?	$.	$.	*	*	*	Hel_24.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_24.eaf
+sint	sint	wesan	*	sein	*	*	*	sint	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_24.eaf
+mîna	mîna	min	S2	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_PL_NOM_ST	Hel_24.eaf
+noh	noh	noh	*	noch	*	*	2027	noh	ADV	ADV	*	*	*	Hel_24.eaf
+tîdi	tîdi	tid	S1	Zeit, Zeitpunkt	*	*	*	tidi	NA	NA	I_FEM	I_FEM	PL_NOM	Hel_24.eaf
+cumana	cumana	kuman	*	kommen	CF_U_M	*	*	cumana	VV	VVPP	ST4	ST4	P_POS_FEM_PL_NOM_ST	Hel_24.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_24.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_24.eaf
+Than	Than	than	*	dann, indessen, jedoch, aber	*	*	*	than	ADV	ADV	*	*	*	Hel_24.eaf
+thoh	thoh	thoh	*	doch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_24.eaf
+gitrûoda	gitrûoda	gitruon	S2	glauben, vertrauen	*	*	*	gitruoda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_24.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+uuel	uuel	wel	*	wohl, gut	*	*	2028	uuel	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_24.eaf
+hugiskeftiun	hugiskeftiun	hugiskefti	S1	Gesinnung, Gemüt, Herz	*	*	*	hugiskeftiun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+hêlag	hêlag	helag	S2	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_FEM_SG_NOM_0	Hel_24.eaf
+thiorne	thiorne	thiorna	*	Jungfrau, Mädchen	CF_U_M	*	*	thiorne	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2029	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_24.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_PL_DAT	Hel_24.eaf
+uuordun	uuordun	word	S1	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+uualdandes	uualdandes	waldand	S2	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_24.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2030	,	$,	$,	*	*	*	Hel_24.eaf
+hêleandoro	hêleandoro	heliand	S1	Heiland	*	*	*	heleandoro	NA	NA	ND_MASC	JA_MASC	PL_GEN	Hel_24.eaf
+bezt	bezt	betst	*	best	*	*	*	bezt	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_24.eaf
+helpan	helpan	helpan	S2	helfen	*	*	*	helpan	VV	VVINF	ST3B	ST3B	*	Hel_24.eaf
+uueldi	uueldi	willian	*	wollen	CF_I_O	*	*	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_24.eaf
+.	.	*	*	*	*	*	2031	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Hêt	Hêt	hetan	*	heißen, befehlen	*	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_24.eaf
+ambahtman	ambahtman	ambahtman	S1	Dienstmann, Diener	*	*	*	ambahtman	NA	NA	C_MASC	C_MASC	PL_ACC	Hel_24.eaf
+idiso	idiso	idis	S2	Weib, Gattin	*	*	*	idiso	NA	NA	C,I_FEM	C_FEM	PL_GEN	Hel_24.eaf
+scôniost	scôniost	skoni	*	glänzend, schön	*	*	*	sconiost	ADJ	ADJS	JA,JO	N	SUP_FEM_SG_NOM_WK	Hel_24.eaf
+,	,	*	*	*	*	*	2032	,	$,	$,	*	*	*	Hel_24.eaf
+skenkeon	skenkeon	skenkio	S1a	Mundschenk, Diener	*	*	*	skenkeon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+scapuuardos	scapuuardos	skapward	S1b	Kellermeister	CF_U_M	*	*	scapuuardos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese, welcher,welche, welches	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+scoldun	scoldun	skulan	*	sollen, müssen	*	*	*	scoldun	VM	VMFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_24.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_24.eaf
+scolu	scolu	skola	S2	Schar, Haufe	*	*	*	scolu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_24.eaf
+thionon	thionon	thionon	*	dienen	CF_I_Rel	*	*	thionon	VV	VVINF	WK2	WK2	*	Hel_24.eaf
+,	,	*	*	*	*	*	2033	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_24.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	MASC_SG_GEN	Hel_24.eaf
+ne	ne	ne	*	weder	*	*	*	ne	KO	KON	*	*	*	Hel_24.eaf
+uuord	uuord	word	S1a	Wort, Rede	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_24.eaf
+ne	ne	ne	*	noch	*	*	*	ne	KO	KON	*	*	*	Hel_24.eaf
+uuerc	uuerc	werk	S1b	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_24.eaf
+uuiht	uuiht	wiht	S2	Ding, (irgend)etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_24.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_24.eaf
+farlêtin	farlêtin	farlatan	*	unterlassen	CF_I_O	*	*	farletin	VV	VVFIN	RED1B	RED1B	SUBJ_PAST_PL_3	Hel_24.eaf
+,	,	*	*	*	*	*	2034	,	$,	$,	*	*	*	Hel_24.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thes	DD	DDSREL	*	*	NEUT_SG_GEN	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_24.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_24.eaf
+hêlogo	hêlogo	helag	S1	heilig	*	*	*	helogo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_24.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_24.eaf
+hêtan	hêtan	hetan	S2	heißen, befehlen	*	*	*	hetan	VV	VVINF	RED1B	RED1B	*	Hel_24.eaf
+uueldi	uueldi	willian	*	wollen	*	*	2035	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_24.eaf
+lêstean	lêstean	lestian	S1a	befolgen, ausführen, vollführen, vollbringen	*	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_24.eaf
+liudiun	liudiun	liudi	S1b	Leute, Menschen, Volk	CF_I_Rel	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Lârea	Lârea	lari	S2	leer	*	*	*	larea	ADJ	ADJD	JA,JO	P	POS_NEUT_PL_NOM_ST	Hel_24.eaf
+stôdun	stôdun	standan	*	stehen, sich befinden	*	*	*	stodun	VV	VVFIN	RED1A	RED1A	IND_PAST_PL_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	2036	thar	ADV	ADV	*	*	*	Hel_24.eaf
+stênfatu	stênfatu	stenfat	S1	Steingefäß, steinerner Krug	*	*	*	stenfatu	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_24.eaf
+sehsi	sehsi	sehs	*	sechs	CF_U_M	*	*	sehsi	CARD	CARDN	I	I	NEUT_PL_NOM	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+stillo	stillo	stillo	S2	unbemerkt, im Geheimen	*	*	*	stillo	ADV	ADV	*	*	*	Hel_24.eaf
+gebôd	gebôd	gibiodan	*	gebieten, befehlen	*	*	2037	gebod	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_24.eaf
+mahtig	mahtig	mahtig	S1	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_24.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+sô	sô	so	*	obgleich	*	*	*	so	KO	KOUS	*	*	*	Hel_24.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+manno	manno	mann	S2	Mensch	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_24.eaf
+filu	filu	filu	*	viel, Vieles	*	*	2038	filu	NA	NA	U_NEUT	0_NEUT	SG_NOM	Hel_24.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_24.eaf
+uuissa	uuissa	witan	S1a	wissen, kennen, verstehen	*	*	*	uuissa	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+uuârun	uuârun	war	S1b	Wahrheit	CF_I_Adv_Cnc	*	*	uuarun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+huô	huô	hwo	*	wie, daß	*	*	*	huo	PW	PWAV	*	*	*	Hel_24.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+uuordu	uuordu	word	S2	Wort, Rede, Gebot	*	*	*	uuordu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_24.eaf
+gesprac	gesprac	gisprekan	*	sprechen, reden, sagen	CF_I_O	*	*	gesprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_24.eaf
+;	;	*	*	*	*	*	2039	;	$.	$.	*	*	*	Hel_24.eaf
+
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+hêt	hêt	hetan	*	heißen, befehlen	*	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_24.eaf
+skenkeon	skenkeon	skenkio	S1	Mundschenk, Diener	*	*	*	skenkeon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_24.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+skîreas	skîreas	skiri	S2	lauter, rein, ungemischt	*	*	*	skireas	ADJ	ADJ	JA,JO	P	POS_NEUT_SG_GEN_ST	Hel_24.eaf
+uuatares	uuatares	watar	*	Wasser	*	*	2040	uuatares	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_ACC	Hel_24.eaf
+fatu	fatu	fat	S1a	Gefäß	*	*	*	fatu	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_24.eaf
+fullien	fullien	fullian	S1b	anfüllen, voll machen, c. acc. et gen.	CF_U_M	*	*	fullien	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+thar	thar	thar	*	da, nun	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+fingrun	fingrun	fingar	S2	Finger	*	*	*	fingrun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_24.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+,	,	*	*	*	*	*	2041	,	$,	$,	*	*	*	Hel_24.eaf
+segnade	segnade	segnon	S1a	segnen	*	*	*	segnade	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_24.eaf
+selƀo	selƀo	self	S1b	selbst	*	*	*	selbo	DD	DD	A,O	N	MASC_SG_NOM_WK	Hel_24.eaf
+sînun	sînun	sin	S2	sein	*	*	*	sinun	DPOS	DPOS	A,O	P	FEM_PL_DAT_ST	Hel_24.eaf
+handun	handun	hand	*	Hand, Seite	CF_I_M	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	2042	,	$,	$,	*	*	*	Hel_24.eaf
+uuarhte	uuarhte	wirkian	S1a	machen	*	*	*	uuarhte	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_24.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+uuîne	uuîne	win	S1b	Wein	CF_U_M	*	*	uuine	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_DAT	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_I_M	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+ên	ên	en	*	ein	*	*	*	en	DI	DIA	A,O	A,O	NEUT_SG_ACC_0	Hel_24.eaf
+uuêgi	uuêgi	wegi	S2	Schale, Gefäß	*	*	*	uuegi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_24.eaf
+hlaðen	hlaðen	hladan	*	beladen, aufnehmen	*	*	*	hladen	VV	VVINF	ST6	ST6	*	Hel_24.eaf
+,	,	*	*	*	*	*	2043	,	$,	$,	*	*	*	Hel_24.eaf
+skeppien	skeppien	skeppian	S1a	schöpfen	*	*	*	skeppien	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+ênoro	ênoro	en	*	ein	*	*	*	enoro	DI	DIA	A,O	P	FEM_SG_DAT_ST	Hel_24.eaf
+scâlon	scâlon	skala	S1b	Trinkschale	CI_U_O	*	*	scalon	NA	NA	N_FEM	N_FEM	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_24.eaf
+skenkeon	skenkeon	skenkio	S2	Mundschenk, Diener	*	*	*	skenkeon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_24.eaf
+sprac	sprac	sprekan	*	sprechen, reden	CF_I_M	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2044	,	$,	$,	*	*	*	Hel_24.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_U_M	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_24.eaf
+gesteo	gesteo	gast	S1	Gast	CI_CS_U_O	*	*	gesteo	NA	NA	A,I_MASC	I_MASC	PL_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_24.eaf
+at	at	at	*	auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_24.eaf
+gômun	gômun	goma	S2	Bewirtung, Gastmahl	*	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+uuas	uuas	wesan	*	sein	CF_I_Rel	*	2045	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_24.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_24.eaf
+hêroston	hêroston	her	S1	her, hoch, vornehm	*	*	*	heroston	ADJ	ADJS	A,O	N	SUP_MASC_SG_DAT_WK	Hel_24.eaf
+an	an	an	*	in, in – hinein	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+hand	hand	hand	S2	Hand	*	*	*	hand	NA	NA	U,I_FEM	U,I_FEM	SG_ACC	Hel_24.eaf
+geƀan	geƀan	geban	*	geben	*	*	*	geban	VV	VVINF	ST5	ST5	*	Hel_24.eaf
+,	,	*	*	*	*	*	2046	,	$,	$,	*	*	*	Hel_24.eaf
+ful	ful	ful	S1a	Gefäß, Krug	*	*	*	ful	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+folmun	folmun	folmos	S1b	die Hände	*	*	*	folmun	NA	NA	A_MASC	A_MASC	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+themu	themu	the	*	der, die, das; dieser, diese, dieses	CI_CC_U_O	*	*	themu	DD	DDS	*	*	MASC_SG_DAT	Hel_24.eaf
+the	the	the	*	der, die, das; dieser, diese, dieses	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_24.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_24.eaf
+folkes	folkes	folk	S2	Volk, Schar, Menge	*	*	*	folkes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+thar	thar	thar	*	da	*	*	2047	thar	ADV	ADV	*	*	*	Hel_24.eaf
+geuueld	geuueld	giwaldan	S1a	Gewalt haben, herrschen über	*	*	*	geuueld	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_24.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_24.eaf
+uuerde	uuerde	werd	S1b	Wirt, Hausherr	CF_I_Rel	*	*	uuerde	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_24.eaf
+.	.+Reht	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Reht sô	sô	reht so	*	sobald, sogleich als	*	*	*	reht so	KO	KOUS	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC,NEUT_SG_GEN	Hel_24.eaf
+uuînes	uuînes	win	S2	Wein	*	*	*	uuines	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_GEN	Hel_24.eaf
+gedranc	gedranc	gidrinkan	*	trinken	CF_I_Adv_Temp	*	*	gedranc	VV	VVFIN	ST3A	ST3A	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2048	,	$,	$,	*	*	*	Hel_24.eaf
+sô	sô	so	*	dann	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_24.eaf
+mahte	mahte	mugan	S1a	die Fähigkeit haben, vermögen, können	*	*	*	mahte	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_24.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+bemîðan	bemîðan	bimiđan	S1b	vermeiden, versäumen, unterlassen. mit abhäng. Negativsatz	CF_U_M	*	*	bemidan	VV	VVINF	ST1	ST1	*	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+ne	ne	ne	*	daß nicht	*	*	*	ne	KO	KOUS	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_24.eaf
+theru	theru	the	*	der/dieser, das/dies(es), die/diese	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_24.eaf
+menigi	menigi	menigi	S2	Menge, Schar, Volk	*	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_24.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	2049	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_24.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_24.eaf
+brûdigumon	brûdigumon	brudigomo	S1	Ehemann, Bräutigam	CF_I_O	*	*	brudigumon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+quað	quað	queđan	*	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_24.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+simbla	simbla	simbla	*	immer, jederzeit, stets	*	*	*	simbla	ADV	ADV	*	*	*	Hel_24.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_24.eaf
+bezte	bezte	betst	S2	best	*	*	*	bezte	ADJ	ADJ	A,O	N	SUP_NEUT_SG_ACC_WK	Hel_24.eaf
+lîð	lîð	liđ	*	Obstwein	*	*	2050	lid	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_24.eaf
+erlo	erlo	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_24.eaf
+gehuilic	gehuilic	gihwilik	*	jeder, ein jeder	*	*	*	gehuilic	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_24.eaf
+êrist	êrist	erist	S2	zuerst, anfangs, zum ersten Mal	*	*	*	erist	ADV	ADV	*	*	*	Hel_24.eaf
+scoldi	scoldi	skulan	*	sollen, müssen	*	*	2051	scoldi	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_24.eaf
+geƀan	geƀan	geban	S1a	geben	*	*	*	geban	VV	VVINF	ST5	ST5	*	Hel_24.eaf
+at	at	at	*	in, an, auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+gômun	gômun	goma	S1b	Bewirtung, Gastmahl	CF_I_O	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+:	:+undar	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+undar thiu	thiu	undar thiu	*	inzwischen, unterdessen	*	*	*	undar thiu	ADV	ADV	*	*	*	Hel_24.eaf
+uuirðid	uuirðid	werđan	*	werden	*	*	*	uuirdid	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_3	Hel_24.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_24.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_24.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	2052	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_24.eaf
+auuekid	auuekid	awekkian	S1a	erwecken, erregen	*	*	*	auuekid	VV	VVPP	WK1A	WK1A	*	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+uuînu	uuînu	win	S1b	Wein	CF_U_M	*	*	uuinu	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_INS	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_24.eaf
+uuel	uuel	wel	S2	wohl, gut	*	*	*	uuel	ADV	ADV	*	*	*	Hel_24.eaf
+blîðod	blîðod	bliđon	*	fröhlich sein	*	*	*	blidod	VV	VVFIN	WK2	WK2	IND_PRES_PL_3	Hel_24.eaf
+,	,	*	*	*	*	*	2053	,	$,	$,	*	*	*	Hel_24.eaf
+druncan	druncan	drinkan	S1a	trinken	*	*	*	druncan	VV	VVPPD	ST3A	ST3A	POS	Hel_24.eaf
+drômead	drômead	dromian	S1b	sich im fröhlichen Zustande befinden, jubeln	CF_I_Adv_Cns	*	*	dromead	VV	VVFIN	WK1A	WK1A	IND_PRES_PL_3	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Than	Than	than	*	dann, alsdann, darauf	*	*	*	than	ADV	ADV	*	*	*	Hel_24.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_24.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+dragan	dragan+aftar	dragan	S2	tragen, auftragen, bringen	*	*	*	dragan	VV	VVINF	ST6	ST6	*	Hel_24.eaf
+aftar thiu	thiu	aftar thiu	*	danach	*	*	2054	aftar thiu	ADV	ADV	*	*	*	Hel_24.eaf
+lîhtlîcora	lîhtlîcora	lihtlik	S1a	leicht, gering, schlecht	*	*	*	lihtlicora	ADJ	ADJ	A,O	N	COMP_NEUT_SG_ACC_WK	Hel_24.eaf
+lîð	lîð	liđ	S1b	Obstwein, Getränk	CF_U_M	*	*	lid	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	MASC_PL_GEN	Hel_24.eaf
+liudeo	liudeo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_24.eaf
+thau	thau	thau	*	Sitte, Brauch	CF_U_M	*	*	thau	NA	NA	WA_MASC	WA_MASC	SG_NOM	Hel_24.eaf
+.	.	*	*	*	*	*	2055	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_24.eaf
+haƀas	haƀas	hebbian	*	haben	*	*	*	habas	VA	VAFIN	WK3	WK3	IND_PRES_SG_2	Hel_24.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_24.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_24.eaf
+uunderlîco	uunderlîco	wundarliko	S1	auf wunderliche Weise	*	*	*	uunderlico	ADV	ADV	*	*	*	Hel_24.eaf
+uuerdskepi	uuerdskepi	werdskepi	S2	Bewirtung, Mahl	*	*	*	uuerdskepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_24.eaf
+thînan	thînan	thin	*	dein	*	*	2056	thinan	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_24.eaf
+gemarcod	gemarcod	gimarkon	S1a	anordnen	*	*	*	gemarcod	VV	VVPP	WK2	WK2	*	Hel_24.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_24.eaf
+menigi	menigi	menigi	S1b	Menge, Schar, Volk	CF_U_M	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+hêtis	hêtis	hetan	*	heißen, befehlen	CF_U_M	*	*	hetis	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_2	Hel_24.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_24.eaf
+thit	thit	thesa	*	dieser, dieses, diese	*	*	*	thit	DD	DD	*	*	NEUT_SG_ACC	Hel_24.eaf
+manno	manno	mann	S2	Mensch	*	*	*	manno	NA	NA	C,A_MASC	C_MASC	PL_GEN	Hel_24.eaf
+folc	folc	folk	*	Volk, Schar	*	*	2057	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+alles	alles	all	*	ganz	*	*	*	alles	DI	DI	A,O	P	MASC,NEUT_SG_GEN_ST	Hel_24.eaf
+thînes	thînes	thin	*	dein	*	*	*	thines	DPOS	DPOS	A,O	P	MASC,NEUT_SG_GEN_ST	Hel_24.eaf
+uuînes	uuînes	win	S1	Wein	*	*	*	uuines	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_GEN	Hel_24.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_24.eaf
+uuirsiste	uuirsiste	wirsa	S2	schlimmer, schlechter	*	*	2058	uuirsiste	ADJ	ADJS	A,O	N	SUP_NEUT_SG_ACC_WK	Hel_24.eaf
+thîne	thîne	thin	*	dein	*	*	*	thine	DPOS	DPOS	A,O	P	MASC_PL_ACC_ST	Hel_24.eaf
+ambahtman	ambahtman	ambahtman	S1	Dienstmann, Diener	*	*	*	ambahtman	NA	NA	C_MASC	C_MASC	PL_ACC	Hel_24.eaf
+êrist	êrist	erist	S2	zuerst, anfangs	*	*	*	erist	ADV	ADV	*	*	*	Hel_24.eaf
+brengean	brengean	brengian	*	bringen	*	*	*	brengean	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+,	,	*	*	*	*	*	2059	,	$,	$,	*	*	*	Hel_24.eaf
+geƀan	geƀan	geban	S1a	geben	*	*	*	geban	VV	VVINF	ST5	ST5	*	Hel_24.eaf
+at	at	at	*	bei, zu	*	*	*	at	AP	APPR	*	*	*	Hel_24.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	FEM_PL_DAT_ST	Hel_24.eaf
+gômun	gômun	goma	S1b	Bewirtung, Gastmahl	CI_U_O	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Nu	Nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_24.eaf
+sint	sint	wesan	*	sein	*	*	*	sint	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_24.eaf
+thîna	thîna	thin	*	dein	*	*	*	thina	DPOS	DPOS	A,O	P	MASC_PL_NOM_ST	Hel_24.eaf
+gesti	gesti	gast	S2	Gast	*	*	*	gesti	NA	NA	A,I_MASC	I_MASC	PL_NOM	Hel_24.eaf
+sade	sade	sad	*	satt, gesättigt	CF_U_M	*	*	sade	ADJ	ADJD	A,O	P	POS_MASC_PL_NOM_ST	Hel_24.eaf
+,	,	*	*	*	*	*	2060	,	$,	$,	*	*	*	Hel_24.eaf
+sint	sint	wesan	*	sein	*	*	*	sint	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_24.eaf
+thîne	thîne	thin	*	dein	*	*	*	thine	DPOS	DPOS	A,O	P	MASC_PL_NOM_ST	Hel_24.eaf
+druhtingos	druhtingos	druhting	S1	ein zum Gefolge gehöriger, Hochzeitsgenosse, Brautführer	*	*	*	druhtingos	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_24.eaf
+druncane	druncane	drinkan	S2	trinken	*	*	*	druncane	VV	VVPPD	ST3A	ST3A	P_POS_MASC_PL_NOM_ST	Hel_24.eaf
+suîðo	suîðo	swiđo	*	sehr	CF_U_M	*	*	suido	ADV	ADV	*	*	*	Hel_24.eaf
+,	,	*	*	*	*	*	2061	,	$,	$,	*	*	*	Hel_24.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_24.eaf
+thit	thit	thesa	*	diese, diese, dieses	*	*	*	thit	DD	DD	*	*	NEUT_SG_NOM	Hel_24.eaf
+folc	folc	folk	S1a	Volk, Schar	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+frômôd	frômôd	fromod	S1b	frohen Sinnes, fröhlich	CF_U_M	*	*	fromod	ADJ	ADJD	A,O	A,O	POS	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_24.eaf
+hêtis	hêtis	hetan	*	heißen, befehlen	*	*	*	hetis	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_2	Hel_24.eaf
+thu	thu	thu	*	du	CF_U_M	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_24.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_24.eaf
+forð	forð	forđ	S2	fort, weg	*	*	*	ford	ADV	ADV	*	*	*	Hel_24.eaf
+dragan	dragan	dragan	*	tragen, auftragen, bringen	*	*	2062	dragan	VV	VVINF	ST6	ST6	*	Hel_24.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_24.eaf
+lîðo	lîðo	liđ	S1a	Obstwein, Getränk	*	*	*	lido	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_24.eaf
+lofsamost	lofsamost	lofsam	S1b	lobwürdig	CI_U_O	*	*	lofsamost	ADJ	ADJS	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDSREL	*	*	NEUT_PL_GEN	Hel_24.eaf
+the	the	the	*	der, die, das; welcher, welche, welches	*	*	*	the	PTK	PTKREL	*	*	*	Hel_24.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_24.eaf
+eo	eo	io	*	zu irgend einer Zeit, je	*	*	*	eo	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in, an, bei	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_24.eaf
+liohte	liohte	lioht	S2	Reich, Welt	*	*	*	liohte	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_24.eaf
+gesah	gesah	gisehan	*	sehen	*	*	2063	gesah	VV	VVFIN	ST5	ST5	IND_PAST_SG_1	Hel_24.eaf
+huergin	huergin	hwergin	S1a	irgendwo	*	*	*	huergin	ADV	ADV	*	*	*	Hel_24.eaf
+hebbean	hebbean	hebbian	S1b	haben, besitzen	CF_I_Rel	*	*	hebbean	VA	VVINF	WK3	WK3	*	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Mid	Mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+thius	thius	thesa	*	dieser, dieses, diese	*	*	*	thius	DD	DDS	*	*	NEUT_SG_INS	Hel_24.eaf
+scoldis	scoldis	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scoldis	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_2	Hel_24.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_24.eaf
+ûs	ûs	wi	*	wir	*	*	*	us	PPER	PPER	*	*	PL_ACC_1	Hel_24.eaf
+hindag	hindag	hindag	S2	heute	*	*	*	hindag	ADV	ADV	*	*	*	Hel_24.eaf
+êr	êr	er	*	vorher	*	*	2064	er	ADV	ADV	*	*	*	Hel_24.eaf
+geƀon	geƀon	gebon	S1a	schenken, beschenken	*	*	*	gebon	VV	VVINF	WK2	WK2	*	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+gômean	gômean	gomian	S1b	bewirten	CF_U_M	*	*	gomean	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_24.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_24.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_24.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_24.eaf
+gehuilic	gehuilic	gihwilik	*	jeder, ein jeder	*	*	2065	gehuilic	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_24.eaf
+gethigedi	gethigedi	githiggian	S1a	annehmen, aufnehmen	*	*	*	gethigedi	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_SG_3	Hel_24.eaf
+te	te	te	*	zu, nach	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+thanke	thanke	thank	S1b	Dank, Lohn	CF_U_M	*	*	thanke	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+thegan	thegan	thegan	S2	Knabe, Mann	*	*	*	thegan	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_24.eaf
+manag	manag	manag	*	manch, viel	*	*	2066	manag	DI	DIN	A,O	A,O	MASC_SG_NOM_0	Hel_24.eaf
+geuuar	geuuar	giwar	S1a	gewahr werden, sein	*	*	*	geuuar	ADJ	ADJD	A,O	A,O	POS	Hel_24.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_24.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_PL_DAT	Hel_24.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+sîðor	sîðor	siđor	*	nachdem	*	*	*	sidor	KO	KOUS	*	*	*	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_24.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC,NEUT_SG_GEN	Hel_24.eaf
+uuînes	uuînes	win	S2	Wein	*	*	*	uuines	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_GEN	Hel_24.eaf
+gedruncun	gedruncun	gidrinkan	*	trinken	CF_I_Adv_Temp	*	*	gedruncun	VV	VVFIN	ST3A	ST3A	IND_PAST_PL_3	Hel_24.eaf
+,	,	*	*	*	*	*	2067	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_24.eaf
+hêlogo	hêlogo	helag	S1	heilig	*	*	*	helogo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_24.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_24.eaf
+hûse	hûse	hus	S2	Haus	*	*	*	huse	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_24.eaf
+innan	innan	innan	*	innen, im Innern	*	*	2068	innan	ADV	ADV	*	*	*	Hel_24.eaf
+têcan	têcan	tekan	S1	Zeichen	*	*	*	tecan	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+uuarhte	uuarhte	wirkian	*	tun, machen, wirken	CF_I_O	*	*	uuarhte	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+trûodun	trûodun	truon	S2	vertrauen	*	*	*	truodun	VV	VVFIN	WK2	WK2	IND_PAST_PL_3	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_24.eaf
+sîðor	sîðor	siđor	*	nachher, später	*	*	2069	sidor	ADV	ADV	*	*	*	Hel_24.eaf
+thiu	thiu	the	S1a	der, die, das	*	*	*	thiu	DD	DDS	*	*	NEUT_SG_INS	Hel_24.eaf
+mêr	mêr	mer	*	mehr	*	*	*	mer	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_24.eaf
+mundburd	mundburd	mundburd	S1b	Schutzherrschaft, Schutz, Hilfe	CF_U_M	*	*	mundburd	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+habdi	habdi	hebbian	*	haben, besitzen	*	*	*	habdi	VA	VVFIN	WK3	WK3	SUBJ_PAST_SG_3	Hel_24.eaf
+maht	maht	maht	S2	Macht, Kraft, Gewalt	*	*	*	maht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_24.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	2070	,	$,	$,	*	*	*	Hel_24.eaf
+geuuald	geuuald	giwald	S1a	Macht, Gewalt	*	*	*	geuuald	NA	NA	I_MASC,I_FEM	I_MASC,I_FEM	SG_ACC	Hel_24.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+thesoro	thesoro	thesa	*	dieser, dieses,	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_24.eaf
+uueroldi	uueroldi	werold	S1b	Welt	CF_I_O	*	*	uueroldi	NA	NA	I_FEM,A_MASC	I_FEM	SG_DAT	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_24.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_24.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_24.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_24.eaf
+uuîdo	uuîdo	wido	S2	weit, weithin	*	*	*	uuido	ADV	ADV	*	*	*	Hel_24.eaf
+cûð	cûð	kuđ	*	kund, bekannt	*	*	2071	cud	ADJ	ADJD	A,O	A,O	POS	Hel_24.eaf
+oƀar	oƀar+Galileo	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_24.eaf
+Galileo land	land+Iudeo	Galileo land	S1	Galiläa	*	*	*	galileo land	NE	NEO	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+Iudeo liudiun	liudiun	Iudeo liudi	S2	Juden	CF_U_M	*	*	iudeo liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	2072	,	$,	$,	*	*	*	Hel_24.eaf
+huô	huô	hwo	*	wie	*	*	*	huo	PW	PWAV	*	*	*	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+selƀo	selƀo	self	S1	selbst	*	*	*	selbo	DD	DD	A,O	N	MASC_SG_NOM_WK	Hel_24.eaf
+gededa	gededa	gidon	*	tun, machen	*	*	*	gededa	VV	VVFIN	IRR	IRR	IND_PAST_SG_3	Hel_24.eaf
+sunu	sunu	sunu	S2	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_24.eaf
+drohtines	drohtines	drohtin	*	Herr	*	*	2073	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+uuater	uuater	watar	S1a	Wasser	*	*	*	uuater	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+te	te	te	*	zu, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+uuîne	uuîne	win	S1b	Wein	CF_I_O	*	*	uuine	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_DAT	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_24.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_24.eaf
+thar	thar	thar	*	dann, danach	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+uundro	uundro	wundar	S2	Wunder	*	*	*	uundro	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_24.eaf
+êrist	êrist	erist	*	der erste	CF_U_M	*	*	erist	ADJ	ADJN	A,O	A,O	SUP_NEUT_SG_NOM_0	Hel_24.eaf
+,	,	*	*	*	*	*	2074	,	$,	$,	*	*	*	Hel_24.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDSREL	*	*	NEUT_PL_GEN	Hel_24.eaf
+the	the	the	*	Relativum. als Relativpartikel ist. mit einem Demonstrativpronomen verbunden. es steht der Konj. im Relativsatz	*	*	*	the	PTK	PTKREL	*	*	*	Hel_24.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+Galilea	Galilea+Iudeo	Galilea	S1	Galilea	*	*	*	galilea	NE	NEO	O_FEM	O_FEM	SG_DAT	Hel_24.eaf
+Iudeo liudeon	liudeon	Iudeo liudi	S2	Juden	*	*	*	iudeo liudeon	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	2075	,	$,	$,	*	*	*	Hel_24.eaf
+têcno	têcno	tekan	S1a	Zeichen	*	*	*	tecno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_24.eaf
+getôgdi	getôgdi	gitogian	S1b	vor Augen stellen, zeigen	CF_I_Rel	*	*	getogdi	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_SG_3	Hel_24.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_24.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_24.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_24.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_24.eaf
+getellean	getellean	gitellian	S2	sagen, aussagen, erzählen	*	*	*	getellean	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+man	man	mann	*	Mann, Mensch	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2076	,	$,	$,	*	*	*	Hel_24.eaf
+geseggean	geseggean	giseggian	S1a	sagen, erzählen, verkünden	*	*	*	geseggean	VV	VVINF	WK3	WK3	*	Hel_24.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_24.eaf
+sôðan	sôðan	sođ	S1b	Wahrheit	CF_U_M	*	*	sodan	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+huat	huat	hwe	*	wer – was	*	*	*	huat	PW	PW	*	*	NEUT_SG_NOM	Hel_24.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+sîðor	sîðor	siđor	S2	nachher, darauf, später	*	*	*	sidor	ADV	ADV	*	*	*	Hel_24.eaf
+uuarð	uuarð	werđan	*	werden, geschehen	*	*	2077	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_24.eaf
+uundres	uundres	wundar	S1a	Wunder	*	*	*	uundres	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_24.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_24.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_24.eaf
+uuerode	uuerode	werod	S1b	Volksmenge, Leute, Volk	CF_I_O	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+thar	thar	thar	*	als	*	*	*	thar	KO	KOUS	*	*	*	Hel_24.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_24.eaf
+Crist	Crist	Krist	*	Christus	*	*	2078	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+namon	namon+Iudeo	namo	*	Name	*	*	*	namon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_24.eaf
+Iudeo liudeon	liudeon	Iudeo liudi	S2	Juden	*	*	2079	iudeo liudeon	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_24.eaf
+allan	allan	all	*	ganz	*	*	*	allan	DI	DI	A,O	P	MASC_SG_ACC_ST	Hel_24.eaf
+langan	langan	lang	S1	lang	*	*	*	langan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_24.eaf
+dag	dag	dag	*	Tag	*	*	*	dag	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_24.eaf
+lêra	lêra	lera	S2	Lehre, Unterweisung, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_24.eaf
+sagde	sagde	seggian	*	sagen	CF_I_Adv_Temp	*	*	sagde	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2080	,	$,	$,	*	*	*	Hel_24.eaf
+gihêt	gihêt	gihetan	S1a	verheißen	*	*	*	gihet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_24.eaf
+heƀenrîki	heƀenrîki	himilriki	S1b	Himmelreich	*	*	*	hebenriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+helleo	helleo	hellia	S2	Hölle	*	*	*	helleo	NA	NA	N,JO_FEM	JO_FEM	SG_GEN	Hel_24.eaf
+gethuing	gethuing	gethwing	*	Bedrängnis, Not	CF_U_M	*	2081	gethuing	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+uueride	uueride	werian	S1a	wehren, verwehren, hindern, verbieten	*	*	*	uueride	VV	VVFIN	WK1B	WK1B	IND_PAST_SG_3	Hel_24.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_24.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+hêt	hêt	hetan	*	heißen, befehlen	*	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_24.eaf
+sie	sie	he	*	er, sie, es (selbst)	CF_U_M	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_24.eaf
+uuara	uuara	wara	S2	Schutz, Obhut	*	*	*	uuara	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_24.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+,	,	*	*	*	*	*	2082	,	$,	$,	*	*	*	Hel_24.eaf
+sinlîf	sinlîf	sinlif	S1a	ewiges Leben	*	*	*	sinlif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+sôkean	sôkean	sokian	S1b	suchen, aufsuchen	CI_U_O	*	*	sokean	VV	VVINF	WK1A	WK1A	*	Hel_24.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_24.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_24.eaf
+seolono	seolono	seola	S2	Seele	*	*	*	seolono	NA	NA	N,O_FEM	N,O_FEM	PL_GEN	Hel_24.eaf
+lioht	lioht	lioht	*	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2083	,	$,	$,	*	*	*	Hel_24.eaf
+drôm	drôm	drom	S1a	himmlisches Treiben, himmlische Freude	*	*	*	drom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_24.eaf
+drohtines	drohtines	drohtin	S1b	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_24.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_24.eaf
+dagskîmon	dagskîmon	dagskimo	S2	Tagesglanz	*	*	*	dagskimon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_24.eaf
+,	,	*	*	*	*	*	2084	,	$,	$,	*	*	*	Hel_24.eaf
+gôdlîcnissea	gôdlîcnissea	godliknissea	S1a	Herrlichkeit	*	*	*	godlicnissea	NA	NA	JO_FEM	JO_FEM	SG_NOM	Hel_24.eaf
+godes	godes	god	S1b	Gott	CF_U_M	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_24.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_24.eaf
+gêst	gêst	gest	S2	Geist	*	*	*	gest	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_24.eaf
+manag	manag	manag	*	manch, viel	*	*	2085	manag	DI	DIN	A,O	A,O	POS_MASC_SG_NOM	Hel_24.eaf
+uunod	uunod	wonon	S1a	verweilen, bleiben, wohnen	*	*	*	uunod	VV	VVFIN	WK2	WK2	IND_PRES_SG_3	Hel_24.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_24.eaf
+uuillean	uuillean	willio	S1b	Wille; Freude	CF_U_M	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_24.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_24.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_24.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_24.eaf
+uuel	uuel	wel	S2	wohl, gut	*	*	*	uuel	ADV	ADV	*	*	*	Hel_24.eaf
+thenkid	thenkid	thenkian	*	denken, seine Gedanken auf etwas richten	CF_I_Rel	*	*	thenkid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_24.eaf
+,	,	*	*	*	*	*	2086	,	$,	$,	*	*	*	Hel_24.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_24.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_24.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_24.eaf
+bihalde	bihalde	bihaldan	S1	halten, bewahren	*	*	*	bihalde	VV	VVFIN	RED1A	RED1A	SUBJ_PRES_SG_3	Hel_24.eaf
+heƀencuninges	heƀencuninges	hebankuning	S2	Himmelskönig	*	*	*	hebencuninges	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_24.eaf
+gebod	gebod	gibod	*	Gebot, Befehl	CF_I_O	*	*	gebod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_24.eaf
+.	*	*	*	*	*	XXIV	2087	. 	$.	$.	*	*	*	Hel_24.eaf

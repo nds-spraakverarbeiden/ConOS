@@ -1,0 +1,760 @@
+PREFIX :      <file:///C:/Users/chiarcos/Desktop/corpus/heliand/src/ddd-heliand-v1.1/#> 
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x:     <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif:   <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#########
+# input #
+#########
+
+# ID WORD DLEMMA UPOS DHPOS _ HEAD EDGE _ MISC HID HPOS HHEAD HEDGE HLEMMA DPOS DFEATS 
+
+#################
+# preprocessing #
+#################
+# create CLAUSE consolidate LEMMA
+
+# remove all empty annotations
+DELETE {
+	?w ?prop ?val
+} WHERE {
+	?w ?prop ?val
+	FILTER(?val in ("*","?"))
+	FILTER(?prop != conll:WORD)
+};
+
+# create conll:CLAUSE from conll:MISC
+# DELETE {
+	# ?w conll:MISC ?misc
+# } 
+INSERT {
+	?w conll:CLAUSE ?clause.
+} WHERE {
+	?w conll:MISC ?misc.
+	OPTIONAL {
+		?w conll:MISC ?misc.
+		FILTER(strstarts(?misc,'C'))
+		BIND(?misc as ?clause)
+	}
+};
+
+# restore LEMMA from HLEMMA if missing
+DELETE {
+	?w conll:MISC ?misc
+} INSERT {
+	?w conll:LEMMA ?hlemma; conll:MISC ?new_misc.
+} WHERE {
+	?w conll:HLEMMA ?hlemma.
+	MINUS { ?w conll:LEMMA ?lemma }
+	BIND("H>LEMMA" as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)
+};
+
+####################
+# merge HEAD+HHEAD #
+####################
+# from HEAD (automatically parsed) and HHEAD (HeliPaD UD projection)
+
+# if a HHEAD > HID, set HHEAD to the next element with HHEAD=HID
+DELETE {
+	?w conll:HHEAD ?hhead; conll:HID ?hid.
+} INSERT {
+	?w conll:HHEAD ?wh
+} WHERE {
+	?w conll:HID ?hid; conll:HHEAD ?hhead.
+	FILTER(?hhead!="0")
+	{
+		?w conll:HID ?hid; conll:HHEAD ?hhead.
+		FILTER(xsd:int(?hid)<xsd:int(?hhead))
+		OPTIONAL {
+			?w nif:nextWord+ ?wh.
+			?wh conll:HID ?hhead.
+			MINUS { ?w nif:nextWord+ [conll:HID ?hhead; nif:nextWord+ ?wh ] }
+		}
+	} UNION {
+		?w conll:HID ?hid; conll:HHEAD ?hhead.
+		FILTER(xsd:int(?hid)>xsd:int(?hhead))
+		OPTIONAL {
+			?w (^nif:nextWord)+ ?wh.
+			?wh conll:HID ?hhead.
+			MINUS { ?w (^nif:nextWord)+ [conll:HID ?hhead; (^nif:nextWord)+ ?wh ] }
+		}
+	}
+};
+
+# create NEW_HEAD from HHEAD
+INSERT {
+	?w conll:NEW_HEAD ?hh
+} WHERE {
+	?w conll:HHEAD ?hh
+};
+
+# HEAD as fallback for NEW_HEAD
+# + sanity check: only if minimal portion of NEW_HEAD in sentence
+DELETE {
+	?w conll:MISC ?misc
+} INSERT {
+	?w conll:NEW_HEAD ?h;
+	conll:MISC ?new_misc.
+} WHERE {
+	{ SELECT ?s (COUNT(distinct ?nh) as ?nhc)
+	  WHERE {
+		?s a nif:Sentence.
+		?nh conll:HEAD+ ?s; conll:NEW_HEAD []
+	  } GROUP BY ?s
+	}
+	{ SELECT ?s (COUNT(distinct ?w) as ?all)
+	  WHERE {
+		?s a nif:Sentence.
+		?w conll:HEAD+ ?s
+	  } GROUP BY ?s
+	}
+	FILTER(?nhc/?all >= 0.75)
+	?w conll:HEAD ?h. MINUS { ?w conll:NEW_HEAD [] }.
+	?w conll:HEAD+ ?s.
+	?s a nif:Sentence.
+	
+	BIND(concat("P->H(",str(round(1000*?nhc/?all)/10),"%)") as ?comment)
+	OPTIONAL {
+		?w conll:MISC ?misc
+	} 
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)
+};
+
+# for UPOS PUNCT: set head to the preceding token
+# otherwise, these may be a source of projectivity errors
+DELETE {
+	?p conll:NEW_HEAD ?head
+} INSERT {
+	?p conll:NEW_HEAD ?last
+} WHERE {
+	?p conll:UPOS "PUNCT"; conll:NEW_HEAD ?head.
+	?head a nif:Word.
+	?last nif:nextWord ?p.
+};
+
+# eliminate NEW_HEAD cycles
+DELETE {
+	?w conll:NEW_HEAD ?h; conll:MISC ?misc
+} INSERT {
+	?w conll:MISC ?new_misc
+} WHERE {
+	?w conll:NEW_HEAD ?h.
+	?h conll:NEW_HEAD* ?w.
+	?h conll:ID ?id.
+	BIND(concat("cycle>",str(?id)) as ?comment)	
+	OPTIONAL {
+		?w conll:MISC ?misc
+	} 
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)		
+};
+
+# remove non-projectivities
+DELETE {
+	?a conll:NEW_HEAD ?ah; conll:MISC ?misc
+} INSERT {
+	?a conll:MISC ?new_misc
+} WHERE {
+	?a conll:NEW_HEAD ?ah.
+	?a nif:nextWord+ ?b.
+	?b conll:NEW_HEAD ?bh.
+	{ ?ah nif:nextWord+ ?bh. ?bh nif:nextWord+ ?a. ?a nif:nextWord+ ?b} UNION  # ah bh a b 
+	{ ?bh nif:nextWord+ ?a. ?a nif:nextWord+ ?b. ?b nif:nextWord+ ?ah } UNION  # bh a b ah
+	{ ?a nif:nextWord* ?bh. ?bh nif:nextWord ?ah. ?ah nif:nextWord* ?b } # a+bh ah b / a bh ah b / a bh ah+b 
+	?ah conll:ID ?id.
+	BIND(concat("non-projective>",str(?id)) as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	} 
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)		
+};
+
+# remove all NEW_HEADs if any WORD in the sentence lacks a NEW_HEAD
+DELETE {
+	?a conll:NEW_HEAD ?nh; conll:MISC ?misc.
+} INSERT {
+	?a conll:MISC ?new_misc
+} WHERE {
+	?s a nif:Sentence.
+	?a conll:HEAD+ ?s.
+	?a conll:NEW_HEAD ?nh.
+	?b conll:HEAD+ ?s.
+	FILTER(
+		NOT EXISTS {
+			?b conll:NEW_HEAD []
+		}
+	)
+	BIND(concat("gaps") as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	} 
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)		
+};
+# => NEW_HEAD remains only if it produces a complete, projective and non-cyclical parse
+
+# overwrite HEAD with NEW_HEAD 
+DELETE {
+	?a conll:NEW_HEAD ?nh.
+	?a conll:HEAD ?h.
+	?a conll:MISC ?misc.
+} INSERT {
+	?a conll:HEAD ?nh.
+	?a conll:MISC ?new_misc.
+} WHERE {
+	{	# NEW_HEAD
+		?a conll:NEW_HEAD ?nh; conll:HEAD ?h.
+		?a conll:EDGE ?e.
+		BIND(if(?nh=?h, "P=H", "H") as ?comment)
+	} UNION {
+		# no new head
+		?a conll:HEAD [].
+		MINUS { ?a conll:NEW_HEAD [] }
+		BIND("P" as ?comment)
+	}
+	OPTIONAL {
+		?a conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)	
+};	
+
+# overwrite EDGE with HEDGE if HHEAD=HEAD
+DELETE {
+	?a conll:EDGE ?e.
+	?a conll:MISC ?misc.	
+} INSERT {
+	?a conll:EDGE ?he.
+	?a conll:MISC ?new_misc.
+} WHERE {
+	?a conll:EDGE ?e; conll:HEDGE ?he; conll:HEAD ?h; conll:HHEAD ?h.
+	BIND(if(?e=?he, "PD=HD", "HD") as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)	
+};
+
+# # merge comments
+# DELETE {
+	# ?a conll:MISC ?misc
+# } INSERT {
+	# ?a conll:MISC ?new_misc
+# } WHERE {
+	# { SELECT ?a (group_concat(distinct ?m; separator="|") as ?new_misc)
+	  # WHERE {
+		# ?a conll:MISC ?m
+	 # } GROUP BY ?a ORDER BY ?a ?m
+	# }
+	# ?a conll:MISC ?misc
+# };
+
+#######################
+# merge HEAD + CLAUSE #
+#######################
+# enforce DDD clause boundaries over current HEAD annotation
+# adjust root and DDD labels
+
+# CLAUSE => powla:Node
+DELETE {
+	?w conll:CLAUSE ?clause
+} INSERT {
+	?w powla:hasParent [ a conll:CLAUSE; rdf:value ?clause ]
+} WHERE {
+	?w conll:CLAUSE ?clause
+};
+
+# attach every word to the next CLAUSE
+# (assume that CLAUSE is marked on the last element)
+INSERT {
+	?w powla:hasParent ?clause.
+	# ?w conll:A_CL ?label.
+} WHERE {
+	?w nif:nextWord+/powla:hasParent ?clause.
+	MINUS {
+		?w powla:hasParent []
+	}
+	?clause rdf:value ?label
+	MINUS {
+		?w nif:nextWord+ [ powla:hasParent []; nif:nextWord+/powla:hasParent ?clause ]
+	}
+};
+
+# remove punctuation from CLAUSE
+DELETE {
+	?w powla:hasParent ?clause
+# } INSERT {
+	# ?w conll:A_NCL "PUNCT"
+} WHERE {
+	?w conll:UPOS "PUNCT"; powla:hasParent ?clause
+};
+
+# remove CLAUSE annotation from every word whose parent is in the same CLAUSE
+DELETE {
+	?w powla:hasParent ?clause
+# } INSERT {
+	# ?w conll:A_NCL "HEAD"
+} WHERE {
+	?w powla:hasParent ?clause; conll:HEAD+/powla:hasParent ?clause
+};
+
+# merge interrupted clauses
+# 2	CC	clause continued (continuation of clausal fragment)
+# 2	CS	clause suspended (clausal fragment, to be continued)
+# we expect this not to occur recursively
+DELETE {
+	?a ?b ?clause.
+	?clause ?c ?d.
+	?anteclause rdf:value ?antelabel.
+} INSERT {
+	?w powla:hasParent ?anteclause.
+	?anteclause rdf:value ?newlabel.
+	?interclause powla:hasParent ?anteclause.
+} WHERE {
+	?w powla:hasParent ?clause.
+	?clause rdf:value ?label.
+	FILTER(contains(?label,"CC")) 
+	BIND(replace(?label,"CC","CS") as ?antelabel)
+	?anteclause rdf:value ?antelabel.
+	?v powla:hasParent ?anteclause.
+	?v nif:nextWord+ ?w.
+	MINUS {
+		?v powla:hasParent ?anteclause.
+		?anteclause rdf:value ?antelabel.
+		?v nif:nextWord+ ?tmp.
+		?tmp nif:nextWord+ ?w.
+		?tmp powla:hasParent ?otherclause.
+		?otherclause rdf:value ?antelabel.
+		FILTER(?otherclause!=?anteclause)
+	}
+	?a ?b ?clause.
+	?cause ?c ?d.
+	BIND(concat(?antelabel,"+",?label) as ?newlabel)
+	OPTIONAL {
+		?v nif:nextWord+ ?x; powla:hasParent ?anteclause.
+		?x nif:nextWord+ ?w; powla:hasParent ?interclause.
+		?w powla:hasParent ?clause.
+		FILTER(?anteclause != ?interclause)
+		FILTER(?interclause != ?clause)
+	}
+};
+
+# remove CLAUSE annotation from every word whose parent is in the same CLAUSE
+DELETE {
+	?w powla:hasParent ?clause
+# } INSERT {
+	# ?w conll:A_NCL "HEAD"
+} WHERE {
+	?w powla:hasParent ?clause; conll:HEAD+/powla:hasParent ?clause
+};
+
+
+
+# set first child of CLAUSE as head of CLAUSE
+# make everything else its dependants
+DELETE {
+	?w conll:HEAD ?old_head; conll:MISC ?misc; powla:hasParent ?clause.
+} INSERT {
+	?w conll:HEAD ?clausalHead; conll:MISC ?new_misc
+} WHERE {
+	?h powla:hasParent ?clause.
+	?w powla:hasParent ?clause; conll:HEAD ?old_head.
+	?old_head conll:ID ?id.
+	?h nif:nextWord+ ?w.
+	MINUS { [powla:hasParent ?clause ] nif:nextWord+ ?h }
+	BIND(concat("D>H(",str(?id),")") as ?comment)
+	OPTIONAL {
+		?w conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)	
+};
+
+# move CLAUSE annotations to its head, remove powla:Node
+DELETE {
+	?a ?b ?clause.
+	?clause ?c ?d.
+} INSERT {
+	?w conll:CLAUSE ?label
+} WHERE {
+	?w powla:hasParent ?clause.
+	?clause rdf:value ?label.
+
+	# all ?clause information
+	?a ?b ?clause.
+	?clause ?c ?d.
+};
+
+# map CLAUSE annotations to UD clause label
+DELETE {
+	?word conll:EDGE ?edge; conll:MISC ?misc
+} INSERT {
+	?word conll:EDGE ?dcedge; conll:MISC ?new_misc
+} WHERE {
+	?word conll:CLAUSE ?label.
+	?word conll:EDGE ?edge.
+	?word conll:HEAD/a nif:Word.	# keep root intact
+	VALUES (?label ?dcedge) {
+		("CF_CC_I_Adv_Caus"	"advcl")
+		("CF_CC_I_Adv_Cnc" "advcl")
+		("CF_CC_I_Adv_Cnd" "advcl")
+		("CF_CC_I_Adv_Temp" "advcl")
+		("CF_CC_I_O" "ccomp")
+		("CF_CC_I_Rel" "acl:relcl")
+		("CF_CC_U_Adv_Cnd" "advcl")
+		("CF_CC_U_O" "ccomp")
+		("CF_CS_I_Adv_Caus" "advcl")
+		("CF_CS_I_Adv_Cnc" "advcl")
+		("CF_CS_I_Adv_Cnd" "advcl")
+		("CF_CS_I_Adv_Temp" "advcl")
+		("CF_CS_I_O" "ccomp")
+		("CF_CS_I_Rel" "acl:relcl")
+		("CF_I_ Adv_Loc" "advcl")
+		("CF_I_ADv_Cnc" "advcl")
+		("CF_I_Adv_Caus" "advcl")
+		("CF_I_Adv_Cnc" "advcl")
+		("CF_I_Adv_Cnd" "advcl")
+		("CF_I_Adv_Cns" "advcl")
+		("CF_I_Adv_Fin" "advcl")
+		("CF_I_Adv_Loc" "advcl")
+		("CF_I_Adv_Mod" "advcl")
+		("CF_I_Adv_Temp" "advcl")
+		("CF_I_O" "ccomp")
+		("CF_I_Rel" "acl:relcl")
+		("CF_I_S" "csubj")
+		("CF_U_Adv_Cnd" "advcl")
+		("CF_U_Adv_Fin" "advcl")
+		("CF_U_O" "ccomp")
+		("CF_U_Rel" "acl:relcl")
+		("CI_CC_I_O" "xcomp")
+		("CI_CC_U_M" "xcomp")
+		("CI_CC_U_O" "xcomp")
+		("CI_CS_I_M" "xcomp")
+		("CI_CS_I_O" "xcomp")
+		("CI_CS_U_O" "xcomp")
+		("CI_I_O" "xcomp")
+		("CI_U_Adv_Fin" "advcl")
+		("CI_U_CC_O" "xcomp")
+		("CI_U_M" "xcomp")
+		("CI_U_O" "xcomp")
+		("CI_U_S" "csubj")
+		("CP_I_Rel" "amod")
+	}
+	bind(if(?dcedge=?edge, "CEDGE=EDGE", concat("CEDGE>EDGE(",?edge,")")) as ?comment)
+	OPTIONAL {
+		?word conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)		
+};
+
+# interpret DDD Clause annotations (cf. https://www.laudatio-repository.org/browse/annotation/viWkDnMB7CArCQ9CsRC7/annotations)
+# col	label	definition
+# 1	CE	clausal elliptic
+# 1	CF	clausal finite
+# 1	CI	clausal infinite
+# 1	CP	clausal participle
+# 2	CC	clause continued (continuation of clausal fragment)
+# 2	CS	clause suspended (clausal fragment, to be continued)
+# 3	I	introduced (?)
+# 3	U	unintroduced (?)
+# 4	Adv	adverbial => advcl
+# 4	Att	attributive	=> acl
+# 4	Ex	exclamation
+# ?	ID	dependent interrogative clause
+# 4	Imp	imperative
+# 4	Int	interrogative
+# 4	M	main => root/parataxis
+# 4	Mod	modal
+# 4	REL,Rel	relative => acl:relcl
+# 4	O	object clause => O+Fin => ccomp, O-Fin => xcomp
+# 4	S	subject clause => csubj
+# ?	P	predicative clause
+# ?	Ad	adversative clause
+# 5	CAUS,Caus	causal
+# 5	CNC,Cnc	concessive
+# 5	CND,Cnd	conditional
+# 5	CNS,Cns	consecutive
+# 5	Fin	final
+# 5	LOC,Loc	local
+# 5	TEMP,Temp	temporal
+
+# label	UD interpretation	
+# CE		ellipsis, uninterpretable
+# CF_CC_I_Adv_Caus	advcl	
+# CF_CC_I_Adv_Cnc	advcl	
+# CF_CC_I_Adv_Cnd	advcl	
+# CF_CC_I_Adv_Temp	advcl	
+# CF_CC_I_Int		root/parataxis/conj
+# CF_CC_I_M		root/parataxis/conj
+# CF_CC_I_O	ccomp	
+# CF_CC_I_Rel	acl:relcl	
+# CF_CC_U_Adv_Cnd	advcl	
+# CF_CC_U_Ex		root/parataxis/conj
+# CF_CC_U_Imp		root/parataxis/conj
+# CF_CC_U_M		root/parataxis/conj
+# CF_CC_U_O	ccomp	
+# CF_CS_I_Adv_Caus	advcl	
+# CF_CS_I_Adv_Cnc	advcl	
+# CF_CS_I_Adv_Cnd	advcl	
+# CF_CS_I_Adv_Temp	advcl	
+# CF_CS_I_Int		root/parataxis/conj
+# CF_CS_I_M		root/parataxis/conj
+# CF_CS_I_O	ccomp	
+# CF_CS_I_Rel	acl:relcl	
+# CF_CS_U_Ex		root/parataxis/conj
+# CF_CS_U_Imp		root/parataxis/conj
+# CF_CS_U_M		root/parataxis/conj
+# CF_I_ Adv_Loc	advcl	
+# CF_I_ADv_Cnc	advcl	
+# CF_I_Adv_Caus	advcl	
+# CF_I_Adv_Cnc	advcl	
+# CF_I_Adv_Cnd	advcl	
+# CF_I_Adv_Cns	advcl	
+# CF_I_Adv_Fin	advcl	
+# CF_I_Adv_Loc	advcl	
+# CF_I_Adv_Mod	advcl	
+# CF_I_Adv_Temp	advcl	
+# CF_I_Imp		root/parataxis/conj
+# CF_I_Int		root/parataxis/conj
+# CF_I_M		root/parataxis/conj
+# CF_I_O	ccomp	
+# CF_I_Rel	acl:relcl	
+# CF_I_S	csubj	
+# CF_U_Adv_Cnd	advcl	
+# CF_U_Adv_Fin	advcl	
+# CF_U_Ex		root/parataxis/conj
+# CF_U_Imp		root/parataxis/conj
+# CF_U_Int		root/parataxis/conj
+# CF_U_M		root/parataxis/conj
+# CF_U_O	ccomp	
+# CF_U_Rel	acl:relcl	
+# CI_CC_I_O	xcomp	
+# CI_CC_U_M	xcomp	
+# CI_CC_U_O	xcomp	
+# CI_CS_I_M	xcomp	
+# CI_CS_I_O	xcomp	
+# CI_CS_U_O	xcomp	
+# CI_I_O	xcomp	
+# CI_U_Adv_Fin	advcl	
+# CI_U_CC_O	xcomp	
+# CI_U_M	xcomp	
+# CI_U_O	xcomp	
+# CI_U_S	csubj	
+# CP_I_Rel	amod	
+
+
+# # merge comments
+# DELETE {
+	# ?a conll:MISC ?misc
+# } INSERT {
+	# ?a conll:MISC ?new_misc
+# } WHERE {
+	# { SELECT ?a (group_concat(distinct ?m; separator="|") as ?new_misc)
+	  # WHERE {
+		# ?a conll:MISC ?m
+	 # } GROUP BY ?a ORDER BY ?a ?m
+	# }
+	# ?a conll:MISC ?misc
+# };
+
+#####################
+# postproces syntax #
+#####################
+
+# move punct to: head of spanning dependency > preceding root > following root
+DELETE {
+	?p conll:HEAD ?h
+} INSERT {
+	?p conll:HEAD ?a
+} WHERE {
+	?p conll:EDGE "punct".
+	?p conll:HEAD ?h.
+	{ # attach to head of spanning dependency
+	  ?a nif:nextWord+ ?p. 
+	  ?p nif:nextWord+/conll:HEAD ?a 
+	} UNION {
+	  # attach to head of spanning dependency
+	  ?p nif:nextWord+ ?a.
+	  [conll:HEAD ?a] nif:nextWord+ ?p
+	} UNION {
+		# no spanning dependency => attach to preceding Root
+		?a conll:HEAD/a nif:Sentence.
+		?a nif:nextWord+ ?p.
+		MINUS {
+			?pre nif:nextWord+ ?p; (conll:HEAD|^conll:HEAD) ?post.
+			?p nif:nextWord+ ?post
+		}
+		MINUS {	# ?a is the latest root
+			?a nif:nextWord+ [ conll:HEAD/a nif:Sentence; nif:nextWord+ ?p ]
+		}
+	} UNION {
+		# no spanning dependency and no preceding Root => attach to following Root
+		?a conll:HEAD/a nif:Sentence.
+		?p nif:nextWord+ ?a.
+		MINUS {	# no spanning dependency
+			?pre nif:nextWord+ ?p; (conll:HEAD|^conll:HEAD) ?post.
+			?p nif:nextWord+ ?post
+		}
+		MINUS { # no preceding root
+			[ conll:HEAD/a nif:Sentence ] nif:nextWord+ ?p
+		}
+		MINUS { # next preceding root
+			?p nif:nextWord+ [ conll:HEAD/a nif:Sentence; nif:nextWord+ ?a ]
+		}
+	}
+};
+
+# # merge comments
+# DELETE {
+	# ?a conll:MISC ?misc
+# } INSERT {
+	# ?a conll:MISC ?new_misc
+# } WHERE {
+	# { SELECT ?a (group_concat(distinct ?m; separator="|") as ?new_misc)
+	  # WHERE {
+		# ?a conll:MISC ?m
+	 # } GROUP BY ?a ORDER BY ?a ?m
+	# }
+	# ?a conll:MISC ?misc
+# };
+
+###############
+# create XPOS #
+###############
+
+# restore HPOS from DHPOS (HPOS extrapolated from DPOS)
+DELETE {
+	?a conll:MISC ?misc.
+} INSERT {
+	?a conll:HPOS ?dhpos; conll:MISC ?new_misc.
+} WHERE {
+	?a conll:DHPOS ?dhpos.
+	MINUS { ?a conll:HPOS [] }
+	BIND("DHPOS>HPOS" as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)	
+};
+
+# set XPOS to HPOS|DPOS.DFEATS
+INSERT {
+	?a conll:XPOS ?xpos
+} WHERE {
+	?a a nif:Word.
+	OPTIONAL { ?a conll:DPOS ?dpos }	# may be missing for multi-token annotations
+	OPTIONAL { ?a conll:HPOS ?hpos }
+	OPTIONAL { ?a conll:DFEATS ?dfeats }
+	BIND(
+		replace(
+			concat(
+				if(bound(?hpos), ?hpos,"_"),
+				"|",
+				if(bound(?dpos), ?dpos,"_"),
+				if(bound(?dfeats), concat(".",?dfeats), "") 
+			),
+			"\\s", "")
+			as ?xpos )
+};
+
+##################
+# postprocessing #
+##################
+
+# pruning: remove DEDGE, DHEAD, HHEAD, HEDGE, HLEMMA, HPOS, DHPOS, DPOS, DFEATS
+DELETE {
+	?a ?prop ?b
+} WHERE {
+	?a a nif:Word; ?prop ?b.
+	FILTER(?prop in (conll:DEDGE,conll:DHEAD,conll:HHEAD,conll:HEDGE, conll:HLEMMA, conll:HPOS, conll:DHPOS, conll:DPOS, conll:DFEATS))
+};
+
+# fix multi-head assignment: resort to the last head  # TODO: debug properly
+DELETE {
+	?a conll:HEAD ?h1; conll:MISC ?misc.
+} INSERT {
+	?a conll:MISC ?new_misc
+} WHERE {
+	?a conll:HEAD ?h1, ?h2.
+	?h1 nif:nextWord+ ?h2.
+	BIND("dedup_head" as ?comment)
+	OPTIONAL {
+		?a conll:MISC ?misc
+	}
+	BIND(if(bound(?misc), concat(?misc,";",?comment), ?comment) as ?new_misc)	
+};
+
+# cast ID to integers to enforce the order
+DELETE {
+	?w conll:ID ?id
+} INSERT {
+	?w conll:ID ?newid
+} WHERE {
+	?w conll:ID ?id
+	BIND(xsd:int(?id) as ?newid)
+};
+
+# # merge comments
+# DELETE {
+	# ?a conll:MISC ?misc
+# } INSERT {
+	# ?a conll:MISC ?new_misc
+# } WHERE {
+	# { SELECT ?a (group_concat(distinct ?m; separator="|") as ?new_misc)
+	  # WHERE {
+		# ?a conll:MISC ?m
+	 # } GROUP BY ?a ORDER BY ?a ?m
+	# }
+	# ?a conll:MISC ?misc
+# };
+
+# the following is SLOW: drop if unneccessary
+
+# drop empty lines, restore order from IDs
+DELETE {
+	?a ?b ?empty.
+	?empty ?c ?d.
+} WHERE {
+	?empty conll:XPOS []
+	MINUS {
+		?empty conll:WORD []
+	}
+	?a ?b ?empty.
+	?empty ?c ?d.
+};
+
+# drop and restore nif:nextWord from IDs
+DELETE {
+	?a nif:nextWord ?b
+} WHERE {
+	?a nif:nextWord ?b.
+	?a conll:HEAD+ ?s.
+	?s a nif:Sentence.
+	?b conll:HEAD+ ?s.
+};
+
+INSERT {
+	?a nif:nextWord ?b
+} WHERE {
+	?s a nif:Sentence.
+	?a conll:HEAD+ ?s; conll:ID ?aid.
+	?b conll:HEAD+ ?s; conll:ID ?bid.
+	FILTER(?a != ?b)
+	FILTER(xsd:int(?aid)<xsd:int(?bid))
+	MINUS {
+		?s a nif:Sentence.
+		?a conll:HEAD+ ?s; conll:ID ?aid.
+		?b conll:HEAD+ ?s; conll:ID ?bid.
+		?c conll:HEAD+ ?s; conll:ID ?cid.
+		FILTER(?a != ?b)
+		FILTER(?a != ?c)
+		FILTER(?b != ?c)
+		FILTER(xsd:int(?aid)<xsd:int(?cid))
+		FILTER(xsd:int(?cid)<xsd:int(?bid))
+	}
+};

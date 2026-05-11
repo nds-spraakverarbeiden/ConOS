@@ -1,0 +1,1004 @@
+
+Friðubarn	Friðubarn	friđubarn	S2	Friedenskind	*	*	*	fridubarn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+godes	godes	god	*	Gott	*	*	4525	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+geng	geng	gangan	*	gehen, wandeln	*	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_55.eaf
+gisittien	gisittien	gisittian	S1	sitzen, sich setzen	*	*	*	gisittien	VV	VVINF	ST1	ST1	*	Hel_55.eaf
+under	under	undar	*	unter, zwischen	*	*	*	under	AP	APPR	*	*	*	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_55.eaf
+gesîðo	gesîðo	gisiđ	S2	Gefolgsmann, Dienstmann	*	*	*	gesido	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_55.eaf
+folc	folc	folk	*	Volk, Schar, Menge, Leute	CF_U_M	*	4526	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_55.eaf
+sagda	sagda	seggian	*	sagen	*	*	*	sagda	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_55.eaf
+filu	filu	filu	*	viel,sehr	*	*	*	filu	ADV	ADV	*	*	*	Hel_55.eaf
+langsamna	langsamna	langsam	S1	lange dauernd, ewig während	*	*	*	langsamna	ADJ	ADJ	A,O	P	POS_NEUT_SG_ACC_ST	Hel_55.eaf
+râd	râd	rad	*	Rat	CF_I_M	*	*	rad	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Uuarð	Uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_55.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_55.eaf
+lioht	lioht	lioht	S2	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+kuman	kuman	kuman	*	kommen	*	*	*	kuman	VV	VVPP	ST4	ST4	*	Hel_55.eaf
+,	,	*	*	*	*	*	4527	,	$,	$,	*	*	*	Hel_55.eaf
+morgen	morgen	morgan	S1a	Morgen	*	*	*	morgen	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+mannun	mannun	mann	S1b	Mensch, Leute	CF_U_M	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Mahtigne	Mahtigne	mahtig	S2	mächtig, gewaltig	*	*	*	mahtigne	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_55.eaf
+Crist	Crist	Krist	*	Christus	*	*	4528	crist	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_55.eaf
+grôttun	grôttun	grotian	S1a	angehen, anreden, anrufen	*	*	*	grottun	VV	VVFIN	WK1A	WK1A	IND_PAST_PL_3	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_55.eaf
+iungaron	iungaron	jungaro	S1b	Jünger, Diener	CF_U_M	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+frâgodun	frâgodun	fragon	*	fragen	CF_I_M	*	*	fragodun	VV	VVFIN	WK2	WK2	IND_PAST_PL_3	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+huar	huar	hwar	*	wo	*	*	*	huar	PW	PWAV	*	*	*	Hel_55.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+gôma	gôma	goma	S2	Bewirtung, Gastmahl	*	*	*	goma	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	4529	tho	ADV	ADV	*	*	*	Hel_55.eaf
+an	an	an	*	an, in, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_55.eaf
+uuîhdage	uuîhdage	uuihdag	S1	Feiertag	*	*	*	uuihdage	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_55.eaf
+uuirkien	uuirkien	wirkian	S2	tun, machen, bereiten, ausführen	*	*	*	uuirkien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+scoldin	scoldin	skulan	*	sollen, müssen	CF_I_O	*	*	scoldin	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_PL_3	Hel_55.eaf
+,	,	*	*	*	*	*	4530	,	$,	$,	*	*	*	Hel_55.eaf
+huar	huar	hwar	S1a	wo	*	*	*	huar	PW	PWAV	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+uueldi	uueldi	willian	*	wollen	*	*	*	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_55.eaf
+halden	halden	haldan	S1b	halten; ein Fest feiern	*	*	*	halden	VV	VVINF	RED1A	RED1A	*	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_PL_ACC	Hel_55.eaf
+hêlagon	hêlagon	helag	S2	heilig	*	*	*	helagon	ADJ	ADJ	A,O	N	POS_FEM_PL_ACC_WK	Hel_55.eaf
+tîdi	tîdi	tid	*	Zeit, Zeitpunkt, Zeitalter	*	*	4531	tidi	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_55.eaf
+selƀo	selƀo	self	S1a	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+gesîðun	gesîðun	gisiđ	S1b	Gefolgsmann, Dienstmann	CF_I_O	*	*	gesidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thô	Thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_55.eaf
+sôkien	sôkien	sokian	S2	suchen, aufsuchen	*	*	*	sokien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+hêt	hêt	hetan	*	heißen, befehlen	*	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4532	,	$,	$,	*	*	*	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_55.eaf
+gumon	gumon	gumo	S1a	Mann, Mensch	*	*	*	gumon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_55.eaf
+Hierusalem	Hierusalem	Hierusalem	S1b	Jerusalem	CF_U_M	*	*	hierusalem	NE	NEO	0_NEUT	0_NEUT	SG_ACC	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+sô	sô	so	*	nachdem, sobald, wenn	*	*	*	so	KO	KOUS	*	*	*	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+than	than	than	*	dann, alsdann, darauf, nachdem, danach	*	*	*	than	ADV	ADV	*	*	*	Hel_55.eaf
+gangan	gangan	gangan	S2	gehen, wandeln	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_55.eaf
+kumad	kumad	kuman	*	kommen	CF_CS_I_Adv_Temp	*	*	kumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_2	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+,	,+]	*	*	*	*	*	*	,+] 	$,+$(	$,+$(	*	*	*	Hel_55.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+,	,	*	*	*	*	*	4533	,	$,	$,	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_55.eaf
+burg	burg	burg	S1	Stadt, Burg, Ort	*	*	*	burg	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_55.eaf
+innan	*	innan	*	innen, im Innern	CF_CC_I_Adv_Temp	*	*	innan	ADV	ADV	*	*	*	Hel_55.eaf
+-	innan-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_55.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+is	is	wesan	*	sein, dasein, vorhanden sein, sich befinden, stattfinden	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_55.eaf
+braht	braht	braht	S2	Lärm	*	*	*	braht	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_55.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+,	,	*	*	*	*	*	4534	,	$,	$,	*	*	*	Hel_55.eaf
+meginthiodo	meginthiodo	meginthioda	S1a	großes Volk, Volkshaufen, gewaltige Schar	*	*	*	meginthiodo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_55.eaf
+gimang	gimang	gimang	S1b	Schar, Haufen, Gesellschaft	CF_U_M	*	*	gimang	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+-	-	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+thar	thar	thar	*	da, do	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+mugun	mugun	mugan	*	vermögen, können	*	*	*	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+ênan	ênan	en	*	ein, einer	*	*	*	enan	DI	DIA	A,O	P	MASC_SG_ACC_ST	Hel_55.eaf
+man	man	mann	S2	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_55.eaf
+sehan	sehan	sehan	*	sehen	*	*	4535	sehan	VV	VVINF	ST5	ST5	*	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+handun	handun	hand	S1	Hand, Seite	*	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_55.eaf
+dragen	dragen	dragan	*	tragen, auftragen, bringen	*	*	*	dragen	VV	VVINF	ST6	ST6	*	Hel_55.eaf
+hluttres	hluttres	hluttar	S2	hell, klar, lauter	*	*	*	hluttres	ADJ	ADJ	A,O	P	POS_NEUT_SG_GEN_ST	Hel_55.eaf
+uuatares	uuatares	watar	*	Wasser	*	*	4536	uuatares	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+ful	ful	ful	S1a	Gefäß, Krug	*	*	*	ful	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+folmun	folmun	folmos	S1b	die Hände	CF_U_M	*	*	folmun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Themu	Themu	the	*	der, die, das	*	*	*	themu	DD	DDS	*	*	MASC_SG_DAT	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+folgon	folgon	folgon	S2	folgen, nachfolgen	*	*	*	folgon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+sculun	sculun	skulan	*	sollen, müssen	CF_U_M	*	4537	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_55.eaf
+an	an+sô	an	*	in, in – hinein, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+sô huilike	huilike	so hwilik (so)	*	was, welch (auch)  immer	*	*	*	so huilike	DW	DWGREL	A,O	P	MASC_PL_ACC_ST	Hel_55.eaf
+gardos	gardos	gard	S1	Wohnung, Haus	*	*	*	gardos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+sô	sô	so	*	so; hier zu (sô hwilîk)	*	*	*	so	ADV	DWGREL	*	*	*	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_55.eaf
+gangan	gangan	gangan	S2	gehen, wandeln	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_55.eaf
+gisehat	gisehat	gisehan	*	sehen, ansehen, wahrnehmen	CF_I_Rel	*	*	gisehat	VV	VVFIN	ST5	ST5	IND_PRES_PL_2	Hel_55.eaf
+,	,+]	*	*	*	*	*	4538	,+]	$,+$(	$,+$(	*	*	*	Hel_55.eaf
+ia	ia	jak	*	und	*	*	*	ia	KO	KON	*	*	*	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM	Hel_55.eaf
+than	than	than	*	dann, alsdann, darauf, nachdem, danach	*	*	*	than	ADV	ADV	*	*	*	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_55.eaf
+hêrron	hêrron	herro	S1	Herr	CF_CS_I_M	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+the	the	the	*	der, die, das, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_55.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDA	*	*	MASC_PL_ACC	Hel_55.eaf
+hoƀos	hoƀos	hof	*	Haus, Gebäude, das Gebäudekomplex eines Hofes	*	*	*	hobos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_55.eaf
+êgi	êgi	egan	S2	haben, besitzen	CF_I_Rel	*	*	egi	VA	VAFIN	PRPR	PRPR	SUBJ_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4539	,	$,	$,	*	*	*	Hel_55.eaf
+selƀon	selƀon	self	S1a	selbst	*	*	*	selbon	DD	DDS	A,O	N	MASC_PL_NOM_WK	Hel_55.eaf
+seggiad	seggiad	seggian	S1b	sagen	CF_CC_I_M	*	*	seggiad	VV	VVFIN	WK3	WK3	IND_PRES_PL_2	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_55.eaf
+sende	sende	sendian	S2	senden, schicken	*	*	*	sende	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_1	Hel_55.eaf
+tharod	tharod	tharod	*	dorthin	*	*	4540	tharod	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	PTKZU	*	*	*	Hel_55.eaf
+gigaruuuenne	gigaruuuenne	gigarwian	S1a	bereiten, schmücken	*	*	*	gigaruuuenne	VV	VVINFS	WK1A	WK1A	SG_DAT	Hel_55.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_55.eaf
+gôma	gôma	goma	S1b	Bewirtung, Gastmahl	CF_I_O	*	*	goma	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Than	Than	than	*	da, dann	*	*	*	than	ADV	ADV	*	*	*	Hel_55.eaf
+tôgid	tôgid	togian	*	zeigen	*	*	*	togid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	DI	DIA	A,O	A,O	NEUT_SG_ACC_0	Hel_55.eaf
+gôdlîc	gôdlîc	godlik	S2	gut, herrlich	*	*	*	godlic	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_55.eaf
+hûs	hûs	hus	*	Haus	*	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	4541	,	$,	$,	*	*	*	Hel_55.eaf
+hôhan	hôhan	hoh	S1	hoch, hochragend, in der Höhe befindlich	*	*	*	hohan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_55.eaf
+soleri	soleri	soleri	*	Saalraum über dem Erdgeschoss, Söller	CF_U_M	*	*	soleri	NA	NA	JA_MASC	JA_MASC	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_55.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_55.eaf
+bihangen	bihangen	bihahan	S2	behängen, verhängen, bedecken	*	*	*	bihangen	VV	VVPP	RED1A	RED1A	*	Hel_55.eaf
+al	al	all	*	ganz	*	*	4542	al	ADV	ADV	*	*	*	Hel_55.eaf
+fagarun	fagarun	fagar	S1a	schön, anmutig, friedlich	*	*	*	fagarun	ADJ	ADJ	A,O	P,N	POS_FEM_PL_DAT_ST,WK	Hel_55.eaf
+fratahun	fratahun	frataha	S1b	Zierat, Schmuck	CF_I_Rel	*	*	fratahun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+frummien	frummien	frummian	S2	ausführen, vollbringen, tun,	*	*	*	frummien	VV	VVINF	WK1B	WK1B	*	Hel_55.eaf
+sculun	sculun	skulan	*	sollen, müssen	*	*	4543	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_55.eaf
+uuerdscepi	uuerdscepi	werdskepi	S1	Bewirtung, Mahl	*	*	*	uuerdscepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_55.eaf
+mînan	mînan	min	*	mein	CF_U_M	*	*	minan	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+uuiskumo	uuiskumo	wiskumo	S2	gewiss kommend	*	*	4544	uuiskumo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_55.eaf
+selƀo	selƀo	self	S1a	selbst	*	*	*	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+mînun	mînun	min	*	mein	*	*	*	minun	DPOS	DPOS	A,O	P	MASC_PL_DAT_ST	Hel_55.eaf
+gesîðun	gesîðun	gisiđ	S1b	Gefolgsmann, Dienstmann	CF_U_M	*	*	gesidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+Thô	Thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+uurðun	uurðun	werđan	*	werden	*	*	*	uurdun	VA	VAFIN	ST3B	ST3B	IND_PAST_PL_3	Hel_55.eaf
+sân	sân+aftar	san	S2	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_55.eaf
+aftar thiu	thiu	aftar thiu	*	danach	*	*	4545	aftar thiu	ADV	ADV	*	*	*	Hel_55.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+Hierusalem	Hierusalem	Hierusalem	S1	Jerusalem	*	*	*	hierusalem	NE	NEO	0_NEUT	0_NEUT	SG_DAT	Hel_55.eaf
+iungaron	iungaron	jungaro	S2	Jünger, Diener	*	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_55.eaf
+Kristes	Kristes	Krist	*	Christus	*	*	4546	kristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_55.eaf
+forðuuard	forðuuard	forđward	S1a	vorwärts, nach vorn	*	*	*	forduuard	ADV	ADV	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+ferdi	ferdi	fard	S1b	Weg, Reise, Zug	CF_U_M	*	*	ferdi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+fundun	fundun+all	findan	S2	finden, antreffen	CF_CS_U_M	*	*	fundun	VV	VVFIN	ST3A	ST3A	IND_PAST_PL_3	Hel_55.eaf
+all sô	sô	all so	*	so wie, ganz wie	*	*	*	all so	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+sprak	sprak	sprekan	*	sprechen, reden	CF_I_Adv_Mod	*	4547	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+uuordtêcan	uuordtêcan	uuordtekan	S1a	Wortzeichen	*	*	*	uuordtecan	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+uuâr	uuâr	war	S1b	wahr, wahrhaftig	CF_CC_U_M	*	*	uuar	ADJ	ADJD	A,O	A,O	POS	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+uuas	uuas	wesan	*	sein, dasein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_55.eaf
+giuuand	giuuand	giwand	S2	Zweifel	*	*	*	giuuand	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+ênig	ênig	enig	*	irgend ein(er)	CF_U_M	*	*	enig	DI	DIN	A,O	A,O	NEUT_SG_NOM_0	Hel_55.eaf
+.	.	*	*	*	*	*	4548	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+gereuuidun	gereuuidun	garuwian	S1a	bereit machen, rüsten	*	*	*	gereuuidun	VV	VVFIN	WK1B	WK1B	IND_PAST_PL_3	Hel_55.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_55.eaf
+gôma	gôma	goma	S1b	Bewirtung, Gastmahl	CF_U_M	*	*	goma	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Uuarð	Uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_55.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+sunu	sunu	sunu	*	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4549	,	$,	$,	*	*	*	Hel_55.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_55.eaf
+an	an	an	*	in, in – hinein, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_55.eaf
+hûs	hûs	hus	S2	Haus	*	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+cuman	cuman	kuman	*	kommen	CF_U_M	*	*	cuman	VV	VVPP	ST4	ST4	*	Hel_55.eaf
+,	,	*	*	*	*	*	4550	,	$,	$,	*	*	*	Hel_55.eaf
+thar	thar	thar	*	da, wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_55.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	FEM_PL_ACC	Hel_55.eaf
+landuuîse	landuuîse	landwisa	S1	Landesbrauch, Landessitte	*	*	*	landuuise	NA	NA	N,O_FEM	O_FEM	PL_ACC	Hel_55.eaf
+lêstien	lêstien	lestian	*	befolgen, ausführen, vollführen, vollbringen	*	*	*	lestien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+scoldun	scoldun	skulan	S2	sollen, müssen	*	*	*	scoldun	VM	VMFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_55.eaf
+,	,	*	*	*	*	*	4551	,	$,	$,	*	*	*	Hel_55.eaf
+ful	*	ful	*	ful	*	*	*	ful	ADJ	PTKVZ	A,O	*	*	Hel_55.eaf
+gangan	fulgangan	fulgangan	*	tun, befolgen	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_55.eaf
+godes	godes	god	S1a	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+gibode	gibode	gibod	S1b	Gebot, Befehl	CF_I_Rel	*	*	gibode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+,	,+al	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+al sô	sô	all so	*	so wie, ganz wie	*	*	*	al so	KO	KOUS	*	*	*	Hel_55.eaf
+Iudeono	Iudeono	Iudeo	S2	Jude	*	*	*	iudeono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_55.eaf
+uuas	uuas	wesan	*	sein	*	*	4552	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+êo	êo	eo	S1a	Gesetz	*	*	*	eo	NA	NA	WA_MASC	WA_MASC	SG_NOM	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+aldsidu	aldsidu	aldsidu	S1b	Sitte von alters her	*	*	*	aldsidu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+êrdagun	êrdagun	erdagos	S2	vergangene Tage, frühere Zeiten	CF_I_Adv_Mod	*	*	erdagun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	4553	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Giuuêt	Giuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_55.eaf
+âƀande	âƀande	aband	S1	Abend	*	*	*	abande	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_55.eaf
+alouualdand	alouualdand	alwaldand	S2	Allwaltender	*	*	*	alouualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_55.eaf
+Krist	Krist	Krist	*	Christus	*	*	4554	krist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thene	thene	the	*	der, die, das	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_55.eaf
+seli	seli	seli	S1a	Saal, Hauptraum in der Wohnung, Haus	*	*	*	seli	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_55.eaf
+sittien	sittien	sittian	S1b	sich niedersetzen, sich wohinsetzen	CF_U_M	*	*	sittien	VV	VVINF	ST5	ST5	*	Hel_55.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_55.eaf
+
+hêt	hêt	hetan	*	heißen, befehlen	*	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_55.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+gesîðos	gesîðos	gisiđ	S2	Gefolgsmann, Dienstmann	*	*	*	gesidos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	4555	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+tueliƀi	tueliƀi	twelif	S1	zwölf	*	*	*	tuelibi	CARD	CARDS	I	I	MASC_PL_ACC	Hel_55.eaf
+gangan	gangan	gangan	*	gehen, wandeln	CF_U_M	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+thea	thea	the	*	der, die, das, welcher, welches, welche	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_55.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+gitriuuiston	gitriuuiston	gitriuwi	S2	treu	*	*	4556	gitriuuiston	ADJ	ADJD	JA,JO	N	SUP_MASC_PL_NOM_WK	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_55.eaf
+môdseƀon	môdseƀon	modsebo	S1	Herz, Gemüt, Denkweise	*	*	*	modsebon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_55.eaf
+manno	manno	mann	S2	Mann, Mensch, Diener, Vasall, Ritter	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_55.eaf
+uuârun	uuârun	wesan	*	sein	*	*	4557	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_55.eaf
+bi	bi	bi	*	wegen, aus	*	*	*	bi	AP	APPR	*	*	*	Hel_55.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+bi	bi	bi	*	wegen, aus	*	*	*	bi	AP	APPR	*	*	*	Hel_55.eaf
+uuîsun	uuîsun	wisa	S1b	Gebrauch	CF_I_Rel	*	*	uuisun	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+uuisse	uuisse	witan	S2	wissen, kennen, verstehen	*	*	*	uuisse	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_55.eaf
+selƀo	selƀo	self	*	selbst	*	*	4558	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_55.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_55.eaf
+hugiskefti	hugiskefti	hugiskefti	S1	Gesinnung, Gemüt, Herz	*	*	*	hugiskefti	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_55.eaf
+hêlag	hêlag	helag	S2	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+drohtin	drohtin	drohtin	*	Herr	CF_U_M	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_55.eaf
+.	.	*	*	*	*	*	4559	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Grôtte	Grôtte	grotian	S1a	angehen, anreden, anrufen	*	*	*	grotte	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_55.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+oƀar	oƀar	obar	*	über, während	*	*	*	obar	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_55.eaf
+gômun	gômun	goma	S1b	Bewirtung, Gastmahl	CF_U_M	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+gern	gern	gern	S2	gern	*	*	*	gern	ADJ	ADJD	A,O	A,O	POS	Hel_55.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+suîðo	suîðo	swiđo	*	sehr	CF_U_M	*	*	suido	ADV	ADV	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+,	,	*	*	*	*	*	4560	,	$,	$,	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+samad	samad	samad	S1	zusammen	*	*	*	samad	ADV	ADV	*	*	*	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+sittien	sittien	sittian	S2	sitzen	*	*	*	sittien	VV	VVINF	ST5	ST5	*	Hel_55.eaf
+môti	môti	motan	*	können, dürfen, mögen	*	*	*	moti	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_1	Hel_55.eaf
+,	,	*	*	*	*	*	4561	,	$,	$,	*	*	*	Hel_55.eaf
+gômono	gômono	goma	S1	Bewirtung, Gastmahl	*	*	*	gomono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_55.eaf
+neoten	neoten	niotan	*	genießen	*	*	*	neoten	VV	VVINF	ST2	ST2	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+Iudeono	Iudeono	Iudeo	S2	Jude	*	*	*	iudeono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_55.eaf
+pascha	pascha	pascha	*	Ostermahl	*	*	4562	pascha	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_55.eaf
+dêlien	dêlien	delian	S1a	teilen, austeilen	*	*	*	delien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+diuriun	diuriun	diuri	S1b	teuer, lieb	CF_I_O	*	*	diuriun	ADJ	ADJS	JA,JO	P	POS_MASC_PL_DAT_ST	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Nu	Nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+iuuues	iuuues	iwa	*	euer	*	*	*	iuuues	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_55.eaf
+drohtines	drohtines	drohtin	S2	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	4563	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_55.eaf
+uuilleon	uuilleon	willio	S1	Wille, Absicht	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+seggian	seggian	seggian	*	sagen	CF_U_M	*	*	seggian	VV	VVINF	WK3	WK3	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thesaro	thesaro	thesa	*	dieser, diese, dieses	*	*	*	thesaro	DD	DD	*	*	FEM_SG_DAT	Hel_55.eaf
+uueroldi	uueroldi	werold	S2	Welt, Erde	*	*	*	uueroldi	NA	NA	I_MASC,FEM	I_FEM	SG_DAT	Hel_55.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+môt	môt	motan	*	können, dürfen, mögen	*	*	4564	mot	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+mannun	mannun	mann	S1a	Mensch, Leute	*	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_55.eaf
+mêr	mêr	mer	S1b	mehr, ferner, fortan	*	*	*	mer	ADV	ADV	*	*	*	Hel_55.eaf
+môses	môses	mos	S2	Speise, Essen	*	*	*	moses	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+anbîten	anbîten	antbitan	*	genießen, kosten	*	*	4565	anbiten	VV	VVINF	ST1	ST1	*	Hel_55.eaf
+furður	furður	furđor	S1a	fortan, ferner, später	*	*	*	furdur	ADV	ADV	*	*	*	Hel_55.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+firihun	firihun	firihos	S1b	Menschen	CF_I_O	*	*	firihun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+,	,+êr	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+êr than	than	er than	*	ehe, bevor	*	*	*	er than	KO	KOUS	*	*	*	Hel_55.eaf
+gifullod	gifullod	fullon	S2	erfüllen, ausführen, vollenden, bestätigen	*	*	*	gifullod	VV	VVPP	WK2	WK2	*	Hel_55.eaf
+uuirðid	uuirðid	werđan	*	werden	*	*	4566	uuirdid	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_3	Hel_55.eaf
+himilo	himilo	himil	S1	Himmel	*	*	*	himilo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_55.eaf
+rîki	rîki	riki	*	das beherrschte Land, Reich	CF_I_Adv_Temp	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Mi	Mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_55.eaf
+is	is	wesan	*	sein, dasein, vorhanden sein, sich befinden, stattfinden	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+handun	handun	hand	S2	Hand, Seite	*	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_55.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	4567	nu	ADV	ADV	*	*	*	Hel_55.eaf
+uuîti	uuîti	witi	S1a	Strafe, Qual, Leiden	*	*	*	uuiti	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+uunderquâle	uunderquâle	wundarquala	S1b	große Pein, Marter	CF_U_M	*	*	uunderquale	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDSREL	*	*	FEM_SG_ACC	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+for	for	for	*	für, um, wegen	*	*	*	for	AP	APPR	*	*	*	Hel_55.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_55.eaf
+uuerode	uuerode	werod	S2	Mannschaft, Volksmenge, Leute, Volk	*	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_55.eaf
+,	,	*	*	*	*	*	4568	,	$,	$,	*	*	*	Hel_55.eaf
+tholon	tholon	tholon	S1a	erdulden, leiden, ertragen	*	*	*	tholon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+for	for	furi	*	für, wegen, um - willen	*	*	*	for	AP	APPR	*	*	*	Hel_55.eaf
+thesaru	thesaru	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesaru	DD	DD	*	*	FEM_SG_DAT	Hel_55.eaf
+thiodu	thiodu	thiod	S1b	Volk, Menge, Leute	CF_I_Rel	*	*	thiodu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+Sô	Sô	so	*	als	*	*	*	so	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_55.eaf
+thegnun	thegnun	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegnun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4569	,	$,	$,	*	*	*	Hel_55.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+drohtin	drohtin	drohtin	*	Herr	CF_I_Adv_Temp	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_55.eaf
+drôƀi	drôƀi	drobi	*	betrübt	CF_U_M	*	*	drobi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_55.eaf
+,	,	*	*	*	*	*	4570	,	$,	$,	*	*	*	Hel_55.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+gisuorken	gisuorken	giswerkan	S1a	finster, umwölkt werden, sich verfinstern, traurig werden	*	*	*	gisuorken	VV	VVPPD	ST3B	ST3B	POS	Hel_55.eaf
+seƀo	seƀo	sebo	S1b	Gemüt, Herz	CF_U_M	*	*	sebo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_55.eaf
+gesîðun	gesîðun	gisiđ	S2	Gefolgsmann, Dienstmann	*	*	*	gesidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4571	,	$,	$,	*	*	*	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_55.eaf
+gôdo	gôdo	god	S1a	gut, trefflich, freundlich, nützlich	*	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+iungarun	iungarun	jungaro	S1b	Jünger, Diener	CF_I_M	*	*	iungarun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+huat	huat	hwat	*	was	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+rîki	rîki	riki	*	das beherrschte Land, Reich	CF_CS_U_M	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+,	,	*	*	*	*	*	4572	,	$,	$,	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+gihêt	gihêt	gihetan	S1a	verheißen, versprechen	*	*	*	gihet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_1	Hel_55.eaf
+himiles	himiles	himil	S1b	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_55.eaf
+lioht	lioht	lioht	*	Licht, Glanz	CF_CC_U_M	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_55.eaf
+holdlîco	holdlîco	holdliko	S2	freundlich	*	*	4573	holdlico	ADV	ADV	*	*	*	Hel_55.eaf
+iuuuan	iuuuan	iwa	*	euer	*	*	*	iuuuan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_55.eaf
+theganskepi	theganskepi	theganskepi	*	Dienst, Jüngerschaft	CE	*	*	theganskepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Nu	Nu	nu	*	nun	*	*	*	nu	ADV	ADV	*	*	*	Hel_55.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+uuilliat	uuilliat	willian	*	wollen	*	*	*	uuilliat	VM	VMFIN	IRR	IRR	IND_PRES_PL_2	Hel_55.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_55.eaf
+athengean	athengean	athengian	*	tun, ausführen, vollbringen	*	*	*	athengean	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+sô	sô	so	*	so, in solcher Weise	CF_U_M	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	4574	,	$,	$,	*	*	*	Hel_55.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_55.eaf
+uuenkeat	uuenkeat	wenkian	S1a	wanken, abweichen von etwas, untreu werden	*	*	*	uuenkeat	VV	VVFIN	WK1A	WK1A	IND_PRES_PL_2	Hel_55.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	NEUT_PL_GEN	Hel_55.eaf
+uuordo	uuordo	word	S1b	Wort, Rede, Gebot	CF_I_M	*	*	uuordo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Nu	Nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_55.eaf
+seggiu	seggiu	seggian	*	sagen	*	*	*	seggiu	VV	VVFIN	WK3	WK3	IND_PRES_SG_1	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+iu	iu+te	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_55.eaf
+te uuâran	uuâran	te warun	S2	in Wahrheit	*	*	*	te uuaran	ADV	ADV	*	*	*	Hel_55.eaf
+hêr	hêr	her	*	hier	CF_U_M	*	*	her	ADV	ADV	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	4575	,	$,	$,	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_55.eaf
+iuuuar	iuuuar	gi	*	ihr	*	*	*	iuuuar	PPER	PPER	*	*	PL_GEN_2	Hel_55.eaf
+tueliƀio	tueliƀio	twelif	S1	zwölf	*	*	*	tuelibio	CARD	CARDS	I	I	MASC_PL_GEN	Hel_55.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_55.eaf
+treuuana	treuuana	treuwa	S2	Treue, lautere Gesinnung	*	*	*	treuuana	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_55.eaf
+suîkan	suîkan	giswikan	*	(Treue) brechen, einer Pflicht untreu werden	*	*	*	suikan	VV	VVINF	ST1	ST1	*	Hel_55.eaf
+,	,	*	*	*	*	*	4576	,	$,	$,	*	*	*	Hel_55.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_55.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_55.eaf
+farcôpon	farcôpon	farkopon	S1	erkaufen, büßen	*	*	*	farcopon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_55.eaf
+thit	thit	thesa	*	dieser, diese, dieses	*	*	*	thit	DD	DD	*	*	NEUT_SG_ACC	Hel_55.eaf
+kunni	kunni	kunni	S2	Geschlecht, Stamm, Volk; Leute	*	*	*	kunni	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_55.eaf
+Iudeono	Iudeono	Iudeo	*	Jude	*	*	*	iudeono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_55.eaf
+,	,	*	*	*	*	*	4577	,	$,	$,	*	*	*	Hel_55.eaf
+gisellien	gisellien	gisellian	S1a	hingeben, übergeben	*	*	*	gisellien	VV	VVINF	WK1B	WK1B	*	Hel_55.eaf
+uuiðer	uuiðer	wiđar	*	gegen, für	*	*	*	uuider	AP	APPR	*	*	*	Hel_55.eaf
+siluƀre	siluƀre	silubar	S1b	Silber	CF_I_O	*	*	silubre	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_55.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+sinc	sinc	sink	S2	Schatz	*	*	*	sinc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+niman	niman	niman	*	annehmen, empfangen	*	*	*	niman	VV	VVINF	ST4	ST4	*	Hel_55.eaf
+,	,	*	*	*	*	*	4578	,	$,	$,	*	*	*	Hel_55.eaf
+diurie	diurie	diuri	S1	wertvoll, teuer, kostbar	*	*	*	diurie	ADJ	ADJ	JA,JO	P	POS_MASC_PL_ACC_ST	Hel_55.eaf
+mêðmos	mêðmos	međom	*	Kleinod, Kostbarkeit	*	*	*	medmos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+geƀen	geƀen	geban	*	geben, übergeben	*	*	*	geben	VV	VVINF	ST5	ST5	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+drohtin	drohtin+uuið	drohtin	S2	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_55.eaf
+uuið thiu	thiu	wiđ thiu	*	dafür	*	*	*	uuid thiu	ADV	ADV	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	4579	,	$,	$,	*	*	*	Hel_55.eaf
+holdan	holdan	hold	S1a	gnädig, mild, freundlich	*	*	*	holdan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_55.eaf
+hêrran	hêrran	herro	S1b	Herr	CF_I_M	*	*	herran	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+That	That	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+thoh	thoh	thoh	*	doch, dennoch, indessen, gleichwohl, trotzdem	*	*	*	thoh	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+harme	harme	harm	S2	Leid, Schmerz, Kummer	*	*	*	harme	NA	NA	A_MASC,NEUT	A_MASC,NEUT	SG_DAT	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen, werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4580	,	$,	$,	*	*	*	Hel_55.eaf
+uuerðan	uuerðan	werđan	S1a	werden	*	*	*	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+uuîtie	uuîtie	witi	S1b	Strafe, Qual, Leiden	CF_U_M	*	*	uuitie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_55.eaf
+;	;+be	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_55.eaf
+
+be that	that	bi that	*	während	*	*	*	be that	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_PL_ACC	Hel_55.eaf
+uurdi	uurdi	wurd	S2	Schicksal, Verhängnis, Tod	*	*	*	uurdi	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_55.eaf
+farsihit	farsihit	farsehan	*	sehen, wahrnehmen	*	*	4581	farsihit	VV	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_55.eaf
+arƀedies	arƀedies	arbedi	S1	Mühsal, Beschwerde, Leid	*	*	*	arbedies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_55.eaf
+endi	endi	endi	S2	Ende	*	*	*	endi	NA	NA	JA_MASC	JA_MASC	SG_ACC	Hel_55.eaf
+scauuot	scauuot	skauwon	*	schauen, erblicken, sehen	CF_I_Adv_Temp	*	*	scauuot	VV	VVFIN	WK2	WK2	IND_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4582	,	$,	$,	*	*	*	Hel_55.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_55.eaf
+uuêt	uuêt	witan	S1a	wissen, kennen, verstehen	*	*	*	uuet	VV	VVFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+that	that+te	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_55.eaf
+te uuâran	uuâran	te warun	S1b	in Wahrheit	CF_U_M	*	*	te uuaran	ADV	ADV	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+uuâri	uuâri	wesan	*	sein	*	*	*	uuari	VA	VAFIN	ST5	ST5	SUBJ_PAST_SG_3	Hel_55.eaf
+uuôðiera	uuôðiera	wođi	S2	angenehm	*	*	*	uuodiera	ADJ	ADJ	JA,JO	N	COMP_NEUT_SG_NOM_WK	Hel_55.eaf
+thing	thing	thing	*	Ding, Sache, Etwas	*	*	*	thing	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4583	,	$,	$,	*	*	*	Hel_55.eaf
+betera	betera	betara	S1	besser	*	*	*	betera	ADJ	ADJ	N	N	COMP_NEUT_SG_NOM_WK	Hel_55.eaf
+mikilu	mikilu	mikil	*	groß	CF_I_O	*	*	mikilu	ADJ	ADJS	A,O	P	POS_NEUT_SG_NOM_ST	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+gio	gio	io	*	zu irgend einer Zeit, je. in Verbindung mit. nie, niemals	*	*	*	gio	ADV	ADV	*	*	*	Hel_55.eaf
+giboran	giboran	giberan	S2	gebären	*	*	*	giboran	VV	VVPP	ST4	ST4	*	Hel_55.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+uurði	uurði	werđan	*	werden	*	*	4584	uurdi	VA	VAFIN	ST3B	ST3B	SUBJ_PAST_SG_3	Hel_55.eaf
+libbiendi	libbiendi	libbian	S1a	leben	*	*	*	libbiendi	VV	VVPSD	WK3	WK3	POS	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_55.eaf
+liohte	liohte	lioht	S1b	Himmelreich, Licht	CF_I_O	*	*	liohte	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+than	than	than	*	wenn	*	*	*	than	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_55.eaf
+lôn	lôn	lon	S2	Lohn, Vergeltung	*	*	*	lon	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+nimid	nimid	niman	*	annehmen, empfangen	*	*	*	nimid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4585	,	$,	$,	*	*	*	Hel_55.eaf
+uƀil	uƀil	ubil	*	böse, schlecht, schlimm	*	*	*	ubil	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_55.eaf
+arƀedi	arƀedi	arbedi	*	Mühsal, Beschwerde, Leid	*	*	*	arbedi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_55.eaf
+inuuidrâdo	inuuidrâdo	inwidrad	*	feindseliger Anschlag, böser Ratschlag, arglistiger Verrat	CF_I_Adv_Temp	*	*	inuuidrado	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"+]	*	*	*	*	*	4586	"+]	$(	$(	*	*	*	Hel_55.eaf
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen, etwas unternehmen,	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_55.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_55.eaf
+erlo	erlo	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_55.eaf
+gehuilic	gehuilic	gihwilik	*	jeder, ein jeder	*	*	*	gehuilic	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+ôðrumu	ôðrumu	ođar	S2	der eine von beiden, der andere von beiden	*	*	*	odrumu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_55.eaf
+scauuon	scauuon	skauwon	*	schauen; erblicken, sehen	*	*	*	scauuon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+,	,	*	*	*	*	*	4587	,	$,	$,	*	*	*	Hel_55.eaf
+sorgondi	sorgondi	sorgon	S1a	Besorgnis tragen, Kummer haben. absolut, mit oder ohne adverb. Bestimmung	*	*	*	sorgondi	VV	VVPSD	WK2	WK2	POS	Hel_55.eaf
+sehan	sehan	sehan	S1b	sehen	CF_U_M	*	*	sehan	VV	VVINF	ST5	ST5	*	Hel_55.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_55.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_55.eaf
+sêr	sêr	ser	S2	schmerzlich, bekümmert, traurig	*	*	*	ser	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4588	,	$,	$,	*	*	*	Hel_55.eaf
+hriuuig	hriuuig	hriuwig	S1a	betrübt, bekümmert, traurig	*	*	*	hriuuig	ADJ	ADJD	A,O	A,O	POS	Hel_55.eaf
+umbi	umbi	umbi	*	um, um – herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_55.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_55.eaf
+herta	herta	herta	S1b	Herz, als Sitz der Seele, des Verstandes; Gemüt	CF_U_M	*	*	herta	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+gihôrdun	gihôrdun	gihorian	*	hören, anhören	*	*	*	gihordun	VV	VVFIN	WK1A	WK1A	IND_PAST_PL_3	Hel_55.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_55.eaf
+hêrron	hêrron	herro	S2	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	4589	tho	ADV	ADV	*	*	*	Hel_55.eaf
+gornuuord	gornuuord	gornword	S1	Klage	*	*	*	gornuuord	NA	NA	A_NEUT	A_NEUT	SG,PL_ACC	Hel_55.eaf
+sprekan	sprekan	sprekan	*	sprechen, reden	CF_U_M	*	*	sprekan	VV	VVINF	ST4	ST4	*	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thea	Thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_55.eaf
+gumon	gumon	gumo	S2	Mann, Mensch	*	*	*	gumon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_55.eaf
+sorgodun	sorgodun	sorgon	*	Besorgnis tragen, Kummer haben. mit abhäng	CF_U_M	*	*	sorgodun	VV	VVFIN	WK2	WK2	IND_PAST_PL_3	Hel_55.eaf
+,	,	*	*	*	*	*	4590	,	$,	$,	*	*	*	Hel_55.eaf
+huilican	huilican	hwilik	*	welcher, was für ein	*	*	*	huilican	DW	DW	A,O	P	MASC_SG_ACC_ST	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_55.eaf
+tueliƀio	tueliƀio+te	twelif	S1	zwölf	*	*	*	tuelibio	CARD	CARDS	I	I	MASC_PL_GEN_ST	Hel_55.eaf
+te thiu	thiu	te thiu	*	dazu	*	*	*	te thiu	ADV	ADV	*	*	*	Hel_55.eaf
+tellien	tellien	tellian	S2	sagen, erklären, wofür halten, beschuldigen	*	*	*	tellien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+uueldi	uueldi	willian	*	wollen	*	*	*	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4591	,	$,	$,	*	*	*	Hel_55.eaf
+sculdigna	sculdigna	skuldig	S1a	schuldig, verpflichtet	*	*	*	sculdigna	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_55.eaf
+scaðon	scaðon	skađo	S1b	Schädiger, Übeltäter, Feind	CF_I_O	*	*	scadon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+,	,+]	*	*	*	*	*	*	,+]	$,+$(	$,+$(	*	*	*	Hel_55.eaf
+that	that	that	*	dass, weil	*	*	*	that	KO	KOUS	*	*	*	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+habdi	habdi	hebbian	*	haben, halten	*	*	*	habdi	VA	VAFIN	WK3	WK3	SUBJ_PAST_SG_3	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_55.eaf
+scattos	scattos	skat	S2	Geldstück, Münze	*	*	*	scattos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_55.eaf
+thar	thar	thar	*	da, dann, darauf, dort, hier	*	*	4592	thar	ADV	ADV	*	*	*	Hel_55.eaf
+gethingod	gethingod	githingon	S1a	ausbedingen	*	*	*	gethingod	VV	VVPP	WK2	WK2	*	Hel_55.eaf
+at	at	at	*	von	*	*	*	at	AP	APPR	*	*	*	Hel_55.eaf
+theru	theru	the	*	der, die, das	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_55.eaf
+thiod	thiod	thiod	S1b	Volk, Menge, im Pl. auch Leute	CF_I_Adv_Caus	*	*	thiod	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_55.eaf
+.	.+]	*	*	*	*	*	*	.+] 	$.+$(	$.+$(	*	*	*	Hel_55.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_55.eaf
+thegno	thegno	thegan	S2	Knabe, Mann, Gefolgsmann, Dienstmann	*	*	*	thegno	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_55.eaf
+ênigumu	ênigumu	enig	*	irgend ein(er)	*	*	4593	enigumu	DI	DIN	A,O	P	MASC_SG_DAT_ST	Hel_55.eaf
+sulikes	sulikes	sulik	*	solch	*	*	*	sulikes	DD	DD	A,O	P	NEUT_SG_GEN_ST	Hel_55.eaf
+inuuiddies	inuuiddies	inwid	*	Feindseligkeit, Bosheit, Übeltat, Sünde	*	*	*	inuuiddies	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+ôði	ôði	ođi	*	leicht, mühelos, ohne Schwierigkeit	*	*	*	odi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	PTKZU	*	*	*	Hel_55.eaf
+gehanne	gehanne	gehan	*	aussprechen, sagen, bekennen	CF_U_M	*	*	gehanne	VV	VVINFS	ST5	ST5	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	4594	,	$,	$,	*	*	*	Hel_55.eaf
+mêngithâhtio	mêngithâhtio	mengithaht	S1	verbrecherischer Gedanke, frevelhafter Sinn, Sünde	*	*	*	mengithahtio	NA	NA	I_FEM	I_FEM	PL_GEN	Hel_55.eaf
+-	-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_55.eaf
+antsuok	antsuok	antsakan	*	sich verwahren, leugnen, in Abrede stellen	*	*	*	antsuok	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_55.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_55.eaf
+manno	manno	mann	S2	Mensch, Mann, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_55.eaf
+gehuilic	gehuilic	gihwilik	*	jeder, ein jeder	CF_U_M	*	*	gehuilic	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_55.eaf
+-	-	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	4595	,	$,	$,	*	*	*	Hel_55.eaf
+uurðun	uurðun	werđan	*	werden	*	*	*	uurdun	VA	VAFIN	ST3B	ST3B	IND_PAST_PL_3	Hel_55.eaf
+alle	alle	all	*	all	*	*	*	alle	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+forhtun	forhtun	forhta	S1	Furcht	CF_U_M	*	*	forhtun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+frâgon	frâgon	fragon	S2	fragen	*	*	*	fragon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_55.eaf
+gidorstun	gidorstun	gidurran	*	den Mut haben, sich unterstehen, wagen	CF_U_M	*	*	gidorstun	VV	VVFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_55.eaf
+,	,+êr	*	*	*	*	*	4596	,	$,	$,	*	*	*	Hel_55.eaf
+êr than	than	er than	*	bis dass	*	*	*	er than	KO	KOUS	*	*	*	Hel_55.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+gebôknide	gebôknide	giboknian	S1	zeigen, andeuten	*	*	*	geboknide	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_55.eaf
+baruuirðig	baruuirðig	barwirđig	S2	sehr würdig	*	*	*	baruuirdig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_55.eaf
+gumo	gumo	gumo	*	Mann, Mensch	*	*	*	gumo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4597	,	$,	$,	*	*	*	Hel_55.eaf
+Sîmon	Sîmon	Simon	S1	Simon	*	*	*	simon	NE	NE	0_MASC	0_MASC	SG_NOM	Hel_55.eaf
+Petrus	*	Petrus	*	Petrus	CF_CS_I_Adv_Temp	*	*	petrus	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_55.eaf
+-	Petrus-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_55.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_55.eaf
+gidorste	gidorste	gidurran	*	den Mut haben, sich unterstehen, wagen	*	*	*	gidorste	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_55.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_55.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_55.eaf
+sprekan	sprekan	sprekan	*	sprechen, reden	CF_U_M	*	*	sprekan	VV	VVINF	ST4	ST4	*	Hel_55.eaf
+-	*	*	*	*	*	*	4598	-	$(	$(	*	*	*	Hel_55.eaf
+te	-te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+Iohanne	Iohanne	Iohannes	S1a	Johannes	*	*	*	iohanne	NE	NE	A_MASC	A_MASC	SG_DAT	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_55.eaf
+gôdon	gôdon	god	S1b	gut, trefflich, freundlich, nützlich	CF_CC_I_Adv_Temp	*	*	godon	ADJ	ADJS	A,O	N	POS_MASC_SG_DAT_WK	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_55.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+barne	barne	barn	*	Kind, Sohn, Mensch, Menschenkind	*	*	4599	barne	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_55.eaf
+dagun	dagun	dag	S1	Tag	*	*	*	dagun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+thegno	thegno	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegno	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_55.eaf
+lioƀost	lioƀost	liof	*	lieb, wert, freundlich	*	*	*	liobost	ADJ	ADJS	A,O	A,O	SUP_MASC_SG_NOM_0	Hel_55.eaf
+,	,	*	*	*	*	*	4600	,	$,	$,	*	*	*	Hel_55.eaf
+mêst	mêst	mest	S1a	größter, größtes	*	*	*	mest	ADJ	ADJS	A,O	A,O	SUP_MASC_SG_NOM_0	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+minniun	minniun	minnea	S1b	Liebe	CF_U_M	*	*	minniun	NA	NA	JO_FEM	JO_FEM	PL_DAT	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+môste	môste	motan	*	können, dürfen, mögen, in der Lage sein, Gelegenheit haben	*	*	*	moste	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_55.eaf
+thar	thar	thar	*	da, nun	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_55.eaf
+mahtiges	mahtiges	mahtig	S2	mächtig, gewaltig	*	*	*	mahtiges	ADJ	ADJ	A,O	P	POS_MASC_SG_GEN_ST	Hel_55.eaf
+Kristes	Kristes	Krist	*	Christus	*	*	4601	kristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_55.eaf
+barme	barme	barm	S1	Schoß	*	*	*	barme	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_55.eaf
+restien	restien	restian	*	ruhen	CF_I_M	*	*	restien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_55.eaf
+breostun	breostun	briost	S2	Brust, Busen	*	*	*	breostun	NA	NA	C_NEUT	C_NEUT	PL_DAT	Hel_55.eaf
+lag	lag	liggian	*	liegen, gelegen sein, darniederliegen	CF_I_M	*	*	lag	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4602	,	$,	$,	*	*	*	Hel_55.eaf
+hlinode	hlinode	hlinon	S1a	lehnen	*	*	*	hlinode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_55.eaf
+mid	mid	mid	*	mit, durch, mittels	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+hôƀdu	hôƀdu	hobid	S1b	Haupt, Kopf	CF_U_M	*	*	hobdu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_55.eaf
+:	:+]	*	*	*	*	*	*	:+]	$.+$(	$.+$(	*	*	*	Hel_55.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+nam	nam	niman	*	annehmen, empfangen	*	*	*	nam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+manag	manag	manag	*	manch, viel	*	*	*	manag	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_55.eaf
+hêlag	hêlag	helag	S2	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_55.eaf
+gerûni	gerûni	giruni	*	Geheimnis	*	*	*	geruni	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	4603	,	$,	$,	*	*	*	Hel_55.eaf
+diapa	diapa	diop	S1a	tief	*	*	*	diapa	ADJ	ADJ	A,O	P	POS_FEM_PL_ACC_ST	Hel_55.eaf
+githâhti	githâhti	githaht	S1b	Denken, Gedanke, Glaube	CF_U_M	*	*	githahti	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+thô	thô	tho	*	da,nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+drohtine	drohtine	drohtin	S2	Herr	*	*	*	drohtine	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_55.eaf
+sprac	sprac	sprekan	*	sprechen, reden	CF_I_M	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4604	,	$,	$,	*	*	*	Hel_55.eaf
+began	began	biginnan	*	beginnen, anfangen, etwas unternehmen,	*	*	*	began	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_55.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+frâgon	frâgon	fragon	S1	fragen	CF_U_M	*	*	fragon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+hue	hue	hwe	*	wer, was	*	*	*	hue	PW	PW	*	*	MASC_SG_NOM	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+frô	frô	fro	S2	Herr, nur in der Anrede in folgenden Ausdrücken	*	*	*	fro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_55.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	MASC_SG_NOM_0	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+uuesen	uuesen	wesan	*	sein	CF_I_Int	*	*	uuesen	VA	VAINF	ST5	ST5	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+,	,	*	*	*	*	*	4605	,	$,	$,	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_55.eaf
+that	that	the	*	der, die, das, welcher, welches, welche	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_NOM	Hel_55.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_55.eaf
+farcôpon	farcôpon	farkopon	S1	verkaufen	*	*	*	farcopon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+cuningo	cuningo	kuning	S2	König	*	*	*	cuningo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_55.eaf
+rîkeost	rîkeost	riki	*	mächtig, herrschgewaltig	*	*	*	rikeost	ADJ	ADJN	JA,JO	JA,JO	SUP_MASC_SG_NOM_0	Hel_55.eaf
+,	,	*	*	*	*	*	4606	,	$,	$,	*	*	*	Hel_55.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_55.eaf
+thînaro	thînaro	thin	*	dein	*	*	*	thinaro	DPOS	DPOS	A,O	P	MASC_PL_GEN_ST	Hel_55.eaf
+fîundo	fîundo	fiund	S1a	Feind, böser Mensch	*	*	*	fiundo	NA	NA	ND_MASC	A_MASC	PL_GEN	Hel_55.eaf
+folc	folc	folk	S1b	Volk, Schar, Menge, Leute	CF_I_Rel	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+?	?	*	*	*	*	*	*	?	$.	$.	*	*	*	Hel_55.eaf
+
+Ûs	Ûs	wi	*	ich	*	*	*	us	PPER	PPER	*	*	PL_DAT_1	Hel_55.eaf
+uuâri	uuâri	wesan	*	sein	*	*	*	uuari	VA	VAFIN	ST5	ST5	SUBJ_PAST_SG_3	Hel_55.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_55.eaf
+firiuuit	firiuuit	firiwit	S2	Neugier, Wißbegier	*	*	*	firiuuit	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	*	mikil	ADJ	ADJD	A,O	A,O	POS	Hel_55.eaf
+,	,	*	*	*	*	*	4607	,	$,	$,	*	*	*	Hel_55.eaf
+uualdand	uualdand	waldand	S1a	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	PTKZU	*	*	*	Hel_55.eaf
+uuitanne	uuitanne	witan	S1b	wissen, kennen, verstehen	CF_U_M	*	*	uuitanne	VV	VVINFS	PRPR	PRPR	SG_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+Thô	Thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+habde	habde	hebbian	*	haben	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_55.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+uuord	uuord	word	S2	Wort	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+garu	garu	garu	*	bereit, gerüstet, geschmückt	*	*	4608	garu	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_55.eaf
+hêleando	hêleando	heliand	S1	Heiland	*	*	*	heleando	NA	NA	ND_MASC	N_MASC	SG_NOM	Hel_55.eaf
+Crist	Crist	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+seh	seh	sehan	*	sehen	*	*	*	seh	VV	VVIMP	ST5	ST5	IMP_PRES_SG_2	Hel_55.eaf
+thi	thi	thu	*	du	CF_U_Imp	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+huemu	huemu	hwe	*	wer, was	*	*	*	huemu	PW	PW	*	*	MASC_SG_DAT	Hel_55.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_55.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_55.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+hand	hand	hand	S2	Hand, Seite	*	*	*	hand	NA	NA	U,I_FEM	U,I_FEM	SG_ACC	Hel_55.eaf
+geƀe	geƀe	geban	*	geben, hingeben, übergeben	*	*	4609	gebe	VV	VVFIN	ST5	ST5	SUBJ_PRES_SG_1	Hel_55.eaf
+mînes	mînes	min	*	mein	*	*	*	mines	DPOS	DPOS	A,O	P	NEUT_SG_GEN_ST	Hel_55.eaf
+môses	môses	mos	S1a	Speise, Essen	*	*	*	moses	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_55.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesun	DD	DD	*	*	MASC_PL_DAT	Hel_55.eaf
+mannun	mannun	mann	S1b	Mann	CF_I_O	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+the	the	the	*	der, die, das	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_55.eaf
+haƀed	haƀed	hebbian	*	haben, besitzen	*	*	*	habed	VA	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_55.eaf
+mêngithâht	mêngithâht	mengithaht	S2	verbrecherischer Gedanke, frevelhafter Sinn, Sünde	CF_U_M	*	*	mengithaht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	4610	,	$,	$,	*	*	*	Hel_55.eaf
+birid	birid	beran	S1a	tragen, hervorbringen, besitzen	*	*	*	birid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_55.eaf
+bittran	bittran	bittar	S1b	bitter, böse, feindlich	*	*	*	bittran	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_55.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	CF_U_M	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_55.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_55.eaf
+
+the	the	the	*	der, die, das	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_55.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+banono	banono	bano	S2	Mörder	*	*	*	banono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_55.eaf
+geuuald	geuuald	giwald	*	Machtbereich, Besitz	*	*	*	geuuald	NA	NA	I_FEM,A_NEUT	I_FEM,A_NEUT	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	4611	,	$,	$,	*	*	*	Hel_55.eaf
+fîundun	fîundun	fiund	S1a	Feind, böser Mensch	*	*	*	fiundun	NA	NA	ND_MASC	A_MASC	PL_DAT	Hel_55.eaf
+bifelhen	bifelhen	bifelhan	S1b	übergeben, überlassen, hingeben	CF_U_M	*	*	bifelhen	VV	VVINF	ST3B	ST3B	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_55.eaf
+man	man	mann	*	Mensch, Mann; man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_55.eaf
+mînes	mînes	min	*	mein	*	*	*	mines	DPOS	DPOS	A,O	P	NEUT_SG_GEN_ST	Hel_55.eaf
+ferhes	ferhes	ferah	S2	Leben	*	*	*	ferhes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4612	,	$,	$,	*	*	*	Hel_55.eaf
+aldres	aldres	aldar	S1a	Leben	*	*	*	aldres	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+âhtien	âhtien	ahtian	S1b	ächten, nachstellen	CF_U_M	*	*	ahtien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+Nam	Nam	niman	*	nehmen	*	*	*	nam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+thô	thô+aftar	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+aftar thiu	thiu	aftar thiu	S2	danach	*	*	4613	aftar thiu	ADV	ADV	*	*	*	Hel_55.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_55.eaf
+môses	môses	mos	S1a	Speise, Essen	*	*	*	moses	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_55.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_55.eaf
+mannun	mannun	mann	S1b	Mann	CF_U_M	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+gaf	gaf	geban	*	geben, hingeben, übergeben	*	*	*	gaf	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_55.eaf
+mênscaðen	mênscaðen	menskađo	S2	Verderber, Unheilstifter, der Teufel	*	*	*	menscaden	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	4614	,	$,	$,	*	*	*	Hel_55.eaf
+Iudase	Iudase	Iudas	S1	Judas	*	*	*	iudase	NE	NE	A_MASC	A_MASC	SG_DAT	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+hand	hand	hand	*	Hand, Seite	CF_I_M	*	*	hand	NA	NA	U,I_FEM	U,I_FEM	SG_ACC	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+tegegnes	tegegnes	tegegnes	S2	entgegen, gegenüber, vor	*	*	*	tegegnes	ADV	ADV	*	*	*	Hel_55.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	4615	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_55.eaf
+selƀo	selƀo	self	S1a	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_55.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_55.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DD	*	*	MASC_PL_DAT	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+gesîðun	gesîðun	gisiđ	S1b	Gefolgsmann, Dienstmann	CF_I_M	*	*	gesidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_55.eaf
+sniumo	sniumo	sniumo	S2	eilig, alsbald	*	*	*	sniumo	ADV	ADV	*	*	*	Hel_55.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_I_M	*	4616	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_55.eaf
+faran	faran	faran	S1a	gehen, reisen, wandern, ziehen	*	*	*	faran	VV	VVINF	ST6	ST6	*	Hel_55.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_55.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+folke	folke	folk	S1b	Volk, Schar, Menge, Leute	CI_U_O	*	*	folke	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+frumi	frumi	frummian	S2	handeln	CF_U_Imp	*	*	frumi	VV	VVIMP	WK1B	WK1B	IMP_PRES_SG_2	Hel_55.eaf
+sô	sô	so	*	wie, so wie, so	*	*	*	so	KO	KOUS	*	*	*	Hel_55.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_55.eaf
+thenkis	thenkis	thenkian	*	denken, seine Gedanken auf etwas richten	CF_I_Adv_Mod	*	*	thenkis	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_55.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_55.eaf
+,	,	*	*	*	*	*	4617	,	$,	$,	*	*	*	Hel_55.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+dô	dô	don	S1a	tun, machen	CF_U_Imp	*	*	do	VV	VVIMP	IRR	IRR	IMP_PRES_SG_2	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_ACC	Hel_55.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_55.eaf
+duan	duan	don	S1b	tun, machen	*	*	*	duan	VV	VVINF	IRR	IRR	*	Hel_55.eaf
+scalt	scalt	skulan	*	sollen, müssen; werden (Futur)	CF_I_O	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_55.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_55.eaf
+
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_55.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_55.eaf
+maht	maht	mugan	*	vermögen, können	*	*	*	maht	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_55.eaf
+bidernien	bidernien	bidernian	S2	verbergen, verhehlen	*	*	*	bidernien	VV	VVINF	WK1A	WK1A	*	Hel_55.eaf
+leng	leng	lango	*	lange, lange Zeit	*	*	4618	leng	ADV	ADV	*	*	*	Hel_55.eaf
+uuilleon	uuilleon	willio	S1	Wille	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+thînan	thînan	thin	*	dein	CF_U_M	*	*	thinan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Thiu	Thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_55.eaf
+uurd	uurd	wurd	S2	Schicksal, Verhängnis, Tod	*	*	*	uurd	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_55.eaf
+is	is	wesan	*	sein, sich befinden	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_55.eaf
+at	at	at	*	in, an, auf, bei	*	*	*	at	AP	APPR	*	*	*	Hel_55.eaf
+handun	handun	hand	*	Hand, Seite	CF_U_M	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_55.eaf
+,	,	*	*	*	*	*	4619	,	$,	$,	*	*	*	Hel_55.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_PL_NOM	Hel_55.eaf
+tîdi	tîdi	tid	S1	Zeit, Zeitpunkt, Zeitalter	*	*	*	tidi	NA	NA	I_FEM	I_FEM	PL_NOM	Hel_55.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_55.eaf
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_55.eaf
+ginâhid	ginâhid	nahian	*	nahen, nahe kommen	CF_U_M	*	*	ginahid	VV	VVPPD	WK1A	WK1A	POS	Hel_55.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_55.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_55.eaf
+Sô	Sô	so	*	so, als	*	*	*	so	KO	KOUS	*	*	*	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_55.eaf
+treulogo	treulogo	treulogo	S2	Treubrecher	*	*	4620	treulogo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_55.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_55.eaf
+môs	môs	mos	S1	Speise, Essen	*	*	*	mos	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_55.eaf
+antfeng	antfeng	antfahan	*	empfangen, aufnehmen, annehmen	*	*	*	antfeng	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_55.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_55.eaf
+mid	mid	mid	*	mit, durch, mittels	*	*	*	mid	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+mûðu	mûðu	muđ	S2	Mund	*	*	*	mudu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_55.eaf
+anbêt	anbêt	antbitan	*	genießen, kosten	CF_I_Adv_Temp	*	*	anbet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_55.eaf
+,	,	*	*	*	*	*	4621	,	$,	$,	*	*	*	Hel_55.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+af	*	af	*	auf	*	*	*	af	AP	PTKVZ	*	*	*	Hel_55.eaf
+gaf	afgaf	afgeban	S1a	aufgeben, verlassen	*	*	*	gaf	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_55.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_55.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_55.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_55.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_NOM	Hel_55.eaf
+,	,	*	*	*	CF_U_M	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+gramon	gramon	gramo	S2	Teufel, böser Geist	*	*	*	gramon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_55.eaf
+in	in	in	*	hinein	*	*	*	in	ADV	ADV	*	*	*	Hel_55.eaf
+geuuitun	geuuitun	giwitan	*	gehen, fahren	*	*	4622	geuuitun	VV	VVFIN	ST1	ST1	IND_PAST_PL_3	Hel_55.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thene	thene	the	*	der, die, das	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_55.eaf
+lîchamon	lîchamon	likhamo	S1	Körper, Leib	*	*	*	lichamon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+lêða	lêða	leđ	S2	feindlich, widerwärtig, verhaßt, leid, böse, bösartig	*	*	*	leda	ADJ	ADJ	A,O	P	POS_MASC_PL_NOM_ST	Hel_55.eaf
+uuihti	uuihti	wiht	*	Ding, etwas; hier:  Dämonen, Teufel	CF_U_M	*	*	uuihti	NA	NA	I_MASC,NEUT	I_MASC	PL_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4623	,	$,	$,	*	*	*	Hel_55.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_55.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_55.eaf
+Satanas	Satanas	Satanas	S1	Satan	*	*	*	satanas	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_55.eaf
+sêro	sêro	sero	S2	schmerzlich, sehr	*	*	*	sero	ADV	ADV	*	*	*	Hel_55.eaf
+bitengi	bitengi	bitengi	*	drückend, bedrängend	*	*	*	bitengi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_55.eaf
+,	,	*	*	*	*	*	4624	,	$,	$,	*	*	*	Hel_55.eaf
+hardo	hardo	hardo	S1a	sehr	*	*	*	hardo	ADV	ADV	*	*	*	Hel_55.eaf
+umbi	umbi	umbi	*	um – herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_55.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_55.eaf
+herte	herte	herta	S1b	Herz, Gemüt	CF_U_M	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_55.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_55.eaf
+sîður	sîður	siđor	*	seitdem	*	*	*	sidur	KO	KOUS	*	*	*	Hel_55.eaf
+ine	ine	he	*	er, sie, es	*	*	*	ine	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_55.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_55.eaf
+helpe	helpe	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpe	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_55.eaf
+godes	godes	god	*	Gott	*	*	4625	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_55.eaf
+farlêt	farlêt	farlatan	S1a	abwenden, verlassen, aufgeben, vermeiden	*	*	*	farlet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_55.eaf
+an	an	an	*	in, an auf	*	*	*	an	AP	APPR	*	*	*	Hel_55.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_55.eaf
+liohte	liohte	lioht	S1b	Himmelreich, Welt	CF_I_Adv_Temp	*	*	liohte	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_55.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_55.eaf
+
+Sô	Sô	so	*	so, in solcher Weise; so sehr; nun also	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_55.eaf
+thena	thena	the	*	der, die, das, dieser, diese, dieses	*	*	*	thena	DD	DDS	*	*	MASC_SG_DAT	Hel_55.eaf
+liudio	liudio	liudi	S2	Leute, Menschen, Volk	*	*	*	liudio	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_55.eaf
+uuê	uuê	we	*	Schmerz, Leiden	CF_U_M	*	*	uue	NA	NA	JA_NEUT	A_NEUT	SG_NOM	Hel_55.eaf
+,	,	*	*	*	*	*	4626	,	$,	$,	*	*	*	Hel_55.eaf
+the	the	the	*	der, die, das	*	*	*	the	DDS	DDSREL	*	*	MASC_SG_NOM	Hel_55.eaf
+sô	sô	so	*	so, in solcher Weise; so sehr; nun also	*	*	*	so	ADV	ADV	*	*	*	Hel_55.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_55.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesumu	DD	DD	*	*	MASC_SG_DAT	Hel_55.eaf
+himile	himile	himil	S1	Himmel	*	*	*	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_55.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_55.eaf
+hêrron	hêrron	herro	S2	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_55.eaf
+uuehslon	uuehslon	wehslon	*	tauschen, ändern, wechseln	CF_I_Rel	*	*	uuehslon	VV	VVINF	WK2	WK2	*	Hel_55.eaf
+.	*	*	*	*	*	LV	4627	. 	$.	$.	*	*	*	Hel_55.eaf

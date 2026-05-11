@@ -1,0 +1,648 @@
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_26.eaf
+geuuêt	geuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	geuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_26.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_26.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+hêlogo	hêlogo	helag	S2	heilig	*	*	*	helogo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_26.eaf
+Crist	Crist	Krist	*	Christus	*	*	2167	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+forðuuardes	forðuuardes	forđwardes	S1a	vorwärts, weiter	*	*	*	forduuardes	ADV	ADV	*	*	*	Hel_26.eaf
+faren	faren	faran	S1b	gehen, reisen, wandern, ziehen	CF_U_M	*	*	faren	VV	VVINF	ST6	ST6	*	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+fremide	fremide	fremmian	S2	vollbringen, ausführen, tun	*	*	*	fremide	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_26.eaf
+alomahtig	alomahtig	alomahtig	*	allmächtig	*	*	2168	alomahtig	ADJ	ADJS	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_26.eaf
+dago	dago	dag	S1	Tag	*	*	*	dago	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_26.eaf
+gehuilikes	gehuilikes	gihwilik	*	jeder, ein jeder	*	*	*	gehuilikes	DI	DIS	A,O	P	MASC_SG_GEN_ST	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+drohtin	drohtin	drohtin	S2	Herr	*	*	*	drohtin	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+gôdo	gôdo	god	*	gut	*	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_26.eaf
+,	,	*	*	*	*	*	2169	,	$,	$,	*	*	*	Hel_26.eaf
+liudeo	liudeo	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_26.eaf
+barnum	barnum	barn	*	Menschen	*	*	*	barnum	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_26.eaf
+leof	leof	liof	S1b	Liebes, Gutes	CF_U_M	*	*	leof	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+lêrde	lêrde	lerian	S2	lehren, unterweisen	*	*	*	lerde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_26.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_26.eaf
+uuordun	uuordun	word	*	Wort, Rede, Gebot	*	*	2170	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_26.eaf
+godes	godes	god	S1a	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+uuilleon	uuilleon	willio	*	Wille	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_26.eaf
+gumun	gumun	gumo	S1b	Mann, Mensch	CF_U_M	*	*	gumun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+habda	habda	hebbian	*	haben, besitzen	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_PL_3	Hel_26.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_26.eaf
+iungorono	iungorono	jungaro	S2	Jünger, Diener	*	*	*	iungorono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_26.eaf
+filu	filu	filu	*	viel, Vieles	*	*	2171	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_26.eaf
+simbla	simbla	simbla	S1a	immer, jederzeit, stets	*	*	*	simbla	ADV	ADV	*	*	*	Hel_26.eaf
+te	te	te	*	zu, als	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+gisîðun	gisîðun	gisiđ	S1b	Gefolgsmann, Dienstmann	*	*	*	gisidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+sâlig	sâlig	salig	S2	gut, fromm	*	*	*	salig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_26.eaf
+folc	folc	folk	*	Volk, Schar, Menge, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+,	,	*	*	*	*	*	2172	,	$,	$,	*	*	*	Hel_26.eaf
+manno	manno	mann	S1a	Mensch	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_26.eaf
+megincraft	megincraft	meginkraft	S1b	Schar, Haufe	*	*	*	megincraft	NA	NA	I_FEM,I_MASC	I_FEM,I_MASC	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+managoro	managoro	manag	S2	manch, viel	*	*	*	managoro	DI	DI	A,O	P	FEM_PL_GEN_ST	Hel_26.eaf
+theodo	theodo	thiod	*	Volk, Menge	*	*	*	theodo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_26.eaf
+,	,	*	*	*	*	*	2173	,	$,	$,	*	*	*	Hel_26.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_26.eaf
+heriskepi	heriskepi	heriskepi	S1b	Menge, Schar, Volk	CF_U_M	*	*	heriskepi	NA	NA	I_NEUT	I_NEUT	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+helpono	helpono	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_26.eaf
+gôd	gôd	god	*	gut	*	*	*	god	ADJ	ADJD	A,O	A,O	POS	Hel_26.eaf
+,	,	*	*	*	*	*	2174	,	$,	$,	*	*	*	Hel_26.eaf
+mannun	mannun	mann	S1a	Mensch	*	*	*	mannun	NA	NA	C,A_MASC	A_MASC	PL_DAT	Hel_26.eaf
+mildi	mildi	mildi	S1b	freundlich, gnädig	CF_U_M	*	*	mildi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thô	Thô	tho	*	als	*	*	*	tho	KO	KOUS	*	*	*	Hel_26.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_26.eaf
+theru	theru	the	*	der/dieser, das/dies(es), die/diese	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+menigi	menigi	menigi	S2	Menge, Schar, Volk	*	*	*	menigi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_26.eaf
+quam	quam	kuman	*	kommen	*	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2175	,	$,	$,	*	*	*	Hel_26.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_26.eaf
+thiu	thiu	the	*	de, die, das	*	*	*	thiu	DD	DDA	*	*	MASC_SG_INS	Hel_26.eaf
+brahtmu	brahtmu	brahtum	S1a	Lärm, lärmende Menge	*	*	*	brahtmu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_26.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_26.eaf
+barn	barn	barn	S1b	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+burg	burg	burg	S2	Stadt, Burg, Ort	*	*	*	burg	NA	NA	C,I_FEM	C_FEM	SG_DAT	Hel_26.eaf
+theru	theru	the	*	der, das, die	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+hôhon	hôhon	hoh	*	hoch, hochragend	*	*	*	hohon	ADJ	ADJS	A,O	N	POS_FEM_SG_DAT_WK	Hel_26.eaf
+,	,	*	*	*	*	*	2176	,	$,	$,	*	*	*	Hel_26.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+neriendo	neriendo	neriand	S1a	Retter, Heilbringer	*	*	*	neriendo	NA	NA	ND_MASC	N_MASC	SG_NOM	Hel_26.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+Naim	Naim	Naim	S1b	Naim	CF_I_Adv_Temp	*	*	naim	NE	NEO	0_MASC	0_MASC	SG_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+scolde	scolde	skulan	*	sollen, müssen	*	*	*	scolde	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+namo	namo	namo	S2	Name	*	*	*	namo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_26.eaf
+uuerðen	uuerðen	werđan	*	werden	*	*	2177	uuerden	VA	VAINF	ST3B	ST3B	*	Hel_26.eaf
+mannun	mannun	mann	S1a	Mensch	*	*	*	mannun	NA	NA	C,A_MASC	A_MASC	PL_DAT	Hel_26.eaf
+gemârid	gemârid	marian	S1b	verkünden, rühmen	CF_U_M	*	*	gemarid	VV	VVPP	WK1A	WK1A	*	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_26.eaf
+geng	geng	gangan	*	gehen, wandeln	*	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_26.eaf
+mahtig	mahtig	mahtig	S2	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJS	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+tô	tô	to	*	zu, hinzu	*	*	2178	to	ADV	ADV	*	*	*	Hel_26.eaf
+neriendo	neriendo	neriand	S1	Retter, Heilbringer	*	*	*	neriendo	NA	NA	ND_MASC	N_MASC	SG_NOM	Hel_26.eaf
+Crist	Crist	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+antat	antat	antthat	*	bis daß	*	*	*	antat	KO	KOUS	*	*	*	Hel_26.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+ginâhid	ginâhid	nahian	S2	nahen, nahe kommen	*	*	*	ginahid	VV	VVPP	WK1A	WK1A	*	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2179	,	$,	$,	*	*	*	Hel_26.eaf
+hêleandero	hêleandero	heliand	S1	Heiland	*	*	*	heleandero	NA	NA	ND_MASC	JA_MASC	PL_GEN	Hel_26.eaf
+bezt	bezt	betst	*	best	CF_I_Adv_Temp	*	*	bezt	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_0	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+thô	thô	thar	*	da, nun	*	*	*	tho	ADV	ADV	*	*	*	Hel_26.eaf
+sâhun	sâhun	sehan	*	sehen	*	*	*	sahun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_26.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_26.eaf
+thar	thar	thar	*	da; dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	DI	DIA	A,O	A,O	NEUT_SG_ACC_0	Hel_26.eaf
+hrêo	hrêo	hreo	S2	Leichnam	*	*	*	hreo	NA	NA	WA_NEUT	WA_NEUT	SG_ACC	Hel_26.eaf
+dragan	dragan	dragan	*	tragen, auftragen, bringen	*	*	*	dragan	VV	VVINF	ST6	ST6	*	Hel_26.eaf
+,	,	*	*	*	*	*	2180	,	$,	$,	*	*	*	Hel_26.eaf
+ênan	ênan	en	*	ein, einer	*	*	*	enan	DI	DIA	A,O	P	MASC_SG_ACC_ST	Hel_26.eaf
+lîflôsan	lîflôsan	liflos	S1a	leblos	*	*	*	liflosan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_26.eaf
+lîchamon	lîchamon	likhamo	S1b	toter Körper, Leichnam	*	*	*	lichamon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_26.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_26.eaf
+liudi	liudi	liudi	S2	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_ACC	Hel_26.eaf
+fôrien	fôrien	forian	*	tragen, bringen	*	*	*	forien	VV	VVINF	WK1A	WK1A	*	Hel_26.eaf
+,	,	*	*	*	*	*	2181	,	$,	$,	*	*	*	Hel_26.eaf
+beran	beran	beran	S1a	tragen, hervorbringen	*	*	*	beran	VV	VVINF	ST4	ST4	*	Hel_26.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+ênaru	ênaru	en	*	ein, einer	*	*	*	enaru	DI	DIA	A,O	P	FEM_SG_DAT_ST	Hel_26.eaf
+bâru	bâru	bara	S1b	Bahre	*	*	*	baru	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_26.eaf
+ût	ût	ut	*	heraus, hinaus	*	*	*	ut	ADV	ADV	*	*	*	Hel_26.eaf
+at	at	at	*	aus	*	*	*	at	AP	APPR	*	*	*	Hel_26.eaf
+thera	thera	the	*	der, das, die	*	*	*	thera	DD	DDA	*	*	FEM_SG_GEN	Hel_26.eaf
+burges	burges	burg	S2	Stadt, Burg, Ort	*	*	*	burges	NA	NA	C,I_FEM	A_MASC	SG_GEN	Hel_26.eaf
+dore	dore	dor	*	Tor	*	*	*	dore	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	2182	,	$,	$,	*	*	*	Hel_26.eaf
+maguiungan	maguiungan	magujung	S1a	in jugendlichem Alter, jung	*	*	*	maguiungan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_26.eaf
+man	man	mann	S1b	Mann	CF_U_M	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thiu	Thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_26.eaf
+môder	môder	modar	S2	Mutter	*	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_NOM	Hel_26.eaf
+aftar	aftar	aftar	*	nach, hinterher	*	*	*	aftar	ADV	ADV	*	*	*	Hel_26.eaf
+geng	geng	gangan	*	gehen, wandeln	*	*	2183	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_26.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_26.eaf
+hugi	hugi	hugi	S1a	Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_26.eaf
+hriuuig	hriuuig	hriuwig	S1b	betrübt, bekümmert, traurig	CF_U_M	*	*	hriuuig	ADJ	ADJD	A,O	A,O	POS	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+handun	handun	hand	S2	Hand, Seite	*	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_26.eaf
+slôg	slôg	slahan	*	schlagen	CF_I_M	*	*	slog	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2184	,	$,	$,	*	*	*	Hel_26.eaf
+carode	carode	karon	S1a	beklagen, betrauern	*	*	*	carode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+cûmde	cûmde	kumian	S1b	beklagen	*	*	*	cumde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_26.eaf
+kindes	kindes	kind	S2	Kind, junger Mann	*	*	*	kindes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_26.eaf
+dôð	dôð	dođ	*	Tod	*	*	*	dod	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	2185	,	$,	$,	*	*	*	Hel_26.eaf
+idis	idis	idis	S1a	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_26.eaf
+armscapan	armscapan	armskapan	S1b	elend, unglücklich	CF_U_M	*	*	armscapan	ADJ	ADJN	A,O	A,O	POS_FEM_SG_NOM_0	Hel_26.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_26.eaf
+
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_26.eaf
+ênag	ênag	enag	S2	einzig	*	*	*	enag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_26.eaf
+barn	barn	barn	*	Kind, Sohn	CF_U_M	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+:	:	*	*	*	*	*	2186	:	$.	$.	*	*	*	Hel_26.eaf
+
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+iru	iru	he	*	er, sie, es (selbst)	*	*	*	iru	PPER	PRF	*	*	FEM_SG_DAT_3	Hel_26.eaf
+uuidouua	uuidouua	widowa	S1	Witwe	CF_U_M	*	*	uuidouua	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_26.eaf
+habda	habda	hebbian	*	haben, besitzen	*	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_26.eaf
+uunnea	uunnea	wunnia	S2	Wonne, Freude, Lust	*	*	*	uunnea	NA	NA	JO_FEM	JO_FEM	SG_GEN	Hel_26.eaf
+than	than	than	*	hier: in Negativsätzen in Verbindung mit dem Komparativ kein ... mehr	*	*	*	than	ADV	ADV	*	*	*	Hel_26.eaf
+mêr	mêr	mer	*	mehr	*	*	*	mer	ADV	ADV	*	*	*	Hel_26.eaf
+,	,	*	*	*	*	*	2187	,	$,	$,	*	*	*	Hel_26.eaf
+biûten	biûten	biutan	*	ausgenommen, außer	*	*	*	biuten	KO	KON	*	*	*	Hel_26.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_26.eaf
+ênagun	ênagun	enag	S1	einzig	*	*	*	enagun	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_26.eaf
+sunie	sunie	sunu	*	Sohn	*	*	*	sunie	NA	NA	U_MASC	I_MASC	SG_DAT	Hel_26.eaf
+al	al	all	S2	all	*	*	*	al	DI	DIS	A,O	A,O	NEUT_SG_ACC_0	Hel_26.eaf
+gelâten	gelâten	latan	*	wenden zu, richten auf	*	*	2188	gelaten	VV	VVPP	RED1B	RED1B	*	Hel_26.eaf
+uunnea	uunnea	wunnia	S1a	Wonne, Freude, Lust	*	*	*	uunnea	NA	NA	JO_FEM	JO_FEM	SG_ACC	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+uuillean	uuillean	willio	S1b	Wille, Freude	CF_U_M	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+anttat	anttat	antthat	*	bis daß	*	*	*	anttat	KO	KOUS	*	*	*	Hel_26.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_26.eaf
+iru	iru	he	*	er, sie, es (selbst)	*	*	*	iru	PPER	PPER	*	*	FEM_SG_DAT_3	Hel_26.eaf
+uurd	uurd	wurd	S2	Schicksal, Verhängnis, Tod	*	*	*	uurd	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_26.eaf
+benam	benam	biniman	*	wegnehmen, rauben	*	*	*	benam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2189	,	$,	$,	*	*	*	Hel_26.eaf
+mâri	mâri	mari	S1a	glänzend, licht, herrlich	*	*	*	mari	ADJ	ADJ	JA,JO	JA,JO	POS_NEUT_SG_NOM_0	Hel_26.eaf
+metodogescapu	metodogescapu	metodogiskapu	S1b	göttlicher Ratschluß, Schicksal	CF_I_Adv_Temp	*	*	metodogescapu	NA	NA	U_NEUT	U_NEUT	SG_NOM	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Megin	Megin	megin	S2	Haufe, Schar	*	*	*	megin	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+folgode	folgode	folgon	*	folgen, nachfolgen	*	*	*	folgode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2190	,	$,	$,	*	*	*	Hel_26.eaf
+burgliudeo	burgliudeo	burgliudi	S1a	Bewohner einer Burg oder Stadt	*	*	*	burgliudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_26.eaf
+gebrac	gebrac	gibrak	S1b	Gedränge	CF_U_M	*	*	gebrac	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+thar	thar	thar	*	während, als	*	*	*	thar	KO	KOUS	*	*	*	Hel_26.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_26.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_26.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+bâru	bâru	bara	S2	Bahre	*	*	*	baru	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_26.eaf
+drôg	drôg	dragan	*	tragen	*	*	*	drog	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2191	,	$,	$,	*	*	*	Hel_26.eaf
+iungan	iungan	jung	S1a	jung	*	*	*	iungan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_26.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_26.eaf
+te	te	te	*	zu, nach,	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+graƀe	graƀe	graf	S1b	Grab	CF_I_Adv_Temp	*	*	grabe	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thar	Thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_26.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+sunu	sunu	sunu	*	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_26.eaf
+,	,	*	*	*	*	*	2192	,	$,	$,	*	*	*	Hel_26.eaf
+mahtig	mahtig	mahtig	S1a	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJS	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+mildi	mildi	mildi	S1b	gnädig, barmherzig	CF_U_M	*	*	mildi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+theru	theru	the	*	der, das, die	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+môder	môder	modar	S2	Mutter	*	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_DAT	Hel_26.eaf
+sprac	sprac	sprekan	*	sprechen, reden	CF_I_M	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2193	,	$,	$,	*	*	*	Hel_26.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_I_M	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_26.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_26.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_26.eaf
+uuidouua	uuidouua	widowa	S1	Witwe	*	*	*	uuidouua	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_26.eaf
+uuôp	uuôp	wop	S2	Wehklage, Jammerruf	*	*	*	uuop	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_26.eaf
+farlêti	farlêti	farlatan	*	sich von etwas abwenden, verlassen	*	*	*	farleti	VV	VVFIN	RED1B	RED1B	SUBJ_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2194	,	$,	$,	*	*	*	Hel_26.eaf
+cara	cara	kara	S1a	Klage, Leid	*	*	*	cara	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_26.eaf
+aftar	aftar	aftar	*	nach, wegen	*	*	*	aftar	AP	APPR	*	*	*	Hel_26.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_26.eaf
+kinde	kinde	kind	S1b	Kind, junger Mann	CF_I_O	*	*	kinde	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_26.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_26.eaf
+scalt	scalt	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_26.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_26.eaf
+craft	craft	kraft	S2	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_26.eaf
+sehan	sehan	sehan	*	sehen	*	*	*	sehan	VV	VVINF	ST5	ST5	*	Hel_26.eaf
+,	,	*	*	*	*	*	2195	,	$,	$,	*	*	*	Hel_26.eaf
+uualdandes	uualdandes	waldand	S1a	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_26.eaf
+giuuerc	giuuerc	giwerk	S1b	Tun, Handlung, Bemühung	CF_U_M	*	*	giuuerc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_26.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_26.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_26.eaf
+uuilleo	uuilleo	willio	S2	Wille, Freude, Wunsch	*	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_26.eaf
+gestanden	gestanden	gistandan	*	zuteil, erfüllt werden	*	*	*	gestanden	VV	VVINF	ST6	ST6	*	Hel_26.eaf
+,	,	*	*	*	*	*	2196	,	$,	$,	*	*	*	Hel_26.eaf
+frôfra	frôfra	frofra	S1a	Hilfe, Trost, Beistand	*	*	*	frofra	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_26.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_26.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_26.eaf
+folke	folke	folk	S1b	Volk, Menge, Leute	CF_U_M	*	*	folke	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_26.eaf
+tharft	tharft	thurban	*	dürfen, brauchen	*	*	*	tharft	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_26.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_26.eaf
+ferah	ferah	ferah	S2	Leben	*	*	*	ferah	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+caron	caron	karon	*	beklagen, betrauern	*	*	2197	caron	VV	VVINF	WK2	WK2	*	Hel_26.eaf
+barnes	barnes	barn	S1	Kind, Sohn	*	*	*	barnes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_26.eaf
+thînes	thînes	thin	*	dein	CF_U_M	*	*	thines	DPOS	DPOSN	A,O	P	NEUT_SG_GEN_ST	Hel_26.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_26.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_26.eaf
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	Hel_26.eaf
+Thuo	Thuo	tho	*	da	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+ti	ti	te	*	zu	*	*	*	ti	AP	APPR	*	*	*	Hel_26.eaf
+thero	thero	the	*	 der, die, das	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+bâron	bâron	bara	S2	Bahre	*	*	*	baron	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_26.eaf
+geng	geng	gangan	*	gehen, wandeln	CF_U_M	*	2198	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_26.eaf
+iac	iac	jak	*	und	*	*	*	iac	KO	KON	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_26.eaf
+selƀo	selƀo	self	S1	selbst	*	*	*	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_26.eaf
+anthrên	anthrên	anthrinan	*	berühren	*	*	*	anthren	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+suno	suno	sunu	S2	Sohn	*	*	*	suno	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_26.eaf
+drohtines	drohtines	drohtin	*	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_26.eaf
+,	,	*	*	*	*	*	2199	,	$,	$,	*	*	*	Hel_26.eaf
+hêlagon	hêlagon	helag	S1a	heilig	*	*	*	helagon	ADJ	ADJ	A,O	P,N	POS_FEM_PL_DAT_ST,WK	Hel_26.eaf
+handon	handon	hand	S1b	Hand, Seite	CF_I_M	*	*	handon	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+ti	ti	te	*	zu	*	*	*	ti	AP	APPR	*	*	*	Hel_26.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_26.eaf
+heliðe	heliðe	helid	S2	Held, Mann	*	*	*	helide	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_26.eaf
+sprak	sprak	sprekan	*	sprechen, reden	CF_I_M	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2200	,	$,	$,	*	*	*	Hel_26.eaf
+hiet	hiet	hetan	*	heißen, befehlen	*	*	*	hiet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_26.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_26.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_26.eaf
+alaiungan	alaiungan	alajung	S1	ganz jung	CF_U_M	*	*	alaiungan	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_26.eaf
+up	up	up	S2	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_26.eaf
+astandan	astandan	astandan	*	aufstehen; auferstehen	*	*	*	astandan	VV	VVINF	ST6	ST6	*	Hel_26.eaf
+,	,	*	*	*	*	*	2201	,	$,	$,	*	*	*	Hel_26.eaf
+arîsan	arîsan	arisan	S1a	auferstehen	*	*	*	arisan	VV	VVINF	ST1	ST1	*	Hel_26.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_26.eaf
+theru	theru	the	*	der, das, die	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+restun	restun	rasta	S1b	Totenlager, Grab, Tod	CI_U_O	*	*	restun	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thie	Thie	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+rinc	rinc	rink	S2	junger Krieger, Mann	*	*	*	rinc	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_26.eaf
+up	up	up	*	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_26.eaf
+asat	asat	asittian	*	sich aufsetzen, aufrichten	*	*	*	asat	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2202	,	$,	$,	*	*	*	Hel_26.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_26.eaf
+barn	barn	barn	S1a	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+thero	thero	the	*	der, das, die	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+bârun	bârun	bara	S1b	Bahre	CF_U_M	*	*	barun	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_26.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_26.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+briost	briost	briost	S2	Brust, Inneres	*	*	*	briost	NA	NA	C_FEM	C_FEM	SG_ACC	Hel_26.eaf
+cuman	cuman	kuman	*	kommen	*	*	2203	cuman	VV	VVPP	ST4	ST4	*	Hel_26.eaf
+thie	thie	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+gêst	gêst	gest	S1a	Geist	*	*	*	gest	NA	NA	A,I_MASC	A_MASC	SG_NOM	Hel_26.eaf
+thuru	thuru	thurh	*	durch	*	*	*	thuru	AP	APPR	*	*	*	Hel_26.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+craft	craft	kraft	*	Macht, Kraft	CF_U_M	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+tegegnes	tegegnes	tegegnes	S2	entgegen, gegenüber, vor	*	*	*	tegegnes	ADV	ADV	*	*	*	Hel_26.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2204	,	$,	$,	*	*	*	Hel_26.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+man	man	mann	S1a	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_26.eaf
+uuið	uuið	wiđ	*	gegen, zu, mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+mâgos	mâgos	mag	S1b	Verwandter	CF_I_M	*	*	magos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thuo	Thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_26.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_26.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+muoder	muoder	modar	S2	Mutter	*	*	*	muoder	NA	NA	ER_FEM	ER_FEM	SG_DAT	Hel_26.eaf
+bifalah	bifalah	bifelhan	*	übergeben, überlassen, hingeben	*	*	2205	bifalah	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+hêlandi	hêlandi	heliand	S1a	Heiland	*	*	*	helandi	NA	NA	ND_MASC	JA_MASC	SG_NOM	Hel_26.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+hand	hand	hand	S1b	Hand, Seite	CF_U_M	*	*	hand	NA	NA	U,I_FEM	U,I_FEM	SG_ACC	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+hugi	hugi	hugi	S2	Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_26.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	PPER	*	*	FEM_SG_DAT_3	Hel_26.eaf
+te	te	te	*	zu, nach	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+froƀra	froƀra	frofra	*	Hilfe, Trost, Beistand	*	*	*	frobra	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	2206	,	$,	$,	*	*	*	Hel_26.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_26.eaf
+uuîƀes	uuîƀes	wif	S1a	Weib, Frau, Gattin	*	*	*	uuibes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_26.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+uunneon	uunneon	wunnia	S1b	Wonne, Freude, Lust	CF_U_M	*	*	uunneon	NA	NA	JO_FEM	JO_FEM	PL_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	PPER	*	*	FEM_SG_DAT_3	Hel_26.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+sulic	sulic	sulik	*	solch, so beschaffen	*	*	*	sulic	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+uuilleo	uuilleo	willio	S2	Freude	*	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_26.eaf
+gistuod	gistuod	gistandan	*	zuteil, erfüllt werden, widerfahren, begegnen	CF_I_Adv_Caus	*	*	gistuod	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_26.eaf
+.	.	*	*	*	*	*	2207	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Fell	Fell	fallan	S1a	fallen, stürzen	*	*	*	fell	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_26.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_26.eaf
+thô	thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_26.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+fuotun	fuotun	fot	S1b	Fuß	*	*	*	fuotun	NA	NA	C,I_MASC	C_MASC	PL_DAT	Hel_26.eaf
+Cristes	Cristes	Krist	*	Christus	CF_U_M	*	*	cristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+thena	thena	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thena	DD	DDA	*	*	MASC_SG_ACC	Hel_26.eaf
+folco	folco	folk	S2	Volk, Menge, Leute	*	*	*	folco	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_26.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	2208	drohtin	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_26.eaf
+loƀoda	loƀoda	lobon	S1a	loben, preisen	*	*	*	loboda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_26.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_26.eaf
+thero	thero	the	*	der, das, die	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_26.eaf
+liudeo	liudeo	liudi	S1b	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_26.eaf
+menigi	menigi	menigi	*	Menge	CF_I_M	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	PPER	*	*	FEM_SG_DAT_3	Hel_26.eaf
+at	at	at	*	bei	*	*	*	at	AP	APPR	*	*	*	Hel_26.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_26.eaf
+liobes	liobes	liof	S2	lieb, wert, freundlich	*	*	*	liobes	ADJ	ADJS	A,O	P	POS_NEUT_SG_GEN_ST	Hel_26.eaf
+ferahe	ferahe	ferah	*	Leben	*	*	2209	ferahe	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+mundoda	mundoda	mundon	S1a	schützen, helfen	*	*	*	mundoda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_26.eaf
+uuiðer	uuiðer	wiđar	*	gegen, vor	*	*	*	uuider	AP	APPR	*	*	*	Hel_26.eaf
+metodigisceftie	metodigisceftie	metodigiskaft	S1b	Schicksal	CF_I_Adv_Caus	*	*	metodigisceftie	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+farstuod	farstuod	farstandan	*	verstehen, erkennen	*	*	*	farstuod	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_26.eaf
+siu	siu	he	*	er, sie, es (selbst)	CF_U_M	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_26.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+thie	thie	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+mahtigo	mahtigo	mahtig	S2	mächtig, gewaltig	*	*	*	mahtigo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_26.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+,	,	*	*	*	*	*	2210	,	$,	$,	*	*	*	Hel_26.eaf
+thie	thie	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thie	DD	DDA	*	*	MASC_SG_NOM	Hel_26.eaf
+hêlago	hêlago	helag	S1a	heilig	CF_I_O	*	*	helago	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_26.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_26.eaf
+thie	thie	the	*	der, das, die, welcher, welches, welche	*	*	*	thie	DD	DDSREL	*	*	MASC_SG_NOM	Hel_26.eaf
+himiles	himiles	himil	S1b	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+giuualdid	giuualdid	giwaldan	*	Gewalt haben, herrschen über, Macht haben über	CF_I_Rel	*	*	giuualdid	VV	VVFIN	RED1A	RED1A	IND_PRES_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+mahti	mahti	mugan	*	vermögen, können	*	*	*	mahti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_26.eaf
+gihelpan	gihelpan	gihelpan	S2	helfen	*	*	*	gihelpan	VV	VVINF	ST3B	ST3B	*	Hel_26.eaf
+managon	managon	manag	*	mancher, pl. Viele	*	*	*	managon	DI	DIS	A,O	N	MASC_PL_DAT_WK	Hel_26.eaf
+,	,	*	*	*	*	*	2211	,	$,	$,	*	*	*	Hel_26.eaf
+allon	allon	all	S1a	all	*	*	*	allon	DI	DI	A,O	N	FEM_PL_DAT_WK	Hel_26.eaf
+irminthiedon	irminthiedon	irminthioda	S1b	Volk, Menschenvolk	CF_I_O	*	*	irminthiedon	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thuo	Thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+bigunnun	bigunnun	biginnan	*	beginnen, anfangen	*	*	*	bigunnun	VV	VVFIN	ST3A	ST3A	IND_PAST_PL_3	Hel_26.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_26.eaf
+ahton	ahton	ahton	S2	achten auf, erwägen	*	*	*	ahton	VV	VVINF	WK2	WK2	*	Hel_26.eaf
+managa	managa	manag	*	mancher, Viele	*	*	*	managa	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_26.eaf
+,	,	*	*	*	*	*	2212	,	$,	$,	*	*	*	Hel_26.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_26.eaf
+uunder	uunder	wundar	S1a	Wunder	CF_U_M	*	*	uunder	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_26.eaf
+that	that	the	*	der, das, die, welcher, welches, welche	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_NOM	Hel_26.eaf
+under	under	undar	*	unter, zwischen	*	*	*	under	AP	APPR	*	*	*	Hel_26.eaf
+them	them	the	*	der, das, die	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_26.eaf
+uueroda	uueroda	werod	S1b	Volksmenge, Leute, Volk	*	*	*	uueroda	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_26.eaf
+giburida	giburida	giburian	*	sich zutragen, geschehen	CF_I_Rel	*	*	giburida	VV	VVFIN	WK1B	WK1B	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+quâðun	quâðun	queđan	*	sprechen, sagen	CF_U_M	*	*	quadun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_26.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_26.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_26.eaf
+selƀo	selƀo	self	*	selbst	*	*	*	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_26.eaf
+,	,	*	*	*	*	*	2213	,	$,	$,	*	*	*	Hel_26.eaf
+mahtig	mahtig	mahtig	S1a	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJS	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+quâmi	quâmi	kuman	*	kommen	*	*	*	quami	VV	VVFIN	ST4	ST4	SUBJ_PAST_SG_3	Hel_26.eaf
+tharod	tharod	tharod	*	dorthin	CF_I_O	*	*	tharod	ADV	ADV	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+menigi	menigi	menigi	S1b	Menge, Volk	*	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_ACC	Hel_26.eaf
+uuîson	uuîson	wison	*	besuchen	CI_U_Adv_Fin	*	*	uuison	VV	VVINF	WK2	WK2	*	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_26.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_26.eaf
+mârean	mârean	mari	S2	berühmt, angesehen, des Andenkens wert	*	*	*	marean	ADJ	ADJ	JA,JO	P	POS_MASC_SG_ACC_ST	Hel_26.eaf
+sandi	sandi	sendian	*	senden, schicken	*	*	2214	sandi	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_SG_3	Hel_26.eaf
+uuârsagon	uuârsagon	warsago	S1a	Wahrsager, Prophet	*	*	*	uuarsagon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_26.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+thero	thero	the	*	der, das, die	*	*	*	thero	DD	DDA	*	*	FEM_SG_GEN	Hel_26.eaf
+uueroldes	uueroldes	werold	S1b	Welt, Erde	*	*	*	uueroldes	NA	NA	I_FEM,A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+rîki	rîki	riki	*	Reich	CF_I_O	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_26.eaf
+,	*	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+]	,	*	*	*	*	*	*	*	*	*	*	*	*	Hel_26.eaf
+thie	thie	the	*	der, das, die, welcher, welche, welches	*	*	*	thie	DD	DDSREL	*	*	MASC_SG_NOM	Hel_26.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_26.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+sulican	sulican	sulik	*	solch, so beschaffen	*	*	*	sulican	DD	DD	A,O	P	MASC_SG_ACC_ST	Hel_26.eaf
+uuilleon	uuilleon	willio	S2	Wille, Freude	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_26.eaf
+frumidi	frumidi	frummian	*	ausführen, vollbringen, tun,	CF_I_Rel	*	*	frumidi	VV	VVFIN	WK1B	WK1B	SUBJ_PAST_SG_3	Hel_26.eaf
+.	.	*	*	*	*	*	2215	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Uuarð	Uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+thar	thar	thar	*	da, nun	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+thuo	thuo	tho	*	da, nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+erl	erl	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erl	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_26.eaf
+manag	manag	manag	*	manch, viel	*	*	*	manag	DI	DIN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+egison	egison	egiso	S2	Schrecken, Entsetzen	*	*	*	egison	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_26.eaf
+bifangan	bifangan	bifahan	*	erfassen, ergreifen	CF_U_M	*	*	bifangan	VV	VVPP	RED1B	RED1B	*	Hel_26.eaf
+,	,	*	*	*	*	*	2216	,	$,	$,	*	*	*	Hel_26.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_26.eaf
+folc	folc	folk	S1a	Volk, Menge, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_26.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+forohton	forohton	forhta	S1b	Furcht	CF_U_M	*	*	forohton	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+gisâhun	gisâhun	gisehan	*	sehen, ansehen, wahrnehmen	*	*	*	gisahun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_26.eaf
+thena	thena	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thena	DD	DDS	*	*	MASC_SG_ACC	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+ferah	ferah	ferah	S2	Leben	*	*	*	ferah	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+êgan	êgan	egan	*	haben, besitzen	*	*	*	egan	VV	VVINF	PRPR	PRPR	*	Hel_26.eaf
+,	,	*	*	*	*	*	2217	,	$,	$,	*	*	*	Hel_26.eaf
+dages	dages	dag	S1	Tag	*	*	*	dages	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_26.eaf
+lioht	lioht	lioht	*	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_26.eaf
+sehan	sehan	sehan	*	sehen	CF_U_M	*	*	sehan	VV	VVINF	ST5	ST5	*	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+thena	thena	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thena	DD	DDSREL	*	*	MASC_SG_ACC	Hel_26.eaf
+the	the	the	*	der, die, das	*	*	*	the	PTK	PTKREL	*	*	*	Hel_26.eaf
+êr	êr	er	*	zuvor	*	*	*	er	ADV	ADV	*	*	*	Hel_26.eaf
+dôð	dôð	dođ	S2	Tod	*	*	*	dod	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_26.eaf
+fornam	fornam	farniman	*	hinraffen, zerstören	*	*	*	fornam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2218	,	$,	$,	*	*	*	Hel_26.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+suhtbeddeon	suhtbeddeon	suhtbeddi	S1a	Krankenlager, Krankheit	*	*	*	suhtbeddeon	NA	NA	JA_NEUT	JA_NEUT	PL_DAT	Hel_26.eaf
+sualt	sualt	sweltan	S1b	sterben, umkommen	CF_I_Rel	*	*	sualt	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_26.eaf
+
+thuo	thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_26.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_26.eaf
+gisund	gisund+after	gisund	S2	gesund	*	*	*	gisund	ADJ	ADJD	A,O	A,O	POS	Hel_26.eaf
+after thiu	thiu	aftar thiu	*	danach	*	*	*	after thiu	ADV	ADV	*	*	*	Hel_26.eaf
+,	,	*	*	*	*	*	2219	,	$,	$,	*	*	*	Hel_26.eaf
+kindiung	kindiung	kindjung	S1a	(sehr) jung	*	*	*	kindiung	ADJ	ADJS	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+aquicot	aquicot	aquikon	S1b	lebendig machen	CF_U_M	*	*	aquicot	VV	VVPP	WK2	WK2	*	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Thuo	Thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_26.eaf
+kûð	kûð	kuđ	S2	kund, bekannt	*	*	*	kud	ADJ	ADJD	A,O	A,O	POS	Hel_26.eaf
+obar	obar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_26.eaf
+all	all	all	*	all	*	*	2220	all	DI	DI	A,O	A,O	MASC_PL_DAT_0	Hel_26.eaf
+aƀaron	aƀaron	abaro	S1	Nachkommen, Kinder	*	*	*	abaron	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_26.eaf
+Israheles	Israheles	Israhel	*	Israel	CF_U_M	*	*	israheles	NE	NEO	A_MASC	A_MASC	SG_GEN	Hel_26.eaf
+.	.+Reht	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Reht sô	sô	reht so	*	gerade als, sobald	*	*	*	reht so	KO	KOUS	*	*	*	Hel_26.eaf
+thuo	thuo	tho	*	nun, also	*	*	*	thuo	ADV	ADV	*	*	*	Hel_26.eaf
+âƀand	âƀand	aband	S2	Abend	*	*	*	aband	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_26.eaf
+quam	quam	kuman	*	kommen	CF_I_Adv_Temp	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2221	,	$,	$,	*	*	*	Hel_26.eaf
+sô	sô	so	*	da, dann	*	*	*	so	ADV	ADV	*	*	*	Hel_26.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+all	all	all	*	all	*	*	*	all	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_26.eaf
+gisamnod	gisamnod	samnon	S1	sammeln, versammeln	*	*	*	gisamnod	VV	VVPP	WK2	WK2	*	Hel_26.eaf
+seokora	seokora	siok	S2	siech, krank	*	*	*	seokora	ADJ	ADJ	A,O	P	POS_MASC_PL_GEN_ST	Hel_26.eaf
+manno	manno	mann	*	Mensch	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_26.eaf
+,	,	*	*	*	*	*	2222	,	$,	$,	*	*	*	Hel_26.eaf
+haltaro	haltaro	halt	S1a	an den Füßen lahm	*	*	*	haltaro	ADJ	ADJS	A,O	P	POS_MASC_PL_GEN_ST	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+hâƀaro	hâƀaro	haf	S1b	lahm an den Händen	CF_U_M	*	*	habaro	ADJ	ADJS	A,O	P	POS_MASC_PL_GEN_ST	Hel_26.eaf
+,	,+sô+huat	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+sô huat sô	sô	so hwe so	*	wer auch immer, jeder der	*	*	*	so huat so	PW	PWGREL	*	*	NEUT_SG_NOM	Hel_26.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+huergin	huergin	hwergin	S2	irgendwo	*	*	*	huergin	ADV	ADV	*	*	*	Hel_26.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	2223	,	$,	$,	*	*	*	Hel_26.eaf
+thia	thia	the	*	der, die, das	*	*	*	thia	DD	DDA	*	*	MASC_PL_NOM	Hel_26.eaf
+lêƀun	lêƀun	lef	S1a	schwach, gebrechlich	*	*	*	lebun	ADJ	ADJS	A,O	N	POS_MASC_PL_NOM_WK	Hel_26.eaf
+under	under	undar	*	unter, zwischen	*	*	*	under	AP	APPR	*	*	*	Hel_26.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_26.eaf
+liudeon	liudeon	liudi	S1b	Leute, Menschen, Volk	CF_I_Rel	*	*	liudeon	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+uurðun	uurðun	werđan	*	werden	*	*	*	uurdun	VA	VAFIN	ST3B	ST3B	IND_PAST_PL_3	Hel_26.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+gilêdit	gilêdit	ledian	S2	leiten, führen	*	*	*	giledit	VV	VVPP	WK1A	WK1A	*	Hel_26.eaf
+tuo	tuo	to	*	zu, hinzu	*	*	*	tuo	ADV	ADV	*	*	*	Hel_26.eaf
+,	,	*	*	*	*	*	2224	,	$,	$,	*	*	*	Hel_26.eaf
+cumana	cumana	kuman	S1a	kommen	*	*	*	cumana	VV	VVPP	ST4	ST4	P_POS_MASC_PL_NOM_ST	Hel_26.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_26.eaf
+Criste	Criste	Krist	S1b	Christus	CF_I_M	*	*	criste	NE	NE	A_MASC	A_MASC	SG_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+thar	thar	thar	*	da, wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_26.eaf
+thuru	thuru	thurh	*	durch	*	*	*	thuru	AP	APPR	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+craft	craft	kraft	S2	Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_26.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	2225	mikil	ADJ	ADJN	A,O	A,O	POS_FEM,MASC_SG_ACC_0	Hel_26.eaf
+halp	halp	helpan	S1a	helfen	*	*	*	halp	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_26.eaf
+hêlda	hêlda	helian	S1b	heilen, gesund machen	CF_I_Rel	*	*	helda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+liet	liet	latan	*	lassen, zulassen, erlauben	*	*	*	liet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_26.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_26.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_26.eaf
+gihaldana	gihaldana	gihaldan	S2	bewahren, erhalten, retten	*	*	*	gihaldana	VV	VVPPD	RED1A	RED1A	P_POS_MASC_PL_ACC_ST	Hel_26.eaf
+thanan	thanan	thanan	*	von dannen, daher, daraus	*	*	2226	thanan	ADV	ADV	*	*	*	Hel_26.eaf
+uuendan	uuendan	wendian	S1a	sich wenden, weggehen	*	*	*	uuendan	VV	VVINF	WK1A	WK1A	*	Hel_26.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_26.eaf
+uuilleon	uuilleon	willio	S1b	Wille, Freude	CF_I_M	*	*	uuilleon	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_26.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_26.eaf
+
+Bethiu	Bethiu	bethiu	*	darum, deswegen	*	*	*	bethiu	ADV	ADV	*	*	*	Hel_26.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_26.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+uuerc	uuerc	werk	S2	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_26.eaf
+loƀon	loƀon	lobon	*	loben, preisen	*	*	*	lobon	VV	VVINF	WK2	WK2	*	Hel_26.eaf
+,	,	*	*	*	*	*	2227	,	$,	$,	*	*	*	Hel_26.eaf
+diuran	diuran	diurian	S1a	preisen, verherrlichen	*	*	*	diuran	VV	VVINF	WK1B	WK1B	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+dâdi	dâdi	dad	S1b	Tat, Handlung, Ereignis	CF_U_M	*	*	dadi	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+huand	huand	hwand	*	da, weil	*	*	*	huand	KO	KOUS	*	*	*	Hel_26.eaf
+hie	hie	he	*	er, sie, es (selbst)	*	*	*	hie	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_26.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_26.eaf
+drohtin	drohtin	drohtin	S2	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_26.eaf
+self	self	self	*	selbst	*	*	*	self	DD	DDN	A,O	A,O	MASC_SG_NOM_0	Hel_26.eaf
+,	,	*	*	*	*	*	2228	,	$,	$,	*	*	*	Hel_26.eaf
+mahtig	mahtig	mahtig	S1a	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_26.eaf
+mundboro	mundboro	mundboro	S1b	Schutzherr	*	*	*	mundboro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_26.eaf
+manno	manno	mann	S2	Mensch	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_26.eaf
+kunnie	kunnie	kunni	*	Geschlecht, Stamm, Volk; Leute	*	*	*	kunnie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_26.eaf
+,	,	*	*	*	*	*	2229	,	$,	$,	*	*	*	Hel_26.eaf
+liudeo	liudeo	liudi	S1	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_26.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_26.eaf
+huilicon	huilicon	hwilik	*	jeder der, wer (was) immer	CF_I_Adv_Caus	*	*	huilicon	DW	DWS	A,O	N	MASC_SG_DAT_WK	Hel_26.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_26.eaf
+sô	sô	so	*	so, falls	*	*	*	so	KO	KOUS	*	*	*	Hel_26.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_26.eaf
+gilôbit	gilôbit	gilobian	S2	glauben	*	*	*	gilobit	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_26.eaf
+tuo	tuo	to	*	zu, hinzu	*	*	2230	tuo	ADV	ADV	*	*	*	Hel_26.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+uuord	uuord	word	S1a	Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG,PL_ACC	Hel_26.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_26.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_26.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_26.eaf
+uuerc	uuerc	werk	S1b	Werk, Tat, Handlung	CF_I_Adv_Cnd	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	SG,PL_ACC	Hel_26.eaf
+.	*	*	*	*	*	XXVI	2231	. 	$.	$.	*	*	*	Hel_26.eaf

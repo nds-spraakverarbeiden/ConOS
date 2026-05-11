@@ -1,0 +1,196 @@
+PREFIX :      <file:///C:/Users/chiarcos/Desktop/corpus/heliand/src/ddd-heliand-v1.1/#> 
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x:     <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif:   <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs:  <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+#########
+# input #
+#########
+
+# ID	WORD	LEMMA	UPOS	XPOS	FEATS	DHEAD	DEDGE	DDEPS	DMISC
+# BID	BWORD	BLEMMA	BUPOS	BXPOS	BFEATS	BHEAD	BEDGE	BDEPS	BMISC
+
+# prune B4 annotations whenever there is a mismatch in lemma (i.e., alignment)
+DELETE {
+	?w conll:BID ?bid; 
+		conll:BWORD	?bword;
+		conll:BLEMMA	?blemma;
+		conll:BUPOS	?bupos;
+		conll:BXPOS	?bxpos;
+		conll:BFEATS	?bfeats;
+		conll:BHEAD	?bhead;
+		conll:BEDGE	?bedge;
+		conll:BDEPS	?bdeps;
+		conll:BMISC ?bmisc
+	}
+WHERE {
+	?w conll:BWORD ?bword.
+	?w conll:LEMMA ?lemma.	# lemma different from DDD (or missing alignment)
+		MINUS { ?w conll:BLEMMA ?blemma }
+	OPTIONAL { ?w conll:BID ?bid }
+	OPTIONAL { ?w conll:BUPOS	?bupos  }
+	OPTIONAL { ?w conll:BXPOS	?bxpos }
+	OPTIONAL { ?w conll:BFEATS	?bfeats }
+	OPTIONAL { ?w conll:BHEAD	?bhead }
+	OPTIONAL { ?w conll:BEDGE	?bedge }
+	OPTIONAL { ?w conll:BDEPS	?bdeps }
+	OPTIONAL { ?w conll:BMISC ?bmisc }
+};
+
+# BHEAD & DHEAD => object properties
+DELETE {
+	?w ?prop ?id
+} INSERT {
+	?w ?prop ?head
+} WHERE {
+	{ ?w conll:BHEAD ?id. BIND(conll:BHEAD as ?prop) BIND(conll:BID as ?idprop) } UNION 
+	{ ?w conll:DHEAD ?id. BIND(conll:DHEAD as ?prop) BIND(conll:ID as ?idprop) }
+	
+	?w conll:HEAD+ ?s. 
+	?s a nif:Sentence.
+	OPTIONAL {
+		?h a nif:Word; ?idprop ?id.
+		FILTER(?idprop in (conll:BID,conll:ID))
+	}
+	BIND(if(bound(?h), ?h, ?s) as ?head)
+};
+
+# delete non-resolvable heads
+DELETE {
+	?w ?head ?h; ?edge ?e
+} WHERE {
+	VALUES (?head ?edge) {
+		(conll:BHEAD conll:BEDGE)
+		(conll:DHEAD conll:DEDGE)
+	}
+	?w a nif:Word; ?head ?h; ?edge ?e
+	FILTER(isliteral(?h))
+};
+
+# delete conll:MISC
+DELETE {
+	?w conll:MISC ?misc
+} WHERE {
+	?w conll:MISC ?misc
+};
+
+# initialize HEAD from agreement between B4 and DDD
+DELETE {
+	?w conll:HEAD ?s; conll:EDGE ?e.
+} INSERT {
+	?w conll:HEAD ?bhead; conll:EDGE ?be; conll:MISC "B4=DDD"
+} WHERE {
+	?w conll:LEMMA ?l; conll:BLEMMA ?l; conll:BHEAD ?bhead; conll:BEDGE ?be; conll:DHEAD ?bhead; conll:DEDGE ?be.
+	?w conll:HEAD ?s.
+	OPTIONAL { ?w conll:EDGE ?e. }
+};
+
+# initialize HEAD from BHEAD, but ony if the lemma is the same (different lemma indicates an alignment error)
+DELETE {
+	?w conll:HEAD ?s; conll:EDGE ?e.
+} INSERT {
+	?w conll:HEAD ?bhead; conll:EDGE ?be; conll:MISC "B4"
+} WHERE {
+	?w conll:LEMMA ?l; conll:BLEMMA ?l; conll:BHEAD ?bhead; conll:BEDGE ?be.
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	MINUS { ?w a nif:Word; conll:MISC [] }
+	OPTIONAL { ?w conll:EDGE ?e. }
+};
+	
+# fill gaps from DHEAD
+DELETE {
+	?w conll:HEAD ?s; conll:EDGE ?e.
+} INSERT {
+	?w conll:HEAD ?bhead; conll:EDGE ?be; conll:MISC "DDD"
+} WHERE {
+	?w conll:DHEAD ?bhead; conll:DEDGE ?be.
+	?w conll:HEAD ?s.
+	MINUS { ?w conll:MISC [] }
+	OPTIONAL { ?w conll:EDGE ?e}
+	OPTIONAL { ?w conll:MISC ?e}
+	?s a nif:Sentence.
+	FILTER(?s != ?bhead)
+};
+
+# in case of cycles, remove all elements on the cycle that come from B4 and use those of DDD
+DELETE {
+	?w conll:HEAD ?h; conll:EDGE ?e; conll:MISC ?misc.
+} INSERT {
+	?w conll:HEAD ?d; conll:EDGE ?de; conll:MISC "cycle>DDD"
+} WHERE {
+	?w conll:BHEAD ?h; conll:HEAD ?h.
+	?h conll:HEAD* ?v.
+	?v conll:HEAD+ ?w.
+	?w conll:DHEAD ?d; conll:DEDGE ?de.
+	OPTIONAL { ?w conll:MISC ?misc; conll:EDGE ?e }
+};
+
+
+# substitute D properties from B properties if empty
+# shouldn't occur
+INSERT {
+	?w ?dprop ?val; conll:MISC ?comment
+} WHERE {
+	?w a nif:Word.
+	values (?bprop ?dprop) {
+		(conll:BLEMMA conll:LEMMA)
+		(conll:BUPOS conll:UPOS)
+		(conll:BXPOS conll:XPOS)
+		#(conll:BFEATS conll:FEATS)
+	}
+	?w ?bprop ?val.
+	MINUS {
+		?w a nif:Word; ?dprop [] 
+	}
+	BIND(concat(replace(str(?dprop),".*[#/]",""),"<B4") as ?comment)
+};
+
+# replace empty punctuations with "-"
+INSERT {
+	?w conll:WORD "-"
+} WHERE {
+	?w a nif:Word; conll:UPOS "PUNCT".
+	MINUS { ?w a nif:Word; conll:WORD [] }
+};
+
+# drop BID	BWORD	BLEMMA	BUPOS	BXPOS	BFEATS
+DELETE {
+	?w ?bprop ?val
+} WHERE {
+	?w a nif:Word.
+	?w ?bprop ?val.
+	FILTER(?bprop in (conll:BID, conll:BWORD, conll:BLEMMA, conll:BUPOS, conll:BXPOS, conll:BFEATS, conll:BMISC, conll:DMISC, conll:DEDGE, conll:DHEAD, conll:BHEAD, conll:BEDGE))
+};
+
+# root label
+INSERT {
+	?w conll:EDGE "root"
+} WHERE {
+	?w conll:HEAD/a nif:Sentence.
+	MINUS { ?w conll:EDGE [] }
+};
+
+# concat MISC 
+INSERT {
+	?w conll:NEW_MISC ?new
+} WHERE {
+	{ SELECT ?w (group_concat(distinct ?misc; separator="|") as ?new)
+	  WHERE {
+		?w conll:MISC ?misc
+	  } GROUP BY ?w ORDER BY ?w ?misc
+	}
+};
+
+# update MISC 
+DELETE {
+	?w conll:MISC ?m; conll:NEW_MISC ?new
+} INSERT {
+	?w conll:MISC ?new
+} WHERE {
+	?w conll:MISC ?m; conll:NEW_MISC ?new
+};

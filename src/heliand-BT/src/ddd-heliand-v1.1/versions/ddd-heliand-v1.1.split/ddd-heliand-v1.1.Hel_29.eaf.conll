@@ -1,0 +1,706 @@
+
+Sô	Sô	so	*	so, in solcher Weise; so sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+hêlde	hêlde	helian	S1a	heilen, gesund machen, retten	*	*	*	helde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_29.eaf
+haltun	haltun	halt	S1b	an den Füßen lahm	*	*	*	haltun	ADJ	ADJ	A,O	N	POS_MASC_PL_ACC_WK	Hel_29.eaf
+man	man	mann	*	Mann, Mensch	*	*	*	man	NA	NA	C,A_MASC	C_MASC	PL_ACC	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_ACC	Hel_29.eaf
+hâƀon	hâƀon	haf	S2	lahm an den Händen	*	*	*	habon	ADJ	ADJS	A,O	N	POS_MASC_PL_ACC_WK	Hel_29.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+self	self	self	*	selbst	CF_U_M	*	*	self	DD	DDS	A,O	A,O	MASC_SG_NOM_0	Hel_29.eaf
+,	,	*	*	*	*	*	2357	,	$,	$,	*	*	*	Hel_29.eaf
+bôtta	bôtta	botian	S1a	heilen	CF_U_M	*	*	botta	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	them	DD	DDSREL	*	*	MASC_PL_DAT	Hel_29.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+blinde	blinde	blind	S1b	blind	*	*	*	blinde	ADJ	ADJS	A,O	P	POS_MASC_PL_NOM_ST	Hel_29.eaf
+uuârun	uuârun	wesan	*	sein	CF_I_Rel	*	*	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+lêt	lêt	latan	*	lassen, zulassen, erlauben	*	*	*	let	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_29.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_29.eaf
+berhte	berhte	berht	S2	glänzend	*	*	*	berhte	ADJ	ADJ	A,O	N	POS_NEUT_SG_ACC_WK	Hel_29.eaf
+lioht	lioht	lioht	*	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	2358	,	$,	$,	*	*	*	Hel_29.eaf
+sinscôni	sinscôni	sinskoni	S1a	ewige Schönheit, Herrlichkeit	*	*	*	sinsconi	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_29.eaf
+sehan	sehan	sehan	S1b	sehen	CF_U_M	*	*	sehan	VV	VVINF	ST5	ST5	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+sundea	sundea	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	JO,N_FEM	JO_FEM	SG,PL_ACC	Hel_29.eaf
+lôsda	lôsda	losian	*	lösen, wegnehmen; erlösen, befreien	*	*	*	losda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2359	,	$,	$,	*	*	*	Hel_29.eaf
+gumono	gumono	gumo	S1a	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_29.eaf
+grimuuerk	grimuuerk	grimwerk	S1b	böse Tat	CF_U_M	*	*	grimuuerk	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+uuas	uuas	wesan	*	zuteil werden	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+gio	gio	io	*	zu irgend einer Zeit, je	*	*	*	gio	ADV	ADV	*	*	*	Hel_29.eaf
+Iudeono	Iudeono	Iudeo	S2	der Jude	*	*	*	iudeono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_29.eaf
+bethiu	bethiu	bethiu	*	deswegen, deshalb	*	*	*	bethiu	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	2360	,	$,	$,	*	*	*	Hel_29.eaf
+lêðes	lêðes	leđ	S1a	feindlich, widerwärtig, verhaßt, leid, böse, bösartig	*	*	*	ledes	ADJ	ADJ	A,O	P	POS_NEUT_SG_GEN_ST	Hel_29.eaf
+liudskepies	liudskepies	liudskepi	S1b	Volk	*	*	*	liudskepies	NA	NA	I_NEUT	I_NEUT	SG_GEN	Hel_29.eaf
+gilôƀo	gilôƀo	gilobo	S2	Glaube, Gesinnung	*	*	*	gilobo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_29.eaf
+thiu	thiu	the	*	der, das, die	*	*	*	thiu	DD	DDS	*	*	NEUT_SG_INS	Hel_29.eaf
+betara	betara	betara	*	besser	*	*	2361	betara	ADJ	ADJS	A,O	N	COMP_MASC_SG_NOM_WK	Hel_29.eaf
+an	an	an	*	an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+thene	thene	the	*	der, das, die	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_29.eaf
+hêlagon	hêlagon	helag	S1	heilig	*	*	*	helagon	ADJ	ADJ	A,O	N	POS_MASC_SG_ACC_WK	Hel_29.eaf
+Crist	Crist	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_29.eaf
+habdun	habdun	hebbian	*	haben, besitzen; halten	*	*	*	habdun	VA	VAFIN	WK3	WK3	IND_PAST_PL_3	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_PL_DAT_3	Hel_29.eaf
+hardene	hardene	hard	S2	hart, scharf, schwer	*	*	*	hardene	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_29.eaf
+môd	môd	mod	*	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	2362	,	$,	$,	*	*	*	Hel_29.eaf
+suîðo	suîðo	swiđo	*	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_29.eaf
+starkan	starkan	stark	S1a	böse, feindlich	*	*	*	starkan	ADJ	ADJ	A,O	P	POS_NEUT_SG_ACC_ST	Hel_29.eaf
+strîd	strîd	strid	S1b	Widerstreben, Streit, Kampf, Eifer	CF_I_M	*	*	strid	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+farstandan	farstandan	farstandan	S2	verstehen, einsehen, erkennen	*	*	*	farstandan	VV	VVINF	ST6	ST6	*	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+uueldun	uueldun	willian	*	wollen	CF_U_M	*	*	uueldun	VM	VMFIN	IRR	IRR	IND_PAST_PL_3	Hel_29.eaf
+,	,	*	*	*	*	*	2363	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_29.eaf
+habdun	habdun	hebbian	*	haben	*	*	*	habdun	VA	VAFIN	WK3	WK3	IND_PAST_PL_3	Hel_29.eaf
+forfangan	forfangan	farfahan	S1	sich wenden, sich ausliefern	*	*	*	forfangan	VV	VVPP	RED1A	RED1A	*	Hel_29.eaf
+fîundun	fîundun	fiund	S2	der Teufel, die bösen höllischen Geister	*	*	*	fiundun	NA	NA	ND_MASC	A_MASC	PL_DAT	Hel_29.eaf
+an	an	an	*	auf, zu, nach	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+uuillean	uuillean	willio	*	Wille, Absicht	*	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	2364	,	$,	$,	*	*	*	Hel_29.eaf
+liudi	liudi	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_NOM	Hel_29.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_29.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_29.eaf
+gelôƀun	gelôƀun	gilobo	S1b	Glaube, Gesinnung	CF_I_O	*	*	gelobun	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+gio	gio	io	*	zu irgend einer Zeit, je	*	*	*	gio	ADV	ADV	*	*	*	Hel_29.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDS	*	*	NEUT_SG_INS	Hel_29.eaf
+latoro	latoro	lat	S2	träge, lässig, saumselig	*	*	*	latoro	ADJ	ADJD	A,O	N	COMP_MASC_SG_NOM_WK	Hel_29.eaf
+bethiu	bethiu	bethiu	*	deswegen, deshalb	*	*	2365	bethiu	ADV	ADV	*	*	*	Hel_29.eaf
+sunu	sunu	sunu	S1	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_29.eaf
+drohtines	drohtines	drohtin	*	Herr	CF_U_M	*	*	drohtines	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+sagde	sagde	seggian	S2	sagen	*	*	*	sagde	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_29.eaf
+uuordun	uuordun	word	*	Wort, Rede, Gebot	CF_I_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	2366	,	$,	$,	*	*	*	Hel_29.eaf
+huô	huô	hwo	*	wie, in welcher Weise, daß	*	*	*	huo	PW	PWAV	*	*	*	Hel_29.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_29.eaf
+scoldin	scoldin	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scoldin	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_PL_3	Hel_29.eaf
+gehalon	gehalon	gihalon	S1	erwerben, erlangen	*	*	*	gehalon	VV	VVPP	WK2	WK2	*	Hel_29.eaf
+himiles	himiles	himil	S2	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+rîki	rîki	riki	*	Reich	CF_I_Adv_Mod	*	*	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	2367	,	$,	$,	*	*	*	Hel_29.eaf
+lêrde	lêrde	lerian	S1a	lehren, unterweisen	*	*	*	lerde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_29.eaf
+aftar	aftar	aftar	*	längs, entlang, über – hin	*	*	*	aftar	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_29.eaf
+lande	lande	land	S1b	Land, Reich	CF_U_M	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+habde	habde	hebbian	*	haben	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_29.eaf
+thero	thero	the	*	der, das, die	*	*	*	thero	DD	DDA	*	*	FEM_PL_GEN	Hel_29.eaf
+liudio	liudio	liudi	S2	Leute, Menschen, Volk	*	*	*	liudio	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_29.eaf
+sô	sô	so	*	so, in solcher Weise; so sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+filu	filu	filu	*	viel, Vieles	*	*	2368	filu	NA	NA	U_NEUT	0_NEUT	PL_ACC	Hel_29.eaf
+giuuenid	giuuenid	wennian	S1a	gewöhnen, an sich ziehen	*	*	*	giuuenid	VV	VVPP	WK1B	WK1B	*	Hel_29.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_29.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass, so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_29.eaf
+uuerod	uuerod	werod	S2	Volksmenge, Leute, Volk	*	*	*	uuerod	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_29.eaf
+,	,	*	*	*	*	*	2369	,	$,	$,	*	*	*	Hel_29.eaf
+folc	folc	folk	S1a	Volk, Schar, Menge, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+folgoda	folgoda	folgon	S1b	folgen, nachfolgen. c. dat. und mit oder ohne adverb. Bestimmung	CF_I_Adv_Cns	*	*	folgoda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_29.eaf
+filu	filu	filu	S2	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_29.eaf
+sagda	sagda	seggian	*	sagen	*	*	*	sagda	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2370	,	$,	$,	*	*	*	Hel_29.eaf
+be	be	bi	*	bei; durch, mittels	*	*	*	be	AP	APPR	*	*	*	Hel_29.eaf
+biliðiun	biliðiun	biliđi	S1a	Gleichnis	*	*	*	bilidiun	NA	NA	JA_NEUT	JA_NEUT	PL_DAT	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_29.eaf
+barn	barn	barn	S1b	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+godes	godes	god	*	Gott	CF_I_M	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDSREL	*	*	NEUT_SG_GEN	Hel_29.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+mahtun	mahtun	mugan	*	die Fähigkeit wozu haben, vermögen, können	*	*	*	mahtun	VM	VMFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_29.eaf
+breostun	breostun	briost	S2	im Innern, im Gemüte	*	*	*	breostun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_29.eaf
+farstandan	farstandan	farstandan	*	verstehen, einsehen, erkennen	*	*	*	farstandan	VV	VVINF	RED1A	RED1A	*	Hel_29.eaf
+,	,	*	*	*	*	*	2371	,	$,	$,	*	*	*	Hel_29.eaf
+undar	*	undar	*	unter	*	*	*	undar	AP	PTKVZ	*	*	*	Hel_29.eaf
+huggean	undarhuggean	undarhuggian	S1a	einsehen, verstehen	*	*	*	huggean	VV	VVINF	WK3	WK3	*	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_29.eaf
+herton	herton	herta	S1b	Herz, als Sitz der Seele, des Verstandes; Gemüt	CF_I_Rel	*	*	herton	NA	NA	N_NEUT	N_NEUT	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+êr	êr	er	*	ehe, bevor	*	*	*	er	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_29.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_29.eaf
+hêlago	hêlago	helag	S2	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_29.eaf
+Crist	Crist	Krist	*	Christus	*	*	2372	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_29.eaf
+oƀar	oƀar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_29.eaf
+that	that	the	*	dieser, dieses, diese	*	*	*	that	DD	DD	*	*	NEUT_SG_ACC	Hel_29.eaf
+erlo	erlo	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_29.eaf
+folc	folc	folk	*	Volk, Schar, Menge, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+oponun	oponun	opan	S2	offen, aufrichtig, klar	*	*	*	oponun	ADJ	ADJ	A,O	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_29.eaf
+uuordun	uuordun	word	*	Wort, Rede, Gebot	*	*	2373	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_29.eaf
+thurh	thurh	thurh	*	durch, vermittelst, vermöge	*	*	*	thurh	AP	APPR	*	*	*	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_29.eaf
+selƀes	selƀes	self	S1	selbst	*	*	*	selbes	DD	DDS	A,O	P	MASC_SG_GEN_ST	Hel_29.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_29.eaf
+seggean	seggean	seggian	S2	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_29.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_1	Hel_29.eaf
+,	,	*	*	*	*	*	2374	,	$,	$,	*	*	*	Hel_29.eaf
+mârean	mârean	marian	S1a	verkünden, rühmen	CF_I_Adv_Temp	*	*	marean	VV	VVINF	WK1A	WK1A	*	Hel_29.eaf
+huat	huat	hwe	*	wer – was	*	*	*	huat	PW	PWREL	*	*	NEUT_SG_ACC	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+mênde	mênde	menian	S1b	meinen, im Sinne haben	CF_I_Rel	*	*	mende	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_29.eaf
+megin	megin	megin	S2	Haufe, Schar	*	*	*	megin	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+umbi	umbi	umbi	*	um, herum	*	*	*	umbi	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	2375	,	$,	$,	*	*	*	Hel_29.eaf
+thioda	thioda	thiod	S1a	Volk, Menge	*	*	*	thioda	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_29.eaf
+thrungun	thrungun	thringan	S1b	dringen, sich drängen	CF_U_M	*	*	thrungun	VV	VVFIN	ST3A	ST3A	IND_PAST_PL_3	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_29.eaf
+tharf	tharf	tharf	S2	Bedürfnis	*	*	*	tharf	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_29.eaf
+mikil	mikil	mikil	*	groß, gewaltig	*	*	2376	mikil	ADJ	ADJN	A,O	A,O	POS_FEM_SG_NOM_0	Hel_29.eaf
+te	te	te	*	zu	*	*	*	te	AP	PTKZU	*	*	*	Hel_29.eaf
+gihôrienne	gihôrienne	gihorian	S1	hören, anhören	*	*	*	gihorienne	VV	VVINFS	WK1A	WK1A	SG_DAT	Hel_29.eaf
+heƀencuninges	heƀencuninges	hebankuning	S2	Himmelskönig	*	*	2377	hebencuninges	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+uuârfastun	uuârfastun	warfast	S1a	wahr	*	*	*	uuarfastun	ADJ	ADJ	A,O	P	POS_NEUT_PL_ACC_ST	Hel_29.eaf
+uuord	uuord	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+He	He	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+stôd	stôd	standan	*	stehen, sich befinden	*	*	*	stod	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_29.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+bi	bi	bi	*	bei, an	*	*	*	bi	AP	APPR	*	*	*	Hel_29.eaf
+ênes	ênes	en	*	ein, einer	*	*	*	enes	DI	DIA	A,O	P	NEUT_SG_GEN_ST	Hel_29.eaf
+uuatares	uuatares	watar	S2	Fluß, See	*	*	*	uuatares	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_29.eaf
+staðe	staðe	stađ	*	Gestade, Ufer	CF_U_M	*	*	stade	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	2378	,	$,	$,	*	*	*	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+uuelde	uuelde	willian	*	wollen	*	*	*	uuelde	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_29.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+bi	bi	bi	*	wegen, aus	*	*	*	bi	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_29.eaf
+gethringe	gethringe	githring	S1	Gedränge	*	*	*	gethringe	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+oƀar	oƀar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_29.eaf
+thegno	thegno	the	S2	der, das, die	*	*	*	thegno	DD	DDA	*	*	NEUT_PL_GEN	Hel_29.eaf
+folc	folc	folk	*	Volk, Schar, Menge	*	*	2379	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_29.eaf
+lande	lande	land	S1	Land, Reich	*	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+uppan	uppan	uppan	*	oben, hinauf	*	*	*	uppan	ADV	ADV	*	*	*	Hel_29.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_29.eaf
+lêra	lêra	lera	S2	Lehre, Unterweisung, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_29.eaf
+cûðean	cûðean	kuđian	*	bekannt machen, verkünden, zeigen	CF_U_M	*	*	cudean	VV	VVINF	WK1A	WK1A	*	Hel_29.eaf
+,	,	*	*	*	*	*	2380	,	$,	$,	*	*	*	Hel_29.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_29.eaf
+geng	geng	gangan	S1a	gehen, wandeln	*	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_29.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_29.eaf
+gôdo	gôdo	god	S1b	gut, trefflich, freundlich, nützlich	*	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_29.eaf
+iungaron	iungaron	jungaro	S2	Jünger, Diener	*	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_29.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_29.eaf
+,	,	*	*	*	*	*	2381	,	$,	$,	*	*	*	Hel_29.eaf
+friðubarn	friðubarn	friđubarn	S1	Friedenskind	*	*	*	fridubarn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_29.eaf
+flôde	flôde	flod	S2	Flut, Fluß, Wasser	*	*	*	flode	NA	NA	I_FEM,A,U_MASC	A_MASC	SG_DAT	Hel_29.eaf
+nâhor	nâhor	nah	*	nahe	*	*	2382	nahor	ADV	ADV	*	*	COMP	Hel_29.eaf
+an	an	an	*	in, in – hinein, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	DI	DIA	A,O	A,O	NEUT_SG_ACC_0	Hel_29.eaf
+skip	skip	skip	S1	Schiff	*	*	*	skip	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+innan	innan	innan	*	innen, im Innern	CF_I_M	*	*	innan	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+scalden	scalden	skaldan	S2	schieben, fortstoßen	CI_CS_I_O	*	*	scalden	VV	VVINF	RED1A	RED1A	*	Hel_29.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_U_M	*	2383	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_29.eaf
+lande	lande	land	S1	Land, Gestade	*	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+rûmur	rûmur	rumo	*	weit, fern	CI_CC_I_O	*	*	rumur	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	so dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_29.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_29.eaf
+liudi	liudi	liudi	S2	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_NOM	Hel_29.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+filu	filu	filu	*	viel, sehr	*	*	*	filu	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	2384	,	$,	$,	*	*	*	Hel_29.eaf
+thioda	thioda	thiod	S1a	Leute	*	*	*	thioda	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+thrungi	thrungi	thringan	S1b	dringen, sich drängen	CF_I_Adv_Fin	*	*	thrungi	VV	VVFIN	ST3A	ST3A	SUBJ_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Stôd	Stôd	standan	*	stehen, sich befinden	*	*	*	stod	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_29.eaf
+thegan	thegan	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegan	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_29.eaf
+manag	manag	manag	*	manch, viel	*	*	*	manag	DI	DIN	A,O	A,O	MASC_SG_NOM_0	Hel_29.eaf
+,	,	*	*	*	*	*	2385	,	$,	$,	*	*	*	Hel_29.eaf
+uuerod	uuerod	werod	S1a	Mannschaft, Volksmenge, Leute	*	*	*	uuerod	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+bi	bi	bi	*	bei, an	*	*	*	bi	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_29.eaf
+uuatare	uuatare	watar	S1b	Fluß, See	CF_U_M	*	*	uuatare	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+thar	thar	thar	*	wo, da wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_29.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_29.eaf
+Crist	Crist	Krist	*	Christus	*	*	2386	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_29.eaf
+oƀar	oƀar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_29.eaf
+liudio	liudio	liudi	S1	Leute, Menschen, Volk	*	*	*	liudio	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_29.eaf
+folc	folc	folk	*	Volk, Schar, Menge	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+lêra	lêra	lera	S2	Lehre	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_29.eaf
+sagde	sagde	seggian	*	sagen	CF_I_Rel	*	*	sagde	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+:	:	*	*	*	*	*	2387	:	$.	$.	*	*	*	Hel_29.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_29.eaf
+huat	huat	hwat	*	fürwahr, ja	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_29.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_29.eaf
+seggean	seggean	seggian	S1	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_29.eaf
+mag	mag	mugan	*	die Fähigkeit wozu haben, vermögen, können	CF_CS_U_M	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_29.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_29.eaf
+gesîðos	gesîðos	gisiđ	S2	Gefolgsmann	*	*	*	gesidos	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_29.eaf
+mîne	mîne	min	*	mein	CF_CC_U_M	*	*	mine	DPOS	DPOSN	A,O	P	MASC_PL_NOM_ST	Hel_29.eaf
+,	,	*	*	*	*	*	2388	,	$,	$,	*	*	*	Hel_29.eaf
+huô	huô	hwo	*	wie, in welcher Weise	*	*	*	huo	PW	PWAV	*	*	*	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_29.eaf
+ên	ên	en	*	ein, einer, im Sinne des unbestimmten Artikels	*	*	*	en	DI	DIA	A,O	A,O	MASC_SG_NOM_0	Hel_29.eaf
+erl	erl	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erl	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_29.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+erðu	erðu	erđa	S2	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_29.eaf
+sâian	sâian	saian	*	säen	*	*	2389	saian	VV	VVINF	WK1A	WK1A	*	Hel_29.eaf
+hrêncorni	hrêncorni	hrenkorni	S1a	reines Korn, Weizen	*	*	*	hrencorni	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_29.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_29.eaf
+handun	handun	hand	S1b	Hand	CF_I_Adv_Mod	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Sum	Sum	sum	*	irgend ein, ein gewisser, mancher	*	*	*	sum	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+hardan	hardan	hard	S2	hart, scharf, schwer	*	*	*	hardan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_29.eaf
+stēn	stēn	sten	*	Stein, Fels	*	*	2390	sten	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_29.eaf
+oƀanuuardan	oƀanuuardan	obanward	S1	oben hin	*	*	*	obanuuardan	ADV	ADV	*	*	*	Hel_29.eaf
+fel	fel	fallan	*	fallen, stürzen	CF_U_M	*	*	fel	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+erðon	erðon	erđa	S2	Erde	*	*	*	erdon	NA	NA	N,O_FEM	N_FEM	SG_ACC	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+habda	habda	hebbian	*	haben, besitzen	CF_U_M	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2391	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+mahti	mahti	mugan	*	vermögen, können	*	*	*	mahti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_29.eaf
+uuahsan	uuahsan	wahsan	S1	wachsen	*	*	*	uuahsan	VV	VVINF	ST6	ST6	*	Hel_29.eaf
+eftha	eftha	eftha	*	oder	*	*	*	eftha	KO	KON	*	*	*	Hel_29.eaf
+uurteo	uurteo	wurt	S2	Wurzel	*	*	*	uurteo	NA	NA	I_FEM	I_FEM	PL_GEN	Hel_29.eaf
+gifâhan	gifâhan	gifahan	*	fassen	*	*	*	gifahan	VV	VVINF	RED1B	RED1B	*	Hel_29.eaf
+,	,	*	*	*	*	*	2392	,	$,	$,	*	*	*	Hel_29.eaf
+kînan	kînan	kinan	S1a	keimen	*	*	*	kinan	VV	VVINF	ST1	ST1	*	Hel_29.eaf
+eftha	eftha	eftha	*	oder	*	*	*	eftha	KO	KON	*	*	*	Hel_29.eaf
+biclîƀen	biclîƀen	bikliban	S1b	festhaften, Wurzel fassen	CF_I_Adv_Cns	*	*	bicliben	VV	VVINF	ST5	ST5	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_29.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_29.eaf
+corn	corn	korn	S2	Korn, Getreide	*	*	*	corn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+farloren	farloren	farliosan	*	verlieren	CF_I_M	*	*	farloren	VV	VVPP	ST2	ST2	*	Hel_29.eaf
+,	,	*	*	*	*	*	2393	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	the	*	der, das, die, welcher, welches, welche	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_NOM	Hel_29.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+theru	theru	the	*	der, das, die	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_29.eaf
+lêian	lêian	leia	S1a	Fels	*	*	*	leian	NA	NA	N,O_FEM	N_FEM	SG_DAT	Hel_29.eaf
+gilag	gilag	giliggian	S1b	liegen	CF_I_Rel	*	*	gilag	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Sum	Sum	sum	*	irgend ein, ein gewisser, mancher	*	*	*	sum	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+eft	eft	eft	*	andrerseits, dagegen	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+land	land	land	S2	Land, Boden, Erde	*	*	*	land	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+bifel	bifel	bifallan	*	hinfallen, niederstürzen	*	*	*	bifel	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2394	,	$,	$,	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+erðun	erðun	erđa	S1a	Erde, Boden	*	*	*	erdun	NA	NA	N,O_FEM	N_FEM	SG_ACC	Hel_29.eaf
+aðalcunnies	aðalcunnies	ađalkunni	S1b	edle Art	CF_U_M	*	*	adalcunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_29.eaf
+imu	imu+aftar	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_29.eaf
+aftar thiu	thiu	aftar thiu	S2	danach, daraufhin	*	*	2395	aftar thiu	ADV	ADV	*	*	*	Hel_29.eaf
+uuahsen	uuahsen	wahsan	S1a	wachsen	*	*	*	uuahsen	VV	VVINF	ST6	ST6	*	Hel_29.eaf
+uuânlîco	uuânlîco	wanliko	S1b	schön, gedeihlich	*	*	*	uuanlico	ADV	ADV	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+uurteo	uurteo	wurt	S2	Wurzel	*	*	*	uurteo	NA	NA	I_FEM	I_FEM	PL_GEN	Hel_29.eaf
+fâhan	fâhan	fahan	*	fassen	CF_U_M	*	*	fahan	VV	VVINF	RED1B	RED1B	*	Hel_29.eaf
+,	,	*	*	*	*	*	2396	,	$,	$,	*	*	*	Hel_29.eaf
+lôd	lôd	liodan	S1a	wachsen	*	*	*	lod	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_29.eaf
+an	an	an	*	an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+lustun	lustun	lust	S1b	Lust, Begierde, Freude	CF_U_M	*	*	lustun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+that	that	the	*	der/dieser, das/dies(es), die7diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_29.eaf
+land	land	land	S2	Land, Boden, Erde	*	*	*	land	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+gôd	gôd	god	*	gut, trefflich	*	*	*	god	ADJ	ADJD	A,O	A,O	POS	Hel_29.eaf
+,	,	*	*	*	*	*	2397	,	$,	$,	*	*	*	Hel_29.eaf
+frânisco	frânisco	franisko	S1a	herrlich	*	*	*	franisco	ADV	ADV	*	*	*	Hel_29.eaf
+gifehod	gifehod	gifehon	S1b	ausstatten	CF_U_M	*	*	gifehod	VV	VVPP	WK2	WK2	*	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Sum	Sum	sum	*	irgend ein, ein gewisser, mancher	*	*	*	sum	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+eft	eft	eft	*	andrerseits, dagegen	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+bifallen	bifallen	bifallan	S2	hinfallen, niederstürzen	*	*	*	bifallen	VV	VVPP	RED1A	RED1A	*	Hel_29.eaf
+uuarð	uuarð	werđan	*	werden	*	*	2398	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_29.eaf
+an	an	an	*	in, in – hinein, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+êna	êna	en	*	ein, einer	*	*	*	ena	DI	DIA	A,O	P	FEM_SG_ACC_ST	Hel_29.eaf
+starca	starca	stark	S1a	gewaltig groß, hart	*	*	*	starca	ADJ	ADJ	A,O	N	POS_FEM_SG_ACC_WK	Hel_29.eaf
+strâtun	strâtun	strata	S1b	Straße, Weg	CF_U_M	*	*	stratun	NA	NA	N_FEM	N_FEM	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_29.eaf
+stôpon	stôpon	stopo	S2	Tritt, Fußspur, Stapfe	*	*	*	stopon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_29.eaf
+gengun	gengun	gangan	*	gehen, wandeln	*	*	*	gengun	VV	VVFIN	RED1A	RED1A	IND_PAST_PL_3	Hel_29.eaf
+,	,	*	*	*	*	*	2399	,	$,	$,	*	*	*	Hel_29.eaf
+hrosso	hrosso	hros	S1a	Roß	*	*	*	hrosso	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_29.eaf
+hôfslaga	hôfslaga	hofslaga	S1b	Hufschlag, Hufspur	*	*	*	hofslaga	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+heliðo	heliðo	heliđ	S2	Held, Mann, Mensch	*	*	*	helido	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_29.eaf
+trâda	trâda	trada	*	Tritt, Spur	CF_I_Rel	*	*	trada	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_29.eaf
+;	;	*	*	*	*	*	2400	;	$.	$.	*	*	*	Hel_29.eaf
+
+uuarð	uuarð	werđan	*	kommen, gelangen	*	*	*	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	NEUT_SG_DAT_3	Hel_29.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+erðu	erðu	erđa	S1	Erde	CF_U_M	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+up	up	up	S2	auf	*	*	*	up	ADV	PTKVZ	*	*	*	Hel_29.eaf
+gigeng	gigeng	upgigangan	*	aufgehen, keimen	CF_I_M	*	*	gigeng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2401	,	$,	$,	*	*	*	Hel_29.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen, etwas unternehmen,	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	NEUT_SG_DAT_3	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_29.eaf
+uuege	uuege	weg	S1a	Weg, Straße	*	*	*	uuege	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_29.eaf
+uuahsen	uuahsen	wahsan	S1b	wachsen	CF_U_M	*	*	uuahsen	VV	VVINF	ST6	ST6	*	Hel_29.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_29.eaf
+
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+thes	thes	the	*	der, das, die	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_29.eaf
+uuerodes	uuerodes	werod	S2	Leute, Volk	*	*	*	uuerodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_29.eaf
+farnam	farnam	farniman	*	hinraffen, zerstören	*	*	*	farnam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2402	,	$,	$,	*	*	*	Hel_29.eaf
+thes	thes	the	*	der, das, die	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_29.eaf
+folkes	folkes	folk	S1a	Volk, Schar, Menge, Leute	*	*	*	folkes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_29.eaf
+fard	fard	fard	S1b	das Gehen	*	*	*	fard	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_29.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	CF_I_M	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_FEM_SG_NOM_0	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+fuglos	fuglos	fugal	S2	Vogel	*	*	*	fuglos	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_29.eaf
+alâsun	alâsun	alesan	*	auflesen	CF_I_M	*	*	alasun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_29.eaf
+,	,	*	*	*	*	*	2403	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass, so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	NEUT_SG_GEN_3	Hel_29.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_29.eaf
+êcsan	êcsan	ekso	S1	Eigentümer	*	*	*	ecsan	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_29.eaf
+uuiht	uuiht	wiht	*	ein Ding, etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_NOM	Hel_29.eaf
+aftar	aftar	aftar	S2	danach	*	*	*	aftar	ADV	ADV	*	*	*	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+môste	môste	motan	*	können, dürfen, mögen	*	*	2404	moste	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_29.eaf
+uuerðan	uuerðan	werđan	S1a	zu etwas werden, zu etwas gereichen	*	*	*	uuerdan	VA	VVINF	ST3B	ST3B	*	Hel_29.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_29.eaf
+uuillean	uuillean	willio	S1b	Vorteil, Gewinn, Nutzen	CF_I_Adv_Cns	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+thes	thes	the	*	der, das, die, welcher, welches, welche	*	*	*	thes	DD	DDSREL	*	*	MASC_SG_GEN	Hel_29.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+thene	thene	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_29.eaf
+uueg	uueg	weg	S2	Weg, Straße	*	*	*	uueg	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_29.eaf
+bifel	bifel	bifallan	*	hinfallen, niederstürzen	*	*	*	bifel	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	CF_I_Rel	*	2405	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Sum	Sum	sum	*	mancher	*	*	*	sum	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_29.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+than	than	than	*	dann, aber	*	*	*	than	ADV	ADV	*	*	*	Hel_29.eaf
+bifallen	bifallen	bifallan	S1	hinfallen, niederstürzen	CF_U_M	*	*	bifallen	VV	VVPP	RED1A	RED1A	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+thar	thar	thar	*	da, wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_29.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+filu	filu	filu	S2	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	PL_NOM	Hel_29.eaf
+stôdun	stôdun	standan	*	stehen, sich befinden	*	*	2406	stodun	VV	VVFIN	ST6	ST6	IND_PAST_PL_3	Hel_29.eaf
+thiccero	thiccero	thikki	S1a	dicht	*	*	*	thiccero	ADJ	ADJ	JA,JO	P	POS_MASC_PL_GEN_ST	Hel_29.eaf
+thorno	thorno	thorn	S1b	Dorn	*	*	*	thorno	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_29.eaf
+an	an	an	*	an	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+themu	themu	the	S2	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_29.eaf
+dage	dage	dag	*	Tag	CF_I_Adv_Loc	*	*	dage	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_29.eaf
+;	;	*	*	*	*	*	2407	;	$.	$.	*	*	*	Hel_29.eaf
+
+uuarð	uuarð	werđan	*	kommen, gelangen	*	*	*	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	NEUT_SG_DAT_3	Hel_29.eaf
+thar	thar	thar	*	da, dort, dahin, dorthin	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+erðu	erðu	erđa	S1	Erde	CF_U_M	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+up	up	up	S2	auf, hinauf	*	*	*	up	ADV	PTKVZ	*	*	*	Hel_29.eaf
+gigeng	gigeng	upgigangan	*	aufgehen, keimen	CF_I_M	*	*	gigeng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	2408	,	$,	$,	*	*	*	Hel_29.eaf
+kên	kên	kinan	S1a 	keimen	*	*	*	ken	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	NEUT_SG_DAT_3	Hel_29.eaf
+thar	thar	thar	*	da, dort	CF_U_M	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+cliƀode	cliƀode	klibon	S1b	festhaften, wachsen	CF_I_M	*	*	clibode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Thô	Thô	tho	*	da, nun	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+slôgun	slôgun	slahan	*	einschlagen, dazwischen kommen	*	*	*	slogun	VV	VVFIN	ST6	ST6	IND_PAST_PL_3	Hel_29.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_29.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_29.eaf
+crûd	crûd+an	krud	S2	Unkraut	*	*	*	crud	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_29.eaf
+an gimang	gimang	an gimang	*	dazwischen, darunter	CF_U_M	*	*	an gimang	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	2409	,	$,	$,	*	*	*	Hel_29.eaf
+uueridun	uueridun	werian	S1a	wehren, verwehren, hindern	*	*	*	uueridun	VV	VVFIN	WK1B	WK1B	IND_PAST_PL_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	NEUT_PL_DAT_3	Hel_29.eaf
+thene	thene	the	*	der, das, die	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_29.eaf
+uuastom	uuastom	wastom	S1b	das Wachsen, Gedeihen, Wachstum	CF_U_M	*	*	uuastom	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+habda	habda	hebbian	*	haben	*	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+thes	thes	the	*	der, das, die	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_29.eaf
+uualdes	uualdes	wald	S2	Wald	*	*	*	uualdes	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+hlea	hlea	hlea	*	Decke	*	*	2410	hlea	NA	NA	O,WO_FEM	O,WO_FEM	SG_NOM	Hel_29.eaf
+forana	forana	forana	S1a	von vorn	*	*	*	forana	ADV	ADV	*	*	*	Hel_29.eaf
+oƀar-	*	obar	*	über	*	*	*	obar	ADV	PTKVZ	*	*	*	Hel_29.eaf
+fangan	oƀarfangan	obarfahan	S1b	bedecken	CF_U_M	*	*	fangan	VV	VVPP	RED1B	RED1B	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass, so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_29.eaf
+mahte	mahte	mugan	*	vermögen, können	*	*	*	mahte	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_29.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_29.eaf
+ênigaro	ênigaro	enig	*	irgend ein(er)	*	*	*	enigaro	DI	DI	A,O	P	FEM_SG_DAT_ST	Hel_29.eaf
+frumu	frumu	fruma	S2	Gutes, Nutzen, Vorteil, Gewinn	*	*	*	frumu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_29.eaf
+uuerðen	uuerðen	werđan	*	zu etwas werden, zu etwas gereichen	CF_I_Adv_Cns	*	*	uuerden	VA	VVINF	ST3B	ST3B	*	Hel_29.eaf
+,	,	*	*	*	*	*	2411	,	$,	$,	*	*	*	Hel_29.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+thea	thea	the	*	der, das, die	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_29.eaf
+thornos	thornos	thorn	S1	Dorn	*	*	*	thornos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_29.eaf
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_29.eaf
+thringan	thringan	thringan	S2	bedrängen	*	*	*	thringan	VV	VVINF	ST3A	ST3A	*	Hel_29.eaf
+môstun	môstun	motan	*	müssen, sollen	CF_I_Adv_Cnd	*	*	mostun	VM	VMFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_29.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_29.eaf
+
+"	"	*	*	*	*	*	2412	"	*	*	*	*	*	Hel_29.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+sâtun	sâtun	sittian	S1a	sitzen, verweilen	*	*	*	satun	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+suîgodun	suîgodun	swigon	S1b	schweigen	*	*	*	suigodun	VV	VVFIN	WK2	WK2	IND_PAST_PL_3	Hel_29.eaf
+gesîðos	gesîðos	gisiđ	S2	Gefolgsmann	*	*	*	gesidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_29.eaf
+Cristes	Cristes	Krist	*	Christus	*	*	*	cristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+,	,	*	*	*	*	*	2413	,	$,	$,	*	*	*	Hel_29.eaf
+uuordspâha	uuordspâha	wordspah	S1a	redekundig	*	*	*	uuordspaha	ADJ	ADJ	A,O	P	POS_MASC_PL_NOM_ST	Hel_29.eaf
+uueros	uueros	wer	S1b	Mann, Mensch	CF_U_M	*	*	uueros	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_29.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_29.eaf
+uundar	uundar	wundar	S2	Verwunderung, Wißbegier	*	*	*	uundar	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+mikil	mikil	mikil	*	groß, gewaltig	CF_U_M	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_29.eaf
+,	,	*	*	*	*	*	2414	,	$,	$,	*	*	*	Hel_29.eaf
+be	be	bi	*	bei; durch, mittels	*	*	*	be	AP	APPR	*	*	*	Hel_29.eaf
+huilicun	huilicun	hwilik	*	welcher (welches), was für ein	*	*	*	huilicun	DW	DW	A,O	P	NEUT_PL_DAT_ST	Hel_29.eaf
+biliðiun	biliðiun	biliđi	S1	Gleichnis	*	*	*	bilidiun	NA	NA	JA_NEUT	JA_NEUT	PL_DAT	Hel_29.eaf
+that	that	the	*	der, das, die	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_29.eaf
+barn	barn	barn	S2	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_29.eaf
+godes	godes	god	*	Gott	*	*	2415	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_29.eaf
+sulic	sulic	sulik	*	solch, so beschaffen	*	*	*	sulic	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_29.eaf
+sôðlîc	sôðlîc	sođlik	S1	wahr	*	*	*	sodlic	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_29.eaf
+spel	spel	spel	*	Wort, Rede	*	*	*	spel	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+seggean	seggean	seggian	S2	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_29.eaf
+bigunni	bigunni	biginnan	*	beginnen, anfangen	CF_I_O	*	*	bigunni	VV	VVFIN	ST3A	ST3A	SUBJ_PAST_SG_3	Hel_29.eaf
+.	.	*	*	*	*	*	2416	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_29.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_29.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_29.eaf
+thero	thero	the	*	der, das, die	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_29.eaf
+erlo	erlo	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_29.eaf
+ên	ên	en	S2	ein, einer	*	*	*	en	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_29.eaf
+frâgoian	frâgoian	fragon	*	fragen	*	*	2417	fragoian	VV	VVINF	WK2	WK2	*	Hel_29.eaf
+holdan	holdan	hold	S1a	gnädig, mild, freundlich	*	*	*	holdan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_29.eaf
+hêrron	hêrron	herro	S1b	Herr	CF_U_M	*	*	herron	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+hnêg	hnêg	hnigan	S2	sich neigen, sich vor jemand verneigen	*	*	*	hneg	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_29.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_29.eaf
+tegegnes	tegegnes	tegegnes	*	entgegen, gegenüber, vor	*	*	2418	tegegnes	ADV	ADV	*	*	*	Hel_29.eaf
+tulgo	tulgo	tulgo	*	sehr	*	*	*	tulgo	ADV	ADV	*	*	*	Hel_29.eaf
+uuerðlico	uuerðlico	werđliko	S1	ehrfurchtsvoll, freundlich	CF_U_M	*	*	uuerdlico	ADV	ADV	*	*	*	Hel_29.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_29.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_29.eaf
+huat	huat	hwat	*	fürwahr, ja	*	*	*	huat	ITJ	ITJ	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_29.eaf
+geuuald	geuuald	giwald	S2	Macht, Gewalt, Verfügung	*	*	*	geuuald	NA	NA	I_MASC,I_FEM	I_MASC,I_FEM	SG_ACC	Hel_29.eaf
+haƀas	haƀas	hebbian	*	haben, besitzen; halten	CF_CS_U_M	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_29.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_29.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_29.eaf
+,	,	*	*	*	*	*	2419	,	$,	$,	*	*	*	Hel_29.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_29.eaf
+ia	ia	ja	*	sowohl...als auch	*	*	*	ia	KO	KON	*	*	*	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+himile	himile	himil	S1	Himmel	*	*	*	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_29.eaf
+ia	ia	ja	*	sowohl...als auch	*	*	*	ia	KO	KON	*	*	*	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+erðu	erðu	erđa	*	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+hêlag	hêlag	helag	S2	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_29.eaf
+drohtin	drohtin	drohtin	*	Herr	CF_CC_U_M	*	*	drohtin	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_29.eaf
+,	,	*	*	*	*	*	2420	,	$,	$,	*	*	*	Hel_29.eaf
+uppa	uppa	uppa	S1	oben	*	*	*	uppa	ADV	ADV	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+niðara	niðara	niđara	*	unten, hienieden	*	*	*	nidara	ADV	ADV	*	*	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+bist	bist	wesan	*	sein	*	*	*	bist	VA	VAFIN	IRR	IRR	IND_PRES_SG_2	Hel_29.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_29.eaf
+alouualdo	alouualdo	alowaldo	S2	der Allwaltende	*	*	2421	alouualdo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_29.eaf
+gumono	gumono	gumo	S1a	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_29.eaf
+gêsto	gêsto	gest	S1b	die unsterbliche Seele	CF_U_M	*	*	gesto	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+uui	uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_29.eaf
+thîne	thîne	thin	*	dein	*	*	*	thine	DPOS	DPOS	A,O	P	MASC_PL_NOM_ST	Hel_29.eaf
+iungaron	iungaron	jungaro	S2	Jünger, Diener	*	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_29.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_1	Hel_29.eaf
+,	,	*	*	*	*	*	2422	,	$,	$,	*	*	*	Hel_29.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+ûsumu	ûsumu	usa	*	unser	*	*	*	usumu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_29.eaf
+hugi	hugi	hugi	S1a	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_29.eaf
+holde	holde	hold	S1b	ergeben, anhänglich	CF_I_M	*	*	holde	ADJ	ADJD	A,O	P	POS_MASC_PL_NOM_ST	Hel_29.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Hêrro	Hêrro	herro	S2	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_29.eaf
+the	the	the	*	der, das, die	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_29.eaf
+gôdo	gôdo	god	*	gut, trefflich, freundlich, nützlich	CE	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_29.eaf
+,	,	*	*	*	*	*	2423	,	$,	$,	*	*	*	Hel_29.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+thîn	thîn	thin	*	dein	*	*	*	thin	DPOS	DPOS	A,O	A,O	MASC_SG_ACC_0	Hel_29.eaf
+uuilleo	uuilleo	willio	S1	Wille, Absicht	*	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_29.eaf
+sî	sî	wesan	*	sein	CF_I_Adv_Cnd	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+lât	lât	latan	*	lassen, zulassen, erlauben	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_29.eaf
+ûs	ûs	wi	*	wir	*	*	*	us	PPER	PPER	*	*	PL_ACC_1	Hel_29.eaf
+thînaro	thînaro	thin	*	dein	*	*	*	thinaro	DPOS	DPOS	A,O	P	NEUT_PL_GEN_ST	Hel_29.eaf
+uuordo	uuordo	word	S2	Wort, Rede, Gebot	*	*	*	uuordo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_29.eaf
+thar	thar	thar	*	da, dort	*	*	2424	thar	ADV	ADV	*	*	*	Hel_29.eaf
+endi	endi	endi	S1	Ende	*	*	*	endi	NA	NA	JA_MASC	JA_MASC	SG_ACC	Hel_29.eaf
+gihôrien	gihôrien	gihorian	*	hören, anhören	CF_U_Imp	*	*	gihorien	VV	VVINF	WK1A	WK1A	*	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+uui	uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+aftar	aftar	aftar	S2	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_29.eaf
+thi	thi	thu	*	du	*	*	2425	thi	PPER	PPER	*	*	SG_DAT_2	Hel_29.eaf
+oƀar	oƀar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_29.eaf
+al	al	all	*	ganz	*	*	*	al	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_29.eaf
+cristinfolc	cristinfolc	kristinfolk	S1	Christenvolk	*	*	*	cristinfolc	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+cûðean	cûðean	kuđian	S2	bekannt machen, verkünden, zeigen	*	*	*	cudean	VV	VVINF	WK1A	WK1A	*	Hel_29.eaf
+môtin	môtin	motan	*	können, dürfen	CF_I_Adv_Fin	*	*	motin	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_PL_1	Hel_29.eaf
+.	.	*	*	*	*	*	2426	. 	$.	$.	*	*	*	Hel_29.eaf
+
+Uui	Uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_29.eaf
+uuitun	uuitun	witan	S1a	wissen, kennen, verstehen	CF_U_M	*	*	uuitun	VV	VVFIN	PRPR	PRPR	IND_PRES_PL_1	Hel_29.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	NEUT_PL_DAT_ST	Hel_29.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_29.eaf
+uuârlîc	uuârlîc	warlik	S2	wahr	*	*	*	uuarlic	ADJ	ADJ	A,O	A,O	POS_NEUT_PL_NOM_0	Hel_29.eaf
+biliði	biliði	biliđi	*	Gleichnis	*	*	2427	bilidi	NA	NA	JA_NEUT	JA_NEUT	PL_NOM	Hel_29.eaf
+forð	forð	forđ	S1a	vorwärts, hervor, fort	*	*	*	ford	ADV	ADV	*	*	*	Hel_29.eaf
+folgoiad	folgoiad	folgon	S1b	folgen, nachfolgen	CF_I_O	*	*	folgoiad	VV	VVFIN	WK2	WK2	IND_PRES_PL_3	Hel_29.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+ûs	ûs	wi	*	wir	*	*	*	us	PPER	PPER	*	*	PL_DAT_1	Hel_29.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_29.eaf
+firinun	firinun	firinun	S2	sehr	*	*	*	firinun	ADV	ADV	*	*	*	Hel_29.eaf
+tharf	tharf	tharf	*	Bedürfnis, Notdurft	CF_I_M	*	*	tharf	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_29.eaf
+,	,	*	*	*	*	*	2428	,	$,	$,	*	*	*	Hel_29.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+uui	uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_29.eaf
+thîn	thîn	thin	*	dein	*	*	*	thin	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_29.eaf
+uuord	uuord	word	S1a	Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_29.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_29.eaf
+thîn	thîn	thin	*	dein	*	*	*	thin	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_29.eaf
+uuerk	uuerk	werk	S1b	Werk, Tat, Handlung	CF_CS_I_O	*	*	uuerk	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_29.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_29.eaf
+-	*	*	*	*	*	*	*	-	$(	$(	*	*	*	Hel_29.eaf
+huand	-huand	hwand	*	denn, weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_29.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_29.eaf
+sulicumu	sulicumu	sulik	*	solch, so beschaffen	*	*	*	sulicumu	DI	DI	A,O	P	NEUT_SG_DAT_ST	Hel_29.eaf
+geuuittea	geuuittea	giwit	S2	Verstand, Klugheit, Weisheit	*	*	*	geuuittea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_29.eaf
+cumid	cumid	kuman	*	kommen	CF_I_Adv_Caus	*	*	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_29.eaf
+-	*	*	*	*	*	*	2429	-	$(	$(	*	*	*	Hel_29.eaf
+that	-that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_29.eaf
+uui	uui	wi	*	wir	*	*	*	uui	PPER	PPER	*	*	PL_NOM_1	Hel_29.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_29.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_29.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_29.eaf
+lande	lande	land	S1	Land, Reich	*	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_29.eaf
+at	at	at	*	von	*	*	*	at	AP	APPR	*	*	*	Hel_29.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_29.eaf
+lînon	lînon	linon	S2	lernen	*	*	*	linon	VV	VVINF	WK2	WK2	*	Hel_29.eaf
+môtin	môtin	motan	*	in der Lage sein, Gelegenheit habne, können, dürfen, mögen	CF_CC_I_O	*	*	motin	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_PL_1	Hel_29.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_29.eaf
+
+"	*	*	*	*	*	XXIX	2430	"	*	*	*	*	*	Hel_29.eaf

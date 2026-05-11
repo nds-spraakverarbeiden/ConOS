@@ -1,0 +1,504 @@
+# restructure CLAUSE annotations to powla nodes (a conll:CLAUSE with property conll:CAT)
+
+# consolidate DDD annotations
+# create PTB-style syntax in PARSE
+# - split MWEs and keep as phrase
+# - create clause nodes
+# - split ROLE(S) from CAT labels
+# - connect opening and closing clauses
+# - create sentence nodes
+# consolidate CHAP and VERSE into VERSE
+
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX terms: <http://purl.org/acoli/open-ie/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+
+# remove IGNORE
+DELETE {
+	?a conll:IGNORE ?i
+} WHERE {
+	?a conll:IGNORE ?i
+};
+
+# remove empty annotations (marked here *)
+DELETE {
+	?a ?b "*"
+} WHERE {
+	?a ?b "*"
+};
+
+# split multi-word expressions
+# can contain up to 5 tokens
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?w.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?w.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 1st iteration
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 2nd iteration
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 3rd iteration
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 4th iteration
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 5th iteration
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# split tokens: 6th iteration # shouldn't happen
+DELETE {
+	?last nif:nextWord ?w.
+	?w nif:nextWord ?next.
+	?w a nif:Word; conll:WORD ?word.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?last nif:nextWord ?w1.
+	?w1 nif:nextWord ?w2; a nif:Word; conll:WORD ?pre; powla:hasParent ?W.
+	?w2 nif:nextWord ?next; a nif:Word; conll:WORD ?post; powla:hasParent ?W.
+	?w a powla:Node, conll:MWE; conll:CAT ?pos.
+	?a ?b ?w1. ?a ?b ?w2.
+	?w1 ?c ?d. ?w2 ?c ?d.
+} WHERE {
+	?w a nif:Word; conll:WORD ?word; conll:POS ?pos.
+	FILTER(contains(?word,' '))
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	BIND(replace(?word,' .*','') AS ?pre)
+	BIND(replace(?word,'^[^ ]* +','') AS ?post)
+	BIND(URI(concat(str(?w),'_1')) AS ?w1)
+	BIND(URI(concat(str(?w),'_2')) AS ?w2)	
+	OPTIONAL { ?a ?b ?w.
+		FILTER(strstarts(str(?b), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+	}
+	OPTIONAL { ?w ?c ?d.
+		FILTER(isLiteral(?d) || strstarts(str(?c), 'http://ufal.mff.cuni.cz/conll2009-st/task-description.html#'))
+		FILTER(?c!=conll:WORD)
+	}
+	OPTIONAL { ?last nif:nextWord ?w. }
+	OPTIONAL { ?w nif:nextWord ?next. }
+};
+
+# CLAUSE => powla:Node a conll:CLAUSE: init
+DELETE {
+	?w conll:CLAUSE ?c
+} INSERT {
+	?W powla:hasParent _:clause.
+	_:clause a powla:Node, conll:CLAUSE; conll:CAT ?c.
+} WHERE {
+	?w conll:CLAUSE ?c.
+	FILTER(strlen(?c) > 0)
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+};
+
+# CLAUSE: attach words to next CLAUSE
+INSERT {
+	?W powla:hasParent ?clause.
+} WHERE {
+	?w nif:nextWord+ ?v.
+	MINUS { ?w powla:hasParent+/a conll:CLAUSE }
+	?w powla:hasParent* ?W.
+	MINUS { ?W powla:hasParent [] }
+	?v powla:hasParent+ ?clause.
+	?clause a conll:CLAUSE.
+	MINUS {
+		?w nif:nextWord+ [powla:hasParent+/a conll:CLAUSE; nif:nextWord+ ?v ]
+	}
+};
+
+# concat interrupted CLAUSE span (CS_ ... CC_)
+DELETE {
+	?a ?b ?cc.
+	?cc ?c ?d.
+	?cc conll:CAT ?ccCat.
+	?cs conll:CAT ?csCat.
+} INSERT {
+	?a ?b ?cs.
+	?cs ?c ?d.
+	?sub powla:hasParent ?cs.
+	?cs conll:CAT ?newCat.
+} WHERE {
+	?cs conll:CAT ?csCat.
+	FILTER(contains(?csCat,'CS_'))
+	BIND(replace(?csCat,'CS_','CC_') AS ?ccCat)
+	BIND(replace(?csCat,'CS_','') AS ?newCat)
+	?cc conll:CAT ?ccCat.
+	[a nif:Word; powla:hasParent* ?cs ] nif:nextWord+ [a nif:Word; powla:hasParent* ?cc].
+	MINUS { [ a nif:Word; powla:hasParent* ?cs ] nif:nextWord+ [ powla:hasParent* ?tmp; nif:nextWord+/powla:hasParent* ?cc ]. ?tmp conll:CAT ?csCat FILTER(?tmp!=?cs) }
+	MINUS { [ a nif:Word; powla:hasParent* ?cs ] nif:nextWord+ [ powla:hasParent* ?tmp; nif:nextWord+/powla:hasParent* ?cc ]. ?tmp conll:CAT ?ccCat FILTER(?tmp!=?cc) }
+	OPTIONAL { ?a ?b ?cc}
+	OPTIONAL { ?cc ?c ?d FILTER(?c!=conll:CAT) }
+	?sub a powla:Node.
+	[a nif:Word; powla:hasParent* ?cs ] nif:nextWord+ [a nif:Word; powla:hasParent* ?sub ]. FILTER(?sub!=?cs) FILTER(?sub!=?cc)
+	[a nif:Word; powla:hasParent* ?sub ] nif:nextWord+ [a nif:Word; powla:hasParent* ?cc ].
+};
+
+# SENTENCE, create one S node per nif:Sentence
+INSERT {
+	?s a conll:SENTENCE, powla:Node; conll:CAT "S".
+	?c powla:hasParent ?s
+} WHERE {
+	[a nif:Word; conll:HEAD+ ?sOrig ] powla:hasParent* ?c.
+	MINUS { ?c powla:hasParent [] }
+	?sOrig a nif:Sentence.
+	BIND(URI(concat(str(?sOrig),'_node')) as ?s)
+};
+
+# split CAT and ROLE
+DELETE {
+	?c conll:CAT ?cat
+} INSERT {
+	?c conll:CAT ?shortCat; conll:ROLE ?role
+} WHERE {
+	?c conll:CAT ?cat
+	FILTER(contains(?cat,'_'))
+	BIND(strbefore(?cat,'_') AS ?shortCat)
+	BIND(strafter(?cat,'_') AS ?role)
+};
+
+# split ROLE (1st iteration)
+DELETE {
+	?c conll:ROLE ?role
+} INSERT {
+	?c conll:ROLE ?r1, ?r2.
+} WHERE {
+	?c conll:ROLE ?role
+	FILTER(contains(?role,'_'))
+	BIND(strbefore(?role,'_') AS ?r1)
+	BIND(strafter(?role,'_') AS ?r2)
+};
+
+# split ROLE (2nd iteration)
+DELETE {
+	?c conll:ROLE ?role
+} INSERT {
+	?c conll:ROLE ?r1, ?r2.
+} WHERE {
+	?c conll:ROLE ?role
+	FILTER(contains(?role,'_'))
+	BIND(strbefore(?role,'_') AS ?r1)
+	BIND(strafter(?role,'_') AS ?r2)
+};
+
+# split ROLE (3rd iteration)
+DELETE {
+	?c conll:ROLE ?role
+} INSERT {
+	?c conll:ROLE ?r1, ?r2.
+} WHERE {
+	?c conll:ROLE ?role
+	FILTER(contains(?role,'_'))
+	BIND(strbefore(?role,'_') AS ?r1)
+	BIND(strafter(?role,'_') AS ?r2)
+};
+
+# split ROLE (4th iteration) # should not be necessary
+DELETE {
+	?c conll:ROLE ?role
+} INSERT {
+	?c conll:ROLE ?r1, ?r2.
+} WHERE {
+	?c conll:ROLE ?role
+	FILTER(contains(?role,'_'))
+	BIND(strbefore(?role,'_') AS ?r1)
+	BIND(strafter(?role,'_') AS ?r2)
+};
+
+# if only one main clause per sentence, make all other clauses its children
+DELETE {
+	?c powla:hasParent ?s
+} INSERT {
+	?c powla:hasParent ?m
+} WHERE {
+	?s a conll:SENTENCE.
+	?m powla:hasParent ?s; conll:ROLE "M". # unique main clause (at top level)
+	MINUS { ?other powla:hasParent ?c; conll:ROLE "M". ?m powla:hasParent ?s; conll:ROLE "M". FILTER(?m!=?other) }
+	?c a conll:CLAUSE; powla:hasParent ?s. FILTER(?c!=?m)
+};
+
+# non-main clauses that precede a main clause are its children
+DELETE {
+	?c powla:hasParent ?s
+} INSERT {
+	?c powla:hasParent ?m
+} WHERE {
+	?s a conll:SENTENCE.
+	?m powla:hasParent ?s; conll:ROLE "M". # unique main clause (at top level)
+	MINUS { ?other powla:hasParent ?c; conll:ROLE "M". ?m powla:hasParent ?s; conll:ROLE "M". FILTER(?m!=?other) [powla:hasParent+ ?other ] nif:nextWord+ [powla:hasParent+ ?m ]}
+	?c a conll:CLAUSE; powla:hasParent ?s. FILTER(?c!=?m)
+	[ powla:hasParent+ ?c ] nif:nextWord+ [powla:hasParent+ ?m ]
+};
+
+# non-main clauses that follow a main clause are its children
+DELETE {
+	?c powla:hasParent ?s
+} INSERT {
+	?c powla:hasParent ?m
+} WHERE {
+	?s a conll:SENTENCE.
+	?m powla:hasParent ?s; conll:ROLE "M". # unique main clause (at top level)
+	MINUS { ?other powla:hasParent ?c; conll:ROLE "M". ?m powla:hasParent ?s; conll:ROLE "M". FILTER(?m!=?other) [powla:hasParent+ ?m ] nif:nextWord+ [powla:hasParent+ ?other ]}
+	?c a conll:CLAUSE; powla:hasParent ?s. FILTER(?c!=?m)
+	[ powla:hasParent+ ?m ] nif:nextWord+ [powla:hasParent+ ?c ]
+};
+
+# induce powla:next
+INSERT {
+	?x powla:next ?y
+} WHERE {
+	?x powla:hasParent ?z.
+	?y powla:hasParent ?z.
+	FILTER(?x!=?y)
+	?word powla:hasParent* ?x; nif:nextWord+/powla:hasParent* ?y.
+	MINUS {
+		?x powla:hasParent ?z.
+		?y powla:hasParent ?z.
+		?tmp powla:hasParent ?z.
+		FILTER(?x!=?tmp)
+		FILTER(?y!=?tmp)
+		[] powla:hasParent* ?x; nif:nextWord+/powla:hasParent* ?tmp.
+		[] powla:hasParent* ?tmp; nif:nextWord+/powla:hasParent* ?y.
+	}
+};	
+
+# merge roles into CAT, again
+DELETE {
+	?c conll:CAT ?cat
+} INSERT {
+	?c conll:CAT ?longCat
+} WHERE {
+	?c conll:CAT ?cat.
+	{ SELECT ?c (GROUP_CONCAT(distinct ?role; separator="_") AS ?roles)
+	  WHERE {
+		?c conll:ROLE ?role
+	  } GROUP BY ?c ORDER BY ?c ?role
+	} 
+	BIND(concat(?cat,'_',?roles) AS ?longCat)
+};
+
+# write POWLA nodes into PARSE property
+INSERT {
+	?w conll:PARSE ?parse
+} WHERE {
+	?w a nif:Word.
+	OPTIONAL { 
+	  SELECT ?w (GROUP_CONCAT(?open; separator=" ") AS ?pre)
+	  WHERE {
+		?w a nif:Word.
+		?w powla:hasParent+ ?x.		
+		{ SELECT ?x (COUNT(distinct ?parent) AS ?depth)
+		  WHERE {
+			?x a powla:Node. ?x powla:hasParent* ?parent
+		  } GROUP BY ?x ORDER BY ?depth
+		}
+		?x conll:CAT ?cat.
+		BIND(concat("(",?cat) AS ?open)
+		MINUS { ?tmp nif:nextWord+ ?w; powla:hasParent+ ?x }
+	  } GROUP BY ?w ORDER BY ?w asc(?depth)
+	}
+	OPTIONAL { 
+	  SELECT ?w (GROUP_CONCAT(?open; separator=" ") AS ?post)
+	  WHERE {
+		?w a nif:Word.
+		?w powla:hasParent+ ?x.
+		MINUS { ?x (^powla:hasParent)+ [ (^nif:nextWord)+ ?w ] }
+		?x conll:CAT ?cat.
+		BIND(")" AS ?open)
+		# MINUS { ?w (nif:nextWord)+ ?tmp. ?tmp powla:hasParent+ ?x. ?w powla:hasParent+ ?x }
+	  } GROUP BY ?w ORDER BY ?w
+	}
+	BIND(if(bound(?pre),
+			if(bound(?post), concat(?pre," * ",?post), concat(?pre," *")),
+			if(bound(?post), concat("* ",?post), "*")) AS ?parse)
+};
+		 

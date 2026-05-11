@@ -1,0 +1,750 @@
+
+Geuuêt	Geuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	geuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_25.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_25.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+iungoron	iungoron	jungaro	S1	Jünger, Diener	*	*	*	iungoron	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_25.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_25.eaf
+them	them	the	*	 der, die, das	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_25.eaf
+gômun	gômun	goma	S2	Bewirtung, Gastmahl	*	*	*	gomun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_25.eaf
+forð	forð	forđ	*	fort, weg	*	*	2088	ford	ADV	ADV	*	*	*	Hel_25.eaf
+Kristus	Kristus	Krist	S1a	Christus	*	*	*	kristus	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+Capharnaum	Capharnaum	Kapharnaum	S1b	Kapharnaum	*	*	*	capharnaum	NE	NEO	0_MASC	0_MASC	SG_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+cuningo	cuningo	kuning	S2	König	*	*	*	cuningo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_25.eaf
+rîkeost	rîkeost	riki	*	mächtig, herrschgewaltig	*	*	*	rikeost	ADJ	ADJS	JA,JO	JA,JO	SUP_MASC_SG_NOM_0	Hel_25.eaf
+,	,	*	*	*	*	*	2089	,	$,	$,	*	*	*	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+theru	theru	the	*	der/dieser, das/dies(es), die/diese	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_25.eaf
+mâreon	mâreon	mari	S1	berühmt, angesehen	*	*	*	mareon	ADJ	ADJ	JA,JO	N	POS_FEM_SG_DAT_WK	Hel_25.eaf
+burg	burg	burg	*	Stadt, Burg, Ort	CF_U_M	*	*	burg	NA	NA	C,I_FEM	C_FEM	SG_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Megin	Megin	megin	S2	Haufe, Schar	*	*	*	megin	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+samnode	samnode	samnon	*	sich versammeln	CF_U_M	*	*	samnode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2090	,	$,	$,	*	*	*	Hel_25.eaf
+gumon	gumon	gumo	S1a	Mann, Mensch	*	*	*	gumon	NA	NA	N_MASC	N_MASC	PL_NOM	Hel_25.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+tegegnes	tegegnes	tegegnes	S1b	entgegen, gegenüber, vor	*	*	*	tegegnes	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+gôdoro	gôdoro	god	S2	gut	*	*	*	godoro	ADJ	ADJ	A,O	P	POS_MASC_PL_GEN_ST	Hel_25.eaf
+manno	manno	mann	*	Mensch, Mann	*	*	2091	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_25.eaf
+sâlig	sâlig	salig	S1a	gut, fromm	*	*	*	salig	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_25.eaf
+gesîði	gesîði	gisiđi	S1b	Schar, Haufe	CE	*	*	gesidi	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+uueldun	uueldun	willian	*	wollen	*	*	*	uueldun	VM	VMFIN	IRR	IRR	IND_PAST_PL_3	Hel_25.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_ACC	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+suôtean	suôtean	swoti	S2	süß, lieblich, angenehm	*	*	*	suotean	ADJ	ADJ	JA,JO	N	POS_NEUT_PL_ACC_WK	Hel_25.eaf
+uuord	uuord	word	*	 Rede, Wort, Gebot	*	*	2092	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_25.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJN	A,O	A,O	POS_NEUT_PL_ACC_0	Hel_25.eaf
+hôrien	hôrien	horian	S1b	hören, anhören	CF_U_M	*	*	horien	VV	VVPP	WK1A	WK1A	*	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Thar	Thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	DI	DIA	A,O	A,O	MASC_SG_NOM_0	Hel_25.eaf
+hunno	hunno	hunno	S2	Zenturio	*	*	*	hunno	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+quam	quam	kuman	*	kommen	*	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2093	,	$,	$,	*	*	*	Hel_25.eaf
+ên	ên	en	*	ein, einer	*	*	*	en	CARD	CARD	A,O	A,O	MASC_SG_NOM_0	Hel_25.eaf
+gôd	gôd	god	S1a	gut	*	*	*	god	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_25.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_25.eaf
+angegin	angegin	angegin	S1b	entgegen	CF_U_M	*	*	angegin	ADV	ADV	*	*	*	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_25.eaf
+gerno	gerno	gerno	S2	gern, freudig, willig, eifrig	*	*	*	gerno	ADV	ADV	*	*	*	Hel_25.eaf
+bad	bad	biddian	*	bitten	*	*	2094	bad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_25.eaf
+helpan	helpan	helpan	S1a	helfen	*	*	*	helpan	VV	VVINF	ST3B	ST3B	*	Hel_25.eaf
+hêlagne	hêlagne	helag	s1b	heilig	CF_I_M	*	*	helagne	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+quað	quað	queđan	*	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_25.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+hîuuiskea	hîuuiskea	hiwiski	S2	Hausgemeinschaft, Familie	*	*	2095	hiuuiskea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_25.eaf
+ênna	ênna	en	*	ein, einer	*	*	*	enna	CARD	CARD	A,O	P	MASC_SG_ACC_ST	Hel_25.eaf
+lefna	lefna	lef	S1a	schwach, gebrechlich	*	*	*	lefna	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+lamon	lamon	lamo	S1b	der Lahme	*	*	*	lamon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+lango	lango	lango	S2	lange, lange Zeit	*	*	*	lango	ADV	ADV	*	*	*	Hel_25.eaf
+habdi	habdi	hebbian	*	haben	*	*	*	habdi	VA	VVFIN	WK3	WK3	SUBJ_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2096	,	$,	$,	*	*	*	Hel_25.eaf
+seocan	seocan	siok	S1a	siech, krank	*	*	*	seocan	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+selðon	selðon	seliđa	S1b	Haus, Wohnung	CF_I_O	*	*	seldon	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+sô	sô	so	*	so, auf die Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_25.eaf
+ênig	ênig	enig	*	irgend ein; mit Negation: kein	*	*	*	enig	DI	DI	A,O	A,O	MASC_SG_NOM_0	Hel_25.eaf
+seggeo	seggeo	seg	S2	Mann	*	*	*	seggeo	NA	NA	A,I_MASC	I_MASC	PL_GEN	Hel_25.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_25.eaf
+mag	mag	mugan	*	vermögen, können	*	*	2097	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_25.eaf
+handun	handun	hand	S1a	Hand	*	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_25.eaf
+gehêlien	gehêlien	gihelian	S1b	heilen, retten	CF_U_M	*	*	gehelien	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Nu	Nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_25.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_25.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+thînoro	thînoro	thin	*	dein	*	*	*	thinoro	DPOS	DPOS	A,O	P	FEM_PL_GEN_ST	Hel_25.eaf
+helpono	helpono	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_25.eaf
+tharf	tharf	tharf	*	Bedürfnis, Notdurft	*	*	*	tharf	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2098	,	$,	$,	*	*	*	Hel_25.eaf
+frô	frô	fro	S1	Herr	*	*	*	fro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOSN	A,O	A,O	MASC_SG_NOM	Hel_25.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_25.eaf
+gôdo	gôdo	god	*	gut	CF_U_M	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_25.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_25.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_25.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_25.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_25.eaf
+friðubarn	friðubarn	friđubarn	S2	Friedenskind	*	*	*	fridubarn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+godes	godes	god	*	Gott	*	*	2099	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+sân	sân+aftar	san	S1	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_25.eaf
+aftar thiu	thiu	aftar thiu	*	nach	*	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_25.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_25.eaf
+tegegnes	tegegnes	tegegnes	*	entgegen, gegenüber	CF_U_M	*	*	tegegnes	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	2100	,	$,	$,	*	*	*	Hel_25.eaf
+quað	quað	queđan	S1a	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_25.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+thar	thar	thar	*	dahin, dorthin	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+quâmi	quâmi	kuman	S1b	kommen	*	*	*	quami	VV	VVFIN	ST4	ST4	SUBJ_PAST_SG_3	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_25.eaf
+kind	kind	kind	S2	Kind, junger Mann	*	*	*	kind	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+uueldi	uueldi	willian	*	wollen	*	*	2101	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_25.eaf
+nerean	nerean	nerian	S1a	retten, befreien	*	*	*	nerean	VV	VVINF	WK1B	WK1B	*	Hel_25.eaf
+af	af	af	*	aus etwas heraus, von	*	*	*	af	AP	APPR	*	*	*	Hel_25.eaf
+theru	theru	the	*	der/dieser, das/dies(es), die/diese	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_25.eaf
+nôdi	nôdi	nod	S1b	Not, Elend	CF_I_O	*	*	nodi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+nâhor	nâhor	nah	S2	nahe	*	*	*	nahor	ADV	ADV	*	*	COMP	Hel_25.eaf
+geng	geng	gangan	*	gehen, wandeln	*	*	2102	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_25.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_25.eaf
+man	man	mann	S1a	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_25.eaf
+far	far	for	*	vor	*	*	*	far	AP	APPR	*	*	*	Hel_25.eaf
+theru	theru	the	*	der/dieser, das/dies(es), die/diese	*	*	*	theru	DD	DDA	*	*	FEM_SG_DAT	Hel_25.eaf
+menigi	menigi	menigi	S1b	Menge, Schar, Volk	CF_U_M	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_25.eaf
+uuið	uuið	wiđ	*	mit	*	*	*	uuid	AP	APPR	*	*	*	Hel_25.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+mahtigna	mahtigna	mahtig	S2	mächtig, gewaltig	*	*	2103	mahtigna	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+uuehslan	uuehslan	wehslon	S1b	wechseln	CI_U_Adv_Fin	*	*	uuehslan	VV	VVINF	WK2	WK2	*	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_25.eaf
+uuirðig	uuirðig	wirđig	S2	wert, würdig	*	*	*	uuirdig	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_25.eaf
+bium	bium	wesan	*	sein	CF_CS_U_M	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+,	,	*	*	*	*	*	2104	,	$,	$,	*	*	*	Hel_25.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+hêrro	hêrro	herro	S1	Herr	*	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_25.eaf
+gôdo	gôdo	god	*	gut	CF_CC_U_M	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_25.eaf
+hûs	hûs	hus	S2	Haus	*	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+cumes	cumes	kuman	*	kommen	*	*	*	cumes	VV	VVFIN	ST4	ST4	SUBJ_PRES_SG_2	Hel_25.eaf
+,	,	*	*	*	*	*	2105	,	$,	$,	*	*	*	Hel_25.eaf
+sôkeas	sôkeas	sokian	S1a	suchen, aufsuchen	*	*	*	sokeas	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_2	Hel_25.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_25.eaf
+seliða	seliða	seliđa	S1b	Haus, Wohnung	CF_I_O	*	*	selida	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+huand	huand	hwand	*	weil	*	*	*	huand	KO	KOUS	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_25.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+sundig	sundig	sundig	S2	sündig, sündhaft	*	*	*	sundig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_25.eaf
+man	man	mann	*	Mann	*	*	2106	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_25.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_25.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_25.eaf
+uuercun	uuercun	werk	S1b	Werk, Tat, Handlung	CF_I_Adv_Caus	*	*	uuercun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Ic	Ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+gelôƀiu	gelôƀiu	gilobian	*	glauben	CF_U_M	*	*	gelobiu	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_1	Hel_25.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+geuuald	geuuald	giwald	S2	Macht, Gewalt	*	*	*	geuuald	NA	NA	I_MASC,I_FEM	I_MASC,I_FEM	SG_ACC	Hel_25.eaf
+haƀas	haƀas	hebbian	*	haben, besitzen; halten	CF_I_O	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_25.eaf
+,	,	*	*	*	*	*	2107	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_25.eaf
+hinana	hinana	hinana	S1	von hier aus	*	*	*	hinana	ADV	ADV	*	*	*	Hel_25.eaf
+maht	maht	mugan	*	vermögen, können	*	*	*	maht	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_25.eaf
+hêlan	hêlan	hel	S2	heil, gesund	*	*	*	helan	ADJ	ADJD	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+geuuirkean	geuuirkean	giwirkian	*	tun, machen	*	*	*	geuuirkean	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+,	,	*	*	*	*	*	2108	,	$,	$,	*	*	*	Hel_25.eaf
+uualdand	uualdand	waldand	S1	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_25.eaf
+frô	frô	fro	*	Herr	*	*	*	fro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+mîn	mîn	min	*	mein	CF_I_O	*	*	min	DPOS	DPOSN	A,O	A,O	MASC_SG_NOM_0	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_25.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_25.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	NEUT_PL_DAT_ST	Hel_25.eaf
+uuordun	uuordun	word	S2	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+gesprikis	gesprikis	gisprekan	*	sprechen, reden, sagen	CF_I_Adv_Cnd	*	*	gesprikis	VV	VVFIN	ST4	ST4	IND_PRES_SG_2	Hel_25.eaf
+,	,	*	*	*	*	*	2109	,	$,	$,	*	*	*	Hel_25.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_25.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_25.eaf
+sân	sân	san	*	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_25.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_25.eaf
+lêfhêd	lêfhêd	lefhed	S1a	Gebrechlichkeit, Krankheit	*	*	*	lefhed	NA	NA	I_FEM	I_FEM	SG_NOM	Hel_25.eaf
+lôsot	lôsot	loson	S1b	wegnehmen	CF_U_M	*	*	losot	VV	VVPP	WK2	WK2	*	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+uuirðid	uuirðid	werđan	*	werden	*	*	*	uuirdid	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_3	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+lîchamo	lîchamo	likhamo	S2	Körper, Leib	*	*	2110	lichamo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+hêl	hêl	hel	S1a	heil, gesund	*	*	*	hel	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+hrêni	hrêni	hreni	S1b	rein	CF_I_M	*	*	hreni	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+thîna	thîna	thin	*	dein	*	*	*	thina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_25.eaf
+helpa	helpa	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpa	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_25.eaf
+fargiƀis	fargiƀis	fargeban	*	geben, schenken	CF_I_Adv_Cnd	*	*	fargibis	VV	VVFIN	ST5	ST5	IND_PRES_SG_2	Hel_25.eaf
+.	.	*	*	*	*	*	2111	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Ic	Ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_25.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_25.eaf
+ambahtman	ambahtman	ambahtman	S1	Dienstmann, Diener	CF_U_M	*	*	ambahtman	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+hebbiu	hebbiu	hebbian	*	haben, besitzen	*	*	*	hebbiu	VA	VVFIN	WK3	WK3	IND_PRES_SG_1	Hel_25.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_25.eaf
+ôdes	ôdes	od	S2	Besitz, Wohlstand, Glück	*	*	*	odes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_25.eaf
+genôg	genôg	ginog	*	genug	*	*	*	genog	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+,	,	*	*	*	*	*	2112	,	$,	$,	*	*	*	Hel_25.eaf
+uuelono	uuelono	welo	S1a	Gut, Besitz, Reichtum	*	*	*	uuelono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_25.eaf
+geuunnen	geuunnen	giwinnan	S1b	erkämpfen, erlangen, gewinnen	CF_U_M	*	*	geuunnen	VV	VVPP	ST3A	ST3A	*	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_25.eaf
+geuueldi	geuueldi	giwald	S2	Herrschaft	*	*	*	geuueldi	NA	NA	I_FEM,I_MASC	I_FEM,I_MASC	SG_DAT	Hel_25.eaf
+sî	sî	wesan	*	sein	*	*	2113	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_1	Hel_25.eaf
+aðalcuninges	aðalcuninges	ađalkuning	S1a	Stammkönig vornehmer Herkunft	CF_I_Adv_Cnc	*	*	adalcuninges	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+thoh	thoh	thoh	*	dennoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_25.eaf
+hebbiu	hebbiu	hebbian	*	haben, besitzen	*	*	*	hebbiu	VA	VVFIN	WK3	WK3	IND_PRES_SG_1	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+erlo	erlo	erl	S2	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_25.eaf
+getrôst	getrôst	gitrost	*	Gefolgschaft	*	*	*	getrost	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	2114	,	$,	$,	*	*	*	Hel_25.eaf
+holde	holde	hold	S1a	ergeben, anhänglich	*	*	*	holde	ADJ	ADJ	A,O	P	POS_MASC_PL_ACC_ST	Hel_25.eaf
+heririncos	heririncos	herirink	S1b	Krieger, Untergebener	CF_U_M	*	*	heririncos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_25.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_25.eaf
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+gehôriga	gehôriga	gihorig	S2	gehorsam	*	*	*	gehoriga	ADJ	ADJD	A,O	P	POS_MASC_PL_NOM_ST	Hel_25.eaf
+sint	sint	wesan	*	sein	CF_I_Rel	*	*	sint	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_25.eaf
+,	,	*	*	*	*	*	2115	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_25.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_25.eaf
+ne	ne	ne	*	weder	*	*	*	ne	KO	KON	*	*	*	Hel_25.eaf
+uuord	uuord	word	S1a	Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_25.eaf
+ne	ne	ne	*	noch	*	*	*	ne	KO	KON	*	*	*	Hel_25.eaf
+uuerc	uuerc	werk	S1b	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_25.eaf
+uuiht	uuiht	wiht	S2	Ding, (irgend)etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_25.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_25.eaf
+farlâtad	farlâtad	farlatan	*	unterlassen	CF_I_Adv_Cns	*	*	farlatad	VV	VVFIN	RED1B	RED1B	IND_PRES_PL_3	Hel_25.eaf
+,	,	*	*	*	*	*	2116	,	$,	$,	*	*	*	Hel_25.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDSREL	*	*	NEUT_SG_GEN	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+thesumu	thesumu	thesa	*	dieser, dieses, diese	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_25.eaf
+landskepie	landskepie	landskepi	S1	Land, Reich, Welt	*	*	*	landskepie	NA	NA	I_NEUT	JA_NEUT	SG_DAT	Hel_25.eaf
+lêstean	lêstean	lestian	S2	befolgen, ausführen	*	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+hête	hête	hetan	*	heißen, befehlen	CF_I_Rel	*	*	hete	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_1	Hel_25.eaf
+,	*	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+]	,	*	*	*	*	*	2117	*	*	*	*	*	*	Hel_25.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_25.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_25.eaf
+farad	farad	faran	S1a	gehen, reisen, ziehen	CF_I_M	*	*	farad	VV	VVFIN	ST6	ST6	IND_PRES_PL_3	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+frummiad	frummiad	frummian	S1b	ausführen, vollbringen, tun	CF_I_M	*	*	frummiad	VV	VVFIN	WK1B	WK1B	IND_PRES_PL_3	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_25.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_25.eaf
+frôhan	frôhan	fraho	S2	Frau, Herr	*	*	*	frohan	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_25.eaf
+cumad	cumad	kuman	*	kommen	*	*	*	cumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_25.eaf
+,	,	*	*	*	*	*	2118	,	$,	$,	*	*	*	Hel_25.eaf
+holde	holde	hold	S1a	ergeben, anhänglich	*	*	*	holde	ADJ	ADJS	A,O	P	POS_MASC_PL_NOM_ST	Hel_25.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_25.eaf
+hêrron	hêrron	herro	S1b	Herr	CF_I_M	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Thoh	Thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+at	at	at	*	in, an, bei	*	*	*	at	AP	APPR	*	*	*	Hel_25.eaf
+mînumu	mînumu	min	*	mein	*	*	*	minumu	DPOS	DPOS	A,O	P	NEUT_SG_DAT_ST	Hel_25.eaf
+hûs	hûs	hus	S2	Haus	*	*	*	hus	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_25.eaf
+êgi	êgi	egan	*	haben, besitzen	*	*	2119	egi	VV	VVFIN	PRPR	PRPR	SUBJ_PRES_SG_1	Hel_25.eaf
+uuîdbrêdene	uuîdbrêdene	widbred	S1a	ausgebreitet, groß	*	*	*	uuidbredene	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+uuelon	uuelon	welo	S1b	Gut, Besitz, Reichtum	*	*	*	uuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+uuerodes	uuerodes	werod	S2	Volksmenge, Leute, Volk	*	*	*	uuerodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_25.eaf
+genôg	genôg	ginog	*	genug	*	*	*	genog	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+,	,	*	*	*	*	*	2120	,	$,	$,	*	*	*	Hel_25.eaf
+heliðos	heliðos	heliđ	S1a	Held, Mann, Mensch	*	*	*	helidos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_25.eaf
+hugiderƀie	hugiderƀie	hugiderbi	S1b	kriegerisch, tatenkräftig	CF_I_Adv_Cnc	*	*	hugiderbie	ADJ	ADJN	JA,JO	P	POS_MASC_PL_ACC_ST	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+thoh	thoh	thoh	*	dennoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_25.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_25.eaf
+gidar	gidar	gidurran	*	den Mut haben, sich unterstehen, wagen	*	*	*	gidar	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_1	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_25.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+hêlagna	hêlagna	helag	S2	heilig	*	*	2121	helagna	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+biddien	biddien	biddian	S1a	bitten	*	*	*	biddien	VV	VVINF	ST5	ST5	*	Hel_25.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_25.eaf
+barn	barn	barn	S1b	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+mîn	mîn	min	*	mein	*	*	*	min	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_25.eaf
+bû	bû	bu	S2	Wohnung, Haus	*	*	*	bu	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+gangas	gangas	gangan	*	gehen, wandeln	*	*	*	gangas	VV	VVFIN	RED1A	RED1A	SUBJ_PRES_SG_2	Hel_25.eaf
+,	,	*	*	*	*	*	2122	,	$,	$,	*	*	*	Hel_25.eaf
+sôkeas	sôkeas	sokian	S1a	suchen, aufsuchen	*	*	*	sokeas	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_2	Hel_25.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_25.eaf
+seliða	seliða	seliđa	S1b	Haus, Wohnung	CF_I_O	*	*	selida	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+sundig	sundig	sundig	S2	sündig, sündhaft	*	*	*	sundig	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+bium	bium	wesan	*	sein	CF_I_Adv_Caus	*	*	bium	VA	VAFIN	ST5	IRR	IND_PRES_SG_1	Hel_25.eaf
+,	,	*	*	*	*	*	2123	,	$,	$,	*	*	*	Hel_25.eaf
+uuêt	uuêt	witan	S1a	wissen, kennen	*	*	*	uuet	VV	VVFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_25.eaf
+mîna	mîna	min	*	mein	*	*	*	mina	DPOS	DPOS	A,O	P	FEM_PL_ACC_ST	Hel_25.eaf
+faruurhti	faruurhti	farwurht	S1b	Übeltat, Sünde	CF_U_M	*	*	faruurhti	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_25.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_25.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_25.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_25.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_25.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2124	,	$,	$,	*	*	*	Hel_25.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_25.eaf
+gumo	gumo	gumo	S1a	Mann, Mensch	*	*	*	gumo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+uuið	uuið	wiđ	*	mit, gegen	*	*	*	uuid	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+iungoron	iungoron	jungaro	S1b	Jünger, Diener	CF_U_M	*	*	iungoron	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+quað	quað	queđan	*	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_25.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+an	an	an	*	in (unter), bei	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+Iudeon	Iudeon	Iudeo	S2	der Jude	*	*	*	iudeon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_25.eaf
+huergin	huergin	hwergin	*	nirgendwo	*	*	2125	huergin	ADV	ADV	*	*	*	Hel_25.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_25.eaf
+Israheles	Israheles	Israhel	S1	Israel	*	*	*	israheles	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+aƀoron	aƀoron	abaro	S2	Nachkommen, Kinder	*	*	*	aboron	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_25.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_25.eaf
+fundi	fundi	findan	*	finden, antreffen, begegnen	*	*	2126	fundi	VV	VVFIN	ST3A	ST3A	SUBJ_PAST_SG_3	Hel_25.eaf
+gemacon	gemacon	gimako	S1a	Seinesgleichen	*	*	*	gemacon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_25.eaf
+mannes	mannes	mann	S1b	Mann	CF_I_O	*	*	mannes	NA	NA	C,A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_25.eaf
+io	io	io	*	zu irgend einer Zeit, je	*	*	*	io	ADV	ADV	*	*	*	Hel_25.eaf
+mêr	mêr	mer	S2	mehr	*	*	*	mer	ADV	ADV	*	*	*	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+gode	gode	god	*	Gott	*	*	2127	gode	NA	NE	A,I_MASC	A_MASC	SG_DAT	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_25.eaf
+landskepi	landskepi	landskepi	S1	Land, Reich, Welt	*	*	*	landskepi	NA	NA	I_NEUT	I_NEUT	SG_DAT	Hel_25.eaf
+gelôƀon	gelôƀon	gilobo	S2	Glaube, Gesinnung	*	*	*	gelobon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+habdi	habdi	hebbian	*	haben, besitzen; halten	*	*	*	habdi	VA	VVFIN	WK3	WK3	SUBJ_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2128	,	$,	$,	*	*	*	Hel_25.eaf
+than	than	than	*	als	*	*	*	than	KO	KOKOM	*	*	*	Hel_25.eaf
+hluttron	hluttron	hluttar	S1a	rein, aufrichtig	*	*	*	hluttron	ADJ	ADJS	A,O	N	COMP_MASC_SG_ACC_WK	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+himile	himile	himil	S1b	Himmel	CF_I_Rel	*	*	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+nu	nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_25.eaf
+lâtu	lâtu	latan	*	lassen, zulassen, erlauben	*	*	*	latu	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_1	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_25.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+hôrien	hôrien	horian	S2	hören, anhören	*	*	*	horien	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+tô	tô	to	*	zu, hinzu, herzu	CF_U_M	*	*	to	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	2129	,	$,	$,	*	*	*	Hel_25.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_25.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_25.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_25.eaf
+te	te	te	*	in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+uuârun	uuârun	war	S1	Wahrheit	*	*	*	uuarun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_25.eaf
+uuordun	uuordun	word	S2	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+seggeo	seggeo	seggian	*	sagen	CF_I_Rel	*	*	seggeo	VV	VVFIN	WK3	WK3	IND_PRES_SG_1	Hel_25.eaf
+,	,	*	*	*	*	*	2130	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+noh	noh	noh	*	noch	*	*	*	noh	ADV	ADV	*	*	*	Hel_25.eaf
+sculun	sculun	skulan	*	sollen, müssen; werden (Futur)	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_25.eaf
+elitheoda	elitheoda	elithioda	S1	ein anderes Volk, die Heiden	*	*	*	elitheoda	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_25.eaf
+ôstane	ôstane	ostan	S2	von Osten her	*	*	*	ostane	ADV	ADV	*	*	*	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+uestane	uestane	westan	*	von Westen her	*	*	*	uestane	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	2131	,	$,	$,	*	*	*	Hel_25.eaf
+mancunnies	mancunnies	mankunni	S1	Menschengeschlecht, Menschen	*	*	*	mancunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_25.eaf
+cuman	cuman	kuman	*	kommen	*	*	*	cuman	VV	VVINF	ST4	ST4	*	Hel_25.eaf
+manag	manag	manag	S2	mancher, manches	*	*	*	manag	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_25.eaf
+tesamne	tesamne	tesamne	*	zusammen	*	*	*	tesamne	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	2132	,	$,	$,	*	*	*	Hel_25.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_25.eaf
+folc	folc	folk	*	Volk, Menge, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+heƀenrîki	heƀenrîki	hebanriki	S2	Himmelreich	CF_I_O	*	*	hebenriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_25.eaf
+:	:	*	*	*	*	*	2133	:	$.	$.	*	*	*	Hel_25.eaf
+
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDS	*	*	MASC_PL_NOM	Hel_25.eaf
+motun	motun	motan	*	müssen, sollen	*	*	*	motun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_25.eaf
+thar	thar	thar	*	da, dort, dahin, dorthin	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+Abrahames	Abrahames	Abraham	S1	Abraham	*	*	*	abrahames	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+Isaakes	Isaakes	Isaak	S2	Isaak	*	*	*	isaakes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+self	self	self	*	selbst	*	*	2134	self	DD	DDS	A,O	A,O	NEUT_SG_ACC_0	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+ôc	ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_25.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+Iacobes	Iacobes	Iacob	S1	Jakob	*	*	*	iacobes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+gôdoro	gôdoro	god	S2	gut	*	*	*	godoro	ADJ	ADJ	A,O	P	POS_MASC_PL_GEN_ST	Hel_25.eaf
+manno	manno	mann	*	Mann	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	2135	,	$,	$,	*	*	*	Hel_25.eaf
+barmun	barmun	barm	S1	Schoß	*	*	*	barmun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_25.eaf
+restien	restien	restian	*	ruhen	*	*	*	restien	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+bêðiu	bêðiu	beđie	S2	beide	*	*	*	bediu	DI	DIS	*	*	NEUT_PL_ACC	Hel_25.eaf
+gethologean	gethologean	githolon	*	erfahren, genießen	CF_U_M	*	*	gethologean	VV	VVINF	WK2	WK2	*	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+]	]	*	*	*	*	*	2136	]	$(	$(	*	*	*	Hel_25.eaf
+uuelon	uuelon	welo	S1a	Gut, Besitz, Reichtum	*	*	*	uuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+uuilleon	uuilleon	willio	S1b	Wille, Freude	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+uuonodsam	uuonodsam	wonodsam	S2	erfreulich	*	*	*	uuonodsam	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_25.eaf
+lîf	lîf	lif	*	Leben	*	*	*	lif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	2137	,	$,	$,	*	*	*	Hel_25.eaf
+gôd	gôd	god	S1a	gut	*	*	*	god	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_25.eaf
+lioht	lioht	lioht	*	Himmelreich	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+mid	mid	mid	*	mit, bei	*	*	*	mid	AP	APPR	*	*	*	Hel_25.eaf
+gode	gode	god	S1b	Gott	CE	*	*	gode	NA	NE	A_MASC	A_MASC	SG_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_25.eaf
+scal	scal	skulan	*	sollen, müssen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_25.eaf
+Iudeono	Iudeono	Iudeo	S2	der Jude	*	*	*	iudeono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_25.eaf
+filu	filu	filu	*	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2138	,	$,	$,	*	*	*	Hel_25.eaf
+theses	theses	thesa	*	dieser, dieses, diese	*	*	*	theses	DD	DD	*	*	NEUT_SG_GEN	Hel_25.eaf
+rîkeas	rîkeas	riki	S1	Reich	*	*	*	rikeas	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_25.eaf
+suni	suni	sunu	*	Sohn	*	*	*	suni	NA	NA	U_MASC	I_MASC	PL_NOM	Hel_25.eaf
+berôƀode	berôƀode	birobon	S2	berauben	*	*	*	berobode	VV	VVPP	WK2	WK2	P_POS_MASC_PL_NOM_ST	Hel_25.eaf
+uuerðen	uuerðen	werđan	*	werden	*	*	*	uuerden	VA	VAINF	ST3B	ST3B	*	Hel_25.eaf
+,	,	*	*	*	*	*	2139	,	$,	$,	*	*	*	Hel_25.eaf
+bedêlide	bedêlide	bidelian	S1a	einem etwas entziehen, berauben	*	*	*	bedelide	VV	VVPP	WK1A	WK1A	P_POS_MASC_PL_NOM_ST	Hel_25.eaf
+sulicoro	sulicoro	sulik	*	solch, so beschaffen	*	*	*	sulicoro	DD	DD	A,O	P	FEM_PL_GEN_ST	Hel_25.eaf
+diurðo	diurðo	diuriđa	S1b	Herrlichkeit, Ehre	CF_U_M	*	*	diurdo	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+sculun	sculun	skulan	*	sollen, müssen; werden (Futur)	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+dalun	dalun	dal	S2	Tal, Abgrund	*	*	*	dalun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_25.eaf
+thiustron	thiustron	thiustri	*	düster	*	*	2140	thiustron	ADJ	ADJN	JA,JO	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+themu	themu	the	*	der, das, die	*	*	*	themu	DD	DDA	*	*	NEUT_SG_DAT	Hel_25.eaf
+alloro	alloro	allaro	*	durchaus, aller-	*	*	*	alloro	ADV	ADV	*	*	*	Hel_25.eaf
+ferristan	ferristan	fer	S1	fern, entfernt	*	*	*	ferristan	ADJ	ADJ	A,O	N	SUP_NEUT_SG_DAT_WK	Hel_25.eaf
+ferne	ferne	fern	S2	Hölle	*	*	*	ferne	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_25.eaf
+liggen	liggen	liggian	*	liegen	CF_I_M	*	*	liggen	VV	VVINF	ST5	ST5	*	Hel_25.eaf
+.	.	*	*	*	*	*	2141	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+mag	mag	mugan	*	können, vermögen	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_25.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_25.eaf
+gehôrien	gehôrien	gihorian	S1	hören, anhören	*	*	*	gehorien	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+heliðos	heliðos	heliđ	S2	Held, Mann, Mensch	*	*	*	helidos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_25.eaf
+quîðean	quîðean	quiđean	*	wehklagen, jammern	CF_U_M	*	*	quidean	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+,	,	*	*	*	*	*	2142	,	$,	$,	*	*	*	Hel_25.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_25.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_25.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_25.eaf
+torn	torn	torn	S1	Zorn, Grimm	*	*	*	torn	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+manag	manag	manag	*	manch, viel	*	*	*	manag	DI	DIN	A,O	A,O	NEUT_SG_ACC_0	Hel_25.eaf
+tandon	tandon	tand	S2	Zahn	*	*	*	tandon	NA	NA	C_MASC	C_MASC	PL_DAT	Hel_25.eaf
+bîtad	bîtad	bitan	*	beißen	CF_I_Rel	*	*	bitad	VV	VVFIN	ST1	ST1	IND_PRES_SG_3	Hel_25.eaf
+;	;	*	*	*	*	*	2143	;	$.	$.	*	*	*	Hel_25.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_25.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_25.eaf
+gristgrimmo	gristgrimmo	gristgrimmo	S1	knirschende Wut, Zähneknirschen	*	*	*	gristgrimmo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+grâdag	grâdag	gradag	S2	gierig, gefräßig	*	*	*	gradag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_25.eaf
+fiur	fiur	fiur	*	Feuer	*	*	*	fiur	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2144	,	$,	$,	*	*	*	Hel_25.eaf
+hard	hard	hard	S1a	schwer	*	*	*	hard	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_25.eaf
+helleo	helleo	hellia	S1b	Hölle	*	*	*	helleo	NA	NA	N,JO_FEM	JO_FEM	SG_GEN	Hel_25.eaf
+gethuing	gethuing	gethwing	*	Bedrängnis, Not	*	*	*	gethuing	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+hêt	hêt	het	S2	Hitze	*	*	*	het	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+thiustri	thiustri	thiustri	*	Dunkelheit, Finsternis	*	*	*	thiustri	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2145	,	$,	$,	*	*	*	Hel_25.eaf
+suart	suart	swart	S1a	schwarz, dunkel	*	*	*	suart	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_25.eaf
+sinnahti	sinnahti	sinnahti	S1b	ewige Nacht	*	*	*	sinnahti	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_25.eaf
+sundea	sundea	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	JO_FEM	SG_GEN	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+lône	lône	lon	*	Lohn, Vergeltung	*	*	*	lone	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	2146	,	$,	$,	*	*	*	Hel_25.eaf
+uurêðoro	uurêðoro	wređ	S1a	zornig, feindselig, böse	*	*	*	uuredoro	ADJ	ADJ	A,O	P	POS_FEM_PL_GEN_ST	Hel_25.eaf
+geuurhteo	geuurhteo	giwurht	S1b	Tat, Handlung, böse Handlung	*	*	*	geuurhteo	NA	NA	I_FEM	I_FEM	PL_GEN	Hel_25.eaf
+,	,+sô+huemu	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+sô huemu sô	sô	so hwe so	*	wer auch immer, jeder der	CF_U_M	*	*	so huemu so	PW	PWG	*	*	MASC_SG_DAT	Hel_25.eaf
+thes	thes	the	*	der, das, die	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_25.eaf
+uuilleon	uuilleon	willio	S2	Wille, Absicht	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_25.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_25.eaf
+haƀad	haƀad	hebbian	*	haben, besitzen	CF_U_Rel	*	*	habad	VA	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2147	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PRF	*	*	MASC_SG_ACC_3	Hel_25.eaf
+alôsie	alôsie	alosian	S1	erlösen	CF_I_O	*	*	alosie	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+êr	êr	er	*	bevor	*	*	*	er	KO	KOUS	*	*	*	Hel_25.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+thit	thit	thesa	*	dieser, dieses, diese	*	*	*	thit	DD	DD	*	*	NEUT_SG_ACC	Hel_25.eaf
+lioht	lioht	lioht	S2	Licht; Welt	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+ageƀe	ageƀe	ageban	*	verlassen	*	*	*	agebe	VV	VVFIN	ST5	ST5	SUBJ_PRES_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2148	,	$,	$,	*	*	*	Hel_25.eaf
+uuendie	uuendie	wendian	S1a	weggehen	*	*	*	uuendie	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_3	Hel_25.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_25.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_25.eaf
+uueroldi	uueroldi	werold	S1b	Welt	CF_I_Adv_Temp	*	*	uueroldi	NA	NA	I_FEM,A_MASC	I_FEM	SG_DAT	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Nu	Nu	nu	*	nun, nun aber, jetzt, schon	*	*	*	nu	ADV	ADV	*	*	*	Hel_25.eaf
+maht	maht	mugan	*	vermögen, können	*	*	*	maht	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_25.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+thînan	thînan	thin	*	dein	*	*	*	thinan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_25.eaf
+uuilleon	uuilleon	willio	S2	Wille, Absicht	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+forð	forð	forđ	*	vorwärts	*	*	2149	ford	ADV	ADV	*	*	*	Hel_25.eaf
+sîðon	sîðon	siđon	S1a	gehen	*	*	*	sidon	VV	VVINF	WK2	WK2	*	Hel_25.eaf
+te	te	te	*	zu, nach	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+selðun	selðun	seliđa	S1b	Haus, Wohnung	CF_U_M	*	*	seldun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_25.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_25.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_25.eaf
+findis	findis	findan	*	finden, wahrnehmen	*	*	*	findis	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_2	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_1	Hel_25.eaf
+gesund	gesund	gisund	S2	gesund	*	*	*	gesund	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+at	at	at	*	in, zu	*	*	*	at	AP	APPR	*	*	*	Hel_25.eaf
+hûs	hûs	hus	*	Haus	*	*	2150	hus	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_25.eaf
+magoiungan	magoiungan	magujung	S1a	in jugendlichem Alter, jung	*	*	*	magoiungan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+man	man	mann	S1b	Mann	CF_U_M	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+môd	môd	mod	S2	Sinn, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_25.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_25.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+luston	luston	lust	*	Freude	CF_U_M	*	*	luston	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	2151	,	$,	$,	*	*	*	Hel_25.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_25.eaf
+barn	barn	barn	S1	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_25.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_25.eaf
+gehêlid	gehêlid	gihelian	*	heilen, retten	CF_U_M	*	*	gehelid	VV	VVPP	WK1A	WK1A	*	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+bêdi	bêdi	biddian	S2	bitten	*	*	*	bedi	VV	VVFIN	ST5	ST5	IND_PAST_SG_2	Hel_25.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_25.eaf
+mi	mi	ik	*	ich	CF_I_Adv_Mod	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_25.eaf
+:	:	*	*	*	*	*	2152	:	$.	$.	*	*	*	Hel_25.eaf
+
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_25.eaf
+uuirðid	uuirðid	werđan	*	werden	*	*	*	uuirdid	VA	VAFIN	ST3B	ST3B	IND_PRES_SG_3	Hel_25.eaf
+al	al	all	*	ganz	*	*	*	al	ADV	ADV	*	*	*	Hel_25.eaf
+sô	sô	so	*	so, auf, diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_25.eaf
+gelêstid	gelêstid	gilestian	S1	ausführen, tun, vollbringen	CF_U_M	*	*	gelestid	VV	VVPP	WK1A	WK1A	*	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_25.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_25.eaf
+gelôƀon	gelôƀon	gilobo	S2	Glaube, Gesinnung	*	*	*	gelobon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+haƀas	haƀas	hebbian	*	haben, besitzen	*	*	2153	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_25.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+thînumu	thînumu	thin	*	dein	*	*	*	thinumu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_25.eaf
+hugi	hugi	hugi	S1a	Sinn, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_25.eaf
+hardo	hardo	hardo	S1b	fest	CF_I_Adv_Mod	*	*	hardo	ADV	ADV	*	*	*	Hel_25.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_25.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+sagde	sagde	seggian	*	sagen	*	*	*	sagde	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_25.eaf
+heƀencuninge	heƀencuninge	hebankuning	S2	Himmelskönig	*	*	*	hebencuninge	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	2154	,	$,	$,	*	*	*	Hel_25.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_25.eaf
+ambahtman	ambahtman	ambahtman	S1	Dienstmann, Diener	*	*	*	ambahtman	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_25.eaf
+alouualdon	alouualdon	alowaldo	S2	allwaltend	*	*	*	alouualdon	ADJ	ADJ	N	N	POS_MASC_SG_DAT_WK	Hel_25.eaf
+gode	gode	god	*	Gott	*	*	2155	gode	NA	NE	A_MASC	A_MASC	SG_DAT	Hel_25.eaf
+thanc	thanc	thank	S1a	Dank, Lohn	*	*	*	thanc	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_25.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_25.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_25.eaf
+thiodo	thiodo	thiod	S1b	Volk, Menge	CF_U_M	*	*	thiodo	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+thes	thes	thes	*	dafür daß, weil	*	*	*	thes	KO	KOUS	*	*	*	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_25.eaf
+at	at	at	*	in, an, zu	*	*	*	at	AP	APPR	*	*	*	Hel_25.eaf
+sulicun	sulicun	sulik	*	solch, so beschaffen	*	*	*	sulicun	DD	DD	A,O	P	FEM_PL_DAT_ST	Hel_25.eaf
+tharƀun	tharƀun	tharf	S2	Not, Mangel, Entbehrung	*	*	*	tharbun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_25.eaf
+halp	halp	helpan	*	helfen	CF_I_Adv_Caus	*	*	halp	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_25.eaf
+.	.	*	*	*	*	*	2156	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Habda	Habda	hebbian	*	haben	*	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_25.eaf
+tho	tho	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_25.eaf
+giârundid	giârundid	arundian	S1	eine Sache, ein Geschäft besorgen, ausführen	CF_CS_U_M	*	*	giarundid	VV	VVPP	WK1A	WK1A	*	Hel_25.eaf
+,	*	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+]	,+al	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+al sô	sô	allso	S2	wie	*	*	*	al so	KO	KOUS	*	*	*	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+uuelde	uuelde	willian	*	wollen	CF_I_Adv_Mod	*	*	uuelde	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2157	,	$,	$,	*	*	*	Hel_25.eaf
+sâliglîco	sâliglîco	saligliko	S1	auf gute, fromme Weise	CF_CC_U_M	*	*	saliglico	ADV	ADV	*	*	*	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+giuuêt	giuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_25.eaf
+imu	imu	he	*	er, sie, es (selbst)	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_25.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_25.eaf
+sîð	sîð	siđ	S2	Weg, Reise	*	*	*	sid	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_25.eaf
+thanan	thanan	thanan	*	von dannen, daher, daraus	CF_U_M	*	*	thanan	ADV	ADV	*	*	*	Hel_25.eaf
+,	,	*	*	*	*	*	2158	,	$,	$,	*	*	*	Hel_25.eaf
+uuende	uuende	wendian	S1a	sich wenden, wandeln, weggehen	*	*	*	uuende	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_25.eaf
+an	an	an	*	in, nach	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+uuillean	uuillean	willio	S1b	Wille, Freude	CF_U_M	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+uuelon	uuelon	welo	S2	Gut, Besitz	*	*	*	uuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_25.eaf
+êhte	êhte	egan	*	haben, besitzen	*	*	*	ehte	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2159	,	$,	$,	*	*	*	Hel_25.eaf
+bû	bû	bu	S1a	Wohnung, Haus	*	*	*	bu	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+bôdlos	bôdlos	bodal	S1b	Grundbesitz	CF_I_Adv_Loc	*	*	bodlos	NA	NA	A_MASC	A_MASC	PL_ACC	Hel_25.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+fand	fand	findan	*	finden, antreffen	*	*	*	fand	VV	VVFIN	ST3A	ST3A	IND_PAST_SG_3	Hel_25.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_25.eaf
+barn	barn	barn	S2	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+gesund	gesund	gisund	*	gesund	*	*	*	gesund	ADJ	ADJD	A,O	A,O	POS	Hel_25.eaf
+,	,	*	*	*	*	*	2160	,	$,	$,	*	*	*	Hel_25.eaf
+kindiungan	kindiungan	kindjung	S1	jung	*	*	*	kindiungan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_25.eaf
+man	man	mann	*	Mann	CF_U_M	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_25.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_25.eaf
+
+Kristes	Kristes	Krist	S2	Christus	*	*	*	kristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_25.eaf
+uuârun	uuârun	wesan	*	sein	*	*	*	uuarun	VA	VAFIN	ST5	ST5	IND_PAST_PL_3	Hel_25.eaf
+thô	thô	tho	*	da	*	*	2161	tho	ADV	ADV	*	*	*	Hel_25.eaf
+uuord	uuord	word	S1	Wort, Rede	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_25.eaf
+gefullot	gefullot	gifullian	*	erfüllen	CF_U_M	*	*	gefullot	VV	VVPP	WK1A	WK1A	*	Hel_25.eaf
+:	*	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_25.eaf
+
+]	:	*	*	*	*	*	*	*	*	*	*	*	*	Hel_25.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+geuuald	geuuald	giwald	S2	Macht, Gewalt, Verfügung	*	*	*	geuuald	NA	NA	I_MASC,I_FEM	I_MASC,I_FEM	SG_ACC	Hel_25.eaf
+habda	habda	hebbian	*	haben, besitzen	*	*	2162	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_25.eaf
+te	te	te	*	zu	*	*	*	te	AP	PTKZU	*	*	*	Hel_25.eaf
+tôgeanna	tôgeanna	togian	S1a	vor Augen stellen, zum Vorschein bringen, zeigen; erzeigen, beweisen	*	*	*	togeanna	VV	VVINFS	WK1A	WK1A	SG_DAT	Hel_25.eaf
+têcan	têcan	tekan	S1b	Zeichen	CF_U_M	*	*	tecan	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_25.eaf
+,	,+sô	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+sô that	that	so that	*	so dass	*	*	*	so that	KO	KOUS	*	*	*	Hel_25.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_25.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_25.eaf
+gitellien	gitellien	gitellian	S2	sagen, aussagen, erzählen	*	*	*	gitellien	VV	VVINF	WK1A	WK1A	*	Hel_25.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_25.eaf
+,	,	*	*	*	*	*	2163	,	$,	$,	*	*	*	Hel_25.eaf
+geahton	geahton	giahton	S1a	berechnen, schätzen	*	*	*	geahton	VV	VVINF	WK2	WK2	*	Hel_25.eaf
+oƀar	oƀar	obar	*	über, auf	*	*	*	obar	AP	APPR	*	*	*	Hel_25.eaf
+thesoro	thesoro	thesa	*	dieser, dieses, diese	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_25.eaf
+erðu	erðu	erđa	S1b	Erde	CF_I_Adv_Cns	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+huat	huat	hwe	*	wer – was	*	*	*	huat	PW	PW	*	*	NEUT_SG_ACC	Hel_25.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_25.eaf
+thurh	thurh	thurh	*	durch	*	*	*	thurh	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_25.eaf
+ênes	ênes	en	S2	einzig, alleinig	*	*	*	enes	DI	DIS	A,O	P	MASC_SG_GEN_ST	Hel_25.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	2164	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+thesaro	thesaro	thesa	*	dieser, dieses, diese	*	*	*	thesaro	DD	DD	*	*	FEM_SG_DAT	Hel_25.eaf
+middilgard	middilgard	middilgard	S1	Welt, Erde	*	*	*	middilgard	NA	NA	C_FEM,A_MASC	C_FEM	SG_DAT	Hel_25.eaf
+mâriða	mâriða	mariđa	S2	ruhmwürdige Tat, Wunder	*	*	*	marida	NA	NA	O_FEM	O_FEM	SG_GEN	Hel_25.eaf
+gefrumide	gefrumide	gifrummian	*	vollbringen, ausführen, tun	*	*	*	gefrumide	VV	VVFIN	WK1B	WK1B	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2165	,	$,	$,	*	*	*	Hel_25.eaf
+uundres	uundres	wundar	S1a	Verwunderung, Wißbegier	*	*	*	uundres	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_25.eaf
+geuuarhte	geuuarhte	giwirkian	S1b	tun, machen	CF_I_O	*	*	geuuarhte	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_25.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_25.eaf
+al	al	all	*	all	*	*	*	al	DI	DIS	A,O	A,O	NEUT_SG_NOM_0	Hel_25.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_25.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_25.eaf
+geuueldi	geuueldi	giwald	S2	Macht, Gewalt, Verfügung	*	*	*	geuueldi	NA	NA	I_MASC,I_FEM	I_MASC,I_FEM	SG_DAT	Hel_25.eaf
+stâd	stâd	stan	*	stehen, sich befinden	*	*	*	stad	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_25.eaf
+,	,	*	*	*	*	*	2166	,	$,	$,	*	*	*	Hel_25.eaf
+himil	himil	himil	S1	Himmel	*	*	*	himil	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_25.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_25.eaf
+erðe	erðe	erđa	*	Erde	CF_I_Adv_Caus	*	*	erde	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_25.eaf
+.	*	*	*	*	*	XXV	2167	. 	$.	$.	*	*	*	Hel_25.eaf

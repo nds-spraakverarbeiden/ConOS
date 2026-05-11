@@ -1,0 +1,978 @@
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+lang	lang+aftar	lang	S1	lang	*	*	*	lang	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+aftar thiu	thiu	aftar thiu	*	darauf, danach	CF_U_M	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+ne	ne	ne	*	daß	*	*	*	ne	KO	KOUS	*	*	*	Hel_04.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_04.eaf
+al	al	all	*	 all	*	*	*	al	DI	DI	A,O	A,O	NEUT_SG_NOM_0	Hel_04.eaf
+sô	sô	so	*	 so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+gilêstid	gilêstid	gilestian	S2	ausführen, tun, vollbringen	*	*	*	gilestid	VV	VVPP	WK1A	WK1A	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden	CF_I_S	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	243	,	$,	$,	*	*	*	Hel_04.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+mancunnea	mancunnea	mankunni	S1	Menschengeschlecht, Menschen	*	*	*	mancunnea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_04.eaf
+managa	managa	manag	S2	manch, viel	*	*	*	managa	DI	DIS	A,O	 P	FEM_SG_ACC_ST	Hel_04.eaf
+huîla	huîla	hwila	*	Zeit, Zeitraum, Zeitdauer	*	*	*	huila	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	244	,	$,	$,	*	*	*	Hel_04.eaf
+god	god	god	S1	Gott	*	*	*	god	NA	NE	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+alomahtig	alomahtig	alomahtig	*	allmächtig	*	*	*	alomahtig	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_04.eaf
+forgeƀen	forgeƀen	fargeban	S2	verheißen	*	*	*	forgeben	VV	VVPP	ST5	ST5	*	Hel_04.eaf
+habda	habda	hebbian	*	haben	CF_I_Adv_Mod	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	245	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	 daß	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+himilisc	himilisc	himilisk	S1	himmlisch	*	*	*	himilisc	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_04.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+herod	herod	herod	S2	hierher	*	*	*	herod	ADV	ADV	*	*	*	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+uueroldi	uueroldi	werold	*	 Welt, Erde	*	*	*	uueroldi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	246	,	$,	$,	*	*	*	Hel_04.eaf
+is	si	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_04.eaf
+selƀes	selƀes	self	S1a	selbst	*	*	*	selbes	DD	DDS	A,O	 P	MASC_SG_GEN_ST	Hel_04.eaf
+sunu	sunu	sunu	S1b	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_04.eaf
+sendean	sendean	sendian	S2	senden, schicken	*	*	*	sendean	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+uueldi	uueldi	willian	*	wollen	CF_I_O	*	*	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_04.eaf
+,	,+te+thiu	*	*	*	*	*	247	,	$,	$,	*	*	*	Hel_04.eaf
+te thiu that	that	te thiu that	*	damit	*	*	*	te thiu that	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_04.eaf
+alôsdi	alôsdi	alosian	S1	erlösen	*	*	*	alosdi	VV	VVFIN	WK1A	WK1A	SUBJ_PAST_SG_3	Hel_04.eaf
+al	al	all	*	all	*	*	*	al	DI	DI	A,O	A,O	MASC_PL_ACC_0	Hel_04.eaf
+liudstamna	liudstamna	liudstamn	S2	Volk	*	*	*	liudstamna	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	248	,	$,	$,	*	*	*	Hel_04.eaf
+uuerod	uuerod	werod	S1a	Menschheit	*	*	*	uuerod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+uuîtea	uuîtea	witi	S1b	Strafe, Qual, Leiden	CF_I_Adv_Fin	*	*	uuitea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+uuisbodo	uuisbodo	wisbodo	S2	Bote	*	*	249	uuisbodo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_04.eaf
+an	an	an	*	an; nach	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+Galilealand	Galilealand	Galilealand	S1	Galiläa	*	*	*	galilealand	NE	NEO	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+Gabriel	Gabriel	Gabriel	S2	Gabriel	*	*	*	gabriel	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+cuman	cuman	kuman	*	kommen	*	*	*	cuman	VV	VVPP	ST4	ST4	*	Hel_04.eaf
+,	,	*	*	*	*	*	250	,	$,	$,	*	*	*	Hel_04.eaf
+engil	engil	engil	S1a	Engel	*	*	*	engil	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+thes	thes	the	*	 der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_04.eaf
+alouualdon	alouualdon	alowaldo	S1b	der Allwaltende	CF_U_M	*	*	alouualdon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+êne	êne	en	*	ein, einer, im Sinne des unbestimmten Artikels	*	*	*	ene	DI	DIA	A,O	P	FEM_SG_ACC_ST	Hel_04.eaf
+idis	idis	idis	S2	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_04.eaf
+uuisse	uuisse	witan	*	wissen, kennen, verstehen	*	*	*	uuisse	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	251	,	$,	$,	*	*	*	Hel_04.eaf
+munilîca	munilîca	munalik	S1a	lieblich	*	*	*	munilica	ADJ	ADJ	A,O	 P	POS_FEM_SG_ACC_ST	Hel_04.eaf
+magað	magað	magađ	S1b	Jungfrau, die Jungfrau Maria; Dienerin, Magd	CF_I_Rel	*	*	magad	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+Maria	Maria	Maria	S2	Maria	*	*	*	maria	NE	NE	N_FEM	N_FEM	SG_NOM	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAINF	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+hêten	hêten	hetan	*	heißen, genannt werdan, einen Namen haben	CF_U_M	*	*	heten	VV	VVPP	RED1B	RED1B	*	Hel_04.eaf
+,	,	*	*	*	*	*	252	,	$,	$,	*	*	*	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+iru	iru	he	*	er, sie, es (selbst)	*	*	*	iru	PPER	PRF	*	*	FEM_SG_DAT_3	Hel_04.eaf
+thiorna	thiorna	thiorna	S1a	Jungfrau, Mädchen	*	*	*	thiorna	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_04.eaf
+githigan	githigan	githihan	S1b	erwachsen	CF_U_M	*	*	githigan	VV	VVPPD	ST1	ST1	POS	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Sea	Sea	he	*	er, sie, es (selbst)	*	*	*	sea	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+ên	ên	en	*	ein, einer, im Sinne des unbestimmten Artikels	*	*	*	en	DI	DIA	A,O	 A,O	MASC_SG_NOM_0	Hel_04.eaf
+thegan	thegan	thegan	S2	Knabe, Mann, der Mann des Gefolges, Dienstmann	*	*	*	thegan	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+habda	habda	hebbian	*	haben	*	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	253	,	$,	$,	*	*	*	Hel_04.eaf
+Ioseph	Ioseph	Ioseph	S1	Joseph	*	*	*	ioseph	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+gimahlit	gimahlit	gimahlian	*	sich verloben mit	*	*	*	gimahlit	VV	VVPP	WK1A	WK1A	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+gôdes	gôdes	god	S2	gut, trefflich, freundlich, nützlich	*	*	*	godes	ADJ	ADJ	A,O	 P	POS_NEUT_SG_GEN_ST	Hel_04.eaf
+cunnies	cunnies	kunni	*	Geschlecht, Stamm, Volk; Leute	*	*	*	cunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_04.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	254	,	$,	$,	*	*	*	Hel_04.eaf
+thea	thea	the	*	dieser, dieses, diese; derjenige, diejenige, dasjenige	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_04.eaf
+Dauides	Dauides	David	S1a	David	*	*	*	dauides	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+dohter	dohter	dohtar	S1b	Tochter	CF_U_M	*	*	dohter	NA	NA	ER_FEM	ER_FEM	SG_ACC	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+that	that	the	*	 der, die, das, dieser, dieses, diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+sô	sô	so	*	so, in solcher Weise; so sehr; nun also. in Verbindung mit Adjektiven, Adverbien u. Partizipien um zu vergleichen oder einen hohen Grad zu bezeichnen	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+diurlîc	diurlîc	diurlik	S2	ruhmwürdig, preislich	*	*	*	diurlic	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_04.eaf
+uuîf	uuîf	wif	*	Weib, Frau, Gattin	*	*	*	uuif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	255	,	$,	$,	*	*	*	Hel_04.eaf
+idis	idis	idis	S1a	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_04.eaf
+anthêti	anthêti	antheti	S1b	fromm	CF_U_M	*	*	antheti	ADJ	ADJN	JA,JO	JA,JO	POS_FEM_SG_NOM_0	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thar	Thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+the	the	the	*	 der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_04.eaf
+engil	engil	engil	S2	Engel	*	*	*	engil	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	256	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+Nazarethburg	Nazarethburg	Nazarethburg	S1	Nazareth	*	*	*	nazarethburg	NE	NEO	C_FEM	C_FEM	SG_DAT	Hel_04.eaf
+bi	bi	bi	*	bei, mit	*	*	*	bi	AP	APPR	*	*	*	Hel_04.eaf
+namon	namon	namo	S2	Name	*	*	*	namon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_04.eaf
+selƀo	selƀo	self	*	selbst	*	*	257	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_04.eaf
+grôtte	grôtte	grotian	S1a	grüßen, anreden, anrufen	*	*	*	grotte	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_04.eaf
+geginuuarde	geginuuarde	geginwardi	S1b	Gegenwart, von Angesicht zu Angesicht	*	*	*	geginuuarde	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+gode	gode	god	S2	Gott	*	*	*	gode	NA	NE	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+quedda	quedda	queddian	*	anreden, begrüßen	CF_U_M	*	*	quedda	VV	VVFIN	WK1B	WK1B	IND_PAST_SG_3	Hel_04.eaf
+:	:	*	*	*	*	*	258	:	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+Hêl	hêl	hel	S1	heil, unverletzt, gesund, ganz	*	*	*	hel	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+uuis	uuis	wesan	*	sein	*	*	*	uuis	VA	VAIMP	ST5	 ST5	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+Maria	Maria	Maria	*	Maria	CF_U_Imp	*	*	maria	NE	NE	N_FEM	N_FEM	SG_NOM	Hel_04.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_DAT_2	Hel_04.eaf
+bist	bist	wesan	*	sein	*	*	*	bist	VA	VAFIN	IRR	IRR	IND_PRES_SG_2	Hel_04.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	N	MASC_SG_DAT_WK	Hel_04.eaf
+hêrron	hêrron	herro	S2	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_04.eaf
+liof	liof	liof	*	lieb, wert, freundlich	*	*	*	liof	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+,	,	*	*	*	*	*	259	,	$,	$,	*	*	*	Hel_04.eaf
+uualdande	uualdande	waldand	S1a	Herrscher	*	*	*	uualdande	NA	NA	ND_MASC	A_MASC	SG_DAT	Hel_04.eaf
+uuirðig	uuirðig	wirđig	S1b	teuer, wert	CF_U_M	*	*	uuirdig	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+huuand	huuand	hwand	*	weil, da	*	*	*	huuand	KO	KOUS	*	*	*	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+giuuit	giuuit	giwit	S2	Verstand, Klugheit, Weisheit	*	*	*	giuuit	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+haƀes	haƀes	hebbian	*	haben, besitzen	*	*	*	habes	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_04.eaf
+,	,	*	*	*	*	*	260	,	$,	$,	*	*	*	Hel_04.eaf
+idis	idis	idis	S1a	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_04.eaf
+enstio	enstio	anst	S1b	Gunst, Gnade	*	*	*	enstio	NA	NA	I_FEM	I_FEM	PL_GEN	Hel_04.eaf
+fol	fol	ful	*	angefüllt, voll	CF_I_Adv_Caus	*	*	fol	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thu	Thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+scalt	scalt	skulan	*	sollen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_04.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_04.eaf
+allun	allun	all	S2	all	*	*	*	allun	DI	DI	A,O	 P	NEUT_PL_DAT_ST	Hel_04.eaf
+uuesan	uuesan	wesan	*	sein	*	*	261	uuesan	VA	VAINF	ST5	ST5	*	Hel_04.eaf
+uuîƀun	uuîƀun	wif	S1a	Weib, Frau, Gattin	*	*	*	uuibun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_04.eaf
+giuuîhit	giuuîhit	giwihian	S1b	segnen, heiligen	CF_U_M	*	*	giuuihit	VV	VVPPD	WK1A	WK1A	POS	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+haƀe	haƀe	hebbian	*	haben, besitzen	*	*	*	habe	VA	VVIMP	WK3	WK3	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+uuêcan	uuêcan	wek	S2	weich, schwach, verzagt	*	*	*	uuecan	ADJ	ADJ	A,O	 P	POS_MASC_SG_ACC_ST	Hel_04.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	CF_U_Imp	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	262	,	$,	$,	*	*	*	Hel_04.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+forhti	forhti	forhtian	S1a	fürchten	*	*	*	forhti	VV	VVIMP	WK1A	WK1A	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	N	NEUT_SG_DAT_WK	Hel_04.eaf
+ferhe	ferhe	ferah	S1b	Seele, Geist	CF_U_Imp	*	*	ferhe	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+quam	quam	kuman	*	kommen	*	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_1	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+thi	thi	thu	*	 du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_04.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+ênigun	ênigun	enig	*	irgend ein(er); mit ni: kein	*	*	*	enigun	DI	DI	A,O	 P	POS_MASC_PL_DAT_ST	Hel_04.eaf
+frêson	frêson	fresa	S2	Gefahr, Schaden	*	*	*	freson	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_04.eaf
+herod	herod	herod	*	hierher	CF_U_M	*	*	herod	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	263	,	$,	$,	*	*	*	Hel_04.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+dragu	dragu	dragan	S1a	tragen, hegen	*	*	*	dragu	VV	VVFIN	ST6	ST6	IND_PRES_SG_1	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+ênig	ênig	enig	*	irgend ein(er), mit ni: kein	*	*	*	enig	DI	DI	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_04.eaf
+drugithing	drugithing	drugithing	S1b	Trug	CF_U_M	*	*	drugithing	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thu	Thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	 SG_NOM_2	Hel_04.eaf
+scalt	scalt	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_04.eaf
+ûses	ûses	usa	*	unser	*	*	*	uses	DPOS	DPOS	A,O	 P	MASC_SG_GEN_ST	Hel_04.eaf
+drohtines	drohtines	drohtin	S2	Herr	*	*	*	drohtines	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+uuesan	uuesan	wesan	*	in einem Zustande sein	*	*	264	uuesan	VA	VAINF	ST5	ST5	*	Hel_04.eaf
+môdar	môdar	modar	S1a	Mutter	*	*	*	modar	NA	NA	ER_FEM	ER_FEM	SG_NOM	Hel_04.eaf
+mid	mid	mid	*	 mit,bei, unter	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+mannun	mannun	mann	S1b	Mensch, Menschen, Leute	CF_U_M	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+scalt	scalt	skulan	*	sollen, bestimmt sein	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_04.eaf
+thana	thana	the	*	der, die, das, dieser, dieses, diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_04.eaf
+magu	magu	magu	S2	Sohn	*	*	*	magu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_04.eaf
+fôdean	fôdean	fodian	*	gebären	*	*	*	fodean	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+,	,	*	*	*	*	*	265	,	$,	$,	*	*	*	Hel_04.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_04.eaf
+hôhon	hôhon	hoh	S1a	hoch, groß	*	*	*	hohon	ADJ	ADJ	A,O	N	POS_MASC_SG_GEN_WK	Hel_04.eaf
+heƀancuninges	heƀancuninges	hebankuning	S1b	Himmelskönig	*	*	*	hebancuninges	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+suno	suno	sunu	*	Sohn	CF_I_M	*	*	suno	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+The	The	the	*	der, die, das, dieser, dieses, diese	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_04.eaf
+scal	scal	skulan	*	sollen, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+Hêliand	Hêliand	heliand	S2	Heiland	*	*	*	heliand	NA	NA	ND_MASC	ND_MASC	SG_ACC	Hel_04.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+namon	namon	namo	*	Name	*	*	266	namon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_04.eaf
+êgan	êgan	egan	S1a	haben, besitzen	*	*	*	egan	VV	VVINF	PRPR	PRPR	*	Hel_04.eaf
+mid	mid	mid	*	mit, bei, unter	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+eldiun	eldiun	eldi	S1b	Menschen	CF_U_M	*	*	eldiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Neo	Neo	nio	*	nie, niemals, nimmer	*	*	*	neo	ADV	ADVNEG	*	*	*	Hel_04.eaf
+endi	endi	endi	S2	Ende	*	*	*	endi	NA	NA	JA_MASC	JA_MASC	SG_NOM	Hel_04.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+kumid	kumid	kuman	*	kommen	*	*	*	kumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	267	,	$,	$,	*	*	*	Hel_04.eaf
+thes	thes	the	*	der, die, das, dieser, dieses, diese	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_04.eaf
+uuîdon	uuîdon	wid	S1a	weit, breit, ausgedehnt	*	*	*	uuidon	ADJ	ADJ	A,O	N	POS_NEUT_SG_GEN_WK	Hel_04.eaf
+rîkeas	rîkeas	riki	*	Reich	*	*	*	rikeas	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_04.eaf
+giuuand	giuuand	giwand	S1b	Wendepunkt, Ende	CF_U_M	*	*	giuuand	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+the	the	the	*	der, die, das, welcher, welches, welche. Relativum	*	*	*	the	PTK	PTKREL	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+giuualdan	giuualdan	giwaldan	S2	Gewalt haben, herrschen über, Macht haben über	*	*	*	giuualdan	VV	VVINF	RED1A	RED1A	*	Hel_04.eaf
+scal	scal	skulan	*	sollen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	268	,	$,	$,	*	*	*	Hel_04.eaf
+mâri	mâri	mari	S1	berühmt, angesehen, des Andenkens wert	*	*	*	mari	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_04.eaf
+theodan	theodan	thiodan	*	Volksherr, Herrscher	CF_I_Rel	*	*	theodan	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_04.eaf
+eft	eft	eft	*	darauf, wieder, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_04.eaf
+thiu	thiu	the	*	 der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_04.eaf
+magað	magað	magađ	S2	Jungfrau, die Jungfrau Maria; Dienerin, Magd	*	*	*	magad	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_04.eaf
+angegin	angegin	angegin	*	entgegen	*	*	*	angegin	PTK	PTKVZ	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	269	,	$,	$,	*	*	*	Hel_04.eaf
+uuið	uuið	wiđ	*	mit, vor, gegen	*	*	*	uuid	AP	APPR	*	*	*	Hel_04.eaf
+thana	thana	the	*	der, die, das, dieser, dieses, diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_04.eaf
+engil	engil	engil	S1	Engel	*	*	*	engil	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+idiso	idiso	idis	S2	Weib, Gattin	*	*	*	idiso	NA	NA	C,I_FEM	C_FEM	PL_GEN	Hel_04.eaf
+scôniost	scôniost	skoni	*	glänzend, schön	*	*	*	sconiost	ADJ	ADJN	JA,JO	N	SUP_FEM_SG_NOM_WK	Hel_04.eaf
+,	,	*	*	*	*	*	270	,	$,	$,	*	*	*	Hel_04.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	 P	NEUT_PL_GEN_ST	Hel_04.eaf
+uuîƀo	uuîƀo	wif	S1a	Weib, Frau, Gattin	*	*	*	uuibo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_04.eaf
+uulitigost	uulitigost	wlitig	S1b	glänzend	CF_U_M	*	*	uulitigost	ADJ	ADJN	A,O	N	SUP_FEM_SG_NOM_WK	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+huô	huô	hwo	*	wie, in welcher Weise, daß	*	*	*	huo	PW	PWAV	*	*	*	Hel_04.eaf
+mag	mag	mugan	*	können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+that	that	the	*	 der, die das; dieser, dieses, diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_04.eaf
+giuuerðen	giuuerðen	giwerđan	S2	werden, geschehen, sich ereignen	*	*	*	giuuerden	VV	VVINF	ST3B	ST3B	*	Hel_04.eaf
+sô	sô	so	*	so, in solcher Weise; so sehr; nun also. in Verbindung mit Verben	CF_I_Int	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	CF_U_M	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+,	,	*	*	*	*	*	271	,	$,	$,	*	*	*	Hel_04.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+that	that	that	*	 dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+magu	magu	magu	S1	Sohn	*	*	*	magu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_04.eaf
+fôdie	fôdie	fodian	*	gebären	CF_I_O	*	*	fodie	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_1	Hel_04.eaf
+?	?	*	*	*	*	*	*	?	$.	$.	*	*	*	Hel_04.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+gio	gio	io	*	zu irgend einer Zeit, je	*	*	*	gio	ADV	ADV	*	*	*	Hel_04.eaf
+mannes	mannes	mann	S2	Mann	*	*	*	mannes	NA	NA	C,A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	 werden	*	*	272	uuard	VA	VAFIN	 ST3B	 ST3B	IND_PAST_SG_1	Hel_04.eaf
+uuîs	uuîs	wis	S1a	erfahren, klug, weise	*	*	*	uuis	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+an	an	an	*	an, in	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+mînera	mînera	min	*	mein	*	*	*	minera	DPOS	DPOS	A,O	 P	FEM_SG_DAT_ST	Hel_04.eaf
+uueroldi	uueroldi	werold	S1b	Leben, Lebenszeit	CF_U_M	*	*	uueroldi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+habde	habde	hebbian	*	haben	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+eft	eft	eft	*	wieder, von neuem, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+uuord	uuord	word	S2	 Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_04.eaf
+garu	garu	garu	*	bereit	*	*	273	garu	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_04.eaf
+engil	engil	engil	S1a	Engel	*	*	*	engil	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+thes	thes	the	*	 der, die, das; dieser, dieses, diese	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_04.eaf
+alouualdon	alouualdon	alowaldo	S1b	der Allwaltende	*	*	*	alouualdon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_04.eaf
+thero	thero	the	*	 der, die, das, dieser, dieses, diese	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_04.eaf
+idisiu	idisiu	idis	S2	Weib, Gattin	*	*	*	idisiu	NA	NA	C,I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+tegegnes	tegegnes	tegegnes	*	entgegen, gegenüber, vor	CF_U_M	*	*	tegegnes	ADV	ADV	*	*	*	Hel_04.eaf
+:	:	*	*	*	*	*	274	:	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+thi	thi	thu	*	 du	*	*	*	thi	PPER	PPER	*	*	 SG_ACC_2	Hel_04.eaf
+scal	scal	skulan	*	sollen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_04.eaf
+gêst	gêst	gest	*	Geist	*	*	*	gest	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_04.eaf
+fon	fon	fan	*	von, von – her, aus	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+heƀanuuange	heƀanuuange	hebanwang	S2	Himmelsaue, Himmel	*	*	275	hebanuuange	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+cuman	cuman	kuman	S1a	kommen	*	*	*	cuman	VV	VVINF	ST4	ST4	*	Hel_04.eaf
+thurh	thurh	thurh	*	durch, vermittelst	*	*	*	thurh	AP	APPR	*	*	*	Hel_04.eaf
+craft	craft	kraft	S1b	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_04.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thanan	Thanan	thanan	*	dann	*	*	*	thanan	ADV	ADV	*	*	*	Hel_04.eaf
+scal	scal	skulan	*	sollen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+thi	thi	thu	*	 du	*	*	*	thi	PPER	PPER	*	*	 SG_DAT_2	Hel_04.eaf
+kind	kind	kind	S2	Kind	*	*	*	kind	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+ôdan	ôdan	odan	*	beschert	*	*	276	odan	ADJ	ADJD	A,O	 A,O	POS	Hel_04.eaf
+uuerðan	uuerðan	werđan	S1a	werden	*	*	*	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_04.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+thesaro	thesaro	thesa	*	dieser, diese, dieses	*	*	*	thesaro	DD	DD	*	*	FEM_SG_DAT	Hel_04.eaf
+uueroldi	uueroldi	werold	S1b	 Welt, Erde	CF_U_M	*	*	uueroldi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Uualdandes	Uualdandes	waldand	S2	der Waltende	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_04.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	277	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_NOM	Hel_04.eaf
+scal	scal	skulan	*	sollen; werden (Futur)	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_04.eaf
+thi	thi	thu	*	 du	*	*	*	thi	PPER	PPER	*	*	 SG_ACC_2	Hel_04.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	 der, die, das, dieser, dieses, diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_04.eaf
+hôhoston	hôhoston	hoh	S1	hoch, groß	*	*	*	hohoston	ADJ	ADJ	A,O	N	SUP_MASC_SG_DAT_WK	Hel_04.eaf
+heƀancuninge	heƀancuninge	hebankuning	S2	Himmelskönig	*	*	278	hebancuninge	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+scadouuan	scadouuan	skadowan	S1a	beschatten, bedecken	*	*	*	scadouuan	VV	VVINF	WK1B	WK1B	*	Hel_04.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+skimon	skimon	skimo	S1b	Glanz, Licht	CF_U_M	*	*	skimon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden, geschehen	*	*	*	uuard	VA	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+scôniera	scôniera	skoni	S2	glänzend, schön	*	*	*	sconiera	ADJ	ADJ	JA,JO	N	COMP_FEM_SG_NOM_WK	Hel_04.eaf
+giburd	giburd	giburd	*	Geburt, Herkunft, Geschlecht	*	*	*	giburd	NA	NA	I_FEM,NEUT	I_FEM,NEUT	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	279	,	$,	$,	*	*	*	Hel_04.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+mâri	mâri	mari	S1a	berühmt, angesehen, des Andenkens wert	*	*	*	mari	ADJ	ADJ	JA,JO	JA,JO	POS_FEM_SG_NOM_0	Hel_04.eaf
+mid	mid	mid	*	mit, bei, unter	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+mannun	mannun	mann	S1b	Mensch, Menschen, Leute	CF_U_M	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+kumid	kumid	kuman	*	kommen	*	*	*	kumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_04.eaf
+thurh	thurh	thurh	*	durch, vermittelst	*	*	*	thurh	AP	APPR	*	*	*	Hel_04.eaf
+maht	maht	maht	S2	Macht, Kraft, Gewalt	*	*	*	maht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	280	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+an	an	an	*	in, in – hinein, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+these	these	thesa	*	dieser, dieses, diese, derartig	*	*	*	these	DD	DD	*	*	FEM_SG_ACC	Hel_04.eaf
+uuîdon	uuîdon	wid	S1a	weit, breit, ausgedehnt	*	*	*	uuidon	ADJ	ADJ	A,O	N	POS_FEM_SG_ACC_WK	Hel_04.eaf
+uuerold	uuerold	werold	S1b	 Welt	CF_I_Adv_Caus	*	*	uuerold	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Thô	Thô	than	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden, geschehen	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+eft	eft	eft	*	darauf, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_04.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thes	DD	DDA	*	*	NEUT_SG_NOM,GEN_	Hel_04.eaf
+uuîbes	uuîbes	wif	S2	Weib, Frau, Gattin	*	*	*	uuibes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_04.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	281	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_04.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	 der, die, das, dieser, dieses, diese	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_04.eaf
+ârundie	ârundie	arundi	S1	Botschaft, Geschäft	*	*	*	arundie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_04.eaf
+al	al	all	S2	ganz, vollständig	*	*	*	al	DI	DIS	*	*	*	Hel_04.eaf
+gihuorƀen	gihuorƀen	hwerban	*	gehen, wandeln; PP: hingezogen, hingelenkt	*	*	282	gihuorben	VV	VVPP	ST3B	ST3B	*	Hel_04.eaf
+an	an	an	*	an, nach	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+uuilleon	uuilleon	willio	*	 Wille, Absicht	CF_U_M	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+Than	Than	than	*	dann, danach	*	*	*	than	ADV	ADV	*	*	*	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_04.eaf
+garu	garu	garu	S2	bereit, gerüstet	*	*	*	garu	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_04.eaf
+standu	standu	standan	*	stehen, sich befinden, vorhanden sein	CF_CS_U_M	*	*	standu	VV	VVFIN	RED1A	RED1A	IND_PRES_SG_1	Hel_04.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	CF_U_M	*	*	siu	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+,	,	*	*	*	*	*	283	,	$,	$,	*	*	*	Hel_04.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+sulicun	sulicun	sulik	*	solch, so beschaffen	*	*	*	sulicun	DD	DD	A,O	 N	MASC_SG_DAT_WK	Hel_04.eaf
+ambahtskepi	ambahtskepi	ambahtskepi	S1	Dienst	CF_CC_U_M	*	*	ambahtskepi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_04.eaf
+êgan	êgan	egan	S2	haben, besitzen	*	*	*	egan	VV	VVINF	PRPR	PRPR	*	Hel_04.eaf
+uuili	uuili	willian	*	wollen	CF_I_Rel	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_PL_3	Hel_04.eaf
+.	.	*	*	*	*	*	284	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thiu	Thiu	thiwa	S1a	Dienerin, Magd	*	*	*	thiu	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_04.eaf
+bium	bium	wesan	*	sein	*	*	*	bium	VA	VAFIN	IRR	IRR	IND_PRES_SG_1	Hel_04.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+theotgodes	theotgodes	thiodgod	S1b	der allmächtige Gott	CF_U_M	*	*	theotgodes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Nu	Nu	nu	*	nun	*	*	*	nu	ADV	ADV	*	*	*	Hel_04.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+theses	theses	thesa	*	dieser, dieses, diese, derartig	*	*	*	theses	DD	DD	*	*	MASC_SG_GEN	Hel_04.eaf
+thinges	thinges	thing	S2	Ding, Sache, Etwas	*	*	*	thinges	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_04.eaf
+gitrûon	gitrûon	gitruon	*	glauben, vertrauen	CF_U_M	*	*	gitruon	VV	VVFIN	WK2	WK2	IND_PRES_SG_1	Hel_04.eaf
+;	;	*	*	*	*	*	285	;	$.	$.	*	*	*	Hel_04.eaf
+
+uuerðe	uuerðe	werđan	S1a	werden, geschehen	*	*	*	uuerde	VA	VVFIN	ST3B	ST3B	SUBJ_PRES_SG_3	Hel_04.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_04.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_04.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	NEUT_PL_DAT_ST	Hel_04.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_04.eaf
+,	,+al	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+al sô	sô	all so	*	(ganz) wie	*	*	*	al so	KO	KOUS	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+uuilleo	uuilleo	willio	S2	Wille, Absicht	*	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_04.eaf
+sî	sî	wesan	*	sein	*	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	286	,	$,	$,	*	*	*	Hel_04.eaf
+hêrron	hêrron	herro	S1	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_04.eaf
+mînes	mînes	min	*	mein	CF_I_Adv_Mod	*	*	mines	DPOS	DPOS	A,O	 P	MASC_SG_GEN_ST	Hel_04.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_04.eaf
+
+n	*	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+is	nis	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_04.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT	Hel_04.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_04.eaf
+tuîfli	tuîfli	twifli	*	zweifelnd, wankelmütig, vertrauenslos	*	*	*	tuifli	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_04.eaf
+,	,	*	*	*	*	*	287	,	$,	$,	*	*	*	Hel_04.eaf
+ne	ne	ne	*	nicht; weder	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuord	uuord	word	S1a	 Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+ne	ne	ne	*	nicht; hier: noch	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuîsa	uuîsa	wisa	S1b	Gebrauch	CF_U_M	*	*	uuisa	NA	NA	N,O_FEM	N,O_FEM	SG_NOM	Hel_04.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Sô	Sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+gifragn	gifragn	gifregnan	*	erfahren, von etwas hören	*	*	*	gifragn	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+ik	ik	ik	*	ich	CF_U_M	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	 daß	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+that	that	the	*	 der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_04.eaf
+uuîf	uuîf	wif	S2	Weib, Frau, Gattin	*	*	*	uuif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+antfeng	antfeng	antfahan	*	empfangen, aufnehmen, annehmen	*	*	288	antfeng	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_04.eaf
+that	that	the	*	 der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_04.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+ârundi	ârundi	arundi	*	Botschaft, Geschäft	*	*	*	arundi	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_04.eaf
+gerno	gerno	gerno	S2	gern, freudig, willig, eifrig	*	*	*	gerno	ADV	ADV	*	*	*	Hel_04.eaf
+suîðo	suîðo	swiđo	*	sehr	*	*	289	suido	ADV	ADV	*	*	*	Hel_04.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+leohtu	leohtu	lioht	S1	hell, klar, aufrichtig	*	*	*	leohtu	ADJ	ADJ	A,O	 P	POS_MASC_SG_INS_ST	Hel_04.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_INS	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+gilôƀon	gilôƀon	gilobo	S2	Glaube, Gesinnung	*	*	*	gilobon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_04.eaf
+gôdun	gôdun	god	*	gut, trefflich, freundlich, nützlich	*	*	290	godun	ADJ	ADJN	A,O	N	POS_MASC_SG_DAT_WK	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+hluttrun	hluttrun	hluttar	S1	rein, aufrichtig	*	*	*	hluttrun	ADJ	ADJ	A,O	P,N	POS_FEM_PL_DAT_ST,WK	Hel_04.eaf
+treuun	treuun	treuwa	*	Treue, lautere Gesinnung	CF_I_O	*	*	treuun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Uuarð	Uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_04.eaf
+hêlago	hêlago	helag	S2	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_04.eaf
+gêst	gêst	gest	*	Geist	*	*	*	gest	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	291	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_04.eaf
+barn	barn	barn	S1a	Kind, Sohn, Mensch, Menschenkind	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+an	an	an	*	an	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	CF_U_M	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+bôsma	bôsma	bosom	S1b	Schoß, Mutterschoß	*	*	*	bosma	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_04.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_04.eaf
+
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+breostun	breostun	briost	S2	Brust, Herz, im Innern, im Gemüte	*	*	*	breostun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_04.eaf
+forstôd	forstôd	farstandan	*	verstehen, einsehen, erkennen	*	*	292	forstod	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_04.eaf
+iac	iac	jak	*	und	*	*	*	iac	KO	KON	*	*	*	Hel_04.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+ire	ire	he	*	er, sie, es (selbst)	*	*	*	ire	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+seƀon	seƀon	sebo	S1a	Gemüt, Herz	*	*	*	sebon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_04.eaf
+selƀo	selƀo	self	S1b	selbst	CF_I_M	*	*	selbo	DD	DDN	A,O	N	FEM_SG_NOM_WK	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+sagda	sagda	seggian	S2	sagen	*	*	*	sagda	VV	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+them	them	the	*	der, die, das	CF_U_M	*	*	them	DD	DDS	*	*	MASC_PL_DAT	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+uuelda	uuelda	willian	*	wollen	CF_U_Rel	*	*	uuelda	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	293	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+habde	habde	hebbian	*	haben, halten	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+giôcana	giôcana	okan	S1	schwängern	*	*	*	giocana	VV	VVPP	RED2	RED2	P_POS_FEM_SG_ACC_ST	Hel_04.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_04.eaf
+alouualdon	alouualdon	alowaldo	S2	der Allwaltende	*	*	*	alouualdon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_04.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	294	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_NOM	Hel_04.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+fon	fon	fan	*	von, von – her, aus	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+himile	himile	himil	S1b	Himmel	CF_I_O	*	*	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thô	Thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_04.eaf
+Iosepes	Iosepes	Ioseph	*	Joseph	*	*	*	iosepes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+,	,	*	*	*	*	*	295	,	$,	$,	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+môd	môd	mod	S1	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+giuuorrid	giuuorrid	worrian	*	in Aufruhr versetzen, verwirren	CF_U_M	*	*	giuuorrid	VV	VVPPD	WK1B	WK1B	POS	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+êr	êr	er	*	vor, ehe, bevor	*	*	*	er	ADV	ADV	*	*	*	Hel_04.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_04.eaf
+magað	magað	magađ	S2	Jungfrau, die Jungfrau Maria	*	*	*	magad	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_04.eaf
+habda	habda	hebbian	*	haben	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	296	,	$,	$,	*	*	*	Hel_04.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_04.eaf
+idis	idis	idis	*	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_ACC	Hel_04.eaf
+anthêttea	anthêttea	antheti	S1	fromm	*	*	*	anthettea	ADJ	ADJN	JA,JO	P	POS_FEM_SG_ACC_ST	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+aðalcnôsles	aðalcnôsles	ađalknosal	S2	edler Stamm, edle Herkunft	*	*	*	adalcnosles	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_04.eaf
+uuîf	uuîf	wif	*	Weib, Frau, Gattin	*	*	297	uuif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+giboht	giboht	buggian	S1a	kaufen; erkaufen	*	*	*	giboht	VV	VVPP	WK1A	WK1A	*	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+brûdiu	brûdiu	brud	S1b	Weib, Frau, Gattin	CF_I_Rel	*	*	brudiu	NA	NA	I_FEM	JO_FEM	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+He	He	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+afsôf	afsôf	afsebbian	*	wahrnehmen, bemerken	CF_U_M	*	*	afsof	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+habda	habda	hebbian	*	haben, besitzen; halten	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_04.eaf
+barn	barn	barn	S2	Kind, Sohn, Mensch, Menschenkind	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_04.eaf
+iru	iru	he	*	er, sie, es (selbst)	CF_I_O	*	*	iru	PPER	PRF	*	*	FEM_SG_DAT_3	Hel_04.eaf
+:	:	*	*	*	*	*	298	:	$.	$.	*	*	*	Hel_04.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuânda	uuânda	wanian	S1a	glauben, denken	*	*	*	uuanda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_04.eaf
+thes	thes+mid	the	*	der, die, das	*	*	*	thes	DD	DDS	*	*	NEUT_SG_NOM	Hel_04.eaf
+mid uuihti	uuihti	mid wihti	S1b	keineswegs	CF_U_M	*	*	mid uuihti	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+iru	iru	he	*	er, sie, es (selbst)	*	*	*	iru	PPER	PRF	*	*	FEM_SG_DAT_3	Hel_04.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_04.eaf
+uuîf	uuîf	wif	S2	Weib, Frau, Gattin	*	*	*	uuif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+habdi	habdi	hebbian	*	haben, halten	*	*	299	habdi	VA	VAFIN	WK3	WK3	SUBJ_PAST_SG_3	Hel_04.eaf
+giuuardod	giuuardod	giwardon	S1a	sich behüten, in Acht nehmen	*	*	*	giuuardod	VV	VVPP	WK2	WK2	*	Hel_04.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+uuarolîco	uuarolîco	waraliko	S1b	aufmerksam, behutsam, sorgfältig	CF_I_O	*	*	uuarolico	ADV	ADV	*	*	*	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuisse	uuisse	witan	*	wissen, kennen, verstehen	*	*	*	uuisse	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_04.eaf
+uualdandes	uualdandes	waldand	S2	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_04.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+noh	noh	noh	*	damals noch, noch	*	*	300	noh	ADV	ADV	*	*	*	Hel_04.eaf
+blîði	blîði	bliđi	S1a	heiter, fröhlich	*	*	*	blidi	ADJ	ADJ	JA,JO	JA,JO	POS_NEUT_SG_ACC_0	Hel_04.eaf
+gibodskepi	gibodskepi	gibodskepi	S1b	Gebot, Botschaft, Lehre	CF_U_M	*	*	gibodskepi	NA	NA	I_NEUT	I_NEUT	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_04.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+imo	imo	he	*	er, sie, es (selbst)	*	*	*	imo	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+brûdi	brûdi	brud	S2	Weib, Frau, Gattin	*	*	*	brudi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_04.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	301	,	$,	$,	*	*	*	Hel_04.eaf
+halon	halon	halon	S1a	holen, bringen; fortführen	*	*	*	halon	VV	VVINF	WK2	WK2	*	Hel_04.eaf
+imo	imo	he	*	er, sie, es (selbst)	*	*	*	imo	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+hîuuon	hîuuon	hiwa	S1b	Gattin	CF_U_M	*	*	hiuuon	NA	NA	N_FEM	N_FEM	SG_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_04.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen, etwas unternehmen,	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+thô	thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_04.eaf
+thenkean	thenkean	thenkian	*	denken an, gedenken	CF_I_M	*	*	thenkean	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+,	,	*	*	*	*	*	302	,	$,	$,	*	*	*	Hel_04.eaf
+huô	huô	hwo	*	wie	*	*	*	huo	PW	PWAV	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+forlêti	forlêti	farlatan	S1	sich von etwas abwenden, verlassen, aufgeben, vermeiden	CF_I_O	*	*	forleti	VV	VVFIN	RED1B	RED1B	SUBJ_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+sô	sô	so	*	dass, so dass	*	*	*	so	KO	KOUS	*	*	*	Hel_04.eaf
+iru	iru	he	*	er, sie, es (selbst)	*	*	*	iru	PPER	PPER	*	*	FEM_SG_DAT_3	Hel_04.eaf
+thar	thar	thar	*	da	*	*	*	thar	ADV	ADV	*	*	*	Hel_04.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uurði	uurði	werđan	*	werden	*	*	*	uurdi	VA	VAFIN	ST3B	ST3B	SUBJ_PAST_SG_3	Hel_04.eaf
+lêdes	lêdes	leđ	S2	Böses, Übles	*	*	*	ledes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_04.eaf
+uuiht	uuiht	wiht	*	ein Ding, etwas, nichts	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	303	,	$,	$,	*	*	*	Hel_04.eaf
+ôdan	ôdan	odan	S1a	beschert	*	*	*	odan	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+arƀides	arƀides	arbed	S1b	Mühsal, Beschwerde, Leid	CF_I_Adv_Cns	*	*	arbides	NA	NA	I_FEM	A_MASC	SG_GEN	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_04.eaf
+sie	sie+aftar	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+aftar thiu	thiu	aftar thiu	S2	danach, deshalb	*	*	304	aftar thiu	ADV	ADV	*	*	*	Hel_04.eaf
+meldon	meldon	meldon	S1a	anzeigen, verraten	*	*	*	meldon	VV	VVINF	WK2	WK2	*	Hel_04.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_04.eaf
+menigi	menigi	menigi	S1b	Menge, Schar, Volk	CF_U_M	*	*	menigi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+antdrêd	antdrêd	antdradan	*	fürchten, sich fürchten vor	CF_U_M	*	*	antdred	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+manno	manno	mann	S2	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_04.eaf
+barn	barn	barn	*	Kind, Mensch, Menschenkind	*	*	305	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_04.eaf
+lîƀu	lîƀu	lif	S1	Leben	*	*	*	libu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_04.eaf
+binâmin	binâmin	biniman	*	berauben	CF_I_O	*	*	binamin	VV	VVFIN	ST4	ST4	SUBJ_PAST_PL_3	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Sô	Sô	so	*	so, auf solche Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+than	than	than	*	damals, zu der Zeit	*	*	*	than	ADV	ADV	*	*	*	Hel_04.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_04.eaf
+liudeo	liudeo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_04.eaf
+thau	thau	thau	*	Brauch, Sitte, Gewohnheit	*	*	306	thau	NA	NA	WA_MASC	WA_MASC	SG_NOM	Hel_04.eaf
+thurh	thurh	thurh	*	durch, vermittelst, vermöge	*	*	*	thurh	AP	APPR	*	*	*	Hel_04.eaf
+then	then	the	*	der, die, das	*	*	*	then	DD	DDA	*	*	MASC_SG_ACC	Hel_04.eaf
+aldon	aldon	ald	S1a	alt, bejahrt	*	*	*	aldon	ADJ	ADJ	A,O	N	POS_MASC_SG_ACC_WK	Hel_04.eaf
+êu	êu	eo	S1b	Gesetz	*	*	*	eu	NA	NA	WA_MASC	WA_MASC	SG_ACC	Hel_04.eaf
+,	,+Ebreo	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+Ebreo folkes	folkes	ebreo folk	S2	Hebräer	CF_U_M	*	*	ebreo folkes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_04.eaf
+,	,+sô+huilik	*	*	*	*	*	307	,	$,	$,	*	*	*	Hel_04.eaf
+sô huilik sô	sô	so hwilik so	S1	welcher auch immer	*	*	*	so huilik so	DW	DWGREL	A,O	A,O	FEM_SG_NOM_0	Hel_04.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_04.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+unreht	unreht	unreht	*	Unrecht	*	*	*	unreht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+idis	idis	idis	*	Weib, Gattin	*	*	*	idis	NA	NA	C,I_FEM	C,I_FEM	SG_NOM	Hel_04.eaf
+gihîuuida	gihîuuida	gihiwian	S2	sich verheiraten	CF_I_Rel	*	*	gihiuuida	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	308	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+simbla	simbla	simbla	*	in jedem Falle, immer	*	*	*	simbla	ADV	ADV	*	*	*	Hel_04.eaf
+thana	thana	the	*	der, die, das	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_04.eaf
+bedskepi	bedskepi	bedskepi	S1	Beilager	*	*	*	bedskepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_04.eaf
+buggean	buggean	buggean	S2	kaufen, bezahlen	*	*	*	buggean	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+scolda	scolda	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scolda	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	309	,	$,	$,	*	*	*	Hel_04.eaf
+frî	frî	fri	S1a	Weib, Frau	*	*	*	fri	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+mid	mid	mid	*	mit, durch	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+ferhu	ferhu	ferah	S1b	Leben	CF_I_O	*	*	ferhu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+gio	gio	io	*	zu irgend einer Zeit, je,	*	*	*	gio	ADV	ADV	*	*	*	Hel_04.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_04.eaf
+fêmea	fêmea	femia	S2	Weib, Frau	*	*	*	femea	NA	NA	N_FEM	N_FEM	SG_NOM	Hel_04.eaf
+sô	sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+gôd	gôd	god	*	gut, trefflich, freundlich, nützlich	CF_U_M	*	*	god	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+,	,	*	*	*	*	*	310	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_04.eaf
+liudun	liudun	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudun	NA	NA	I_MASC	A_MASC	PL_DAT	Hel_04.eaf
+leng	leng	lango	S1b	lange	*	*	*	leng	ADV	ADV	*	*	COMP	Hel_04.eaf
+libbien	libbien	libbian	S2	leben	*	*	*	libbien	VV	VVINF	WK3	WK3	*	Hel_04.eaf
+môsti	môsti	motan	*	können, dürfen	*	*	*	mosti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	311	,	$,	$,	*	*	*	Hel_04.eaf
+uuesan	uuesan	wesan	S1a	sein	*	*	*	uuesan	VA	VAINF	ST5	ST5	*	Hel_04.eaf
+undar	undar	undar	*	unter, zwischen; in Gemeinschaft von	*	*	*	undar	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_SG_NOM	Hel_04.eaf
+uueroda	uueroda	werod	S1b	Leute, Volk	CF_I_Adv_Cns	*	*	uueroda	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Bigan	Bigan	biginnan	*	beginnen, anfangen, etwas unternehmen,	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_04.eaf
+uuîso	uuîso	wis	S2	erfahren, klug, weise	*	*	*	uuiso	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_04.eaf
+mann	mann	mann	*	Mann	*	*	*	mann	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	312	,	$,	$,	*	*	*	Hel_04.eaf
+suîðo	suîðo	swiđo	*	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_04.eaf
+gôd	gôd	god	S1a	gut, trefflich, freundlich, nützlich	*	*	*	god	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_04.eaf
+gumo	gumo	gumo	S1b	Mann, Mensch	*	*	*	gumo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+Ioseph	Ioseph	Ioseph	S2	Joseph	*	*	*	ioseph	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+an	an	an	*	in (unter), an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+môda	môda	mod	*	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	313	moda	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+thenkean	thenkean	thenkian	S1a	denken an, gedenken	*	*	*	thenkean	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	FEM_PL_GEN	Hel_04.eaf
+thingo	thingo	thing	S1b	Gegenstand, Wesen, Sache, Etwas	CF_U_M	*	*	thingo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+huô	huô	hwo	*	wie,	*	*	*	huo	PW	PWAV	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_04.eaf
+thiornun	thiornun	thiorna	S2	Jungfrau, Mädchen	*	*	*	thiornun	NA	NA	N_FEM	N_FEM	SG_ACC	Hel_04.eaf
+thô	thô	tho	*	da, nun, also	*	*	314	tho	ADV	ADV	*	*	*	Hel_04.eaf
+listiun	listiun	list	S1a	Klugheit, Weisheit	*	*	*	listiun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_04.eaf
+forlêti	forlêti	farlatan	S1b	sich von etwas abwenden, verlassen, aufgeben, vermeiden	CF_I_O	*	*	forleti	VV	VVFIN	RED1B	RED1B	SUBJ_PAST_SG_3	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thô	Thô	tho	*	da	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+lang	lang+te	lang	S2	lang	*	*	*	lang	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+te thiu	thiu	te thiu	*	danach	CF_U_M	*	*	te thiu	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	315	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_04.eaf
+thar	thar	thar	*	da, dort, darauf	*	*	*	thar	ADV	ADV	*	*	*	Hel_04.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+drôma	drôma	drom	S1	Traum, Schlaf	*	*	*	droma	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_04.eaf
+quam	quam	kuman	*	kommen	*	*	*	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_04.eaf
+drohtines	drohtines	drohtin	S2	Herr	*	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_04.eaf
+engil	engil	engil	*	Engel	*	*	*	engil	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	316	,	$,	$,	*	*	*	Hel_04.eaf
+heƀancuninges	heƀancuninges	hebankuning	S1	Himmelskönig	*	*	*	hebancuninges	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+bodo	bodo	bodo	*	Bote, Gesandter	CF_I_S	*	*	bodo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+hêt	hêt	hetan	*	heißen, befehlen	CF_CS_I_M	*	*	het	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	CI_CS_U_O	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+ina	ina	he	*	er, sie, es (selbst)	CF_CC_I_M	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_04.eaf
+haldan	haldan	haldan	S2	hüten, pflegen, bewahren, c. acc. u. mit oder ohne adverb. Bestimmung	*	*	*	haldan	VV	VVINF	RED1A	RED1A	*	Hel_04.eaf
+uuel	uuel	wel	*	wohl, gut	*	*	*	uuel	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	317	,	$,	$,	*	*	*	Hel_04.eaf
+minnion	minnion	minnion	S1a	lieben	*	*	*	minnion	VV	VVINF	WK2	WK2	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+môde	môde	mod	S1b	Sinn, Gesinnung, Mut, Inneres, Herz	CI_CC_U_O	*	*	mode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Ni	Ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_04.eaf
+uuis	uuis	wesan	*	sein	*	*	*	uuis	VA	VAIMP	ST5	ST5	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	CF_CS_U_Imp	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_04.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Mariun	Mariun	Maria	S2	Mariā	*	*	*	mariun	NE	NE	N_FEM	N_FEM	SG_DAT	Hel_04.eaf
+uurêð	uurêð	wređ	*	zornig, feindselig, böse	*	*	*	uured	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+,	,	*	*	*	*	*	318	,	$,	$,	*	*	*	Hel_04.eaf
+thiornun	thiornun	thiorna	S1a	Jungfrau, Mädchen	*	*	*	thiornun	NA	NA	N_FEM	N_FEM	SG_DAT	Hel_04.eaf
+thînaro	thînaro	thin	S1b	dein	CF_CC_U_Imp	*	*	thinaro	DPOS	DPOSN	A,O	P	FEM_SG_DAT_ST	Hel_04.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_04.eaf
+
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_04.eaf
+githungan	githungan	githungan	S2	trefflich	*	*	*	githungan	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_04.eaf
+uuîf	uuîf	wif	*	Weib, Frau, Gattin	CF_U_M	*	*	uuif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+;	;	*	*	*	*	*	319	;	$.	$.	*	*	*	Hel_04.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+forhugi	forhugi	farhuggian	S1a	verachten	*	*	*	forhugi	VV	VVIMP	WK3	WK3	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+te	te	to	*	zu	*	*	*	te	ADV	ADV	*	*	*	Hel_04.eaf
+hardo	hardo	hardo	S1b	sehr	CF_U_Imp	*	*	hardo	ADV	ADV	*	*	*	Hel_04.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_04.eaf
+
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+haldan	haldan	haldan	S2	hüten, pflegen, bewahren, c. acc. u. mit oder ohne adverb. Bestimmung	*	*	*	haldan	VV	VVINF	RED1A	RED1A	*	Hel_04.eaf
+uuel	uuel	wel	*	wohl, gut	*	*	*	uuel	ADV	ADV	*	*	*	Hel_04.eaf
+,	,	*	*	*	*	*	320	,	$,	$,	*	*	*	Hel_04.eaf
+uuardon	uuardon	wardon	S1a	schützen, behüten, sorgen für	*	*	*	uuardon	VV	VVINF	WK2	WK2	*	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	PPER	*	*	FEM_SG_GEN_3	Hel_04.eaf
+an	an	an	*	in, an, auf, bei	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+thesaro	thesaro	thesa	*	dieser, diese, dieses	*	*	*	thesaro	DD	DD	*	*	FEM_SG_DAT	Hel_04.eaf
+uueroldi	uueroldi	werold	S1b	Welt, Erde	CF_U_M	*	*	uueroldi	NA	NA	C,I_FEM, I_MASC	I_FEM	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Lêsti	Lêsti	lestian	*	befolgen, ausführen, vollführen, vollbringen	*	*	*	lesti	VV	VVIMP	WK1A	WK1A	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+inca	inca	inka	*	euer beider	*	*	*	inca	DPOS	DPOS	A,O	A,O	FEM_SG_ACC_0	Hel_04.eaf
+uuinitreuua	uuinitreuua	winitreuwa	S2	Liebe, Treue	*	*	321	uuinitreuua	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_04.eaf
+forð	forð	forđ	S1	fortan, in der Zukunft, weiter, sofort	CF_U_Imp	*	*	ford	ADV	ADV	*	*	*	Hel_04.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+dâdi	dâdi	don	*	tun, handeln	CF_I_Adv_Mod	*	*	dadi	VV	VVFIN	IRR	IRR	IND_PAST_SG_2	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+hald	hald	haldan	*	hüten, pflegen, bewahren, c. acc. u. mit oder ohne adverb. Bestimmung	*	*	*	hald	VV	VVIMP	RED1A	RED1A	IMP_PRES_SG_2	Hel_04.eaf
+incan	incan	inka	*	euer beider	*	*	*	incan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_04.eaf
+friundskepi	friundskepi	friundskepi	S2	Freundschaft	*	*	*	friundskepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_04.eaf
+uuel	uuel	wel	*	wohl, gut	CF_U_Imp	*	*	uuel	ADV	ADV	*	*	*	Hel_04.eaf
+!	!	*	*	*	*	*	322	!	$.	$.	*	*	*	Hel_04.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+lât	lât	latan	S1a	lassen	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PRF	*	*	SG_DAT_2	Hel_04.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDS	*	*	NEUT_SG_INS	Hel_04.eaf
+lêðaron	lêðaron	leđ	S1b	leid, feinlich, böse	CF_U_Imp	*	*	ledaron	ADJ	ADJD	A,O	N	COMP_FEM_SG_ACC_WK	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+liðon	liðon	liđ	S2	Glied	*	*	*	lidon	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_04.eaf
+êgi	êgi	egan	*	haben, besitzen	*	*	*	egi	VV	VVFIN	PRPR	PRPR	SUBJ_PRES_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	323	,	$,	$,	*	*	*	Hel_04.eaf
+barn	barn	barn	S1a	Kind, Sohn, Mensch, Menschenkind	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+ira	ira	he	*	er, sie, es (selbst)	*	*	*	ira	PPER	DPOS	*	*	FEM_SG_GEN_3	Hel_04.eaf
+bôsma	bôsma	bosom	S1b	Schoß, Mutterschoß	CF_I_Adv_Cnc	*	*	bosma	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+It	It	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_04.eaf
+cumid	cumid	kuman	*	kommen	*	*	*	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_04.eaf
+thurh	thurh	thurh	*	durch, vermittelst, vermöge	*	*	*	thurh	AP	APPR	*	*	*	Hel_04.eaf
+gibod	gibod	gibod	S2	Gebot, Befehl	*	*	*	gibod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_04.eaf
+,	,	*	*	*	*	*	324	,	$,	$,	*	*	*	Hel_04.eaf
+hêlages	hêlages	helag	S1	heilig	*	*	*	helages	ADJ	ADJE	A,O	P	POS_MASC_SG_GEN_ST	Hel_04.eaf
+gêstes	gêstes	gest	*	Geist, Heiliger Geist	*	*	*	gestes	NA	NE	A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+fon	fon	fan	*	von, von – her, aus	*	*	*	fon	AP	APPR	*	*	*	Hel_04.eaf
+heƀanuuanga	heƀanuuanga	hebanwang	S2	Himmelsaue, Himmel	CF_U_M	*	*	hebanuuanga	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_04.eaf
+:	:	*	*	*	*	*	325	:	$.	$.	*	*	*	Hel_04.eaf
+
+that	that	the	*	der, die, das, welcher, welche, welches	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_04.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_04.eaf
+Iêsu	Iêsu	Iesus	S1	Jesus	*	*	*	iesu	NE	NE	0_MASC	0_MASC	SG_NOM	Hel_04.eaf
+Krist	Krist	Krist	*	Christus	*	*	*	krist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A,I_MASC	SG_GEN	Hel_04.eaf
+êgan	êgan	egan	S2	eigen	*	*	*	egan	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_04.eaf
+barn	barn	barn	*	Kind, Sohn, Mensch, Menschenkind	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_04.eaf
+,	,	*	*	*	*	*	326	,	$,	$,	*	*	*	Hel_04.eaf
+uualdandes	uualdandes	waldand	S1	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_04.eaf
+sunu	sunu	sunu	*	Sohn	CF_U_M	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Thu	Thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+scalt	scalt	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+uuel	uuel	wel	S2	wohl, gut	*	*	*	uuel	ADV	ADV	*	*	*	Hel_04.eaf
+haldan	haldan	haldan	*	hüten, pflegen, bewahren, c. acc. u. mit oder ohne adverb. Bestimmung	*	*	*	haldan	VV	VVINF	RED1A	RED1A	*	Hel_04.eaf
+,	,	*	*	*	*	*	327	,	$,	$,	*	*	*	Hel_04.eaf
+hêlaglîco	hêlaglîco	helagliko	S1	heilig	CF_U_M	*	*	helaglico	ADV	ADV	*	*	*	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_04.eaf
+lât	lât	latan	*	lassen, zulassen, erlauben	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_04.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_04.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PRF	*	*	SG_DAT_2	Hel_04.eaf
+thînan	thînan	thin	*	dein	*	*	*	thinan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_04.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_04.eaf
+tuîflien	tuîflien	twiflian	*	in Zweifel versetzen	*	*	*	tuiflien	VV	VVINF	WK1A	WK1A	*	Hel_04.eaf
+,	,	*	*	*	*	*	328	,	$,	$,	*	*	*	Hel_04.eaf
+merrean	merrean	merrian	S1a	in Unruhe bringen, stören, ärgern	*	*	*	merrean	VV	VVINF	WK1B	WK1B	*	Hel_04.eaf
+thîna	thîna	thin	*	dein	*	*	*	thina	DPOS	DPOS	A,O	P	FEM_SG_ACC_ST	Hel_04.eaf
+môdgithâht	môdgithâht	modgithaht	S1b	Gedanke, Empfindung des Herzens	CF_U_Imp	*	*	modgithaht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_04.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_04.eaf
+Thô	Thô	tho	*	da, nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_04.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_04.eaf
+eft	eft	eft	*	darauf, nachher, sodann, wieder	*	*	*	eft	ADV	ADV	*	*	*	Hel_04.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_04.eaf
+mannes	mannes	mann	S2	Mann	*	*	*	mannes	NA	NA	C,A_MASC	A_MASC	SG_GEN	Hel_04.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke, Gemüt, Herz	*	*	329	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_04.eaf
+giuuendid	giuuendid	wendian	S1a	wenden, kehren, richten	*	*	*	giuuendid	VV	VVPP	WK1A	WK1A	*	Hel_04.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_PL_DAT	Hel_04.eaf
+uuordun	uuordun	word	S1b	Wort, Rede, Gebot	CF_I_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_04.eaf
+uuîƀa	uuîƀa	wif	S2	Weib, Frau, Gattin	*	*	*	uuiba	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_04.eaf
+genam	genam	giniman	*	nehmen, fassen	*	*	*	genam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_04.eaf
+,	,	*	*	*	*	*	330	,	$,	$,	*	*	*	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+thera	thera	the	*	der, die, das	*	*	*	thera	DD	DDA	*	*	FEM_SG_DAT	Hel_04.eaf
+magað	magað	magađ	S1a	Jungfrau, die Jungfrau Maria; Dienerin, Magd	*	*	*	magad	NA	NA	C_FEM	C_FEM	SG_DAT	Hel_04.eaf
+minnea	minnea	minnea	S1b	Liebe	CF_I_Adv_Cns	*	*	minnea	NA	NA	JO_FEM	JO_FEM	SG_ACC	Hel_04.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_04.eaf
+
+antkenda	antkenda	ankennian	*	inne werden, erkennen	*	*	*	antkenda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_04.eaf
+maht	maht	maht	S2	Macht, Kraft, Gewalt	*	*	*	maht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_04.eaf
+,	,	*	*	*	*	*	331	,	$,	$,	*	*	*	Hel_04.eaf
+uualdandes	uualdandes	waldand	S1	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_04.eaf
+gibod	gibod	gibod	*	Gebot, Befehl	CF_U_M	*	*	gibod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_04.eaf
+
+Uuas	Uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_04.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_04.eaf
+uuilleo	uuilleo	willio	S2	Wunsch, Verlangen, Wille, Freude	*	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_04.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	CF_U_M	*	*	mikil	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+,	,	*	*	*	*	*	332	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_04.eaf
+sia	sia	he	*	er, sie, es (selbst)	*	*	*	sia	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+sô	sô	so	*	so, gar, sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+hêlaglîco	hêlaglîco	helagliko	S1	heilig	*	*	*	helaglico	ADV	ADV	*	*	*	Hel_04.eaf
+haldan	haldan	haldan	S2	hüten, pflegen, bewahren, c. acc. u. mit oder ohne adverb. Bestimmung	*	*	*	haldan	VV	VVINF	RED1A	RED1A	*	Hel_04.eaf
+môsti	môsti	motan	*	können, mögen, dürfen,	CF_I_O	*	*	mosti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_04.eaf
+:	:	*	*	*	*	*	333	:	$.	$.	*	*	*	Hel_04.eaf
+
+bisorgoda	bisorgoda	bisorgon	S1a	sorgend behüten, pflegen	*	*	*	bisorgoda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+an	an	an	*	in, an, bei, auf	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_04.eaf
+gisîðea	gisîðea	gisiði	S1b	Gefolge, Dienerschaft	CF_U_M	*	*	gisidea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+sô	sô	so	*	so, so sehr, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_04.eaf
+sûƀro	sûƀro	subro	S2	rein, sauber, tadellos	*	*	*	subro	ADV	ADV	*	*	*	Hel_04.eaf
+drôg	drôg	dragan	*	tragen, auftragen, bringen	*	*	334	drog	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_04.eaf
+al	al	all	*	ganz, durchaus	*	*	*	al	ADV	ADV	*	*	*	Hel_04.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_04.eaf
+huldi	huldi	huldi	S1	Wohlgefallen	*	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_04.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_04.eaf
+hêlagna	hêlagna	helag	S2	heilig	*	*	*	helagna	ADJ	ADJE	A,O	P	POS_MASC_SG_ACC_ST	Hel_04.eaf
+gêst	gêst	gest	*	Geist, Heiliger Geist	*	*	*	gest	NA	NE	A_MASC	A_MASC	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	335	,	$,	$,	*	*	*	Hel_04.eaf
+gôdlîcan	gôdlîcan	godlik	S1a	gut, herrlich	*	*	*	godlican	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_04.eaf
+gumon	gumon	gumo	S1b	Mann, Mensch	CF_I_M	*	*	gumon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+antthat	antthat	antthat	*	bis dass	*	*	*	antthat	KO	KOUS	*	*	*	Hel_04.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	FEM_SG_ACC_3	Hel_04.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_04.eaf
+giscapu	giscapu	giskapu	*	Schicksal, Schicksalsschluss, Geschick, Bestimmung	*	*	336	giscapu	NA	NA	U_NEUT	U_NEUT	PL_NOM	Hel_04.eaf
+mahtig	mahtig	mahtig	S1a	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJD	A,O	A,O	POS	Hel_04.eaf
+gimanodun	gimanodun	gimanon	S1b	ermahnen, jemand an etwas erinnern	CF_I_Adv_Temp	*	*	gimanodun	VV	VVFIN	WK2	WK2	IND_PAST_PL_3	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_04.eaf
+siu	siu	he	*	er, sie, es (selbst)	*	*	*	siu	PPER	PPER	*	*	FEM_SG_NOM_3	Hel_04.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_04.eaf
+an	an	an	*	in, in – hinein, an, auf, unter zwischen	*	*	*	an	AP	APPR	*	*	*	Hel_04.eaf
+manno	manno	mann	S2	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C_MASC	PL_GEN	Hel_04.eaf
+lioht	lioht	lioht	*	Himmelreich, Licht	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_04.eaf
+,	,	*	*	*	*	*	337	,	$,	$,	*	*	*	Hel_04.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_3	Hel_04.eaf
+barno	barno	barn	S1a	Kind, Sohn, Mensch, Menschenkind	*	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_04.eaf
+bezt	bezt	betst	S1b	best	*	*	*	bezt	ADJ	ADJS	A,O	A,O	SUP_NEUT_SG_ACC_0	Hel_04.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_04.eaf
+brengean	brengean	brengian	S2	bringen	*	*	*	brengean	VV	VVINF	ST3A	ST3A	*	Hel_04.eaf
+scolda	scolda	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	CF_I_O	*	*	scolda	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_04.eaf
+.	*	*	*	*	*	IV	338	. 	$.	$.	*	*	*	Hel_04.eaf

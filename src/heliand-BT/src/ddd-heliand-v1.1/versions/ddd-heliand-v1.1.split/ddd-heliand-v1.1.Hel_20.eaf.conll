@@ -1,0 +1,794 @@
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+gī	gi	gi	*	 ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+ênigumu	ênigumu	enig	S1	irgend ein(er)	*	*	*	enigumu	DI	DI	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+manne	manne	mann	*	Mensch, Mann	*	*	*	manne	NA	NA	C,A_MASC	C,A_MASC	SG_DAT	Hel_20.eaf
+unrehtes	unrehtes	unreht	S2	Unrecht	*	*	*	unrehtes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_20.eaf
+uuiht	uuiht	wiht	*	(irgend)etwas,Ding	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	1691	,	$,	$,	*	*	*	Hel_20.eaf
+derƀies	derƀies	derbi	S1a	feindlich, böse	*	*	*	derbies	ADJ	ADJS	A,O	P	POS_NEUT_SG_GEN_ST	Hel_20.eaf
+adêlean	adêlean	adelian	S1b	zusprechen, zuerkennen	CF_U_M	*	*	adelean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+huuand	huuand	hwand	*	denn	*	*	*	huuand	KO	KON	*	*	*	Hel_20.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_20.eaf
+dôm	dôm	dom	S2	Urteil	*	*	*	dom	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_20.eaf
+eft	eft	eft	*	wieder, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_20.eaf
+cumid	cumid	kuman	*	kommen	*	*	1692	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+oƀar	oƀar	obar	*	über	*	*	*	obar	AP	APPR	*	*	*	Hel_20.eaf
+thana	thana	the	*	der, die, das	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_20.eaf
+selƀon	selƀon	self	S1	selbst, selbig, derselbe	*	*	*	selbon	DD	DD	A,O	N	MASC_SG_ACC_WK	Hel_20.eaf
+man	man	mann	*	Mensch	CF_I_M	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_20.eaf
+it	it	he	*	es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_20.eaf
+im	im	he	*	er	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_20.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+sorgon	sorgon	soraga	S2	Sorge, Besorgnis	*	*	*	sorgon	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_20.eaf
+scal	scal	skulan	*	sollen, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1693	,	$,	$,	*	*	*	Hel_20.eaf
+uuerðan	uuerðan	werđan	S1a	werden	*	*	*	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_20.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDS	*	*	MASC_SG_DAT	Hel_20.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+uuîtea	uuîtea	witi	S1b	Strafe	CF_I_Adv_Loc	*	*	uuitea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_20.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_20.eaf
+mid	mid	mid	*	 mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_GEN_SG_3	Hel_20.eaf
+uuordun	uuordun	word	S2	Wort	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+gesprikid	gesprikid	gisprekan	*	sprechen, reden	*	*	1694	gesprikid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+unreht	unreht	unreht	S1a	Unrecht	*	*	*	unreht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+ôðrum	ôðrum	ođar	S1b	ein anderer	CF_I_Rel	*	*	odrum	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Neo	Neo	nio	*	nie, niemals	*	*	*	neo	ADV	ADVNEG	*	*	*	Hel_20.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_20.eaf
+iuuuar	iuuuar	gi	*	ihr	*	*	*	iuuuar	PPER	PPER	*	*	PL_GEN_2	Hel_20.eaf
+ênig	ênig	enig	S2	irgendein	*	*	*	enig	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+dua	dua	don	*	tun, machen	*	*	1695	dua	VV	VVFIN	IRR	IRR	SUBJ_PRES_SG_3	Hel_20.eaf
+gumono	gumono	gumo	S1a	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thesom	thesom	thesa	*	dieses, dieser	*	*	*	thesom	DD	DD	*	*	MASC_PL_DAT	Hel_20.eaf
+gardon	gardon	gard	S1b	Haus, Garten	*	*	*	gardon	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_20.eaf
+geldes	geldes	geld	S2	Bezahlung	*	*	*	geldes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_20.eaf
+ettho	ettho	eftha	*	oder	*	*	*	ettho	KO	KON	*	*	*	Hel_20.eaf
+côpes	côpes	kop	*	Kauf	CF_U_M	*	*	copes	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_20.eaf
+,	,	*	*	*	*	*	1696	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er, sie, es	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+unreht	unreht	unreht	S1	unrecht	*	*	*	unreht	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_20.eaf
+gimet	gimet	gimet	*	Maß	*	*	*	gimet	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+ôðrumu	ôðrumu	ođar	S2	ein anderer	*	*	*	odrumu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+manne	manne	mann	*	Mensch	*	*	1697	manne	NA	NA	C,A_MASC	C,A_MASC	SG_DAT	Hel_20.eaf
+mênful	mênful	menful	S1a	frevelhaft, verbrecherisch	*	*	*	menful	ADJ	ADJD	A,O	A,O	POS	Hel_20.eaf
+maco	maco	makon	S1b	machen, tun	CF_I_O	*	*	maco	VV	VVFIN	WK2	WK2	SUBJ_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+huuand	huuand	hwand	*	denn	*	*	*	huuand	KO	KON	*	*	*	Hel_20.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_20.eaf
+simbla	simbla	simbla	*	immer, stets	*	*	*	simbla	ADV	ADV	*	*	*	Hel_20.eaf
+môtean	môtean	motian	S2	begegnen, treffen	*	*	*	motean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+scal	scal	skulan	*	sollen, müssen, werden	*	*	1698	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+erlo	erlo	erl	S1	der bedeutende Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_20.eaf
+gehuuilicomu	gehuuilicomu	gihwilik	*	jeder, ein jeder	CF_I_M	*	*	gehuuilicomu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+sulic	sulic	sulik	*	so (beschaffen), solch	*	*	*	sulic	DD	DDS	A,O	A,O	NEUT_SG_ACC_0	Hel_20.eaf
+sô	sô	so	*	so, wie	*	*	*	so	ADV	ADV	*	*	*	Hel_20.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_20.eaf
+ôðrumu	ôðrumu	ođar	S2	ein anderer	*	*	*	odrumu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+gedôd	gedôd	gidon	*	tun	CF_U_M	*	*	gedod	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1699	,	$,	$,	*	*	*	Hel_20.eaf
+sô	sô	so	*	so, wie	*	*	*	so	KO	KOUS	*	*	*	Hel_20.eaf
+cumid	cumid	kuman	*	kommen	*	*	*	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_20.eaf
+im	im	he	*	er, sie, es	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_20.eaf
+eft	eft	eft	*	wieder, zurück	*	*	*	eft	ADV	ADV	*	*	*	Hel_20.eaf
+tegegnes	tegegnes	tegegnes	S1	entgegen	CF_I_Adv_Mod	*	*	tegegnes	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_20.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+gerno	gerno	gerno	S2	gern	*	*	*	gerno	ADV	ADV	*	*	*	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuili	uuili	willian	*	wollen	*	*	1700	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_20.eaf
+gesehan	gesehan	gisehan	S1a	sehen, wahrnehmen	*	*	*	gesehan	VV	VVINF	ST5	ST5	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_GEN_SG_3	Hel_20.eaf
+sundeon	sundeon	sundea	S1b	Übeltat, Sünde	CF_I_Adv_Loc	*	*	sundeon	NA	NA	N,JO_FEM	N_FEM	PL_ACC	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Ôc	Ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_20.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_20.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_20.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_20.eaf
+seggean	seggean	seggian	S2	sagen	*	*	*	seggean	VV	VVINF	WK3	WK3	*	Hel_20.eaf
+noh	noh	noh	*	noch	CF_U_M	*	*	noh	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	*	*	*	1701	,	$,	$,	*	*	*	Hel_20.eaf
+huuar	huuar	hwar	*	wie	*	*	*	huuar	PW	PWAV	*	*	*	Hel_20.eaf
+gi	gi	gi	*	 ihr	*	*	*	gi	PPER	PPER	*	*	 PL_NOM_2	Hel_20.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PRF	*	*	PL_ACC_2	Hel_20.eaf
+uuardon	uuardon	wardæn	S1	sich hüten vor, sich in Acht nehmen vor,	*	*	*	uuardon	VV	VVINF	WK2	WK2	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+uuîteo	uuîteo	witi	S2	Strafe	*	*	*	uuiteo	NA	NA	JA_NEUT	JA_NEUT	PL_GEN	Hel_20.eaf
+mêsta	mêsta	mest	*	meist, größt	*	*	*	mesta	ADJ	ADJ	A,O	P	SUP_NEUT_PL_GEN_ST	Hel_20.eaf
+,	,	*	*	*	*	*	1702	,	$,	$,	*	*	*	Hel_20.eaf
+mênuuerc	mênuuerc	menwerk	S1a	Freveltat	*	*	*	menuuerc	NA	NA	A_NEUT	A_NEUT	SG,PL_ACC	Hel_20.eaf
+manag	manag	manag	S1b	manch	CF_I_Adv_Mod	*	*	manag	DI	DIS	A,O	A,O	NEUT_SG,PL_ACC_0	Hel_20.eaf
+:	:+te	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+te huuî	huuî	te hwi	*	warum, weshalb	*	*	*	te huui	PW	PWAV	*	*	*	Hel_20.eaf
+scalt	scalt	skulan	*	sollen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_20.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_20.eaf
+ênigan	ênigan	enig	*	irgendein	*	*	*	enigan	DI	DI	A,O	P	MASC_SG_ACC_ST	Hel_20.eaf
+man	man	mann	S2	Mensch, Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_20.eaf
+besprekan	besprekan	bisprekan	*	tadeln, sprechen über	*	*	*	besprekan	VV	VVINF	ST4	ST4	*	Hel_20.eaf
+,	,	*	*	*	*	*	1703	,	$,	$,	*	*	*	Hel_20.eaf
+brôðar	brôðar	brođar	S1	Bruder	*	*	*	brodar	NA	NA	ER_MASC	ER_MASC	SG_ACC	Hel_20.eaf
+thînan	thînan	thin	*	dein	CF_I_Int	*	*	thinan	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_20.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+brâhon	brâhon	braha	S2	Braue	*	*	*	brahon	NA	NA	N_FEM	N_FEM	PL_DAT	Hel_20.eaf
+gesehas	gesehas	gisehan	*	sehen	*	*	1704	gesehas	VV	VVFIN	ST5	ST5	SUBJ_PRES_SG_2	Hel_20.eaf
+halm	halm	halm	S1	Halm	*	*	*	halm	NA	NA	A,I_MASC	A_MASC	SG_ACC	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+ôgon	ôgon	oga	*	Auge	CF_I_O	*	*	ogon	NA	NA	N_NEUT	N_NEUT	SG_DAT	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+endi	endi	endi	*	 und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+gehuggean	gehuggean	gihuggian	S2	an etwas denken, erwägen	*	*	*	gehuggean	VV	VVINF	WK3	WK3	*	Hel_20.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuili	uuili	willian	*	wollen	*	*	1705	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_2	Hel_20.eaf
+thana	thana	the	*	dieser, diese, dieses	*	*	*	thana	DD	DD	*	*	MASC_SG_ACC	Hel_20.eaf
+suâran	suâran	swar	S1	schwer, beschwerlich	*	*	*	suaran	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_20.eaf
+balcon	balcon	balko	*	Balken	CF_I_M	*	*	balcon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+the	the	the	*	der, die, das, welcher, welche, welches	*	*	*	the	DD	DDSREL	*	*	MASC_SG_ACC	Hel_20.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_20.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thînoro	thînoro	thin	*	dein	*	*	*	thinoro	DPOS	DPOS	A,O	P	FEM_SG_DAT_ST	Hel_20.eaf
+siuni	siuni	siun	S2	Gesicht, Auge	*	*	*	siuni	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_20.eaf
+haƀas	haƀas	hebbian	*	haben	*	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_20.eaf
+,	,	*	*	*	*	*	1706	,	$,	$,	*	*	*	Hel_20.eaf
+hard	hard	hard	S1a	hart, schwer	*	*	*	hard	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_20.eaf
+trio	trio	treo	*	Balken, Holz	*	*	*	trio	NA	NA	WA_NEUT	WA_NEUT	SG_ACC	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+heƀig	heƀig	hebig	S1b	gewichtig, schwer	CF_I_Rel	*	*	hebig	ADJ	ADJS	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Lât	Lât	latan	*	lassen, zulassen, erlauben	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_20.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_20.eaf
+that	that	the	*	dass	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thînan	thînan	thin	*	dein	*	*	*	thinan	DPOS	DPOS	A,O	 P	MASC_SG_ACC_ST	Hel_20.eaf
+hugi	hugi	hugi	S2	Sinn, Gemüt	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_20.eaf
+fallan	fallan	fallan	*	einfallen, fallen	CF_U_Imp	*	*	fallan	VV	VVINF	RED1A	RED1A	*	Hel_20.eaf
+,	,	*	*	,	*	*	1707	,	$,	$,	*	*	*	Hel_20.eaf
+huuô	huuô	hwo	*	wie	*	*	*	huuo	KO	KOUS	*	*	*	Hel_20.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_20.eaf
+thana	thana	the	*	dieser, diese, dieses	*	*	*	thana	DD	DDS	*	*	MASC_SG_ACC	Hel_20.eaf
+êrist	êrist	erist	*	zuerst, zum ersten Mal	*	*	*	erist	ADV	ADV	*	*	*	Hel_20.eaf
+alôseas	alôseas	alosian	S1	erlösen, wegnehmen	CF_I_Adv_Mod	*	*	aloseas	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_2	Hel_20.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_20.eaf
+skînid	skînid	skinan	*	scheinen	*	*	*	skinid	VV	VVFIN	ST1	ST1	IND_PRES_SG_3	Hel_20.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_20.eaf
+lioht	lioht	lioht	S2	Licht, Glanz	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_20.eaf
+beforan	beforan	biforan	*	vor, davor	CF_U_M	*	*	beforan	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	,	*	*	1708	,	$,	$,	*	*	*	Hel_20.eaf
+ôgun	ôgun	oga	S1a	Auge	*	*	*	ogun	NA	NA	N_NEUT	N_NEUT	PL_NOM	Hel_20.eaf
+uuerðad	uuerðad	werđan	*	werden	*	*	*	uuerdad	VA	VAFIN	ST3B	ST3B	IND_PRES_PL_3	Hel_20.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_20.eaf
+geoponot	geoponot	opanæn	S1b	öffnen	CF_U_M	*	*	geoponot	VV	VVPP	WK2	WK2	*	Hel_20.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_20.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_20.eaf
+maht	maht	mugan	*	können	*	*	*	maht	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_20.eaf
+thu	thu+aftar	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_20.eaf
+aftar thiu	thiu	aftar thiu	S2	danach	*	*	1709	aftar thiu	ADV	ADV	*	*	*	Hel_20.eaf
+suâses	suâses	swas	S1a	vertraut, lieb	*	*	*	suases	ADJ	ADJ	A,O	P	POS_MASC_SG_GEN_ST	Hel_20.eaf
+mannes	mannes	mann	*	Mensch	*	*	*	mannes	NA	NA	C,A_MASC	C,A_MASC	SG_GEN	Hel_20.eaf
+gesiun	gesiun	gisiun	S1b	Gesicht, Auge	*	*	*	gesiun	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+sîðor	sîðor	siđor	S2	nachher, darauf, später	*	*	*	sidor	ADV	ADV	*	*	*	Hel_20.eaf
+gebôtean	gebôtean	gibotian	*	heilen, bessern	*	*	*	gebotean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+,	,	*	*	*	*	*	1710	,	$,	$,	*	*	*	Hel_20.eaf
+gehêlean	gehêlean	gihelian	S1a	heilen	*	*	*	gehelean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+an	an	an	*	an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_GEN_SG_3	Hel_20.eaf
+hôƀde	hôƀde	hobid	S1b	Haupt, Kopf	CF_U_M	*	*	hobde	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Sô	Sô	so	*	so, auf diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_20.eaf
+mag	mag	mugan	*	sollen	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+that	that	the	*	dass	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_20.eaf
+mêra	mêra	mero	*	stärker, mehr	*	*	1711	mera	ADV	ADV	*	*	*	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thesoro	thesoro	thesa	*	dieser, diese, dieses	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_20.eaf
+middilgard	middilgard	middilgard	S1	Erde	*	*	*	middilgard	NA	NA	C_FEM,A_MASC	C_FEM	SG_DAT	Hel_20.eaf
+manno	manno	mann	S2	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_20.eaf
+gehuuilicumu	gehuuilicumu	gihwilik	*	ein jeder	*	*	*	gehuuilicumu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+,	,	*	*	,	*	*	1712	,	$,	$,	*	*	*	Hel_20.eaf
+uuesan	uuesan	wesan	S1a	sein	*	*	*	uuesan	VA	VVINF	ST5	ST5	*	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thesoro	thesoro	thesa	*	dieser, diese, dieses	*	*	*	thesoro	DD	DD	*	*	FEM_SG_DAT	Hel_20.eaf
+uueroldi	uueroldi	werold	S1b	 Welt	CF_U_M	*	*	uueroldi	NA	NA	C,I_FEM,I_MASC	I_FEM	SG_DAT	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er, sie, es	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_20.eaf
+uuammas	uuammas	wam	S2	Übles, Böses	*	*	*	uuammas	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_20.eaf
+geduot	geduot	gidon	*	tun, machen	CF_I_O	*	*	geduot	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	,	*	*	1713	,	$,	$,	*	*	*	Hel_20.eaf
+than	than	than	*	als	*	*	*	than	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+ahtogea	ahtogea	ahtæn	S1	achten auf, erwägen	*	*	*	ahtogea	VV	VVFIN	WK2	WK2	SUBJ_PRES_SG_3	Hel_20.eaf
+ôðres	ôðres	ođar	S2	ein anderer	*	*	*	odres	DI	DI	A,O	P	MASC_SG_GEN_ST	Hel_20.eaf
+mannes	mannes	mann	*	Mensch	*	*	1714	mannes	NA	NA	C,A_MASC	C,A_MASC	SG_GEN	Hel_20.eaf
+saca	saca	saka	S1a	Schuld, Sache	*	*	*	saca	NA	NA	O_FEM	O_FEM	PL_ACC	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+sundea	sundea	sundea	S1b	Übeltat, Sünde	CF_I_Adv_Mod	*	*	sundea	NA	NA	N,JO_FEM	JO_FEM	PL_ACC	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+haƀad	haƀad	hebbian	*	haben	*	*	*	habad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_20.eaf
+im	im	he	*	er, sie, es	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_20.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_20.eaf
+mêr	mêr	mer	*	mehr	*	*	1715	mer	ADV	ADV	*	*	*	Hel_20.eaf
+firinuuerco	firinuuerco	firinwerk	S1a	Freveltat, Sünde	*	*	*	firinuuerco	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_20.eaf
+gefrumid	gefrumid	gifrummian	S1b	vollbringen, tun	CF_I_M	*	*	gefrumid	VV	VVPP	WK1B	WK1B	*	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Ef	Ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_20.eaf
+he	he	he	*	 er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+fruma	fruma	fruma	S2	Nutzen, Vorteil, Gewinn	*	*	*	fruma	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_20.eaf
+lêstean	lêstean	lestian	*	leisten, vollbringen	CF_I_Adv_Cnd	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+,	,	*	*	,	*	*	1716	,	$,	$,	*	*	*	Hel_20.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_20.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+hi	hi	he	*	er, sie, es	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_20.eaf
+selƀon	selƀon	self	S1	 selbst	*	*	*	selbon	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_20.eaf
+êr	êr	er	*	vor, von	*	*	*	er	AP	APPR	*	*	*	Hel_20.eaf
+sundeono	sundeono	sundea	S2	Übeltat, Sünde	*	*	*	sundeono	NA	NA	N,JO_FEM	JO_FEM	PL_GEN	Hel_20.eaf
+atômean	atômean	atomian	*	befreien, erlösen	*	*	*	atomean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+,	,	*	*	*	*	*	1717	,	$,	$,	*	*	*	Hel_20.eaf
+lêðuuerco	lêðuuerco	leđwerk	S1a	Übeltat	*	*	*	leduuerco	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_20.eaf
+lôson	lôson	losæn	S1b	befreien, erlösen	CF_U_M	*	*	loson	VV	VVINF	WK2	WK2	*	Hel_20.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+sîðor	sîðor	siđor	*	nachher, darauf, später	*	*	*	sidor	ADV	ADV	*	*	*	Hel_20.eaf
+mag	mag	mugan	*	können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+hi	hi	he	*	er, sie, es	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+lêrun	lêrun	lera	S2	Lehre	*	*	*	lerun	NA	NA	N,O_FEM	N,O_FEM	PL_DAT	Hel_20.eaf
+uuerðan	uuerðan	werđan	*	werden	*	*	1718	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_20.eaf
+heliðun	heliðun	heliđ	S1a	Held, Mann, Mensch	*	*	*	helidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_20.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+helpu	helpu	helpa	S1b	Hilfe, Rettung, Erlösung	CF_U_M	*	*	helpu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+sîðor	sîðor	siđor	*	nachdem	*	*	*	sidor	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er, sie, es	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_20.eaf
+hluttran	hluttran	hluttar	S2	rein, aufrichtig	*	*	*	hluttran	ADJ	ADJD	A,O	P	POS_MASC_SG_ACC_ST	Hel_20.eaf
+uuêt	uuêt	witan	*	wissen	*	*	*	uuet	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_20.eaf
+,	,	*	*	,	*	*	1719	,	$,	$,	*	*	*	Hel_20.eaf
+sundeono	sundeono	sundea	S1a	Übeltat, Sünde	*	*	*	sundeono	NA	NA	N,JO_FEM	JO_FEM	PL_GEN	Hel_20.eaf
+sicoran	sicoran	sikor	S1b	frei von, behütet vor	CF_I_Adv_Temp	*	*	sicoran	ADJ	ADJD	A,O	P	POS_MASC_SG_ACC_ST	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	 NOM_PL_2	Hel_20.eaf
+suînum	suînum	swin	S2	Schwein	*	*	*	suinum	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+teforan	teforan	teforan	*	zuvor, vor	*	*	1720	teforan	ADV	ADV	*	*	*	Hel_20.eaf
+iuuua	iuuua	iwa	*	euer	*	*	*	iuuua	DPOS	DPOS	A,O	A,O	FEM_PL_ACC_0	Hel_20.eaf
+meregrîton	meregrîton	merigrita	S1a	Perle	*	*	*	meregriton	NA	NA	N_FEM	N_FEM	PL_ACC	Hel_20.eaf
+macon	macon	makon	S1b	hintun, hinlegen	*	*	*	macon	VV	VVINF	WK2	WK2	*	Hel_20.eaf
+ettho	ettho	eftha	*	oder	*	*	*	ettho	KO	KON	*	*	*	Hel_20.eaf
+mêðmo	mêðmo	međom	S2	Kleinod, Kostbarkeit	*	*	*	medmo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_20.eaf
+gestriuni	gestriuni	gistriuni	*	Schatz	*	*	*	gestriuni	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	1721	,	$,	$,	*	*	*	Hel_20.eaf
+hêlag	hêlag	helag	S1a	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_20.eaf
+halsmeni	halsmeni	halsmeni	S1b	Halsband	CF_U_M	*	*	halsmeni	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+huuand	huuand	hwand	*	weil, da	*	*	*	huuand	KO	KOUS	*	*	*	Hel_20.eaf
+siu	siu	he	*	er, sie, es	*	*	*	siu	PPER	PPER	*	*	NEUT_PL_NOM_3	Hel_20.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+horu	horu	horu	S2	Schmutz	*	*	*	horu	NA	NA	U_MASC,NEUT	U_MASC,NEUT	SG_ACC	Hel_20.eaf
+spurnat	spurnat	spurnan	*	treten, zertreten	*	*	*	spurnat	VV	VVFIN	ST3B	ST3B	IND_PRES_PL_3	Hel_20.eaf
+,	,	*	*	,	*	*	1722	,	$,	$,	*	*	*	Hel_20.eaf
+suluuiad	suluuiad	sulwian	S1a	im Schmutze wälzen, besudeln	*	*	*	suluuiad	VV	VVFIN	WK1A	WK1A	IND_PRES_PL_3	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+sande	sande	sand	S1b	Sand	CF_I_Adv_Caus	*	*	sande	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_20.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuitun	uuitun	witan	*	wissen	*	*	*	uuitun	VV	VVFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+sûƀreas	sûƀreas	subri	S2	etwas Sauberes	*	*	*	subreas	ADJ	ADJS	JA,JO	P	POS_NEUT_SG_GEN_ST	Hel_20.eaf
+geskêð	geskêð	gisked	*	Bescheid	*	*	*	gesked	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	,	*	*	1723	,	$,	$,	*	*	*	Hel_20.eaf
+fagaroro	fagaroro	fagar	S1a	schön, anmutig	*	*	*	fagaroro	ADJ	ADJ	A,O	P	COMP_FEM_PL_GEN_ST	Hel_20.eaf
+fratoho	fratoho	frataha	S1b	Schmuck	CF_U_M	*	*	fratoho	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Sulic	Sulic	sulik	*	solch, so (beschaffen)	*	*	*	sulic	DD	DDS	A,O	 A,O	NEUT_PL_NOM_0	Hel_20.eaf
+sint	sint	wesan	*	sein	*	*	*	sint	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_20.eaf
+hîr	hîr	her	*	hier	*	*	*	hir	ADV	ADV	*	*	*	Hel_20.eaf
+folc	folc	folk	S2	Volk, Leute	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+manag	manag	manag	*	manch, viel	CF_U_M	*	*	manag	DI	DIS	A,O	A,O	NEUT_PL_NOM_0	Hel_20.eaf
+,	,	*	*	,	*	*	1724	,	$,	$,	*	*	*	Hel_20.eaf
+the	the	the	*	der, welcher, die, welche, das, welches	*	*	*	the	DD	DDSREL	*	*	NEUT_PL_NOM	Hel_20.eaf
+iuuua	iuuua	iwa	*	euer	*	*	*	iuuua	DPOS	DPOS	A,O	A,O	NEUT_PL_ACC_0	Hel_20.eaf
+hêlag	hêlag	helag	S1	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_PL_ACC_0	Hel_20.eaf
+uuord	uuord	word	*	Wort, Rede	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_20.eaf
+hôrean	hôrean	horian	S2	hören, anhören	*	*	*	horean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuillead	uuillead	willian	*	wollen	*	*	*	uuillead	VM	VMFIN	IRR	IRR	IND_PRES_PL_3	Hel_20.eaf
+,	,	*	*	,	*	*	1725	,	$,	$,	*	*	*	Hel_20.eaf
+fulgangan	fulgangan	fulgangan	S1a	folgen	*	*	*	fulgangan	VV	VVINF	RED1A	RED1A	*	Hel_20.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_20.eaf
+lêrun	lêrun	lera	*	Lehre, Gebot	CF_I_Rel	*	*	lerun	NA	NA	N,O_FEM	N,O_FEM	PL_DAT	Hel_20.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuitun	uuitun	witan	*	wissen	*	*	*	uuitun	VV	VVFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+gôdes	gôdes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_20.eaf
+geskêð	geskêð	gisked	*	Bescheid	CF_U_M	*	*	gesked	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	1726	,	$,	$,	*	*	*	Hel_20.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_20.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_20.eaf
+im	im	he	*	er, sie, es	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_20.eaf
+lâri	lâri	lari	S1	leer	*	*	*	lari	ADJ	ADJ	JA,JO	JA,JO	POS_NEUT_PL_NOM_0	Hel_20.eaf
+uuord	uuord	word	*	 Wort	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+leoƀoron	leoƀoron	liof	S2	lieb, wert	*	*	*	leoboron	ADJ	ADJD	A,O	N	COMP_NEUT_PL_NOM_WK	Hel_20.eaf
+mikilu	mikilu	mikil	*	groß, viel	*	*	*	mikilu	ADJ	ADJS	A,O	P	POS_NEUT_SG_INS_ST	Hel_20.eaf
+,	,	*	*	,	*	*	1727	,	$,	$,	*	*	*	Hel_20.eaf
+umbitharƀi	umbitharƀi	umbitharbi	S1a	unnütz	*	*	*	umbitharbi	ADJ	ADJ	JA,JO	JA,JO	POS_NEUT_PL_NOM_0	Hel_20.eaf
+thing	thing	thing	S1b	Gegenstand, Ding, Sache	*	*	*	thing	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thanna	thanna	than	*	als	*	*	*	thanna	KO	KOKOM	*	*	*	Hel_20.eaf
+theotgodes	theotgodes	thiodgod	S2	der allmächtige Gott	*	*	1728	theotgodes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_20.eaf
+uuerc	uuerc	werk	S1a	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+uuilleo	uuilleo	willio	S1b	Huld, Wille	CF_I_M	*	*	uuilleo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Ne	Ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+sind	sind	wesan	*	sein	*	*	*	sind	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_20.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+uuirðige	uuirðige	wirđig	S2	Würdige	*	*	*	uuirdige	ADJ	ADJD	A,O	P	MASC_PL_NOM_ST	Hel_20.eaf
+than	than	than	*	dann	CF_U_M	*	*	than	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	,	*	*	1729	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+gehôrean	gehôrean	gihorian	S1a	hören, anhören	*	*	*	gehorean	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_PL_3	Hel_20.eaf
+iuuua	iuuua	iwa	*	euer	*	*	*	iuuua	DPOS	DPOS	A,O	A,O	NEUT_SG_ACC_0	Hel_20.eaf
+hêlag	hêlag	helag	S1b	heilig	*	*	*	helag	ADJ	ADJ	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_20.eaf
+uuord	uuord	word	*	 Wort	CF_I_Adv_Cns	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_20.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+is	is	he	*	er, sie,es	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuillead	uuillead	willian	*	wollen	*	*	*	uuillead	VM	VMFIN	IRR	IRR	IND_PRES_PL_3	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+iro	iro	he	*	er, sie, es	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_20.eaf
+hugi	hugi	hugi	S2	Sinn	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_20.eaf
+thenkean	thenkean	thenkian	*	denken, gedenken	*	*	*	thenkean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+,	,	*	*	,	*	*	1730	,	$,	$,	*	*	*	Hel_20.eaf
+ne	ne	ne	*	weder	*	*	*	ne	KO	KON	*	*	*	Hel_20.eaf
+lînon	lînon	linæn	S1a	lernen	*	*	*	linon	VV	VVINF	WK2	WK2	*	Hel_20.eaf
+ne	ne	ne	*	- noch	*	*	*	ne	KO	KON	*	*	*	Hel_20.eaf
+lêstean	lêstean	lestian	S1b	befolgen, ausführen, vollführen, leisten	CF_I_Adv_Cnd	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Them	Them	the	*	dieser, diese, dieses	*	*	*	them	DD	DDS	*	*	MASC_PL_DAT	Hel_20.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_20.eaf
+seggean	seggean	seggian	*	sagen	*	*	*	seggean	VV	VVFIN	WK3	WK3	IND_PRES_PL_3	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+iuuuoro	iuuuoro	iwa	*	euer	*	*	*	iuuuoro	DPOS	DPOS	A,O	P	FEM_PL_GEN_ST	Hel_20.eaf
+lêron	lêron	lera	S2	Lehre, Unterweisung	*	*	*	leron	NA	NA	N,O_FEM	N_FEM	SG_GEN	Hel_20.eaf
+uuiht	uuiht	wiht	*	Ding, (irgend)etwas	CF_U_M	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	,	*	*	1731	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	damit	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+thea	thea	the	*	dieser, diese, dieses	*	*	*	thea	DD	DD	*	*	FEM_SG_ACC	Hel_20.eaf
+sprâca	sprâca	spraka	S1	Rede, Sprache	*	*	*	spraca	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_20.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+spel	spel	spel	S2	Wort, Rede	*	*	*	spel	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_20.eaf
+managu	managu	manag	*	manch	*	*	1732	managu	DI	DIS	A,O	P	NEUT_PL_ACC_ST	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+farleosan	farleosan	farliosan	S1a	verlieren	*	*	*	farleosan	VV	VVFIN	ST2	ST2	SUBJ_PRES_PL_2	Hel_20.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+them	them	the	*	dieser, der, diese, die, dieses, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_20.eaf
+liudiun	liudiun	liudi	S1b	Leute, Mensch	CF_I_Adv_Fin	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thea	thea	the	*	der, welcher, die, welche, das, welches	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_20.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+uuillean	uuillean	willian	*	wollen	*	*	*	uuillean	VM	VMFIN	IRR	IRR	SUBJ_PRES_PL_3	Hel_20.eaf
+gilôƀean	gilôƀean	gilobian	S2	glauben	*	*	*	gilobean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+tô	tô	to	*	zu	*	*	*	to	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	*	*	*	1733	,	$,	$,	*	*	*	Hel_20.eaf
+uuâroro	uuâroro	war	S1a	wahr, wahrhaftig	*	*	*	uuaroro	ADJ	ADJ	A,O	P	POS_NEUT_PL_GEN_ST	Hel_20.eaf
+uuordo	uuordo	word	S1b	Wort, Rede	CF_I_Rel	*	*	uuordo	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Ôc	Ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+gi	gi	gi	*	 ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_3	Hel_20.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PRF	*	*	PL_ACC_2	Hel_20.eaf
+uuardon	uuardon	wardæn	S2	sich hüten vor, sich in Acht nehmen vor,	*	*	*	uuardon	VV	VVINF	WK2	WK2	*	Hel_20.eaf
+filu	filu	filu	*	viel, sehr	*	*	1734	filu	ADV	ADV	*	*	*	Hel_20.eaf
+listiun	listiun	list	S1a	Weisheit, List	*	*	*	listiun	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_20.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_20.eaf
+thesun	thesun	thesa	*	dieser, diese, dieses	*	*	*	thesun	DD	DD	*	*	MASC_PL_DAT	Hel_20.eaf
+liudiun	liudiun	liudi	S1b	Leute, Menschen	CF_U_M	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAV	*	*	*	Hel_20.eaf
+gi	gi	gi	*	 ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+aftar	aftar	aftar	*	durch, entlang, über	*	*	*	aftar	AP	APPR	*	*	*	Hel_20.eaf
+thesumu	thesumu	thesa	*	dieser, diese, dieses	*	*	*	thesumu	DD	DD	*	*	NEUT_SG_DAT	Hel_20.eaf
+lande	lande	land	S2	Land	*	*	*	lande	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_20.eaf
+farad	farad	faran	*	fahren, reisen, ziehen	CF_I_Adv_Loc	*	*	farad	VV	VVFIN	ST6	ST6	IND_PRES_PL_2	Hel_20.eaf
+,	,	*	*	,	*	*	1735	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	damit	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_20.eaf
+thea	thea	the	*	dieser, diese, dieses	*	*	*	thea	DD	DDA	*	*	MASC_PL_NOM	Hel_20.eaf
+luggeon	luggeon	luggi	S1	lügnerisch, falsch	*	*	*	luggeon	ADJ	ADJ	JA,JO	N	POS_FEM_PL_NOM_WK	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+mugin	mugin	mugan	*	vermögen, können	*	*	*	mugin	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_PL_3	Hel_20.eaf
+lêron	lêron	lera	S2	Lehre, Unterweisung	*	*	*	leron	NA	NA	N,O_FEM	N_FEM	PL_NOM	Hel_20.eaf
+besuîcan	besuîcan	biswikan	*	verführen, betrügen	*	*	1736	besuican	VV	VVINF	ST1	ST1	*	Hel_20.eaf
+ni	ni	ne	*	weder	*	*	*	ni	KO	KON	*	*	*	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+uuordun	uuordun	word	S1a	Wort	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+ni	ni	ne	*	noch	*	*	*	ni	KO	KON	*	*	*	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+uuercun	uuercun	werk	S1b	Tat, Handlung	CF_I_Adv_Fin	*	*	uuercun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Sie	Sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+cumad	cumad	kuman	*	kommen	*	*	*	cumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_20.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+sulicom	sulicom	sulik	*	solch, so beschaffen	*	*	*	sulicom	ADJ	ADJ	A,O	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_20.eaf
+geuuâdeon	geuuâdeon	giwadi	S2	Gewand, Kleider	*	*	*	geuuadeon	NA	NA	JA_NEUT	JA_NEUT	PL_DAT	Hel_20.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+iu	iu	gi	*	ihr	*	*	*	iu	PPER	PPER	*	*	PL_DAT_2	Hel_20.eaf
+,	,	*	*	,	*	*	1737	,	$,	$,	*	*	*	Hel_20.eaf
+fagoron	fagoron	fagar	S1a	schön, anmutig	*	*	*	fagoron	ADJ	ADJ	A,O	P,N	POS_FEM_PL_DAT_ST,WK	Hel_20.eaf
+fratohon	fratohon	frataha	S1b	Schmuck	CF_U_M	*	*	fratohon	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_20.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+thoh	thoh	thoh	*	doch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_20.eaf
+hebbead	hebbead	hebbian	*	haben	*	*	*	hebbead	VA	VVFIN	WK3	WK3	IND_PRES_PL_3	Hel_20.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+fêcnan	fêcnan	fekni	S2	arglistig, böse, schlecht	*	*	*	fecnan	ADJ	ADJ	JA,JO	P	POS_MASC_SG_ACC_ST	Hel_20.eaf
+hugi	hugi	hugi	*	Sinn, Gedanke	CF_U_M	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_20.eaf
+:	:	*	*	:	*	*	1738	:	$.	$.	*	*	*	Hel_20.eaf
+
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDS	*	*	MASC_PL_ACC	Hel_20.eaf
+mugun	mugun	mugan	*	vermögen, können	*	*	*	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+sân	sân	san	*	alsbald, sogleich	*	*	*	san	ADV	ADV	*	*	*	Hel_20.eaf
+antkennean	antkennean	ankennian	S1	erkennen	CF_U_M	*	*	antkennean	VV	VVINF	WK1B	WK1B	*	Hel_20.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+sô	sô	so	*	so, wenn, nachdem	*	*	*	so	KO	KOUS	*	*	*	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+sie	sie	he	*	er, sie, es	*	*	*	sie	PPER	PPER	*	*	MASC_PL_ACC_3	Hel_20.eaf
+cuman	cuman	kuman	S2	kommen	*	*	*	cuman	VV	VVINF	ST4	ST4	*	Hel_20.eaf
+gesehad	gesehad	gisehan	*	sehen	CF_I_Adv_Temp	*	*	gesehad	VV	VVFIN	ST5	ST5	IND_PRES_PL_2	Hel_20.eaf
+:	:	*	*	:	*	*	1739	:	$.	$.	*	*	*	Hel_20.eaf
+
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+sprecad	sprecad	sprekan	*	sprechen, reden	*	*	*	sprecad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_20.eaf
+uuîslîc	uuîslîc	wislik	S1a	weise	*	*	*	uuislic	ADJ	ADJ	A,O	A,O	POS_NEUT_PL_ACC_0	Hel_20.eaf
+uuord	uuord	word	S1b	 Wort	CF_U_M	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thoh	thoh	thoh	*	obwohl	*	*	*	thoh	KO	KOUS	*	*	*	Hel_20.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_20.eaf
+uuerc	uuerc	werk	S2	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+dugin	dugin	dugan	*	taugen, nützen	*	*	*	dugin	VV	VVFIN	PRPR	PRPR	SUBJ_PRES_PL_3	Hel_20.eaf
+,	,	*	*	*	*	*	1740	,	$,	$,	*	*	*	Hel_20.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	MASC_PL_GEN	Hel_20.eaf
+thegno	thegno	thegan	S1a	Knabe, Mann, der Mann des Gefolges	*	*	*	thegno	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_20.eaf
+gethâhti	gethâhti	githaht	S1b	Denken, Gedanke	CF_I_Adv_Cnc	*	*	gethahti	NA	NA	I_FEM	I_FEM	PL_NOM	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Huuand	Huuand	hwand	*	denn	*	*	*	huuand	KO	KON	*	*	*	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+uuitun	uuitun	witan	*	wissen, kennen, verstehen	CF_I_M	*	*	uuitun	VV	VVFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+eo	eo	io	*	zu irgend einer Zeit, je	*	*	*	eo	ADV	ADV	*	*	*	Hel_20.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thorniun	thorniun	thorn	S2	Dorn	*	*	*	thorniun	NA	NA	A,I_MASC	I_MASC	PL_DAT	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen, müssen; werden (Futur)	*	*	1741	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+uuînberi	uuînberi	winberi	S1a	Weinbeere, Traube	*	*	*	uuinberi	NA	NA	JA_NEUT	JA_NEUT	PL_NOM	Hel_20.eaf
+uuesan	uuesan	wesan	S1b	sein	*	*	*	uuesan	VA	VAINF	ST5	ST5	*	Hel_20.eaf
+eftha	eftha	eftha	*	oder	*	*	*	eftha	KO	KON	*	*	*	Hel_20.eaf
+uuelon	uuelon	welo	S2 	Gut, Besitz, Reichtum	*	*	*	uuelon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_20.eaf
+eouuiht	eouuiht	eowiht	*	irgend etwas	*	*	*	eouuiht	PI	PI	I	I	SG_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	1742	,	$,	$,	*	*	*	Hel_20.eaf
+fagororo	fagororo	fagar	S1a	schön, anmutig, friedlich	*	*	*	fagororo	ADJ	ADJ	A,O	P	COMP_MASC_PL_GEN_ST	Hel_20.eaf
+fruhteo	fruhteo	fruht	S1b	Frucht	CF_I_O	*	*	fruhteo	NA	NA	A,I_MASC	I_MASC	PL_GEN	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+nec	nec	nek	*	und nicht, auch nicht	*	*	*	nec	KO	KON	*	*	*	Hel_20.eaf
+ôc	ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_20.eaf
+fîgun	fîgun	figa	S2 	Feige	*	*	*	figun	NA	NA	N_FEM	N_FEM	PL_ACC	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+lesad	lesad	lesan	*	sammeln, auflesen	*	*	1743	lesad	VV	VVFIN	ST5	ST5	IND_PRES_PL_3	Hel_20.eaf
+heliðos	heliðos	heliđ	S1a	Held, Mann, Mensch	*	*	*	helidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_20.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+hiopon	hiopon	hiopo	S1b	Dornstrauch	CF_I_M	*	*	hiopon	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+That	That	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_20.eaf
+mugun	mugun	mugan	*	vermögen, können	*	*	*	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_2	Hel_20.eaf
+gi	gi	gi	*	ihr	*	*	*	gi	PPER	PPER	*	*	PL_NOM_2	Hel_20.eaf
+undar	*	undar	*	unter	*	*	*	undar	AP	PTKVZ	*	*	*	Hel_20.eaf
+huggean	undarhuggean	undarhuggian	S2	einsehen, verstehen	*	*	*	huggean	VV	VVINF	WK3	WK1A	*	Hel_20.eaf
+uuel	uuel	wel	*	wohl, gut	CF_U_M	*	*	uuel	ADV	ADV	*	*	*	Hel_20.eaf
+,	,	*	*	*	*	*	1744	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+eo	eo	io	S1a	zu irgend einer Zeit, je	*	*	*	eo	ADV	ADV	*	*	*	Hel_20.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_20.eaf
+uƀilo	uƀilo	ubil	S1b	böse, schlecht	*	*	*	ubilo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_20.eaf
+bôm	bôm	bom	*	Baum	CF_CS_I_O	*	*	bom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thar	thar	thar	*	da; wo	*	*	*	thar	ADV	PWAVREL	*	*	*	Hel_20.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+erðu	erðu	erđa	S2	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_DAT	Hel_20.eaf
+stâd	stâd	stan	*	stehen, sich befinden	CF_I_Rel	*	*	stad	VV	VVFIN	IRR	IRR	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1745	,	$,	$,	*	*	*	Hel_20.eaf
+gôden	gôden	god	S1a	gut	*	*	*	goden	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_20.eaf
+uuastum	uuastum	wastom	*	Frucht	*	*	*	uuastum	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_20.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_20.eaf
+giƀid	giƀid	geban	S1b	geben	CF_CC_I_O	*	*	gibid	VV	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+nec	nec	nek	*	und nicht, auch nicht	*	*	*	nec	KO	KON	*	*	*	Hel_20.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_20.eaf
+ôc	ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_20.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_20.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_20.eaf
+gescôp	gescôp	giskeppian	*	bestimmen, anordnen	CF_I_M	*	*	gescop	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1746	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	daß	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_20.eaf
+gôdo	gôdo	god	S1	gut	*	*	*	godo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_20.eaf
+bôm	bôm	bom	*	Baum	*	*	*	bom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_20.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_20.eaf
+barnun	barnun	barn	*	Kind	*	*	1747	barnun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+bâri	bâri	beran	S1a	tragen, hervorbringen, besitzen	*	*	*	bari	VV	VVFIN	ST4	ST4	SUBJ_PAST_SG_3	Hel_20.eaf
+bittres	bittres	bittar	S1b	bitter	*	*	*	bittres	ADJ	ADJS	A,O	P	POS_NEUT_SG_GEN_ST	Hel_20.eaf
+uuiht	uuiht	wiht	*	Ding, Sache	CF_I_O	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_20.eaf
+cumid	cumid	kuman	*	kommen	*	*	*	cumid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_20.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_20.eaf
+bâmo	bâmo	bom	S2	Baum	*	*	*	bamo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_20.eaf
+gehuilicumu	gehuilicumu	gihwilik	*	jeder, ein jeder	*	*	1748	gehuilicumu	DI	DIS	A,O	P	MASC_SG_DAT_ST	Hel_20.eaf
+sulic	sulic	sulik	*	solch, so beschaffen; dieser	*	*	*	sulic	DD	DD	A,O	A,O	MASC_SG_NOM_0	Hel_20.eaf
+uuastom	uuastom	wastom	S1a	Gewächs, Pflanze	*	*	*	uuastom	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_20.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+thesero	thesero	thesa	*	dieser, dieses, diese	*	*	*	thesero	DD	DD	*	*	FEM_SG_DAT	Hel_20.eaf
+uueroldi	uueroldi	werold	S1b	Welt	CF_I_M	*	*	uueroldi	NA	NA	C,I_FEM,I_MASC	I_FEM	SG_DAT	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_20.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_20.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uurteon	uurteon	wurt	S2	Wurzel	*	*	*	uurteon	NA	NA	I_FEM	I_FEM	PL_DAT	Hel_20.eaf
+gedregid	gedregid	gidragan	*	bestimmen	*	*	*	gedregid	VV	VVFIN	ST6	ST6	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1749	,	$,	$,	*	*	*	Hel_20.eaf
+ettha	ettha	eftha	*	hier: entweder	*	*	*	ettha	KO	KON	*	*	*	Hel_20.eaf
+berht	berht	berht	S1a	glänzend	*	*	*	berht	ADJ	ADJD	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_20.eaf
+ettha	ettha	eftha	*	oder	*	*	*	ettha	KO	KON	*	*	*	Hel_20.eaf
+bittar	bittar	bittar	S1b	beißend, bitter	CF_I_Adv_Mod	*	*	bittar	ADJ	ADJD	A,O	A,O	POS_MASC_SG_NOM_0	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+That	That	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_20.eaf
+mênid	mênid	menian	*	bezeichnen, bedeuten	*	*	*	menid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_20.eaf
+thoh	thoh	thoh	*	doch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_20.eaf
+breosthugi	breosthugi	briosthugi	S2	Sinn, Gemüt	*	*	*	breosthugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	1750	,	$,	$,	*	*	*	Hel_20.eaf
+managoro	managoro	manag	S1a	mancher, manches, pl. Viele. ohne gen. part.	*	*	*	managoro	DI	DIS	A,O	P	MASC_PL_GEN_ST	Hel_20.eaf
+môdseƀon	môdseƀon	modsebo	S1b	Herz, Gemüt, Denkweise	*	*	*	modsebon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_20.eaf
+manno	manno	mann	S2	Mensch	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_20.eaf
+cunnies	cunnies	kunni	*	Geschlecht, Stamm, Volk	CF_U_M	*	*	cunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_20.eaf
+,	,	*	*	*	*	*	1751	,	$,	$,	*	*	*	Hel_20.eaf
+huuô	huuô	hwo	*	wie, in welcher Weise, daß	*	*	*	huuo	KO	KOUS	*	*	*	Hel_20.eaf
+alloro	alloro	all	*	all	*	*	*	alloro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_20.eaf
+erlo	erlo	erl	S1	der bedeutende, vornehme, adliche Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_20.eaf
+gehuilic	gehuilic	gihwilik	*	jeder, ein jeder	*	*	*	gehuilic	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_20.eaf
+ôgit	ôgit	ogian	S2	vor Augen stellen, zeigen	*	*	*	ogit	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_20.eaf
+selƀo	selƀo	self	*	selbst	CF_I_Rel	*	*	selbo	DD	DDN	A,O	N	MASC_SG_NOM_WK	Hel_20.eaf
+,	,	*	*	*	*	*	1752	,	$,	$,	*	*	*	Hel_20.eaf
+meldod	meldod	meldon	S1a	anzeigen, verraten	*	*	*	meldod	VV	VVFIN	WK2	WK2	IND_PRES_SG_3	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+mûðu	mûðu	muđ	S1b	Mund	CF_U_M	*	*	mudu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+huilican	huilican	hwilik	*	welcher (welches), was für ein	*	*	*	huilican	DW	DW	A,O	P	MASC_SG_ACC_ST	Hel_20.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+môd	môd	mod	S2	Sinn, Gesinnung, Herz	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_20.eaf
+haƀad	haƀad	hebbian	*	haben, besitzen	*	*	*	habad	VA	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1753	,	$,	$,	*	*	*	Hel_20.eaf
+hugi	hugi	hugi	S1a	Sinn, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_20.eaf
+umbi	umbi	umbi	*	um – herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+herte	herte	herta	S1b	Herz, als Sitz der Seele, des Verstandes; Gemüt	CF_I_O	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_20.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_20.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_20.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_20.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+farhelan	farhelan	farhelan	S2	verhehlen, verbergen	*	*	*	farhelan	VV	VVINF	ST4	ST4	*	Hel_20.eaf
+eouuiht	eouuiht	eowiht	*	irgend etwas	CF_U_M	*	*	eouuiht	PI	PI	I	I	SG_ACC	Hel_20.eaf
+,	,	*	*	*	*	*	1754	,	$,	$,	*	*	*	Hel_20.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_20.eaf
+cumad	cumad	kuman	*	kommen	*	*	*	cumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_20.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_20.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_20.eaf
+uƀilan	uƀilan	ubil	S1	böse, schlecht, schlimm	*	*	*	ubilan	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_20.eaf
+man	man	mann	*	Mensch	*	*	*	man	NA	NA	C,A_MASC	C_MASC	SG_DAT	Hel_20.eaf
+inuuidrâdos	inuuidrâdos	inwindrad	S2	boshafter Anschlag	*	*	*	inuuidrados	NA	NA	A_MASC	A_MASC	PL_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	1755	,	$,	$,	*	*	*	Hel_20.eaf
+bittara	bittara	bittar	S1a	bitter, böse, feindlich	*	*	*	bittara	ADJ	ADJ	A,O	P	POS_FEM_PL_NOM_ST	Hel_20.eaf
+balusprâca	balusprâca	baluspraka	S1b	böse Rede	CF_I_M	*	*	baluspraca	NA	NA	O_FEM	O_FEM	PL_NOM	Hel_20.eaf
+,	,+sulic	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+sulic sô	sô	sulik so	*	so (beschaffen) wie	*	*	*	sulic so	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+breostun	breostun	briost	S2	im Innern, im Gemüte	*	*	*	breostun	NA	NA	C_NEUT	C_NEUT	PL_DAT	Hel_20.eaf
+haƀad	haƀad	hebbian	*	haben	*	*	1756	habad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_20.eaf
+geheftid	geheftid	giheftian	S1a	fesseln, binden	*	*	*	geheftid	VV	VVPP	WK1A	WK1A	*	Hel_20.eaf
+umbi	umbi	umbi	*	um – herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+herte	herte	herta	S1b	Herz	CF_I_Adv_Mod	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_20.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_20.eaf
+
+simbla	simbla	simbla	*	immer, jederzeit, stets	*	*	*	simbla	ADV	ADV	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_20.eaf
+cûðid	cûðid	kuđian	*	bekannt machen, verkünden, zeigen	*	*	*	cudid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1757	,	$,	$,	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uuilleon	uuilleon	willio	S1a	Wille	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uuordun	uuordun	word	S1b	Wort, Rede	CF_U_M	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+farad	farad	faran	*	gehen; hier: richten	*	*	*	farad	VV	VVFIN	ST6	ST6	IND_PRES_PL_3	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uuerc	uuerc+aftar	werk	S2	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+aftar thiu	thiu	aftar thiu	*	danach; demgemäß, dementsprechend	CF_I_M	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_20.eaf
+.	.	*	*	*	*	*	1758	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Sô	Sô	so	*	so, in solcher Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_20.eaf
+cumad	cumad	kuman	*	kommen	*	*	*	cumad	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_20.eaf
+themu	themu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_20.eaf
+gôdan	gôdan	god	S1	gut	*	*	*	godan	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_20.eaf
+manne	manne	mann	*	Mensch	*	*	*	manne	NA	NA	C,A_MASC	A_MASC	SG_DAT	Hel_20.eaf
+glau	glau	glau	S2	klug, weise	*	*	*	glau	ADJ	ADJ	WA,WO	WA,WO	POS_NEUT_SG_NOM_0	Hel_20.eaf
+anduuordi	anduuordi	andwordi	*	Antwort	*	*	*	anduuordi	NA	NA	JA_NEUT	JA_NEUT	SG_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	1759	,	$,	$,	*	*	*	Hel_20.eaf
+uuîslîc	uuîslîc	wislik	S1a	weise	*	*	*	uuislic	ADJ	ADJD	A,O	A,O	POS	Hel_20.eaf
+fan	fan	fan	*	von, von – her, aus	*	*	*	fan	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+geuuittea	geuuittea	giwit	S1b	Verstand, Klugheit, Weisheit	CF_U_M	*	*	geuuittea	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_20.eaf
+hi	hi	he	*	er, sie, es (selbst)	*	*	*	hi	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+simbla	simbla	simbla	*	immer, jederzeit, stets	*	*	*	simbla	ADV	ADV	*	*	*	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uuordu	uuordu	word	S2	Wort, Rede, Gebot	*	*	*	uuordu	NA	NA	A_NEUT	A_NEUT	SG_INS	Hel_20.eaf
+gesprikid	gesprikid	gisprekan	*	sprechen, reden, sagen	*	*	*	gesprikid	VV	VVFIN	ST4	ST4	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	1760	,	$,	$,	*	*	*	Hel_20.eaf
+man	man	mann	S1a	Mensch	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+muðu	muðu	muđ	S1b	Mund	*	*	*	mudu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_20.eaf
+sulic	sulic	sulik	*	solch, so beschaffen	CF_I_Adv_Cns	*	*	sulic	DD	DDS	A,O	A,O	NEUT_SG_ACC_0	Hel_20.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_20.eaf
+sô	sô	so	*	wie	*	*	*	so	KO	KOUS	*	*	*	Hel_20.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+môde	môde	mod	S2	Sinn, Gesinnung, Mut, Inneres, Herz	*	*	*	mode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_20.eaf
+haƀad	haƀad	hebbian	*	haben, besitzen; halten	*	*	1761	habad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_20.eaf
+hord	hord	hord	S1a	die in der Brust verschlossenen Gedanken	*	*	*	hord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_20.eaf
+umbi	umbi	umbi	*	um – herum	*	*	*	umbi	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+herte	herte	herta	S1b	Herz, Gemüt	CF_I_Adv_Mod	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Thanan	Thanan	thanan	*	daher, daraus	*	*	*	thanan	ADV	ADV	*	*	*	Hel_20.eaf
+cumad	cumad	kuman	*	kommen	*	*	*	cumad	VV	VVFIN	ST4	ST4	IND_PRES_PL_3	Hel_20.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thea	DD	DDA	*	*	FEM_PL_NOM	Hel_20.eaf
+hêlagan	hêlagan	helag	S2	heilig	*	*	*	helagan	ADJ	ADJ	A,O	N	POS_FEM_PL_NOM_WK	Hel_20.eaf
+lêra	lêra	lera	*	Lehre, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	PL_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	1762	,	$,	$,	*	*	*	Hel_20.eaf
+suuîðo	suuîðo	swiđo	*	sehr	*	*	*	suuido	ADV	ADV	*	*	*	Hel_20.eaf
+uunsam	uunsam	wunsam	S1a	wonnig, lieblich	*	*	*	uunsam	ADJ	ADJ	A,O	A,O	POS_NEUT_PL_NOM_0	Hel_20.eaf
+uuord	uuord	word	S1b	Wort, Rede, Gebot	CF_U_M	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen, müssen; werden (Futur)	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+uuerc	uuerc+aftar	werk	S2	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+aftar thiu	thiu	aftar thiu	*	danach, darauf, dann	*	*	1763	aftar thiu	AP	APPR	*	*	*	Hel_20.eaf
+theodu	theodu	thiod	S1a	Volk, Menge	*	*	*	theodu	NA	NA	O_FEM	O_FEM	SG_DAT	Hel_20.eaf
+gethîhan	gethîhan	githihan	S1b	gedeihen	*	*	*	gethihan	VV	VVINF	ST1	ST1	*	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+thegnun	thegnun	thegan	S2 	Knabe, Mann	*	*	*	thegnun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_20.eaf
+managun	managun	manag	*	manch, viel	*	*	1764	managun	DI	DIS	A,O	N	MASC_PL_DAT_WK	Hel_20.eaf
+uuerðan	uuerðan	werđan	S1a 	werden	*	*	*	uuerdan	VA	VAINF	ST3B	ST3B	*	Hel_20.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	APPR	*	*	*	Hel_20.eaf
+uuilleon	uuilleon	willio	S1b	Vorteil, Gewinn, Nutzen	CF_I_M	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_20.eaf
+,	,+al	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+al sô	sô	al so	*	so wie	*	*	*	al so	KO	KOUS	*	*	*	Hel_20.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_20.eaf
+uualdand	uualdand	waldand	S2	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_20.eaf
+self	self	self	*	selbst	*	*	1765	self	DD	DDN	A,O	A,O	MASC_SG_NOM_0	Hel_20.eaf
+gôdun	gôdun	god	S1a	gut	*	*	*	godun	ADJ	ADJ	A,O	P,N	POS_MASC_PL_DAT_ST,WK	Hel_20.eaf
+mannun	mannun	mann	*	Mensch, pl. Menschen, Leute	*	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_20.eaf
+fargiƀid	fargiƀid	fargeban	S1b	geben	*	*	*	fargibid	VV	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_20.eaf
+alomahtig	alomahtig	alomahtig	*	allmächtig	*	*	*	alomahtig	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_20.eaf
+,	,	*	*	*	*	*	1766	,	$,	$,	*	*	*	Hel_20.eaf
+himilisc	himilisc	himilisk	S1a	himmlisch	*	*	*	himilisc	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_20.eaf
+hêrro	hêrro	herro	S1b	Herr	CF_I_Adv_Mod	*	*	herro	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_20.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_20.eaf
+huand	huand	hwand	*	weil, da	*	*	*	huand	KO	KOUS	*	*	*	Hel_20.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_20.eaf
+âno	âno	ano	*	ohne	*	*	*	ano	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_20.eaf
+helpa	helpa	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpa	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_20.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_20.eaf
+mugun	mugun	mugan	*	vermögen, können	*	*	1767	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+ne	ne	ne	*	weder	*	*	*	ne	KO	KON	*	*	*	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+ne	ne	ne	*	noch	*	*	*	ne	KO	KON	*	*	*	Hel_20.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_20.eaf
+uuercun	uuercun	werk	S1b	Werk, Tat, Handlung	*	*	*	uuercun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_20.eaf
+uuiht	uuiht	wiht	S2	Ding, Sache; (irgend)etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_20.eaf
+athengean	athengean	athengian	*	tun, ausführen, vollbringen	*	*	1768	athengean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+gôdes	gôdes	god	S1a	Gutes	*	*	*	godes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_20.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese	*	*	*	thesun	DD	DD	*	*	MASC_PL_DAT	Hel_20.eaf
+gardun	gardun	gard	S1b	Erde; Haus	CF_I_Adv_Caus	*	*	gardun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_20.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_20.eaf
+
+Bethiu	Bethiu	bethiu	*	deswegen	*	*	*	bethiu	ADV	ADV	*	*	*	Hel_20.eaf
+sculun	sculun	skulan	*	sollen, müssen; werden (Futur)	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_20.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_20.eaf
+barn	barn	barn	*	Kind	*	*	1769	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_20.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_20.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_20.eaf
+ênes	ênes	en	S1	einzig, alleinig	*	*	*	enes	ADJ	ADJS	A,O	P	MASC_SG_ACC_ST	Hel_20.eaf
+craft	craft	kraft	*	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_20.eaf
+alle	alle	all	S2	all	*	*	*	alle	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_20.eaf
+gilôƀean	gilôƀean	gilobian	*	glauben	CF_U_M	*	*	gilobean	VV	VVINF	WK1A	WK1A	*	Hel_20.eaf
+.	*	*	*	*	*	XX	1770	. 	$.	$.	*	*	*	Hel_20.eaf

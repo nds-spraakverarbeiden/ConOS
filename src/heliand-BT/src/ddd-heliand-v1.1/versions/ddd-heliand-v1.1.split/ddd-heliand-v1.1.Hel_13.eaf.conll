@@ -1,0 +1,910 @@
+
+Sô	Sô	so	*	so, nun	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+gefragn	gefragn	gifregnan	*	erfahren, von etwas hören	*	*	*	gefragn	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+ic	ic	ik	*	ich	CF_U_M	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+Iohannes	Iohannes	Johannes	S1	Johannes	*	*	*	iohannes	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_13.eaf
+gihuuilicun	gihuuilicun	gihwilik	*	jeder, ein jeder	*	*	*	gihuuilicun	DI	DIS	A,O	P	MASC_PL_DAT_ST	Hel_13.eaf
+,	,	*	*	*	*	*	1020	,	$,	$,	*	*	*	Hel_13.eaf
+loƀoda	loƀoda	lobæn	S1a	loben, preisen	*	*	*	loboda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_13.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_13.eaf
+liudiun	liudiun	liudi	S1b	Leute, Menschen, Volk	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_13.eaf
+lêra	lêra	lera	S2	Lehre, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+Kristes	Kristes	Krist	*	Christus	*	*	*	kristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	1021	,	$,	$,	*	*	*	Hel_13.eaf
+hêrron	hêrron	herro	S1	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_13.eaf
+sines	sines	sin	*	sein	*	*	*	sines	DPOS	DPOSN	A,O	P	MASC_SG_GEN_ST	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+heƀenrîki	heƀenrîki	hebanriki	S2	Himmelreich	*	*	1022	hebenriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	PTKZU	*	*	*	Hel_13.eaf
+giuuinnanne	giuuinnanne	giwinnan	S1	erlangen, gewinnen	*	*	*	giuuinnanne	VV	VVINFS	ST3A	ST3A	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+uuelono	uuelono	welo	S2	Gut, Besitz	*	*	*	uuelono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_13.eaf
+thane	thane	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thane	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+mêston	mêston	mest	*	größt, meist	*	*	*	meston	ADJ	ADJS	A,O	N	SUP_MASC_SG_ACC_WK	Hel_13.eaf
+,	,	*	*	*	*	*	1023	,	$,	$,	*	*	*	Hel_13.eaf
+sâlig	sâlig	salig	S1a	glücklich, selig	*	*	*	salig	ADJ	ADJ	A,O	P	POS_NEUT_SG_ACC_ST	Hel_13.eaf
+sinlîf	sinlîf	sinlif	S1b	ewiges Leben	CF_I_O	*	*	sinlif	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PRF	*	*	MASC_SG_NOM_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DD	A,O	N	MASC_SG_NOM_WK	Hel_13.eaf
+giuuêt	giuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	1024	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_13.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_13.eaf
+dôpislea	dôpislea	dopisli	S1	Taufe	*	*	*	dopislea	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+drohtin	drohtin	drohtin	S2	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+gôdo	gôdo	god	*	gut, trefflich	*	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_13.eaf
+,	,	*	*	*	*	*	1025	,	$,	$,	*	*	*	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+êna	êna	en	*	ein, einer	*	*	*	ena	DI	DIA	A,O	P	FEM_SG_ACC_ST	Hel_13.eaf
+uuôstunnea	uuôstunnea	wostunnia	S1	Wüste	*	*	*	uuostunnea	NA	NA	JO_FEM	JO_FEM	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+uualdandes	uualdandes	waldand	S2	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_13.eaf
+sunu	sunu	sunu	*	Sohn	CF_U_M	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_13.eaf
+;	;	*	*	*	*	*	1026	;	$.	$.	*	*	*	Hel_13.eaf
+
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_13.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_13.eaf
+ênôdi	ênôdi	enodi	S1	Einöde, Wüste	*	*	*	enodi	NA	NA	I_FEM,JA_NEUT	I_FEM	SG_DAT	Hel_13.eaf
+erlo	erlo	erl	S2	der bedeutende, vornehme Mann	*	*	*	erlo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_13.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	1027	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+lange	lange	lang	S1	lang	*	*	*	lange	ADJ	ADJ	A,O	P	POS_FEM_SG_ACC_ST	Hel_13.eaf
+huuîla	huuîla	hwila	*	Zeit, Zeitraum	CF_U_M	*	*	huuila	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+;	;	*	*	*	*	*	*	;	$.	$.	*	*	*	Hel_13.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_13.eaf
+habda	habda	hebbian	*	haben	*	*	*	habda	VA	VVFIN	WK3	WK3	IND_PAST_SG_3	Hel_13.eaf
+liudeo	liudeo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_13.eaf
+than	than	than	*	hier: in Negativsätzen in Verbindung mit dem Komparativ kein ... mehr	*	*	*	than	ADV	ADV	*	*	*	Hel_13.eaf
+mêr	mêr	mer	*	mehr	*	*	*	mer	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1028	,	$,	$,	*	*	*	Hel_13.eaf
+seggeo	seggeo	seg	S1a	Mann	*	*	*	seggeo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+gisîðun	gisîðun	gisiđ	S1b	Gefolgsmann	CF_U_M	*	*	gisidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_13.eaf
+,	,+al	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+al sô	sô	all so	*	so wie	*	*	*	al so	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_13.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_13.eaf
+gicôs	gicôs	gikiosan	*	wählen	CF_I_Adv_Mod	*	*	gicos	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_13.eaf
+:	:	*	*	*	*	*	1029	:	$.	$.	*	*	*	Hel_13.eaf
+
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_13.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+lâtan	lâtan	latan	*	lassen, zulassen	*	*	*	latan	VV	VVINF	RED1B	RED1B	*	Hel_13.eaf
+coston	coston	koston	S1	versuchen	*	*	*	coston	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+craftiga	craftiga	kraftag	S2	mächtig, gewaltig	*	*	*	craftiga	ADJ	ADJ	A,O	P	POS_MASC_PL_ACC_ST	Hel_13.eaf
+uuihti	uuihti	wiht	*	etwas, Ding; hier: Dämon, böser Geist	*	*	*	uuihti	NA	NA	I_MASC,NEUT	I_MASC	PL_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1030	,	$,	$,	*	*	*	Hel_13.eaf
+selƀon	selƀon	self	S1a	selbst	*	*	*	selbon	DD	DD	A,O	N	MASC_SG_ACC_WK	Hel_13.eaf
+Satanasan	Satanasan	Satanas	S1b	Satan	CF_U_M	*	*	satanasan	NE	NE	A_MASC	P_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_13.eaf
+gio	gio	io	*	immer, stets	*	*	*	gio	ADV	ADV	*	*	*	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+sundea	sundea	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	JO_FEM	SG_ACC	Hel_13.eaf
+spenit	spenit	spanan	*	locken	*	*	*	spenit	VV	VVFIN	ST6	ST6	IND_PRES_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1031	,	$,	$,	*	*	*	Hel_13.eaf
+man	man	mann	S1a	Mensch, Leute	*	*	*	man	NA	NA	C,A_MASC	C_MASC	PL_ACC	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+mênuuerk	mênuuerk	menwerk	S1b	Freveltat	CF_I_Rel	*	*	menuuerk	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+consta	consta	kunnan	*	kennen, wissen	*	*	*	consta	VM	VMFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+môdseƀon	môdseƀon	modsebo	S2	Herz, Denkweise	*	*	*	modsebon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1032	,	$,	$,	*	*	*	Hel_13.eaf
+uurêðan	uurêðan	wređ	S1a	feindselig, böse	*	*	*	uuredan	ADJ	ADJ	A,O	P,N	POS_MASC_SG_ACC_ST,WK	Hel_13.eaf
+uuilleon	uuilleon	willio	S1b	Wunsch, Absicht	CF_U_M	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+huuô	huuô	hwo	*	wie, in welcher Weise	*	*	*	huuo	PW	PWAV	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+thesa	thesa	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesa	DD	DD	*	*	FEM_SG_ACC	Hel_13.eaf
+uuerold	uuerold	werold	S2	Welt	*	*	*	uuerold	NA	NA	C,I_FEM,I_MASC	C_FEM	SG_ACC	Hel_13.eaf
+êrist	êrist	erist	*	zuerst, anfangs	*	*	*	erist	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1033	,	$,	$,	*	*	*	Hel_13.eaf
+an	an	an	*	in, an	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	NEUT_SG_DAT	Hel_13.eaf
+anginnea	anginnea	anagin	S1	Anfang	*	*	*	anginnea	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_13.eaf
+irminthioda	irminthioda	irminthioda	S2	Volk, Menschenvolk	*	*	1034	irminthioda	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+bisuêc	bisuêc	biswikan	S1a	verführen, betrügen	*	*	*	bisuec	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_13.eaf
+mit	mit	mid	*	mit	*	*	*	mit	AP	APPR	*	*	*	Hel_13.eaf
+sundiun	sundiun	sundea	S1b	Übeltat, Sünde	CF_I_Adv_Mod	*	*	sundiun	NA	NA	N,JO_FEM	N_FEM	PL_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+thô	thô	tho	*	da, als	*	*	*	tho	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_ACC	Hel_13.eaf
+sinhîun	sinhîun	sinhiwun	S2	Ehegatten	*	*	*	sinhiun	NA	NA	N_NEUT	N_NEUT	PL_ACC	Hel_13.eaf
+tuuê	tuuê	twene	*	zwei	*	*	*	tuue	CARD	CARDN	IRR	IRR	NEUT_PL_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1035	,	$,	$,	*	*	*	Hel_13.eaf
+Âdaman	Âdaman	Adam	S1a	Adam	*	*	*	adaman	NE	NE	A_MASC	P_MASC	SG_ACC	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+Êuan	Êuan	Eva	S1b	Eva	*	*	*	euan	NE	NE	N_FEM	N_FEM	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+thurh	thurh	thurh	*	durch, aus, mit	*	*	*	thurh	AP	APPR	*	*	*	Hel_13.eaf
+untreuua	untreuua	untreuwa	S2	Untreue, Treulosigkeit	*	*	1036	untreuua	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+forlêdda	forlêdda	farledean	S1a	verleiten, verführen	*	*	*	forledda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_13.eaf
+luginun	luginun	lugina	S1b	Lüge	CF_I_Adv_Temp	*	*	luginun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	dass, sodass, damit	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+liudo	liudo	liudi	S2	Leute, Menschen, Volk	*	*	*	liudo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_13.eaf
+barn	barn	barn	*	Kind	*	*	1037	barn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_13.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_13.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	NEUT_PL_GEN_3	Hel_13.eaf
+hinferdi	hinferdi	hinfard	S1	Hingang, Tod	*	*	*	hinferdi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_13.eaf
+hellea	hellea	hellia	S2	Hölle	*	*	*	hellea	NA	NA	N,JO_FEM	JO_FEM	SG_ACC	Hel_13.eaf
+sôhtun	sôhtun	sokian	*	suchen, aufsuchen	*	*	*	sohtun	VV	VVFIN	WK1A	WK1A	IND_PAST_PL_3	Hel_13.eaf
+,	,	*	*	*	*	*	1038	,	$,	$,	*	*	*	Hel_13.eaf
+gumono	gumono	gumo	S1a	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_13.eaf
+gêstos	gêstos	gest	S1b	Geist	CF_I_Adv_Fin	*	*	gestos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_13.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+mahtig	mahtig	mahtig	*	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJN	A,O	P	POS_MASC_SG_NOM_ST	Hel_13.eaf
+,	,	*	*	*	*	*	1039	,	$,	$,	*	*	*	Hel_13.eaf
+uualdand	uualdand	waldand	S1a	Herrscher	*	*	*	uualdand	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+uuendean	uuendean	wendian	S1b	abwenden, vereiteln	CF_U_M	*	*	uuendean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+thesum	thesum	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesum	DD	DD	*	*	NEUT_SG_DAT	Hel_13.eaf
+uuerode	uuerode	werod	S2	Leute, Volk	*	*	*	uuerode	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_13.eaf
+forgeƀen	forgeƀen	fargeban	*	geben, verleihen	*	*	1040	forgeben	VV	VVINF	ST5	ST5	*	Hel_13.eaf
+hôh	hôh	hoh	S1a	hoch	*	*	*	hoh	ADJ	ADJ	A,O	P	POS_NEUT_SG_ACC_ST	Hel_13.eaf
+himilrîki	himilrîki	himilriki	S1b	Himmelreich	CF_I_M	*	*	himilriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+bethiu	bethiu	bithiu	*	deshalb	*	*	*	bethiu	ADV	ADV	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+herod	herod	herod	*	hierher	*	*	*	herod	ADV	ADV	*	*	*	Hel_13.eaf
+hêlagna	hêlagna	helag	S2	heilig	*	*	*	helagna	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_13.eaf
+bodon	bodon	bodo	*	Bote, Gesandter	*	*	*	bodon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1041	,	$,	$,	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+sunu	sunu	sunu	S1a	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_13.eaf
+senda	senda	sendian	S1b	senden, schicken	CF_U_M	*	*	senda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+That	That	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_13.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+Satanase	Satanase	Satanas	S2	Satan	*	*	1042	satanase	NE	NE	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+tulgo	tulgo	tulgo	*	sehr	*	*	*	tulgo	ADV	ADV	*	*	*	Hel_13.eaf
+harm	harm	harm	S1a	schmerzlich	*	*	*	harm	ADJ	ADJD	A,O	A,O	POS	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+hugi	hugi	hugi	S1b	Sinn, Herz	CF_U_M	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+afonsta	afonsta	afunnan	*	mißgönnen	*	*	*	afonsta	VV	VVFIN	PRPR	PRPR	IND_PAST_SG_3	Hel_13.eaf
+heƀanrîkies	heƀanrîkies	hebanriki	S2	Himmelreich	*	*	1043	hebanrikies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_13.eaf
+manno	manno	mann	S1	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_13.eaf
+cunnie	cunnie	kunni	*	Geschlecht, Stamm	CF_U_M	*	*	cunnie	NA	NA	JA_NEUT	JA_NEUT	SG_DAT	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+mahtigna	mahtigna	mahtig	S2	mächtig, gewaltig	*	*	1044	mahtigna	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_13.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	FEM_PL_DAT	Hel_13.eaf
+selƀon	selƀon	self	S1a	selbst	*	*	*	selbon	DD	DD	A,O	N	FEM_PL_DAT_WK	Hel_13.eaf
+sacun	sacun	saka	S1b	Sache, Gegenstand	*	*	*	sacun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_13.eaf
+sunu	sunu	sunu	S2	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_13.eaf
+drohtines	drohtines	drohtin	*	Herr	CF_CS_U_M	*	*	drohtines	NA	NA	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	1045	,	$,	$,	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDSREL	*	*	FEM_PL_DAT	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+Âdaman	Âdaman	Adam	S1	Adam	*	*	*	adaman	NE	NE	?_MASC	P_MASC	SG_ACC	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+êrdagun	êrdagun	erdagos	S2	vergangene Tage, frühere Zeiten	*	*	1046	erdagun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_13.eaf
+darnungo	darnungo	darnungo	S1a	heimlich	*	*	*	darnungo	ADV	ADV	*	*	*	Hel_13.eaf
+bidrôg	bidrôg	bidriogan	S1b	betrügen, verlocken	CF_I_Rel	*	*	bidrog	VV	VVFIN	ST2	ST2	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+uuarð	uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+drohtine	drohtine	drohtin	S2	Herr	*	*	*	drohtine	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_13.eaf
+lêð	lêð	leđ	*	feindlich, verhaßt	CF_I_Adv_Cns	*	*	led	ADJ	ADJD	A,O	A,O	POS	Hel_13.eaf
+,	,	*	*	*	*	*	1047	,	$,	$,	*	*	*	Hel_13.eaf
+bisuuêc	bisuuêc	biswikan	S1a	verführen, betrügen	*	*	*	bisuuec	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_13.eaf
+sundiun	*	sundea	S1b	Übeltat, Sünde	CF_U_M	*	*	sundiun	NA	NA	N,JO_FEM	N_FEM	PL_DAT	Hel_13.eaf
+-	sundiun-	*	*	*	*	*	*	- 	$(	$(	*	*	*	Hel_13.eaf
+sô	sô	so	*	so, auf diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+thô	thô	tho	*	nun, also	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+selƀan	selƀan	self	S2	selbst	*	*	*	selban	DD	DDS	A,O	P	MASC_SG_ACC_ST	Hel_13.eaf
+dôn	dôn	don	*	tun, machen	*	*	1048	don	VV	VVINF	IRR	IRR	*	Hel_13.eaf
+hêlandean	hêlandean	heliand	S1	Heiland	*	*	*	helandean	NA	NA	ND_MASC	ND_MASC	SG_ACC	Hel_13.eaf
+Krist	Krist	Krist	*	Christus	CF_CC_U_M	*	*	krist	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Than	Than	than	*	dann, jedoch, aber	*	*	*	than	ADV	ADV	*	*	*	Hel_13.eaf
+habda	habda	hebbian	*	haben	*	*	*	habda	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+hugi	hugi	hugi	S2	Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_13.eaf
+fasto	fasto	fasto	*	sehr	*	*	1049	fasto	ADV	ADV	*	*	*	Hel_13.eaf
+uuið	uuið	wiđ	*	gegen	*	*	*	uuid	AP	APPR	*	*	*	Hel_13.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+uuamscaðon	uuamscaðon	wamskađo	S1	Verbrecher, Teufel	*	*	*	uuamscadon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+uualdandes	uualdandes	waldand	S2	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_13.eaf
+barn	barn	barn	*	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	1050	,	$,	$,	*	*	*	Hel_13.eaf
+herte	herte	herta	S1a	Herz, Gemüt	*	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_13.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+giherdid	giherdid	herdian	S1b	stärken, widerstandsfāhig machen	CF_U_M	*	*	giherdid	VV	VVPP	WK1A	WK1A	*	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+heƀenrîki	heƀenrîki	hebanriki	S2	Himmelreich	*	*	1051	hebenriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_13.eaf
+liudiun	liudiun	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_13.eaf
+gilêstean	gilêstean	gilestian	S1b	leisten, erfüllen	CF_U_M	*	*	gilestean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Uuas	Uuas	wesan	*	sein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PRES_SG_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_13.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDA	*	*	NEUT_SG_GEN	Hel_13.eaf
+landes	landes	land	S2	Land, Reich	*	*	*	landes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_13.eaf
+uuard	uuard	ward	*	Wächter	*	*	1052	uuard	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+fastunnea	fastunnea	fastunnia	S1	Fasten	*	*	*	fastunnea	NA	NA	JO_FEM	JO_FEM	SG_GEN	Hel_13.eaf
+fiortig	fiortig	fiwartig	S2	vierzig	*	*	*	fiortig	CARD	CARDS	0	0	NEUT_PL_ACC	Hel_13.eaf
+nahto	nahto	naht	*	Nacht	*	*	*	nahto	NA	NA	C,I_FEM	C_FEM	PL_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	1053	,	$,	$,	*	*	*	Hel_13.eaf
+manno	manno	mann	S1	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_13.eaf
+drohtin	drohtin	drohtin	*	Herr	CF_U_M	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+sô	sô	so	*	so, als, sobald	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+thar	thar	thar	*	da, nun	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+mates	mates	mat	S2	Speise	*	*	*	mates	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+antbêt	antbêt	antbitan	*	genießen, kosten	CF_U_M	*	*	antbet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_13.eaf
+;	;+than	*	*	*	*	*	1054	;	$.	$.	*	*	*	Hel_13.eaf
+
+than langa	langa	than lang	*	solange	*	*	*	than langa	KO	KOUS	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+gidorstun	gidorstun	gidurran	S1	den Mut haben, wagen	*	*	*	gidorstun	VV	VVFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+dernea	dernea	derni	S2	heimtückisch, böse	*	*	*	dernea	ADJ	ADJ	JA,JO	P	POS_MASC_PL_NOM_ST	Hel_13.eaf
+uuihti	uuihti	wiht	*	Ding, etwas; hier: Dämonen, Teufel	*	*	*	uuihti	NA	NA	I_MASC,NEUT	I_MASC	PL_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	1055	,	$,	$,	*	*	*	Hel_13.eaf
+nîðhugdig	nîðhugdig	niđhugdig	S1	kampflustig	*	*	*	nidhugdig	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_13.eaf
+fîund	fîund	fiund	*	der Teufel, die bösen höllischen Geister	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	PL_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+nâhor	nâhor	nah	S2	nahe	*	*	*	nahor	ADV	ADV	*	*	*	Hel_13.eaf
+gangan	gangan	gangan	*	gehen, wandeln	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_13.eaf
+,	,	*	*	*	*	*	1056	,	$,	$,	*	*	*	Hel_13.eaf
+grôtean	grôtean	grotian	S1a	anreden, anrufen	*	*	*	grotean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+geginuuarðan	geginuuarðan	geginward	S1b	gegenüberstehend, von Angesicht zu Angesicht	CF_I_Adv_Temp	*	*	geginuuardan	ADJ	ADJD	A,O	P	POS_MASC_SG_ACC_ST	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+uuânde	uuânde	wanian	*	glauben, denken	CF_U_M	*	*	uuande	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+god	god	god	S2	Gott	*	*	*	god	NA	NE	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+ênfald	ênfald	enfald	*	wahrhaftig	*	*	*	enfald	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_13.eaf
+,	,	*	*	*	*	*	1057	,	$,	$,	*	*	*	Hel_13.eaf
+forûtar	forûtar	farutar	*	ohne	*	*	*	forutar	AP	APPR	*	*	*	Hel_13.eaf
+mancunnies	mancunnies	mankunni	S1	menschliche Natur, etwas Menschliches	*	*	*	mancunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_13.eaf
+uuiht	uuiht	wiht	*	etwas, Ding	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_13.eaf
+mahtig	mahtig	mahtig	S2	mächtig, gewaltig	*	*	*	mahtig	ADJ	ADJD	A,O	A,O	POS	Hel_13.eaf
+uuâri	uuâri	wesan	*	sein	*	*	*	uuari	VA	VAFIN	ST5	ST5	SUBJ_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1058	,	$,	$,	*	*	*	Hel_13.eaf
+hêleg	hêleg	helag	S1a	heilig	*	*	*	heleg	ADJ	ADJ	A,O	P	POS_MASC_SG_NOM_ST	Hel_13.eaf
+himiles	himiles	himil	S1b	Himmel	*	*	*	himiles	NA	NA	A_MASC	A_MASC	SG_GEN	Hel_13.eaf
+uuard	uuard	ward	*	Wächter	CF_I_O	*	*	uuard	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Sô	Sô	so	*	so, dann	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+gehungrean	gehungrean	gihungrian	S2	hungern	*	*	*	gehungrean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+lêt	lêt	latan	*	lassen	CF_U_M	*	*	let	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1059	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PAST_SG_3	Hel_13.eaf
+bi	bi	bi	*	bei, wegen, aus	*	*	*	bi	AP	APPR	*	*	*	Hel_13.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_13.eaf
+menniski	menniski	menniski	S1	menschliche Natur, Gestalt	*	*	*	menniski	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_13.eaf
+môses	môses	mos	S2	Speise, Essen	*	*	*	moses	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_13.eaf
+lustean	lustean	lustian	*	gelüsten	*	*	1060	lustean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_13.eaf
+fiuuartig	fiuuartig	fiwartig	S1	vierzig	*	*	*	fiuuartig	CARD	CARD	0	0	MASC_PL_DAT	Hel_13.eaf
+dagun	dagun	dag	*	Tag	CF_I_Adv_Cns	*	*	dagun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+fîund	fîund	fiund	S2	der Teufel	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+nâhor	nâhor	nah	*	nahe	*	*	*	nahor	ADV	ADV	*	*	*	Hel_13.eaf
+geng	geng	gangan	*	gehen	*	*	*	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1061	,	$,	$,	*	*	*	Hel_13.eaf
+mirki	mirki	mirki	S1a	unheimlich, böse	*	*	*	mirki	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_13.eaf
+mênscaðo	mênscaðo	menskađo	S1b	Unheilstifter, der Teufel	CF_U_M	*	*	menscado	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+uuânda	uuânda	wanian	*	glauben, denken	CF_U_M	*	*	uuanda	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+man	man	mann	S2	Mensch	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_13.eaf
+ênfald	ênfald	enfald	*	einfach	*	*	1062	enfald	ADJ	ADJN	A,O	A,O	POS_MASC_SG_NOM_0	Hel_13.eaf
+uuâri	uuâri	wesan	S1a	sein	*	*	*	uuari	VA	VAFIN	ST5	ST5	SUBJ_PAST_SG_3	Hel_13.eaf
+uuissungo	uuissungo	wissungo	S1b	sicherlich, gewiss	CF_I_O	*	*	uuissungo	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+uuordun	uuordun	word	S2	Wort, Rede	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_13.eaf
+tô	tô	to	*	zu	CF_U_M	*	*	to	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1063	,	$,	$,	*	*	*	Hel_13.eaf
+grôtta	grôtta	grotian	S1a	anreden, anrufen	*	*	*	grotta	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+gêrfîund	gêrfîund	gerfiund	S1b	der Teufel	CF_U_M	*	*	gerfiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_13.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+sîs	sîs	wesan	*	sein	*	*	*	sis	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_2	Hel_13.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+sunu	sunu	sunu	*	Sohn	CF_I_Adv_Cnd	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+he	he	he	*	er, sie, es	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+,	,	*	*	*	*	*	1064	,	$,	$,	*	*	*	Hel_13.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_13.eaf
+behuuî	behuuî	bihwi	*	weshalb	*	*	*	behuui	PW	PWAV	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+hêtis	hêtis	hetan	*	heißen, befehlen	*	*	*	hetis	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_2	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+than	than	than	*	dann	CF_I_Int	*	*	than	ADV	ADV	*	*	*	Hel_13.eaf
+uuerðan	uuerðan	werđan	S1	werden, entstehen	CI_CS_U_O	*	*	uuerdan	VA	VVINF	ST3B	ST3B	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+giuuald	giuuald	giwald	S2	Macht, Gewalt	*	*	*	giuuald	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+haƀes	haƀes	hebbian	*	haben, besitzen	*	*	*	habes	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_13.eaf
+,	,	*	*	*	*	*	1065	,	$,	$,	*	*	*	Hel_13.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_13.eaf
+barno	barno	barn	S1a	Kind, Sohn	*	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_13.eaf
+bezt	bezt	betst	S1b	best	CF_I_Adv_Cnd	*	*	bezt	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+brôd	brôd	brod	S2	Brot	*	*	*	brod	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_13.eaf
+af	af	af	*	auf, aus	*	*	*	af	AP	APPR	*	*	*	Hel_13.eaf
+thesun	thesun	thesa	*	dieser, dieses, diese, derartig	*	*	*	thesun	DD	DD	*	*	MASC_PL_DAT	Hel_13.eaf
+stênun	stênun	sten	*	Stein, Fels	CI_CC_U_O	*	*	stenun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_13.eaf
+?	?	*	*	*	*	*	1066	?	$.	$.	*	*	*	Hel_13.eaf
+
+Gehêli	Gehêli	gihelian	S1a	heilen, retten	*	*	*	geheli	VV	VVIMP	WK1A	WK1A	IMP_PRES_SG_2	Hel_13.eaf
+thînna	thînna	thin	*	dein	*	*	*	thinna	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_13.eaf
+hungar	hungar	hungar	S1b	Hunger	CF_U_Imp	*	*	hungar	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+eft	eft	eft	*	darauf, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_13.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+hêlago	hêlago	helag	S2	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_13.eaf
+Crist	Crist	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_13.eaf
+:	:	*	*	*	*	*	1067	:	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+mugun	mugun	mugan	*	brauchen	*	*	*	mugun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_13.eaf
+eldibarn	eldibarn	eldibarn	S1	Menschenkinder, Menschen	CF_CS_U_M	*	*	eldibarn	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_13.eaf
+ênfaldes	ênfaldes	enfald	S2	einfach	*	*	*	enfaldes	ADJ	ADJ	A,O	P	POS_NEUT_SG_GEN_ST	Hel_13.eaf
+brôdes	brôdes	brod	*	Brot, Brotlaib	*	*	*	brodes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	1068	,	$,	$,	*	*	*	Hel_13.eaf
+liudi	liudi	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudi	NA	NA	I_MASC	I_MASC	PL_NOM	Hel_13.eaf
+libbien	libbien	libbian	S1b	leben	CF_CC_U_M	*	*	libbien	VV	VVINF	WK3	WK1A	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_13.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_13.eaf
+sculun	sculun	skulan	*	sollen, müssen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_13.eaf
+thruh	thruh	thurh	*	durch	*	*	*	thruh	AP	APPR	*	*	*	Hel_13.eaf
+lêra	lêra	lera	S2	Lehre, Gebot	*	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+godes	godes	god	*	Gott	*	*	1069	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+uuesan	uuesan	wesan	S1a	sein	*	*	*	uuesan	VA	VVINF	ST5	ST5	*	Hel_13.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+thesero	thesero	thesa	*	dieser, dieses, diese	*	*	*	thesero	DD	DD	*	*	FEM_SG_DAT	Hel_13.eaf
+uueroldi	uueroldi	werold	S1b	 Welt	CF_I_M	*	*	uueroldi	NA	NA	C,I_FEM,I_MASC	I_FEM	SG_DAT	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+sculun	sculun	skulan	*	sollen, müssen	*	*	*	sculun	VM	VMFIN	PRPR	PRPR	IND_PRES_PL_3	Hel_13.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDA	*	*	NEUT_PL_ACC	Hel_13.eaf
+uuerc	uuerc	werk	S2	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_13.eaf
+frummien	frummien	frummian	*	ausführen, vollbringen, tun,	CF_I_M	*	*	frummien	VV	VVINF	WK1B	WK1B	*	Hel_13.eaf
+,	,	*	*	*	*	*	1070	,	$,	$,	*	*	*	Hel_13.eaf
+thea	thea	the	*	der/dieser, das/dies(es), die/diese, derjenige, diejenige, dasjenige, welcher, welches, welche	*	*	*	thea	DD	DDSREL	*	*	MASC_PL_NOM	Hel_13.eaf
+thar	thar	thar	*	da, nun	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+uuerðad	uuerðad	werđan	*	werden	*	*	*	uuerdad	VA	VAFIN	ST3B	ST3B	IND_PRES_PL_3	Hel_13.eaf
+ahlûdid	ahlûdid	ahludian	S1	verkünden	*	*	*	ahludid	VV	VVPP	WK1A	WK1A	*	Hel_13.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_13.eaf
+thero	thero	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thero	DD	DDA	*	*	FEM_SG_DAT	Hel_13.eaf
+hêlogun	hêlogun	helag	S2	heilig	*	*	*	helogun	ADJ	ADJ	A,O	N	POS_FEM_SG_DAT_WK	Hel_13.eaf
+tungun	tungun	tunga	*	Zunge	*	*	*	tungun	NA	NA	N_FEM	N_FEM	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	1071	,	$,	$,	*	*	*	Hel_13.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(Es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_13.eaf
+galme	galme	galm	S1a	Lärm, Stimme	*	*	*	galme	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+godes	godes	god	S1b	Gott	CF_I_Rel	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_13.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_13.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_13.eaf
+lîf	lîf	lif	*	Leben	*	*	1072	lif	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_13.eaf
+liudeo	liudeo+sô	liudi	S1	Leute, Menschen, Volk	*	*	*	liudeo	NA	NA	I_MASC	I_MASC	PL_GEN	Hel_13.eaf
+sô huilicon	huilicon	so hwilik	*	wer immer, jeder der	CF_U_M	*	*	so huilicon	PW	PWG	A,O	N	MASC_SG_DAT_WK	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+sô	sô	so	*	so	*	*	*	so	KO	KOUS	*	*	*	Hel_13.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_ACC	Hel_13.eaf
+lêstean	lêstean	lestian	S2	befolgen, ausführen, vollbringen	*	*	*	lestean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+uuili	uuili	willian	*	wollen	CF_I_Adv_Mod	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1073	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	that	DD	DDSREL	*	*	NEUT_SG_NOM	Hel_13.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_13.eaf
+uualdandes	uualdandes	waldand	S1	Herrscher	*	*	*	uualdandes	NA	NA	ND_MASC	A_MASC	SG_GEN	Hel_13.eaf
+uuorde	uuorde	word	S2	Wort	*	*	*	uuorde	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_13.eaf
+gebiudid	gebiudid	gibiodan	*	gebieten, befehlen	CF_I_Rel	*	*	gebiudid	VV	VVFIN	ST2	ST2	IND_PRES_SG_3	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	1074	"	*	*	*	*	*	Hel_13.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_13.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_13.eaf
+niuson	niuson	niuson	S1	versuchen	CF_U_M	*	*	niuson	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+nâhor	nâhor	nah	S2	nahe	*	*	*	nahor	ADV	ADV	*	*	COMP	Hel_13.eaf
+geng	geng	gangan	*	gehen, wandeln	*	*	1075	geng	VV	VVFIN	RED1A	RED1A	IND_PAST_SG_3	Hel_13.eaf
+unhiuri	unhiuri	unhiuri	S1	unheimlich, grauenhaft	*	*	*	unhiuri	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_13.eaf
+fîund	fîund	fiund	*	der Teufel, die bösen höllischen Geister	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+ôðru	ôðru	ođar	S2	der zweite	*	*	*	odru	DI	DI	A,O	P	MASC_SG_INS_ST	Hel_13.eaf
+sîðu	sîðu	siđ	*	Mal	CF_I_M	*	*	sidu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_13.eaf
+,	,	*	*	*	*	*	1076	,	$,	$,	*	*	*	Hel_13.eaf
+fandoda	fandoda	fandon	S1a	versuchen, nachstellen	*	*	*	fandoda	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+frôhan	frôhan	fraho	S1b	Frau, Herr	CF_U_M	*	*	frohan	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+That	That	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_13.eaf
+friðubarn	friðubarn	friđubarn	S2	Friedenskind	*	*	*	fridubarn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_13.eaf
+tholode	tholode	tholon	*	erdulden, leiden, ertragen	*	*	1077	tholode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_13.eaf
+uurêðes	uurêðes	wređ	S1a	zornig, feindselig, böse	*	*	*	uuredes	ADJ	ADJS	A,O	P	POS_MASC_SG_GEN_ST	Hel_13.eaf
+uuilleon	uuilleon	willio	S1b	Wille, Absicht	CF_U_M	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+giuuald	giuuald	giwald	S2	Macht, Gewalt	*	*	*	giuuald	NA	NA	I_FEM,MASC	I_FEM,MASC	SG_ACC	Hel_13.eaf
+forgaf	forgaf	fargeban	*	geben, verleihen	CF_I_M	*	*	forgaf	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1078	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	dass, so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+umbi	umbi	umbi	*	wegen, in Bezug auf	*	*	*	umbi	AP	APPR	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+craft	craft	kraft	S1	Gewalt, Macht, Kraft	*	*	*	craft	NA	NA	C,I_FEM,C,A,I_MASC	C,I_FEM,C,A,I_MASC	SG_ACC	Hel_13.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_FEM,MASC_SG_ACC_0	Hel_13.eaf
+coston	coston	koston	S2	einen Versuch anstellen, auf die Probe stellen	*	*	*	coston	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+môsti	môsti	motan	*	können, dürfen, mögen	CF_I_Adv_Cns	*	*	mosti	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1079	,	$,	$,	*	*	*	Hel_13.eaf
+lêt	lêt	latan	*	lassen, zulassen, erlauben	*	*	*	let	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+thô	thô	tho	*	da, dort	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+lêdean	lêdean	ledian	S1	leiten, führen	*	*	*	ledean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+liudscaðon	liudscaðon	liudskađo	S2	Menschenschädiger, Menschenverderber	CF_U_M	*	*	liudscadon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1080	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	dass, so dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+an	an	an	*	in, nach	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+Hierusalem	Hierusalem	Hierusalem	S1	Jerusalem	*	*	*	hierusalem	NE	NEO	0_NEUT	0_NEUT	SG_DAT	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_13.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+uuîha	uuîha	wih	*	Heiligtum, Tempel	*	*	*	uuiha	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	1081	,	$,	$,	*	*	*	Hel_13.eaf
+alles	alles	alles	S1a	gänzlich, vollkommen	*	*	*	alles	ADV	ADV	*	*	*	Hel_13.eaf
+oƀanuuardan	oƀanuuardan	obanward	S1b	der oberste	*	*	*	obanuuardan	ADJ	ADJS	A,O	P	POS_MASC_SG_ACC_ST	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+up	up	up	S2	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_13.eaf
+gisetta	gisetta	gisettian	*	setzen, bringen	*	*	1082	gisetta	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_13.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_13.eaf
+hûso	hûso	hus	S1a	Haus	*	*	*	huso	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_13.eaf
+hôhost	hôhost	hoh	S1b	hoch	CF_I_Adv_Cns	*	*	hohost	ADJ	ADJS	A,O	A,O	SUP_NEUT_SG_ACC_0	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+hoscuuordun	hoscuuordun	hoskword	S2	Hohnwort	*	*	*	hoscuuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1083	,	$,	$,	*	*	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+gramo	gramo	gramo	S1a	Teufel, böser Geist	*	*	*	gramo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_13.eaf
+thurh	thurh	thurh	*	durch	*	*	*	thurh	AP	APPR	*	*	*	Hel_13.eaf
+gelp	gelp	gelp	S1b	Hohn, übermütige Trotzrede	*	*	*	gelp	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_13.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	CF_I_M	*	*	mikil	ADJ	ADJN	A,O	A,O	POS_MASC_SG_ACC_0	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+ef	ef	ef	*	wenn	*	*	*	ef	KO	KOUS	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+sîs	sîs	wesan	*	sein	*	*	*	sis	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_2	Hel_13.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+sunu	sunu	sunu	*	Sohn	CF_I_Adv_Cnd	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_PL_3	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+,	,	*	*	*	*	*	1084	,	$,	$,	*	*	*	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+scrîd	scrîd	skridan	S1	schreiten, gehen	*	*	*	scrid	VV	VVIMP	ST1	ST1	IMP_PRES_SG_2	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+erðu	erðu	erđa	*	Erde	*	*	*	erdu	NA	NA	N,O_FEM	O_FEM	SG_GEN	Hel_13.eaf
+hinan	hinan	hinan	*	von hier aus, weg von hier	CF_U_Imp	*	*	hinan	ADV	ADV	*	*	*	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Gescriƀan	Gescriƀan	giskriban	S2	schreiben	*	*	*	gescriban	VV	VVPP	ST1	ST1	*	Hel_13.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VAFIN	ST5	ST5	IND_PRES_SG_3	Hel_13.eaf
+it	it	he	*	er, sie, es (selbst)	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_13.eaf
+giu	giu	giu	*	einst, vordem	*	*	*	giu	ADV	ADV	*	*	*	Hel_13.eaf
+lango	lango	lango	*	lange, lange Zeit	*	*	*	lango	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1085	,	$,	$,	*	*	*	Hel_13.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+bôcun	bôcun	bok	S1	Schreibtafel, Buch	*	*	*	bocun	NA	NA	C,I_FEM,A_NEUT	C,I_FEM,A_NEUT	PL_DAT	Hel_13.eaf
+geuuriten	geuuriten	giwritan	*	schreiben	CF_U_M	*	*	geuuriten	VV	VVPP	ST1	ST1	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+huuô	huuô	hwo	*	wie, in welcher Weise	*	*	*	huuo	PW	PWAV	*	*	*	Hel_13.eaf
+giboden	giboden	gibiodan	S2	gebieten, befehlen	*	*	*	giboden	VV	VVPP	ST2	ST2	*	Hel_13.eaf
+haƀad	haƀad	hebbian	*	haben	*	*	1086	habad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+engilun	engilun	engil	S1	Engel	*	*	*	engilun	NA	NA	A_MASC	A_MASC	PL_DAT	Hel_13.eaf
+alomahtig	alomahtig	alomahtig	S2	allmächtig	*	*	*	alomahtig	ADJ	ADJ	A,O	P	POS_MASC_SG_NOM_ST	Hel_13.eaf
+fader	fader	fadar	*	Vater	CF_I_Adv_Mod	*	*	fader	NA	NA	ER_MASC	ER_MASC	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	1087	,	$,	$,	*	*	*	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+sie	sie	he	*	er, sie, es (selbst)	*	*	*	sie	PPER	PPER	*	*	MASC_PL_NOM_3	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_13.eaf
+at	at	at	*	in, auf	*	*	*	at	AP	APPR	*	*	*	Hel_13.eaf
+uuege	uuege	weg	S1	Weg, Straße	*	*	*	uuege	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_13.eaf
+gehuuem	gehuuem	gihwe	*	jeder, jedes, alles	*	*	*	gehuuem	DI	DIN	A,O	N	MASC_SG_DAT_WK	Hel_13.eaf
+uuardos	uuardos	ward	S2	Wart, Hüter, Beschützer	*	*	*	uuardos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_13.eaf
+sinðun	sinðun	wesan	*	sein	CF_I_O	*	*	sindun	VA	VAFIN	ST5	IRR	IND_PRES_PL_3	Hel_13.eaf
+,	,	*	*	*	*	*	1088	,	$,	$,	*	*	*	Hel_13.eaf
+haldad	haldad	haldan	S1a	hüten, pflegen, bewahren	*	*	*	haldad	VV	VVFIN	RED1A	RED1A	IND_PRES_PL_3	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_13.eaf
+undar	undar	undar	*	unter, zwischen	*	*	*	undar	AP	APPR	*	*	*	Hel_13.eaf
+iro	iro	he	*	er, sie, es (selbst)	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_13.eaf
+handun	handun	hand	S1b	Hand, Seite	CF_U_M	*	*	handun	NA	NA	U,I_FEM	U_FEM	PL_DAT	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Huuat	Huuat	hwe	*	fürwahr, ja	*	*	*	huuat	ITJ	ITJ	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+huuargin	huuargin	hwergin	S2	nirgendwo, auf keinen Fall	*	*	*	huuargin	ADV	ADV	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+tharft	tharft	thurban	*	dürfen, sollen, brauchen	*	*	1089	tharft	VA	VAFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_13.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_13.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	N	MASC_PL_DAT_WK	Hel_13.eaf
+fôtun	fôtun	fot	S1	Fuß	*	*	*	fotun	NA	NA	C,I_MASC	C_MASC	PL_DAT	Hel_13.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+felis	felis	felis	S2	Fels, Stein	*	*	*	felis	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+bespurnan	bespurnan	bispurnan	*	anstoßen	*	*	*	bespurnan	VV	VVINF	ST3B	ST3B	*	Hel_13.eaf
+,	,	*	*	*	*	*	1090	,	$,	$,	*	*	*	Hel_13.eaf
+an	an	an	*	in, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+hardan	hardan	hard	S1	hart, scharf, schwer	*	*	*	hardan	ADJ	ADJ	A,O	P	POS_MASC_SG_ACC_ST	Hel_13.eaf
+stên	stên	sten	*	Stein, Fels	CF_U_M	*	*	sten	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+eft	eft	eft	*	wieder, von neuem	*	*	*	eft	ADV	ADV	*	*	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+hêlago	hêlago	helag	S2	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_13.eaf
+Crist	Crist	Krist	*	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	1091	,	$,	$,	*	*	*	Hel_13.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_13.eaf
+barno	barno	barn	S1a	Kind, Sohn	*	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_13.eaf
+bezt	bezt	betst	S1b	best	CF_U_M	*	*	bezt	ADJ	ADJS	A,O	N	SUP_NEUT_SG_NOM_WK	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_13.eaf
+ôc	ôc	ok	*	auch	*	*	*	oc	ADV	ADV	*	*	*	Hel_13.eaf
+an	an	an	*	in, an, auf	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+bôcun	bôcun	bok	S2	Schreibtafel, Buch	*	*	*	bocun	NA	NA	C,I_FEM,A_NEUT	C,I_FEM,A_NEUT	PL_DAT	Hel_13.eaf
+gescriƀan	gescriƀan	giskriban	*	schreiben	CF_U_M	*	*	gescriban	VV	VVPP	ST1	ST1	*	Hel_13.eaf
+"	"	"	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	, 	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+,	,	*	*	*	*	*	1092	,	$,	$,	*	*	*	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	ADV	ADV	*	*	*	Hel_13.eaf
+hardo	hardo	hardo	S1	sehr	*	*	*	hardo	ADV	ADV	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_13.eaf
+hêrran	hêrran	herro	S2	Herr	*	*	*	herran	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_13.eaf
+thînes	thînes	thin	*	dein	*	*	*	thines	DPOS	DPOSN	A,O	P	MASC_SG_GEN_ST	Hel_13.eaf
+,	,	*	*	*	*	*	1093	,	$,	$,	*	*	*	Hel_13.eaf
+fandon	fandon	fandon	S1a	versuchen, nachstellen	*	*	*	fandon	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+thînes	thînes	thin	*	dein	*	*	*	thines	DPOS	DPOS	A,O	P	MASC_SG_GEN_ST	Hel_13.eaf
+frôhan	frôhan	fraho	S1b	Herr	CF_I_O	*	*	frohan	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+that	that	the	*	der/dieser, das/dies(es), die/diese	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_13.eaf
+n	*	ne	*	nicht	*	*	*	n	PTK	PTKNEG	*	*	*	Hel_13.eaf
+is	nis	wesan	*	sein	*	*	*	is	VA	VVFIN	ST5	IRR	IND_PRES_SG_3	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_13.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	FEM_PL_GEN_ST	Hel_13.eaf
+frumono	frumono	fruma	S2	Nutzen, Vorteil	*	*	*	frumono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_13.eaf
+negên	negên	nigen	*	kein	CF_U_M	*	*	negen	DI	DIS	A,O	N	FEM_PL_GEN_WK	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	1094	"	*	*	*	*	*	Hel_13.eaf
+Lêt	Lêt	latan	*	lassen, zulassen, erlauben	*	*	*	let	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+an	an	an	*	in, an, zu	*	*	*	an	AP	APPR	*	*	*	Hel_13.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+thriddean	thriddean	thriddio	S1	dritte	*	*	*	thriddean	ADJO	ADJO	N	N	MASC_SG_ACC	Hel_13.eaf
+sîð	sîð	siđ	*	Mal	*	*	*	sid	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+thana	thana	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thana	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+thiodscaðon	thiodscaðon	thiodskađo	S2	großer Schädiger, Teufel	*	*	1095	thiodscadon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+gibrengen	gibrengen	gibrengian	S1a	bringen, führen	*	*	*	gibrengen	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+uppan	uppan	uppan	*	oben, hinauf	*	*	*	uppan	ADV	ADV	*	*	*	Hel_13.eaf
+ênan	ênan	en	*	ein, einer	*	*	*	enan	DI	DIA	A,O	P	MASC_SG_ACC_ST	Hel_13.eaf
+berg	berg	berg	S1b	Berg	*	*	*	berg	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_13.eaf
+then	then	the	*	der/dieser, das/dies(es), die/diese	*	*	*	then	DD	DDA	*	*	MASC_SG_ACC	Hel_13.eaf
+hôhon	hôhon	hoh	*	hoch	CF_U_M	*	*	hohon	ADJ	ADJS	A,O	N	POS_MASC_SG_ACC_WK	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+balouuîso	balouuîso	baluwiso	S2	der ins Verderben Führende, Teufel	*	*	1096	balouuiso	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_13.eaf
+lêt	lêt	latan	*	lassen	*	*	*	let	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_13.eaf
+al	al	all	S1a	all	*	*	*	al	DI	DIS	A,O	A,O	NEUT_SG_ACC_0	Hel_13.eaf
+oƀarsehan	oƀarsehan	obarsehan	S1b	überschauen	*	*	*	obarsehan	VV	VVINF	ST5	ST5	*	Hel_13.eaf
+irminthiode	irminthiode	irminthioda	S2	Volk, Menschenvolk	*	*	*	irminthiode	NA	NA	O_FEM	O_FEM	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	1097	,	$,	$,	*	*	*	Hel_13.eaf
+uuonodsaman	uuonodsaman	wonodsam	S1a	erfreulich	*	*	*	uuonodsaman	ADJ	ADJ	A,O	P	MASC_SG_ACC_ST	Hel_13.eaf
+uuelon	uuelon	welo	S1b	Gut, Besitz, Reichtum	*	*	*	uuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+uueroldrîki	uueroldrîki	weroldriki	S2	Weltreich, Welt	*	*	1098	uueroldriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+all	all	all	*	all, ganz	*	*	*	all	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_13.eaf
+sulic	sulic	sulik	*	solch	*	*	*	sulic	DD	DDS	A,O	N	NEUT_SG_ACC_WK	Hel_13.eaf
+ôdes	ôdes	od	S1	Besitz	CF_U_M	*	*	odes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+sô	sô	so	*	so, wie, was	*	*	*	so	KO	KOUS	*	*	*	Hel_13.eaf
+thius	thius	thesa	*	dieser, dieses, diese, derartig	*	*	*	thius	DD	DD	*	*	FEM_SG_NOM	Hel_13.eaf
+erða	erða	erđa	S2	Erde	*	*	*	erda	NA	NA	N,O_FEM	N,O_FEM	SG_NOM	Hel_13.eaf
+bihaƀad	bihaƀad	bihebbian	*	umfassen, umschließen	*	*	1099	bihabad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_13.eaf
+fagororo	fagororo	fagar	S1a	schön, anmutig, friedlich	*	*	*	fagororo	ADJ	ADJ	A,O	P	POS_FEM_PL_GEN_ST	Hel_13.eaf
+frumono	frumono	fruma	S1b	Nutzen, Vorteil	CF_I_Adv_Mod	*	*	frumono	NA	NA	O_FEM	O_FEM	PL_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	*	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+thô	thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+fîund	fîund	fiund	S2	der Teufel, die bösen höllischen Geister	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+angegin	angegin	angegin	*	entgegen	CF_I_M	*	*	angegin	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1100	,	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_13.eaf
+al	al	all	*	all	*	*	*	al	DI	DI	A,O	A,O	NEUT_SG_ACC_0	Hel_13.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_13.eaf
+gôdlîc	gôdlîc	godlik	S1	gut, herrlich	*	*	*	godlic	ADJ	ADJS	A,O	A,O	POS_NEUT_SG_ACC_0	Hel_13.eaf
+forgeƀen	forgeƀen	fargeban	S2	geben, schenken	*	*	*	forgeben	VV	VVINF	ST5	ST5	*	Hel_13.eaf
+uueldi	uueldi	willian	*	wollen	*	*	*	uueldi	VM	VMFIN	IRR	IRR	SUBJ_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1101	,	$,	$,	*	*	*	Hel_13.eaf
+hôha	hôha	hoh	S1a	groß, vornehm	*	*	*	hoha	ADJ	ADJ	A,O	P	POS_MASC_PL_ACC_ST	Hel_13.eaf
+heridômos	heridômos	heridom	S1b	Herrschbezirk, Reich	CF_I_O	*	*	heridomos	NA	NA	A_MASC	A_MASC	PL_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+ef	ef	ef	*	wenn	*	*	*	ef	KO	KOUS	*	*	*	Hel_13.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_13.eaf
+uuilt	uuilt	willian	*	wollen	*	*	*	uuilt	VM	VMFIN	IRR	IRR	IND_PRES_SG_2	Hel_13.eaf
+hnîgan	hnîgan	hnigan	S2	anbeten	*	*	*	hnigan	VV	VVINF	ST1	ST1	*	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_13.eaf
+,	,	*	*	*	*	*	1102	,	$,	$,	*	*	*	Hel_13.eaf
+fallan	fallan	fallan	S1a	fallen, stürzen	*	*	*	fallan	VV	VVINF	RED1A	RED1A	*	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+mînun	mînun	min	*	mein	*	*	*	minun	DPOS	DPOS	A,O	P	MASC_PL_DAT_ST	Hel_13.eaf
+fôtun	fôtun	fot	S1b	Fuß	CF_I_Adv_Cnd	*	*	fotun	NA	NA	C,I_MASC	C_MASC	PL_DAT	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_13.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_13.eaf
+frôhan	frôhan	fraho	S2	Herr	*	*	*	frohan	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_13.eaf
+haƀas	haƀas	hebbian	*	haben, besitzen; halten	CF_I_M	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_13.eaf
+,	,	*	*	*	*	*	1103	,	$,	$,	*	*	*	Hel_13.eaf
+bedos	bedos	bedon	S1a	beten	*	*	*	bedos	VV	VVFIN	WK2	WK2	IND_PRES_SG_2	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+mînun	mînun	min	*	mein	*	*	*	minun	DPOS	DPOS	A,O	N	MASC_SG_DAT_WK	Hel_13.eaf
+barma	barma	barm	S1b	Schoß	CF_U_M	*	*	barma	NA	NA	A,I_MASC	A_MASC	SG_DAT	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_13.eaf
+lâtu	lâtu	latan	*	lassen, zulassen, erlauben	*	*	*	latu	VV	VVFIN	RED1B	RED1B	IND_PRES_SG_1	Hel_13.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_13.eaf
+brûcan	brûcan	brukan	S2	genießen, sich erfreuen	*	*	*	brucan	VV	VVINF	RED2	RED2	*	Hel_13.eaf
+uuel	uuel	wel	*	wohl, gut	*	*	1104	uuel	ADV	ADV	*	*	*	Hel_13.eaf
+alles	alles	alles	*	ganz	*	*	*	alles	ADV	ADV	*	*	*	Hel_13.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_13.eaf
+ôduuelon	ôduuelon	odwelo	S1	Besitz, Gut, Reichtum	CF_U_M	*	*	oduuelon	NA	NA	N_MASC	N_MASC	SG_GEN	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese, welcher, welches, welche	*	*	*	thes	DD	DDSREL	*	*	MASC_SG_GEN	Hel_13.eaf
+ic	ic	ik	*	ich	*	*	*	ic	PPER	PPER	*	*	SG_NOM_1	Hel_13.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_ACC_2	Hel_13.eaf
+hebbiu	hebbiu	hebbian	*	haben	*	*	*	hebbiu	VA	VAFIN	WK3	WK3	IND_PRES_SG_1	Hel_13.eaf
+giôgit	giôgit	ogian	S2	vor Augen stellen, zeigen	*	*	*	giogit	VV	VVPP	WK1A	WK1A	*	Hel_13.eaf
+hîr	hîr	her	*	hier	CF_I_Rel	*	*	hir	ADV	ADV	*	*	*	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	1105	"	*	*	*	*	*	Hel_13.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_13.eaf
+uuelda	uuelda	willian	*	wollen	*	*	*	uuelda	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_13.eaf
+thes	thes	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_13.eaf
+lêðan	lêðan	leđ	S1	feindlich, widerwärtig, böse	*	*	*	ledan	ADJ	ADJS	A,O	N	MASC_SG_GEN_WK	Hel_13.eaf
+uuord	uuord	word	*	Wort	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	SG,PL_ACC	Hel_13.eaf
+lengeron	lengeron	lang	S2	lang	*	*	*	lengeron	ADJ	ADJ	A,O	N	COMP_FEM_SG_ACC_WK	Hel_13.eaf
+huuîle	huuîle	hwila	*	Zeit,  Zeitdauer	*	*	1106	huuile	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_13.eaf
+hôrean	hôrean	horian	S1a	hören, anhören	*	*	*	horean	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+hêlago	hêlago	helag	S1b	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_13.eaf
+Crist	Crist	Krist	*	Christus	CF_U_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KOUS	*	*	*	Hel_13.eaf
+he	he	he	*	er, sie, es (selbst)	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_13.eaf
+ina	ina	he	*	er, sie, es (selbst)	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_13.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+huldi	huldi	huldi	S2	Huld, Gnade, Gunst	*	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_13.eaf
+fordrêf	fordrêf	fordriban	*	vertreiben	CF_I_M	*	*	fordref	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	1107	,	$,	$,	*	*	*	Hel_13.eaf
+Satanasan	Satanasan	Satanas	S1a	Satan	*	*	*	satanasan	NE	NE	A_MASC	P_MASC	SG_ACC	Hel_13.eaf
+forsuuêp	forsuuêp	farswepan	S1b	vertreiben, fortscheuchen	CF_U_M	*	*	forsuuep	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_3	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+sân	sân	san	S2	alsbald, sogleich, sofort	*	*	*	san	ADV	ADV	*	*	*	Hel_13.eaf
+aftar	aftar	aftar	*	nach, darauf	*	*	*	aftar	ADV	ADV	*	*	*	Hel_13.eaf
+sprac	sprac	sprekan	*	sprechen, reden	*	*	1108	sprac	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_13.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_13.eaf
+barno	barno	barn	S1a	Kind, Sohn	*	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_13.eaf
+bezt	bezt	betst	S1b	best	CF_I_M	*	*	bezt	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+quað	quað	queđan	*	sprechen, sagen	CF_U_M	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_13.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_13.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_13.eaf
+bedon	bedon	bedon	S2	beten	*	*	*	bedon	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+scoldi	scoldi	skulan	*	sollen, müssen	*	*	1109	scoldi	VM	VMFIN	PRPR	PRPR	SUBJ_PAST_SG_3	Hel_13.eaf
+up	up	up	S1a	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_13.eaf
+alomahtigon	alomahtigon	alomahtig	S1b	allmächtig	*	*	*	alomahtigon	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_13.eaf
+gode	gode	god	*	Gott	*	*	*	gode	NA	NE	A,I_MASC	A_MASC	SG_DAT	Hel_13.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+ênum	ênum	en	S2	ein	*	*	*	enum	CARD	CARDS	A,O	P	MASC_SG_DAT_ST	Hel_13.eaf
+thionon	thionon	thionon	*	dienen	*	*	1110	thionon	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+suuîðo	suuîðo	swiđo	*	sehr	*	*	*	suuido	ADV	ADV	*	*	*	Hel_13.eaf
+thiolico	thiolico	thioliko	S1	demütig	*	*	*	thiolico	ADV	ADV	*	*	*	Hel_13.eaf
+thegnos	thegnos	thegan	S2	Knabe, Mann	*	*	*	thegnos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_13.eaf
+managa	managa	manag	*	manch, viel	*	*	*	managa	DI	DIS	A,O	P	MASC_PL_NOM_ST	Hel_13.eaf
+,	,	*	*	*	*	*	1111	,	$,	$,	*	*	*	Hel_13.eaf
+heliðos	heliðos	heliđ	S1a	Held, Mann, Mensch	*	*	*	helidos	NA	NA	A,I_MASC	A_MASC	PL_NOM	Hel_13.eaf
+aftar	aftar	aftar	*	nach (um)	*	*	*	aftar	AP	APPR	*	*	*	Hel_13.eaf
+is	is	he	*	er, sie, es (selbst)	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_13.eaf
+huldi	huldi	huldi	S1b	Huld, Gnade, Gunst	CF_I_O	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+ist	ist	wesan	*	sein	*	*	*	ist	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_13.eaf
+thiu	thiu	the	*	der/dieser, das/dies(es), die/diese	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_13.eaf
+helpa	helpa	helpa	S2	Hilfe, Rettung, Erlösung	*	*	*	helpa	NA	NA	O_FEM	O_FEM	SG_NOM	Hel_13.eaf
+gelang	gelang	gilang	*	bereit	*	*	1112	gelang	ADJ	ADJD	A,O	A,O	POS_FEM_SG_NOM_0	Hel_13.eaf
+manno	manno	mann	S1	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	C,A_MASC	PL_GEN	Hel_13.eaf
+gehuuilicun	gehuuilicun	gihwilik	*	jeder, ein jeder	CF_U_M	*	*	gehuuilicun	DI	DIS	A,O	P	MASC_PL_DAT_ST	Hel_13.eaf
+.	.	*	*	*	*	*	*	.	$.	$.	*	*	*	Hel_13.eaf
+
+"	"	*	*	*	*	*	*	"	*	*	*	*	*	Hel_13.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_13.eaf
+giuuêt	giuuêt	giwitan	*	sich auf den Weg machen, gehen	*	*	*	giuuet	VV	VVFIN	ST1	ST1	IND_PAST_SG_3	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_13.eaf
+the	the	the	*	der/dieser, das/dies(es), die/diese	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_13.eaf
+mênscaðo	mênscaðo	menskađo	S2	Verderber, Unheilstifter, der Teufel	*	*	*	menscado	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_13.eaf
+,	,	*	*	*	*	*	1113	,	$,	$,	*	*	*	Hel_13.eaf
+suuîðo	suuîðo	swiđo	S1a	sehr	*	*	*	suuido	ADV	ADV	*	*	*	Hel_13.eaf
+sêragmôd	sêragmôd	seragmod	S1b	traurig, bekümmert	*	*	*	seragmod	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_13.eaf
+Satanas	Satanas	Satanas	S2	Satan	*	*	*	satanas	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_13.eaf
+thanan	thanan	thanan	*	von dannen	*	*	*	thanan	ADV	ADV	*	*	*	Hel_13.eaf
+,	,	*	*	*	*	*	1114	,	$,	$,	*	*	*	Hel_13.eaf
+fîund	fîund	fiund	S1a	der Teufel	*	*	*	fiund	NA	NA	ND_MASC	ND_MASC	SG_NOM	Hel_13.eaf
+undar	undar	undar	*	unter	*	*	*	undar	AP	APPR	*	*	*	Hel_13.eaf
+ferndalu	ferndalu	ferndalu	S1b	Täler, Abgründe der Hölle	CF_U_M	*	*	ferndalu	NA	NA	U_NEUT	U_NEUT	PL_ACC	Hel_13.eaf
+.	.	*	*	*	*	*	*	. 	$.	$.	*	*	*	Hel_13.eaf
+
+Uuarð	Uuarð	werđan	*	werden	*	*	*	uuard	VA	VAFIN	ST3B	ST3B	IND_PAST_SG_3	Hel_13.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_13.eaf
+folc	folc	folk	S2	Schar, Menge	*	*	*	folc	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_13.eaf
+mikil	mikil	mikil	*	groß, gewaltig, viel	*	*	1115	mikil	ADJ	ADJN	A,O	A,O	POS_NEUT_SG_NOM_0	Hel_13.eaf
+fon	fon	fan	*	von	*	*	*	fon	AP	APPR	*	*	*	Hel_13.eaf
+them	them	the	*	der/dieser, das/dies(es), die/diese	*	*	*	them	DD	DDA	*	*	MASC_SG_DAT	Hel_13.eaf
+alouualdan	alouualdan	alowaldo	S1	der Allwaltende	*	*	*	alouualdan	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_13.eaf
+oƀana	oƀana	obana	S2	von oben her	*	*	*	obana	ADV	ADV	*	*	*	Hel_13.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_13.eaf
+Criste	Criste	Krist	*	Christus	*	*	1116	criste	NE	NE	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+godes	godes	god	S1	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_13.eaf
+engilo	engilo	engil	*	Engel	*	*	*	engilo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_13.eaf
+cumen	cumen	kuman	*	kommen	CF_U_M	*	*	cumen	VV	VVPP	ST4	ST4	*	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDSREL	*	*	MASC_PL_NOM	Hel_13.eaf
+im	im	he	*	er, sie, es (selbst)	*	*	*	im	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_13.eaf
+sîðor	sîðor	siđor	*	nachher, darauf	*	*	*	sidor	ADV	ADV	*	*	*	Hel_13.eaf
+iungardôm	iungardôm	jungardom	S2	Jüngerschaft, Dienst	*	*	*	iungardom	NA	NA	A_MASC	A_MASC	SG_ACC	Hel_13.eaf
+,	,	*	*	*	*	*	1117	,	$,	$,	*	*	*	Hel_13.eaf
+scoldun	scoldun	skulan	*	sollen, müssen	*	*	*	scoldun	VM	VMFIN	PRPR	PRPR	IND_PAST_PL_3	Hel_13.eaf
+ambahtscepi	ambahtscepi	ambahtskepi	S1	Dienst	*	*	*	ambahtscepi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_13.eaf
+aftar	aftar	aftar	S2	nach, darauf	*	*	*	aftar	ADV	ADV	*	*	*	Hel_13.eaf
+lêstien	lêstien	lestian	*	befolgen, ausführen	*	*	*	lestien	VV	VVINF	WK1A	WK1A	*	Hel_13.eaf
+,	,	*	*	*	*	*	1118	,	$,	$,	*	*	*	Hel_13.eaf
+thionon	thionon	thionon	S1a	dienen, gehorchen, folgen	*	*	*	thionon	VV	VVINF	WK2	WK2	*	Hel_13.eaf
+thiolîco	thiolîco	thioliko	S1b	demütig	CF_I_Rel	*	*	thiolico	ADV	ADV	*	*	*	Hel_13.eaf
+:	:	*	*	*	*	*	*	:	$.	$.	*	*	*	Hel_13.eaf
+
+sô	sô	so	*	so, wie	*	*	*	so	KO	KOUS	*	*	*	Hel_13.eaf
+scal	scal	skulan	*	sollen, müssen, verpflichtet, bestimmt sein	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_13.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	PI	C,A_MASC	C,A	MASC_SG_NOM	Hel_13.eaf
+thiodgode	thiodgode	thiodgod	S2	der allmächtige Gott	*	*	*	thiodgode	NA	NE	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	1119	,	$,	$,	*	*	*	Hel_13.eaf
+hêrron	hêrron	herro	S1a	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_13.eaf
+aftar	aftar	aftar	*	gemäß, infolge	*	*	*	aftar	AP	APPR	*	*	*	Hel_13.eaf
+huldi	huldi	huldi	S1b	Huld, Genade, Gunst	*	*	*	huldi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_13.eaf
+,	,	*	*	*	*	*	*	,	$,	$,	*	*	*	Hel_13.eaf
+heƀancuninge	heƀancuninge	hebankuning	S2	Himmelskönig	CF_I_Adv_Mod	*	*	hebancuninge	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_13.eaf
+.	*	*	*	*	*	XIII	1120	. 	$.	$.	*	*	*	Hel_13.eaf

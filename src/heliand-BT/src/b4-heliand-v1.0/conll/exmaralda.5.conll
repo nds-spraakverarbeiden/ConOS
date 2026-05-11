@@ -1,0 +1,589 @@
+# ID	WORD	PARSE	aboutness	alliteration	bibl	context	definiteness	bg	marker	givenness	position	no	comm	marker	trans
+
+# paula/b4.heliand/5_standoff/exmaralda.5
+
+1	Tho	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	B	B	_	B	_	_	_	S-1	_	_	B
+2	uuard	(VFIN (VP (VAUX *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+3	fon	(ADVDIR (PP (P *)	_	_	I	I	_	I	_	_	_	B-4	_	_	I
+4	Rumuburg	(N *)))	_	S-+	I	I	_	I	_	_	_	E-4	_	_	I
+5	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+6	rikes	(attr_su_1 (np 1 (A *)	_	S-+	I	I	_	I	_	_	_	B-4	_	_	I
+7	mannes	(N *)))	_	_	I	I	_	I	_	_	_	E-4	_	_	I
+8	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+9	obar	(PO (PP (P *)	_	_	B	I	_	I	_	_	_	B-9	_	_	I
+10	alla	(A *)	_	_	I	I	_	I	_	_	_	I-9	_	_	I
+11	thesa	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-9	_	_	I
+12	irminthiod	(N *)))	S-ref	S-+	I	I	S-DEF	I	_	S-NEW	S-NONINIT	E-9	_	_	I
+13	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+14	Octauianas	(attr_su_2 (np 2 (N *)))	S-ref	S-+	I	I	S-DEF	I	_	S-NEW	S-NONINIT	S-5	_	_	I
+15	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+16	ban	(SUBJ (NP (N *))	B-ref	S-+	B	I	B-INDEF	I	_	B-NEW	B-NONINIT	B-6	_	_	I
+17	endi	(CONJ *)	I-ref	_	I	I	I-INDEF	I	_	I-NEW	I-NONINIT	I-6	_	_	I
+18	bodskepi	(NP (N *)))	E-ref	S-+	I	I	E-INDEF	I	_	E-NEW	E-NONINIT	E-6	_	_	I
+19	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+20	obar	(app_po (PP (P *)	_	_	I	I	_	I	_	_	_	B-8	_	_	I
+21	thea	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-8	_	_	I
+22	is	(PRONPRS *)	_	_	I	I	_	I	_	_	_	I-8	_	_	I
+23	bredon	(A *)	_	S-+	I	I	_	I	_	_	_	I-8	_	_	I
+24	giuuald	(N *)))	_	_	I	I	_	I	_	_	_	E-8	_	_	I
+25	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+26	cuman	(PARTPF (VP (VA *)))	_	S-+	B	I	_	I	_	_	_	S-2	_	_	I
+27	fon	(PO (PP (P *)	_	_	I	I	_	I	_	_	_	B-5	_	_	I
+28	them	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-5	_	_	I
+29	kesure	(N *)))	_	S-+	I	I	_	I	_	_	_	E-5	_	_	I
+30	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+31	cuningo	(attr_po (NP (N *)))	_	S-+	I	I	_	I	_	_	_	S-3	_	_	I
+32	gihuilicun	(IO (NP (PRONINDEF *)	_	_	I	I	_	I	_	_	_	S-4	_	_	I
+33	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+34	hemsitteandiun	(VA *))))	S-ref	S-+	B	E	S-DEF	E	_	S-NEW	S-NONINIT	S-6	_	_	E
+35	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+36	so	((ADVMOD *)	_	_	I	B	_	_	_	_	_	B-4	_	_	B
+37	uuido	(A *)	_	_	I	I	_	_	_	_	_	I-4	_	_	I
+38	so	(ADVMOD *)	_	_	I	I	_	_	_	_	_	E-4	_	_	I
+39	is	(SUBJ (NP (PRONPRS *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+40	heritogon	(N *)))	S-ref	S-+	I	I	S-DEF	_	_	S-GIV	S-INIT	E-5	_	_	I
+41	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+42	obar	(PO (PP (P *)	_	_	B	I	_	_	_	_	_	B-7	_	_	I
+43	al	(A *)	_	_	I	I	_	_	_	_	_	I-7	_	_	I
+44	that	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-7	_	_	I
+45	landskepi	(N *)	_	S-+	I	I	_	_	_	_	_	E-7	_	_	I
+46	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+47	liudio	(N *)))	S-ref	S-+	I	I	S-DEF	_	_	S-GIV	S-NONINIT	S-3	_	_	I
+48	giuueldun	(VFIN (VP (V *))))	_	_	I	E	_	_	_	_	_	S-3	_	_	E
+49	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+50	Hiet	((VFIN (VP (V *)))	_	_	B	B	_	B	_	_	_	S-1	B	_	B
+51	man	(DO (NP (N *))))	S-ref	_	I	E	S-DEF	I	_	S-GIV	S-NONINIT	S-1	E	_	E
+52	that	((CONJ *)	_	_	I	B	_	I	_	_	_	S-1	_	_	B
+53	alla	(SUBJ (NP (A *)	B-ref	S-+	I	I	B-DEF	I	_	B-acc:inf	B-INIT	B-8	_	_	I
+54	thea	(PRONDEM *)	I-ref	_	I	I	I-DEF	I	_	I-acc:inf	I-INIT	I-8	_	_	I
+55	elilendiun	(A *)	I-ref	S-+	I	I	I-DEF	I	_	I-acc:inf	I-INIT	I-8	_	_	I
+56	man	(N *)))	E-ref	_	I	I	E-DEF	I	_	E-acc:inf	E-INIT	E-8	_	_	I
+57	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+58	iro	(DO (NP (PRONPRS *)	_	_	I	I	_	I	_	_	_	B-4	_	_	I
+59	odil	(N *)))	_	S-+	I	I	_	I	_	_	_	E-4	_	_	I
+60	sohtin	(VFIN (VP (V *)))	_	_	I	I	_	I	_	_	_	S-2	_	_	I
+61	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+62	helidos	(app_su (NP (N *)))	_	S-+	B	I	_	I	_	_	_	S-3	_	_	I
+63	iro	(app_do (NP (PRONPRS *)	_	_	I	I	_	I	_	_	_	B-5	_	_	I
+64	handmahal	(N *)))	_	S-+	I	I	_	I	_	_	_	E-5	_	_	I
+65	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+66	angegen	(ADVMOD (PP (P *)	_	_	I	I	_	I	_	_	_	B-9	_	_	I
+67	iro	(PRONPRS *)	_	_	I	I	_	I	_	_	_	I-9	_	_	I
+68	herron	(N *)	_	S-+	I	I	_	I	_	_	_	I-9	_	_	I
+69	bodon	(N *))))	S-ref	_	I	E	S-DEF	E	_	S-NEW	S-NONINIT	E-9	_	_	E
+70	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+71	quami	((VFIN (VP (V *)))	_	_	B	B	_	_	_	_	_	S-2	_	_	B
+72	te	(ADVDIR (PP (P *)	_	_	I	I	_	_	_	_	_	B-3	_	_	I
+73	them	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-3	_	_	I
+74	cnosla	(N *)))	_	S-+	I	I	_	_	_	_	_	E-3	_	_	I
+75	gihue	(SUBJ (NP (PRONINDEF *))))	S-ref	_	I	E	S-INDEF	_	_	S-acc:inf	S-NONINIT	S-2	_	_	E
+76	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+77	thanan	((ADVLOC *)	_	_	I	B	_	_	_	_	_	S-2	_	_	B
+78	he	(SUBJ (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	I
+79	cunneas	(PRD (NP (N *)))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+80	uuas	(VFIN (VP (VAUX *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+81	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+82	giboran	(PARTPF (VP (VA *)))	_	S-+	B	I	_	_	_	_	_	S-3	_	_	I
+83	fon	(app_pred (PP (P *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+84	them	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-5	_	_	I
+85	burgiun	(N *))))	_	S-+	I	E	_	_	_	_	_	E-5	_	_	E
+86	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+87	That	((SUBJ (NP (PRONDEM *)	B-ref	_	I	B	B-DEF	B	_	B-giv:inactive	B-INIT	B-3	B	_	B
+88	gibod	(N *)))	E-ref	S-+	I	I	E-DEF	E	_	E-giv:inactive	E-INIT	E-3	E	_	I
+89	uuard	(VFIN (VP (VAUX *))	_	_	I	I	_	B	_	_	_	S-1	B	_	I
+90	gilestid	(PARTPF (VA *)))	_	_	I	I	_	E	_	_	_	S-3	I	_	I
+91	//	*	_	_	E	I	_	_	_	_	_	_	I	_	I
+92	obar	(ADVDIR (PP (P *)	_	_	B	I	_	_	_	_	_	B-8	I	_	I
+93	thesa	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-8	I	_	I
+94	uuidon	(A *)	_	S-+	I	I	_	_	_	_	_	I-8	I	_	I
+95	uuerold	(N *))))	_	S-+	I	E	_	_	_	_	_	E-8	E	_	E
+96	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+97	Uuerod	((SUBJ (NP (N *)))	S-ref	S-+	I	B	S-DEF	S	_	S-giv:inactive	S-INIT	S-2	S	_	B
+98	samnoda	(VFIN (VP (V *)))	_	_	I	I	_	B	_	_	_	S-3	B	_	I
+99	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+100	te	(ADVLOC (PP (P *)	_	_	B	I	_	I	_	_	_	B-8	I	_	I
+101	allaro	(A *)	_	_	I	I	_	I	_	_	_	I-8	I	_	I
+102	burgeo	(N *)	_	S-+	I	I	_	I	_	_	_	I-8	I	_	I
+103	gihuuem	(PRONINDEF *))))	_	_	I	E	_	E	_	_	_	E-8	E	_	E
+104	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+105	Forun	((VFIN (VP (V *)))	_	_	I	B	_	B	_	_	_	S-2	_	_	B
+106	thea	(SUBJ (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	I	_	B-giv:inactive	B-NONINIT	B-3	_	_	I
+107	bodon	(N *)))	E-ref	S-+	I	I	E-DEF	I	_	E-giv:inactive	E-NONINIT	E-3	_	_	I
+108	obar	(ADVDIR (PP (P *)	_	_	I	I	_	I	_	_	_	B-3	_	_	I
+109	all	(A *))))	_	_	I	E	_	E	_	_	_	E-3	_	_	E
+110	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+111	thea	((SUBJ (NP (PRONDEM *)))	S-ref	_	B	B	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	B
+112	fon	(PO (PP (P *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+113	them	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-5	_	_	I
+114	kesura	(N *)))	S-ref	S-+	I	I	S-DEF	_	_	S-giv:inactive	S-NONINIT	E-5	_	_	I
+115	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+116	cumana	(PARTPF (VP (VA *))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+117	uuarun	(VFIN (VAUX *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+118	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+119	bokspaha	(app_su (NP (A *)	_	S-+	B	I	_	_	_	_	_	B-5	_	_	I
+120	uueros	(N *))))	_	_	I	E	_	_	_	_	_	E-5	_	_	E
+121	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+122	endi	((CONJ *)	_	_	I	B	_	_	_	_	_	S-2	_	_	B
+123	an	(PO (PP (P *)	_	_	I	I	_	_	_	_	_	B-2	_	_	I
+124	bref	(N *)))	_	S-+	I	I	_	_	_	_	_	E-2	_	_	I
+125	scribun	(VFIN (VP (V *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+126	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+127	suido	(ADVMOD (ADVP (ADVMOD *)	_	_	B	I	_	_	_	_	_	B-5	_	_	I
+128	niudlico	(ADVMOD *)))	_	S-+	I	I	_	_	_	_	_	E-5	_	_	I
+129	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+130	namono	(DO (NP (N *)	_	S-+	I	I	_	_	_	_	_	B-7	_	_	I
+131	gihuilican	(PRONINDEF *)))	_	_	I	I	_	_	_	_	_	E-7	_	_	I
+132	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+133	ia	(app_do (CONJ *)	_	_	B	I	_	_	_	_	_	B-5	_	_	I
+134	land	(NP (N *))	_	S-+	I	I	_	_	_	_	_	I-5	_	_	I
+135	ia	(CONJ *)	_	_	I	I	_	_	_	_	_	I-5	_	_	I
+136	liudi	(NP (N *))))	_	S-+	I	E	_	_	_	_	_	E-5	_	_	E
+137	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+138	that	((CONJ *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+139	im	(NP (PRONPRS *))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+140	ni	(VFIN (VP (NEG *)	_	_	I	I	_	_	_	_	_	B-3	_	_	I
+141	mahti	(modal *)))	_	_	I	I	_	_	_	_	_	E-3	_	_	I
+142	alettean	(INF (VP (V *)))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+143	man	(SUBJ (NP (N *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+144	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+145	gumono	(attr_su (NP (N *)))	_	S-+	B	I	_	_	_	_	_	S-3	_	_	I
+146	sulica	(DO (NP (A *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+147	gambra	(N *))))	_	S-+	I	E	_	_	_	_	_	E-4	_	_	E
+148	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+149	so	((ADVMOD *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+150	im	(NP (PRONPRS *))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+151	scolda	(VFIN (VP (modal *))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+152	geldan	(INF (V *)))	_	S-+	I	I	_	_	_	_	_	S-2	_	_	I
+153	gihue	(SUBJ (NP (PRONINDEF *)))	B-ref	_	I	I	B-DEF	_	_	B-GIV	B-NONINIT	S-2	_	_	I
+154	//	*	I-ref	_	E	I	I-DEF	_	_	I-GIV	I-NONINIT	_	_	_	I
+155	helido	(ATTR (NP (N *)))	E-ref	S-+	B	I	E-DEF	_	_	E-GIV	E-NONINIT	S-3	_	_	I
+156	fon	(PO (PP (P *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+157	is	(PRONPRS *)	_	_	I	I	_	_	_	_	_	I-4	_	_	I
+158	hobda	(N *))))	_	S-+	I	E	_	_	_	_	_	E-4	_	_	E
+159	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+160	Tho	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+161	giuuet	(VFIN (VP (V *)))	_	_	I	I	_	I	_	_	_	S-2	_	_	I
+162	im	(NP (PRONPRS *))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+163	oc	(CONJ *)	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+164	mid	(PO (PP (P *)	_	_	I	I	_	I	_	_	_	B-5	_	_	I
+165	is	(PRONPRS *)	_	_	I	I	_	I	_	_	_	I-5	_	_	I
+166	hiuuisca	(N *)))	_	S-+	I	I	_	I	_	_	_	E-5	_	_	I
+167	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+168	Ioseph	(SUBJ (NP (N *)	B-ref	_	B	I	B-DEF	I	_	B-giv:inactive	B-NONINIT	B-5	_	_	I
+169	the	(PRONDEM *)	I-ref	_	I	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	I-5	_	_	I
+170	godo	(N *))))	E-ref	S-+	I	E	E-DEF	E	_	E-giv:inactive	E-NONINIT	E-5	_	_	E
+171	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+172	so	((ADVMOD *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+173	it	(DO (NP (PRONPRS *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+174	god	(SUBJ (NP (N *)	S-ref	S-+	I	I	S-DEF	_	_	S-giv:inactive	S-NONINIT	B-3	_	_	I
+175	mahtig	(A *)))	_	_	I	I	_	_	_	_	_	E-3	_	_	I
+176	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+177	uualdand	(app_su (NP (N *)))	_	S-+	B	I	_	_	_	_	_	S-2	_	_	I
+178	uuelda	(VFIN (VP (V *))))	_	S-+	I	E	_	_	_	_	_	S-2	_	_	E
+179	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+180	sohta	((VFIN (VP (V *)))	_	_	I	B	_	B	_	_	_	S-2	B	_	B
+181	im	(NP (PRONPRS *))	_	_	I	I	_	I	_	_	_	S-1	I	_	I
+182	thiu	(DO (NP (PRONDEM *)	_	_	I	I	_	I	_	_	_	B-5	I	_	I
+183	uuanamon	(A *)	_	S-+	I	I	_	I	_	_	_	I-5	I	_	I
+184	hem	(N *)))	_	_	I	I	_	I	_	_	_	E-5	I	_	I
+185	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+186	thea	(app_do (NP (PRONDEM *)	_	_	B	I	_	I	_	_	_	B-6	I	_	I
+187	burg	(N *))	_	S-+	I	I	_	I	_	_	_	I-6	I	_	I
+188	an	(PP (P *)	_	_	I	I	_	I	_	_	_	I-6	I	_	I
+189	Bethleem	(N *))))	S-ref	S-+	I	E	S-DEF	E	S-FEXP	S-NEW	S-NONINIT	E-6	E	S-FEXP	E
+190	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+191	thar	((ADVLOC *)	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+192	iro	(attr_su (NP (PRONPRS *)	_	_	I	I	_	I	_	_	_	B-4	_	_	I
+193	beidero	(prnum *)))	S-ref	S-+	I	I	S-DEF	I	_	S-acc:aggr	S-INIT	E-4	_	_	I
+194	uuas	(VFIN (VP (V *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+195	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+196	thes	(attr_su (NP (PRONDEM *)	B-ref	_	B	I	B-DEF	I	_	B-GIV	B-NONINIT	B-7	_	_	I
+197	helides	(N *))	E-ref	S-+	I	I	E-DEF	I	_	E-GIV	E-NONINIT	I-7	_	_	I
+198	handmahal	(SUBJ (N *)))	_	S-+	I	I	_	I	_	_	_	E-7	_	_	I
+199	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+200	endi	(CONJ *)	_	_	I	I	_	I	_	_	_	S-2	_	_	I
+201	oc	(CONJ *)	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+202	thera	(attr_su (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	I	_	B-giv:inactive	B-NONINIT	B-7	_	_	I
+203	helagun	(A *)	I-ref	S-+	I	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	I-7	_	_	I
+204	thiornun	(N *))	I-ref	_	I	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	E-7	_	_	I
+205	//	*	I-ref	_	E	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	_	_	_	I
+206	Mariun	(NP (N *)	I-ref	S-+	B	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	B-7	_	_	I
+207	thera	(PRONDEM *)	I-ref	_	I	I	I-DEF	I	_	I-giv:inactive	I-NONINIT	I-7	_	_	I
+208	godun	(A *))))	E-ref	_	I	E	E-DEF	E	_	E-giv:inactive	E-NONINIT	E-7	_	_	E
+209	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+210	Thar	((ADVLOC (ADVP (ADVLOC *)))	S-ref	_	I	B	S-DEF	S	_	S-GIV	S-INIT	S-1	S	_	B
+211	uuas	(VFIN (VP (V *)))	_	_	I	I	_	B	_	_	_	S-1	B	_	I
+212	thes	(attr_su_1 (NP (PRONDEM *)	_	_	I	I	_	I	_	_	_	B-4	I	_	I
+213	mareon	(A *))	_	S-+	I	I	_	I	_	_	_	E-4	I	_	I
+214	stol	(SUBJ (N *)))	_	_	I	I	_	I	_	_	_	S-1	I	_	I
+215	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+216	an	(ADVTEMP (PP (P *)	_	_	B	I	_	I	_	_	_	B-4	I	_	I
+217	erdagun	(N *)))	_	S-+	I	I	_	I	_	_	_	E-4	I	_	I
+218	/	*	_	_	I	I	_	I	_	_	_	_	I	_	I
+219	adalcuninges	(attr_su_2 (NP (N *))	_	S-+	I	I	_	I	_	_	_	S-5	I	_	I
+220	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+221	Dauides	(NP (N *)	S-ref	S-+	B	I	S-DEF	I	S-FEXP	S-NEW	S-NONINIT	B-6	I	S-FEXP	I
+222	thes	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-6	I	_	I
+223	godon	(A *))))	_	_	I	E	_	E	_	_	_	E-6	E	_	E
+224	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+225	than	((ADVTEMP *)	_	_	I	B	_	_	_	_	_	B-3	_	_	B
+226	langa	(A *)	_	_	I	I	_	_	_	_	_	E-3	_	_	I
+227	the	(SUBJ (PTC *)	_	_	I	I	_	_	_	_	_	B-2	_	_	I
+228	he	(NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	E-2	_	_	I
+229	thana	(DO (NP (PRONDEM *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+230	druhtskepi	(N *)))	_	S-+	I	I	_	_	_	_	_	E-4	_	_	I
+231	thar	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+232	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+233	erl	(attr_su (NP (N *))	_	S-+	B	I	_	_	_	_	_	S-1	_	_	I
+234	undar	(PP (P *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+235	Ebreon	(N *)))	_	S-+	I	I	_	_	_	_	_	E-5	_	_	I
+236	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+237	egan	(INF (VP (V *))	_	S-+	I	I	_	_	_	_	_	S-2	_	_	I
+238	mosta	(VFIN (modal *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+239	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+240	haldan	(app_do+inf (VP (V *))	_	S-+	B	I	_	_	_	_	_	S-2	_	_	I
+241	hohgisetu	(NP (N *))))	_	S-+	I	E	_	_	_	_	_	S-4	_	_	E
+242	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+243	Siu	((SUBJ (NP (PRONPRS *)))	S-ref	_	I	B	S-DEF	S	_	S-giv:inactive	S-INIT	S-1	S	_	B
+244	uuarun	(VFIN (VP (VCOP *)))	_	_	I	I	_	B	_	_	_	S-2	B	_	I
+245	is	(PRD (NP (PRONPRS *)	_	_	I	I	_	I	_	_	_	B-3	I	_	I
+246	hiuuiscas	(N *))))	_	S-+	I	E	_	E	S-FEXP	_	_	E-3	E	S-FEXP	E
+247	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+248	cuman	((PARTPF (VP (VA *)))	_	S-+	B	B	_	_	_	_	_	S-2	_	_	B
+249	fon	(ADVDIR (PP (P *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+250	is	(PRONPRS *)	_	_	I	I	_	_	_	_	_	I-4	_	_	I
+251	cnosla	(N *)))	_	S-+	I	I	_	_	_	_	_	E-4	_	_	I
+252	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+253	cunneas	(attr_adv:dir (NP (N *)	_	S-+	I	I	_	_	_	_	_	B-5	_	_	I
+254	godes	(N *)))	_	_	I	I	_	_	_	_	_	E-5	_	_	I
+255	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+256	bediu	(attr_su (NP (prnum *)))	S-ref	S-+	B	I	S-DEF	_	_	S-GIV	S-NONINIT	S-2	_	_	I
+257	bi	(ADVMOD (PP (P *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+258	giburdiun	(N *))))	_	S-+	I	E	_	_	_	_	_	E-5	_	_	E
+259	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+260	Thar	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+261	gifragn	(VFIN (VP (V *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+262	ic	(SUBJ (NP (PRONPRS *))))	S-ref	_	I	E	S-DEF	_	_	S-acc:sit	S-NONINIT	S-1	_	_	E
+263	that	((CONJ *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+264	sie	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	I
+265	thiu	(SUBJ (NP (PRONDEM *)	_	_	I	I	_	_	_	_	_	B-6	_	_	I
+266	berhtun	(A *)	_	S-+	I	I	_	_	_	_	_	I-6	_	_	I
+267	giscapu	(N *)))	_	_	I	I	_	_	_	_	_	E-6	_	_	I
+268	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+269	Mariun	(app_do (NP (N *)))	_	S-+	B	I	_	_	_	_	_	B-7	_	_	I
+270	gimanodun	(VFIN (VP (V *)))	_	S-+	I	I	_	_	_	_	_	E-7	_	_	I
+271	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+272	endi	(CONJ *)	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+273	maht	(app_su (NP (N *)	_	S-+	I	I	_	_	_	_	_	B-3	_	_	I
+274	godes	(N *))))	_	_	I	E	_	_	_	_	_	E-3	_	_	E
+275	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+276	that	((CONJ *)	_	_	B	B	_	_	_	_	_	S-1	_	_	B
+277	iru	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	S-2	_	_	I
+278	an	(ADVLOC (PP (P *)	_	_	I	I	_	B	_	_	_	B-4	_	_	I
+279	them	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-4	_	_	I
+280	sida	(N *)))	_	S-+	I	I	_	I	_	_	_	E-4	_	_	I
+281	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+282	sunu	(SUBJ (NP (N *)))	S-ref	S-+	I	I	_	I	_	S-giv:inactive	S-INIT	S-2	_	_	I
+283	odan	(PARTPF (VP (VA *))	_	_	I	I	_	I	_	_	_	S-2	_	_	I
+284	uuard	(VFIN (VAUX *))))	_	_	I	E	_	E	_	_	_	S-1	_	_	E
+285	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+286	giboran	((PARTPF (VP (VA *)))	_	S-+	B	B	_	_	_	_	_	S-3	_	_	B
+287	an	(ADVLOC (NP (P *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+288	Bethleem	(N *)))	_	S-+	I	I	_	_	_	_	_	E-4	_	_	I
+289	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+290	barno	(SUBJ (NP (N *)	B-ref	S-+	I	I	B-DEF	_	_	B-GIV	B-INIT	B-4	_	_	I
+291	strangost	(A *)))	E-ref	_	I	I	E-DEF	_	_	E-GIV	E-INIT	E-4	_	_	I
+292	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+293	allaro	(app_su (NP (A *)	_	_	B	I	_	_	_	_	_	B-9	_	_	I
+294	cuningo	(N *)	_	S-+	I	I	_	_	_	_	_	I-9	_	_	I
+295	craftigost	(A *))))	_	S-+	I	E	_	_	_	_	_	E-9	_	_	E
+296	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+297	cuman	((INF (VP (VA *))	_	S-+	I	_	_	_	_	_	_	S-2	_	_	B
+298	uuard	(VFIN (VAUX *)))	_	_	I	_	_	_	_	_	_	S-1	_	_	I
+299	the	(SUBJ (NP (PRONDEM *)	B-ref	_	I	_	B-DEF	_	_	B-GIV	B-NONINIT	B-5	_	_	I
+300	mario	(A *)	I-ref	_	I	_	I-DEF	_	_	I-GIV	I-NONINIT	I-5	_	_	I
+301	//	*	I-ref	_	E	_	I-DEF	_	_	I-GIV	I-NONINIT	I-5	_	_	I
+302	mahtig	(A *)))	E-ref	S-+	B	_	E-DEF	_	_	E-GIV	E-NONINIT	E-5	_	_	I
+303	an	(ADVDIR (PP (P *)	_	_	I	_	_	_	_	_	_	B-4	_	_	I
+304	manno	(N *)	_	S-+	I	_	_	_	_	_	_	I-4	_	_	I
+305	lioht	(N *))))	_	_	I	_	_	_	_	_	_	E-4	_	_	E
+306	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+307	so	((ADVMOD *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+308	is	(su_1 (NP (PRONPRS *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+309	er	(ADVTEMP (ADVP (ADVTEMP *))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+310	managan	(NP (A *)	_	S-+	I	I	_	_	_	_	_	B-4	_	_	I
+311	dag	(N *)))	_	_	I	I	_	_	_	_	_	E-4	_	_	I
+312	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+313	bilidi	(su_2 (NP (N *)))	_	S-+	B	I	_	_	_	_	_	S-3	_	_	I
+314	uuarun	(VFIN (VP (VAUX *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+315	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+316	endi	(CONJ *)	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+317	bogno	(SUBJ (NP (N *))	_	S-+	I	I	_	_	_	_	_	B-4	_	_	I
+318	filu	(ADVP (ADVMOD *)))	_	_	I	I	_	_	_	_	_	E-4	_	_	I
+319	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+320	giuuorden	(PARTPF (VP (VA *)))	_	S-+	B	I	_	_	_	_	_	S-3	_	_	I
+321	an	(ADVLOC (PP (P *)	_	_	I	I	_	_	_	_	_	B-7	_	_	I
+322	thesero	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-7	_	_	I
+323	uueroldi	(N *))))	_	S-+	I	E	_	_	_	_	_	E-7	_	_	E
+324	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+325	Tho	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+326	uuas	(VFIN (VP (VAUX *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+327	it	(SUBJ (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	I	_	S-acc:sit	S-NONINIT	S-1	_	_	I
+328	all	(ADVMOD (ADVP (ADVMOD *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+329	giuuarod	(PARTPF (VP (VA *)))	_	S-+	I	I	_	I	S-FEXP	_	_	S-3	_	S-FEXP	I
+330	so	(ADVMOD (ADVP (ADVMOD *))))	_	_	I	E	_	E	_	_	_	S-1	_	_	E
+331	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+332	so	((ADVMOD *)	_	_	B	B	_	_	_	_	_	S-1	_	_	B
+333	it	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	I
+334	er	(ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+335	spaha	(SUBJ (NP (A *)	_	S-+	I	I	_	_	_	_	_	B-3	_	_	I
+336	man	(N *)))	_	_	I	I	_	_	_	_	_	E-3	_	_	I
+337	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+338	gisprocan	(PARTPF (VP (VA *))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+339	habdun	(VFIN (VAUX *))))	_	_	I	E	_	_	_	_	_	S-2	_	_	E
+340	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+341	thurh	((ADVMOD (PP (P *)	_	_	B	B	_	_	_	_	_	B-6	_	_	B
+342	huilic	(PRONINDEF *)	_	_	I	I	_	_	_	_	_	I-6	_	_	I
+343	odmodi	(N *)))	_	S-+	I	I	_	_	_	_	_	E-6	_	_	I
+344	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+345	he	(SUBJ (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-giv:inactive	S-NONINIT	S-1	_	_	I
+346	thit	(DO (NP (PRONDEM *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+347	erdriki	(N *)))	_	S-+	I	I	_	_	_	_	_	E-4	_	_	I
+348	herod	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+349	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+350	thurh	(ADVMOD (PP (P *)	_	_	B	I	_	_	_	_	_	B-5	_	_	I
+351	is	(PRONPRS *)	_	_	I	I	_	_	_	_	_	I-5	_	_	I
+352	selbes	(PRONDEM *)	_	S-+	I	I	_	_	_	_	_	I-5	_	_	I
+353	craft	(N *)))	_	_	I	I	_	_	_	_	_	E-5	_	_	I
+354	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+355	sokean	(INF (VP (V *))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+356	uuelda	(VFIN (modal *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+357	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+358	managaro	(app_su (NP (A *)	_	S-+	B	I	_	_	_	_	_	B-7	_	_	I
+359	mundboro	(N *))))	_	S-+	I	E	_	_	_	_	_	E-7	_	_	E
+360	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+361	Tho	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+362	ina	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	I	_	S-GIV	S-NONINIT	S-2	_	_	I
+363	thiu	(SUBJ (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	I	_	B-giv:inactive	B-NONINIT	B-3	_	_	I
+364	modar	(N *)))	E-ref	S-+	I	I	E-DEF	I	_	E-giv:inactive	E-NONINIT	E-3	_	_	I
+365	nam	(VFIN (VP (V *))))	_	_	I	E	_	E	_	_	_	S-1	_	_	E
+366	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+367	biuuand	((VFIN (VP (V *)))	_	S-+	B	B	_	B	_	_	_	S-2	B	_	B
+368	ina	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	I	_	S-GIV	S-NONINIT	S-2	I	_	I
+369	mid	(PO (PP (P *)	_	_	I	I	_	I	_	_	_	B-4	I	_	I
+370	uuadiu	(N *)))	_	S-+	I	I	_	E	_	_	_	E-4	E	_	I
+371	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+372	uuibo	(su (NP (N *)	B-ref	S-+	I	I	B-DEF	B	_	B-GIV	B-NONINIT	B-5	_	_	I
+373	sconiost	(A *)))	E-ref	_	I	I	E-DEF	E	_	E-GIV	E-NONINIT	E-5	_	_	I
+374	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+375	fagaron	(IO (NP (A *)	_	S-+	B	I	_	B	_	_	_	B-6	S	_	I
+376	fratahun"	(N *))))	_	S-+	I	E	_	E	_	_	_	E-6	_	_	E
+377	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+378	endi	((CONJ *)	_	_	I	B	_	_	_	_	_	S-2	_	_	B
+379	ina	(DO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-NONINIT	S-1	_	_	I
+380	mid	(ADVMOD (PP (P *)	_	_	I	I	_	_	_	_	_	B-6	_	_	I
+381	iro	(PRONPRS *)	_	_	I	I	_	_	_	_	_	I-6	_	_	I
+382	folmon	(N *)	_	S-+	I	I	_	_	_	_	_	I-6	_	_	I
+383	tuuem	(NUM *)))	_	_	I	I	_	_	_	_	_	E-6	_	_	I
+384	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+385	legda	(VFIN (VP (V *)))	_	S-+	B	I	_	_	_	_	_	S-2	_	_	I
+386	lioflico	(ADVMOD (ADVP (ADVMOD *)))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+387	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+388	luttilna	(app_do (NP (A *)	_	S-+	I	I	_	_	_	_	_	B-4	_	_	I
+389	man	(N *)))	_	_	I	I	_	_	_	_	_	E-4	_	_	I
+390	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+391	that	(app_do (NP (PRONDEM *)	_	_	B	I	_	_	_	_	_	B-2	_	_	I
+392	kind	(N *)))	_	_	I	I	_	_	_	_	_	E-2	_	_	I
+393	an	(PO (PP (P *)	_	_	I	I	_	B	_	_	_	B-6	_	_	I
+394	ena	(NUM *)	_	_	I	I	_	I	_	_	_	I-6	_	_	I
+395	cribbiun	(N *))))	_	S-+	I	E	_	E	_	_	_	E-6	_	_	E
+396	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+397	thoh	((CONJ *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+398	he	(SUBJ (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	I
+399	habdi	(VFIN (VP (V *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+400	craft	(DO (NP (N *)	_	S-+	I	I	_	_	_	_	_	B-3	_	_	I
+401	godes	(N *)))	_	_	I	I	_	_	_	_	_	E-3	_	_	I
+402	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+403	manno	(app_su (NP (N *)	_	S-+	B	I	_	_	_	_	_	B-4	_	_	I
+404	drohtin	(N *))))	_	_	I	E	_	_	_	_	_	E-4	_	_	E
+405	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+406	Thar	((ADVLOC (ADVP (ADVLOC *)))	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+407	sat	(VFIN (VP (V *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+408	thiu	(SUBJ (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	_	_	B-GIV	B-NONINIT	B-3	_	_	I
+409	modar	(N *)))	E-ref	S-+	I	I	E-DEF	_	_	E-GIV	E-NONINIT	E-3	_	_	I
+410	biforan	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-3	_	_	I
+411	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+412	uuif	(app_su (NP (N *)	_	S-+	B	I	_	_	_	_	_	B-5	_	_	I
+413	uuacogeandi	(VA *))))	_	S-+	I	E	_	_	_	_	_	E-5	_	_	E
+414	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+415	uuardoda	((VFIN (VP (V *)))	_	S-+	I	B	_	_	_	_	_	S-3	B	_	B
+416	selbo	(NP (PRONDEM *)))	_	_	I	E	_	_	_	_	_	S-2	E	_	E
+417	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+418	held	((VFIN (VP (V *)))	_	S-+	B	B	_	_	_	_	_	S-1	B	_	B
+419	that	(DO (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	_	_	B-GIV	B-NONINIT	B-4	I	_	I
+420	helaga	(A *)	I-ref	S-+	I	I	I-DEF	_	_	I-GIV	I-NONINIT	I-4	I	_	I
+421	barn	(N *))))	E-ref	_	I	E	E-DEF	_	_	E-GIV	E-NONINIT	E-4	E	_	E
+422	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+423	ni	((VFIN (VP (NEG *)	_	_	I	B	_	_	_	_	_	B-2	_	_	B
+424	uuas	(VCOP *)))	_	_	I	I	_	_	_	_	_	E-2	_	_	I
+425	ira	(SUBJ (NP (PRONDEM *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+426	hugi	(N *)))	_	S-+	I	I	_	_	_	_	_	E-4	_	_	I
+427	tuuifli	(PRD (AP (A *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+428	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+429	thera	(IO (NP (PRONDEM *)	B-ref	_	B	I	B-DEF	_	_	B-GIV	B-NONINIT	B-4	_	_	I
+430	magad	(N *)))	E-ref	S-+	I	I	E-DEF	_	_	E-GIV	E-NONINIT	E-4	_	_	I
+431	ira	(app_su (NP (PRONPRS *)	_	_	I	I	_	_	_	_	_	B-5	_	_	I
+432	modsebo	(N *))))	_	S-+	I	E	_	_	_	_	_	E-5	_	_	E
+433	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+434	Tho	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+435	uuard	(VFIN (VP (VCOP *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+436	managun	(IO (NP (A *)))	_	S-+	I	I	_	I	S-FEXP	_	_	S-3	_	S-FEXP	I
+437	cud	(PRD (AP (A *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+438	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+439	obar	(ADVDIR (PP (P *)	_	_	B	I	_	I	_	_	_	B-8	_	_	I
+440	thesa	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-8	_	_	I
+441	uuidon	(A *)	_	S-+	I	I	_	I	_	_	_	I-8	_	_	I
+442	uuerold	(N *))))	_	S-+	I	E	_	E	_	_	_	E-8	_	_	E
+443	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+444	uuardos	((SUBJ (NP (N *)))	S-ref	S-+	I	B	S-DEF	B	S-FEXP	S-NEW	S-INIT	S-2	_	S-FEXP	B
+445	antfundun	(VFIN (VP (V *))))	_	_	I	E	_	E	_	_	_	S-3	_	_	E
+446	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+447	thea	((SUBJ (NP (PRONDEM *)))	S-ref	_	B	B	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	B
+448	thar	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+449	ehuscalcos	(PRD (NP (N *)))	_	S-+	I	I	_	_	_	_	_	S-4	_	_	I
+450	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+451	uta	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-2	_	_	I
+452	uuarun	(VFIN (VP (VCOP *)))	_	S-+	I	I	_	_	_	_	_	S-2	_	_	I
+453	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+454	uueros	(app_su (NP (N *))	_	S-+	B	I	_	_	_	_	_	S-2	_	_	I
+455	an	(PP (P *)	_	_	I	I	_	_	_	_	_	B-3	_	_	I
+456	uuahtu	(N *))))	_	S-+	I	E	_	_	_	_	_	E-3	_	_	E
+457	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+458	uuiggeo	((DO (NP (N *)))	_	S-+	I	B	_	_	_	_	_	S-3	B	_	B
+459	gomean	(VFIN (VP (V *)))	_	_	I	I	_	_	_	_	_	S-2	I	_	I
+460	//	*	_	_	E	I	_	_	_	_	_	_	I	_	I
+461	fehas	(app_do (NP (N *)))	_	S-+	B	I	_	_	_	_	_	S-2	I	_	I
+462	aftar	(ADVLOC (PP (P *)	_	_	I	I	_	_	_	_	_	B-4	I	_	I
+463	felda	(N *))))	_	S-+	I	E	_	_	_	_	_	E-4	E	_	E
+464	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+465	gisahun	((VFIN (VP (V *)))	_	_	I	B	_	B	_	_	_	S-3	B	_	B
+466	finistri	(SUBJ (NP (N *)))	_	S-+	I	I	_	I	_	_	_	S-3	I	_	I
+467	an	(ADVMOD (PP (P *)	_	_	I	I	_	I	_	_	_	B-2	I	_	I
+468	tuue	(NUM *)))	_	_	I	I	_	I	_	_	_	E-2	I	_	I
+469	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+470	telatan	(INF (VP (V *)))	_	_	B	I	_	I	_	_	_	S-3	I	_	I
+471	an	(ADVLOC (PP (P *)	_	_	I	I	_	I	_	_	_	B-3	I	_	I
+472	lufte	(N *))))	_	S-+	I	E	_	I	_	_	_	E-3	I	_	E
+473	/	*	_	_	I	_	_	I	_	_	_	_	I	_	_
+474	endi	((CONJ *)	_	_	I	B	_	I	_	_	_	S-2	I	_	B
+475	quam	(VFIN (VP (V *)))	_	_	I	I	_	I	_	_	_	S-1	I	_	I
+476	lioht	(SUBJ (NP (N *)	B-ref	S-+	I	I	B-DEF	I	S-FEXP	B-NEW	B-NONINIT	B-4	I	S-FEXP	I
+477	godes	(N *)))	E-ref	_	I	I	E-DEF	I	_	E-NEW	E-NONINIT	E-4	I	_	I
+478	//	*	_	_	E	I	_	I	_	_	_	_	I	_	I
+479	uuanum	(predattr (AP (A *)))	_	S-+	B	I	_	I	_	_	_	S-2	I	_	I
+480	thurh	(PO (PP (P *)	_	_	I	I	_	I	_	_	_	B-4	I	_	I
+481	thiu	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-4	I	_	I
+482	uuolcan	(N *))))	_	S-+	I	E	_	E	_	_	_	E-4	E	_	E
+483	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+484	endi	((CONJ *)	_	_	I	B	_	_	_	_	_	S-2	_	_	B
+485	thea	(DO (NP (PRONDEM *)	_	_	I	I	_	_	_	_	_	B-3	_	_	I
+486	uuardos	(N *)))	S-ref	S-+	I	I	S-DEF	_	_	S-GIV	S-INIT	E-3	_	_	I
+487	thar	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+488	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+489	bifeng	(VFIN (VP (V *)))	_	_	B	I	_	_	_	_	_	S-2	_	_	I
+490	an	(ADVLOC (PP (P *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+491	them	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-4	_	_	I
+492	felda	(N *))))	_	S-+	I	E	_	_	_	_	_	E-4	_	_	E
+493	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+494	Sie	((SUBJ (NP (PRONPRS *)))	S-ref	_	I	B	S-DEF	_	_	S-GIV	S-INIT	S-1	S	_	B
+495	uurdun	(VFIN (VP (VCOP *)))	_	_	I	I	_	_	_	_	_	S-2	B	_	I
+496	an	(PRD (PP (P *)	_	_	I	I	_	_	_	_	_	B-3	I	_	I
+497	forhtun	(N *)))	_	S-+	I	I	_	_	_	_	_	E-3	I	_	I
+498	tho	(ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	I	_	_	_	_	_	S-1	I	_	I
+499	//	*	_	_	E	I	_	_	_	_	_	_	I	_	I
+500	thea	(app_su (NP (PRONDEM *)	_	_	B	I	_	_	_	_	_	B-2	I	_	I
+501	man	(N *)))	_	S-+	I	I	_	_	_	_	_	E-2	I	_	I
+502	an	(ADVLOC (PP (P *)	_	_	I	I	_	_	_	_	_	B-5	I	_	I
+503	ira	(PRONPRS *)	_	_	I	I	_	_	_	_	_	I-5	I	_	I
+504	moda	(N *))))	_	S-+	I	E	_	_	_	_	_	E-5	E	_	E
+505	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+506	gisahun	((VFIN (VP (V *)))	_	_	I	B	_	_	_	_	_	S-3	B	_	B
+507	thar	(ADVLOC (ADVP (ADVLOC *)))	_	_	I	I	_	_	_	_	_	S-1	I	_	I
+508	mahtigna	(DO (NP (A *)	_	S-+	I	I	_	_	_	_	_	S-3	I	_	I
+509	//	*	_	_	E	I	_	_	_	_	_	_	I	_	I
+510	godes	(N *)	B-ref	S-+	B	I	B-DEF	_	S-FEXP	B-giv:inactive	B-NONINIT	B-4	I	S-FEXP	I
+511	engil	(N *)))	E-ref	_	I	I	E-DEF	_	_	E-giv:inactive	E-NONINIT	E-4	I	_	I
+512	cuman	(INF (VP (V *))))	_	_	I	E	_	_	_	_	_	S-2	E	_	E
+513	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+514	the	((SUBJ (NP (PRONDEM *)))	S-ref	_	I	B	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	B
+515	im	(IO (NP (PRONPRS *)))	S-ref	_	I	I	S-DEF	_	_	S-GIV	S-NONINIT	S-1	_	_	I
+516	tegegnes	(ADVLOC (ADVP (ADVLOC *)))	_	S-+	I	I	_	_	_	_	_	S-3	_	_	I
+517	sprac	(VFIN (VP (V *))))	_	_	I	E	_	_	_	_	_	S-1	_	_	E
+518	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+519	het	((VFIN (VP (V *))))	_	_	B	S	_	_	_	_	_	S-1	_	_	S
+520	that	((CONJ *)	_	_	I	B	_	_	_	_	_	S-1	_	_	B
+521	im	(NP (PRONPRS *))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+522	thea	(SUBJ (NP (PRONDEM *)	B-ref	_	I	I	B-DEF	_	_	B-GIV	B-NONINIT	B-3	_	_	I
+523	uuardos	(N *)))	E-ref	S-+	I	I	E-DEF	_	_	E-GIV	E-NONINIT	E-3	_	_	I
+524	/	*	_	_	I	I	_	_	_	_	_	_	_	_	I
+525	uuiht	(DO (NP (N *)))	_	S-+	I	I	_	_	_	_	_	S-1	_	_	I
+526	ne	(VFIN (VP (NEG *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+527	antdredin	(V *)))	_	_	I	I	_	_	_	_	_	E-4	_	_	I
+528	//	*	_	_	E	I	_	_	_	_	_	_	_	_	I
+529	ledes	(attr_do (NP (N *)))	_	S-+	B	I	_	_	_	_	_	S-2	_	_	I
+530	fon	(PO (PP (P *)	_	_	I	I	_	_	_	_	_	B-4	_	_	I
+531	them	(PRONDEM *)	_	_	I	I	_	_	_	_	_	I-4	_	_	I
+532	liohta	(N *))))	_	S-+	I	E	_	_	_	_	_	E-4	_	_	E
+533	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+534	Ic	((SUBJ (NP (PRONPRS *)))	S-ref	_	I	B	S-DEF	_	_	S-GIV	S-INIT	S-1	_	_	B
+535	scal	(VFIN (VP (modal *)))	_	_	I	I	_	_	_	_	_	S-1	_	_	I
+536	eu	(IO (NP (PRONPRS *))))	S-ref	_	I	E	S-DEF	_	_	S-GIV	S-NONINIT	S-1	_	_	E
+537	quad	((VFIN (VP (V *)))	_	_	I	S	_	_	_	_	_	S-1	_	_	B
+538	he	(SUBJ (NP (PRONPRS *))))	S-ref	_	I	_	S-DEF	_	_	S-GIV	S-NONINIT	S-1	_	_	E
+539	liobora	((DO (NP (A *)	_	S-+	I	_	_	_	_	_	_	S-3	_	_	B
+540	thing	(N *)))	_	_	I	_	_	_	_	_	_	S-1	_	_	I
+541	//	*	_	_	E	_	_	_	_	_	_	_	_	_	I
+542	suido	(ADVMOD (ADVP (ADVMOD *)))	_	S-+	B	_	_	_	_	_	_	S-2	_	_	I
+543	uuarlico	(ADVMOD (ADVP (ADVMOD *)))	_	S-+	I	_	_	_	_	_	_	S-3	_	_	I
+544	/	*	_	_	I	_	_	_	_	_	_	_	_	_	I
+545	uuilleon	(app_do (NP (N *)))	_	S-+	I	_	_	_	_	_	_	S-3	_	_	I
+546	seggean	(INF (VP (V *)))	_	S-+	I	_	_	_	_	_	_	S-3	_	_	I
+547	//	*	_	_	E	_	_	_	_	_	_	_	_	_	I
+548	cudean	(app_inf (VP (V *)))	_	S-+	B	_	_	_	_	_	_	S-3	_	_	I
+549	craft	(app_do (NP (N *)	_	S-+	I	_	_	_	_	_	_	B-3	_	_	I
+550	mikil	(A *))))	_	_	I	_	_	_	_	_	_	E-3	_	_	E
+551	/	*	_	_	I	_	_	_	_	_	_	_	_	_	_
+552	Nu	((ADVTEMP (ADVP (ADVTEMP *)))	_	_	I	B	_	B	_	_	_	S-1	_	_	B
+553	is	(VFIN (VP (VAUX *)))	_	_	I	I	_	I	_	_	_	S-1	_	_	I
+554	Krist	(SUBJ (NP (N *)))	S-ref	S-+	I	I	S-DEF	I	_	S-giv:inactive	S-NONINIT	S-1	_	_	I
+555	geboran	(PARTPF (VP (VA *)))	_	_	I	I	_	I	_	_	_	S-3	_	_	I
+556	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+557	an	(ADVTEMP (PP (P *)	_	_	B	I	_	I	_	_	_	B-7	_	_	I
+558	thesero	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-7	_	_	I
+559	selbun	(A *)	_	S-+	I	I	_	I	_	_	_	I-7	_	_	I
+560	naht	(N *)))	_	_	I	I	_	I	_	_	_	E-7	_	_	I
+561	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+562	salig	(app_su (NP (A *)	_	S-+	I	I	_	I	_	_	_	B-5	_	_	I
+563	barn	(N *)	_	_	I	I	_	I	_	_	_	I-5	_	_	I
+564	godes	(N *)))	_	_	I	I	_	I	_	_	_	E-5	_	_	I
+565	//	*	_	_	E	I	_	I	_	_	_	_	_	_	I
+566	an	(ADVLOC (PP (P *)	_	_	B	I	_	I	_	_	_	B-7	_	_	I
+567	thera	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-7	_	_	I
+568	Dauides	(N *)	_	S-+	I	I	_	I	_	_	_	I-7	_	_	I
+569	burg	(N *)))	_	_	I	I	_	I	_	_	_	E-7	_	_	I
+570	/	*	_	_	I	I	_	I	_	_	_	_	_	_	I
+571	drohtin	(app_su (NP (N *)	_	S-+	I	I	_	I	_	_	_	B-5	_	_	I
+572	the	(PRONDEM *)	_	_	I	I	_	I	_	_	_	I-5	_	_	I
+573	godo	(A *))))	_	_	I	E	_	E	_	_	_	E-5	_	_	E
+574	//	*	_	_	E	_	_	_	_	_	_	_	_	_	_
+575	That	((SUBJ (NP (PRONDEM *)))	S-ref	_	B	B	S-DEF	_	_	S-GIV	S-INIT	S-1	S	_	B
+576	is	(VFIN (VP (VCOP *)))	_	_	I	I	_	_	_	_	_	S-1	B	_	I
+577	mendislo	(PRD (NP (N *)	_	S-+	I	I	_	_	_	_	_	S-3	I	_	I
+578	/	*	_	_	I	I	_	_	_	_	_	_	I	_	I
+579	manno	(N *)	_	S-+	I	I	_	_	_	_	_	B-5	I	_	I
+580	cunneas	(N *)))	_	_	I	I	_	_	_	_	_	E-5	I	_	I
+581	//	*	_	_	E	I	_	_	_	_	_	_	I	_	I
+582	allaro	(app_pred (NP (A *)	_	_	B	I	_	_	_	_	_	B-8	I	_	I
+583	firiho	(N *)	_	S-+	I	I	_	_	_	_	_	I-8	I	_	I
+584	fruma	(N *))))	_	S-+	I	E	_	_	_	_	_	E-8	E	_	E
+

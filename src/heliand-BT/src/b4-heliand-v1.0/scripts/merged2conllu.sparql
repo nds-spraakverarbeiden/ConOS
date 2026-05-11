@@ -1,0 +1,747 @@
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# input: ID	WORD	PARSE	HID	LEMMA	UPOS	HPOS	HHEAD	HEDGE	DID	DLEMMA	DUPOS	DPOS	DHEAD	DEDGE
+
+# aggregate rdf:values of parents 
+
+# get XPOS
+INSERT {
+	?w conll:XPOS ?pos
+} WHERE {
+	?w a nif:Word; powla:hasParent/rdf:value ?pos
+};
+
+# prune alignment errors and gaps
+DELETE {
+	?w ?prop "?"
+} WHERE {
+	?w a nif:Word; ?prop ?val.
+	FILTER(?prop in (conll:DPOS,conll:HPOS, conll:UPOS, conll:LEMMA, conll:DLEMMA, conll:DUPOS ))
+	FILTER(?val in ("_","*","?"))
+};	
+
+# prune UPOS to valid values only
+DELETE {
+	?w conll:UPOS ?upos
+} WHERE {
+	?w conll:UPOS ?upos.
+	FILTER(?upos not in ("ADJ","ADP","ADV","AUX","CCONJ","DET","INTJ","NOUN","NUM","PART","PRON","PROPN","PUNCT","SCONJ","VERB","X"))
+};
+
+# if UPOS, this is from HeliPaD
+DELETE {
+	?w conll:MISC ?misc
+} INSERT {
+	?w conll:MISC ?comment
+} WHERE {	
+	?w conll:UPOS [].
+	OPTIONAL { ?w conll:MISC ?misc.}
+	BIND(if(bound(?misc), concat(?misc,";HP"), "HP") as ?comment)
+};
+	
+# if no UPOS (from HeliPaD), get it from DDD (comment added later)
+INSERT {
+	?w conll:UPOS ?upos.
+} WHERE {
+	{ 
+		?w conll:DUPOS ?upos
+		MINUS {
+			?w conll:UPOS []
+		}
+		FILTER(?upos in ("ADJ","ADP","ADV","AUX","CCONJ","DET","INTJ","NOUN","NUM","PART","PRON","PROPN","PUNCT","SCONJ","VERB","X"))
+	} UNION {
+		?w conll:UPOS ?upos; conll:DUPOS ?upos.
+	}
+};
+
+# if no LEMMA (from HeliPaD, because these match better), get it from DDD
+INSERT {
+	?w conll:LEMMA ?lemma
+} WHERE {
+	?w conll:DLEMMA ?lemma.
+	MINUS {
+		?w conll:LEMMA []
+	}
+};
+
+# turn HHEAD and DHEAD to object properties
+DELETE {
+	?w ?prop_head ?hid
+} INSERT {
+	?w ?prop_head ?h
+} WHERE {
+	{
+		?w a nif:Word; ?prop_head ?hid.
+		VALUES (?prop_head ?prop_id) {
+			(conll:HHEAD conll:HID)
+			(conll:DHEAD conll:DID)
+		}
+		?w ?prop_id ?wid.
+		FILTER(xsd:int(?hid)<xsd:int(?wid))
+		?h ?prop_id ?hid; nif:nextWord+ ?w.
+		MINUS { 
+			VALUES (?prop_head ?prop_id) {
+				(conll:HHEAD conll:HID)
+				(conll:DHEAD conll:DID)
+			}
+			?w ?prop_head ?hid.
+			?h ?prop_id ?hid; nif:nextWord+ [ ?prop_id ?hid; nif:nextWord+ ?w ]
+		}
+	} UNION {
+		?w a nif:Word; ?prop_head ?hid.
+		VALUES (?prop_head ?prop_id) {
+			(conll:HHEAD conll:HID)
+			(conll:DHEAD conll:DID)
+		}
+		?w ?prop_id ?wid.
+		FILTER(xsd:int(?hid)>xsd:int(?wid))
+		?h ?prop_id ?hid; (^nif:nextWord)+ ?w.
+		MINUS { 
+			VALUES (?prop_head ?prop_id) {
+				(conll:HHEAD conll:HID)
+				(conll:DHEAD conll:DID)
+			}
+			?w ?prop_head ?hid.
+			?h ?prop_id ?hid; (^nif:nextWord)+ [ ?prop_id ?hid; (^nif:nextWord)+ ?w ]
+		}
+	}  
+};
+
+# remove non-object *HEAD and *ID properties
+DELETE {
+	?w ?prop ?val
+} WHERE {
+	?w ?prop ?val
+	FILTER( ?prop in (conll:DHEAD,conll:HHEAD,conll:DID,conll:HID))
+	FILTER(isliteral(?val))
+};
+
+# for every word, count the number of DHEAD and HHEAD dependents
+INSERT {
+	?w conll:DDEPS ?ds; conll:HDEPS ?hs
+} WHERE {
+	?w a nif:Word.
+	OPTIONAL
+		{
+			SELECT ?w (COUNT(distinct ?dd) as ?ddeps)
+			WHERE { ?dd conll:DHEAD ?w }
+			GROUP BY ?w
+		}
+	OPTIONAL
+		{
+			SELECT ?w (COUNT(distinct ?hd) as ?hdeps)
+			WHERE { ?hd conll:HHEAD ?w }
+			GROUP BY ?w
+		}
+	BIND(if(bound(?ddeps), ?ddeps, 0) as ?ds)
+	BIND(if(bound(?hdeps), ?hdeps, 0) as ?hs)
+};
+
+# for every powla:Node, set the number of DHEAD and HHEAD dependents to the maximum of its children
+INSERT {
+	?n conll:DDEPS ?max_ds; conll:HDEPS ?max_hs
+} WHERE {
+	{ SELECT ?n (max(?ds) as ?max_ds)
+	  WHERE {
+		?d conll:DDEPS ?ds; powla:hasParent+ ?n
+	  } GROUP BY ?n
+	}
+	{ SELECT ?n (max(?hs) as ?max_hs)
+	  WHERE {
+		?d conll:HDEPS ?hs; powla:hasParent+ ?n
+	  } GROUP BY ?n
+	}
+};
+
+# for every child of a powla:Node, create an x:HHEAD property (these will be subsequently pruned)
+INSERT {
+	?n x:HEAD ?c
+} WHERE {
+	?c powla:hasParent ?n
+};
+
+# for every nif:Word whose conll:HHEAD has the same parent, adopt conll:HHEAD as conll:HEAD property and remove x:HEAD
+DELETE {
+	?n x:HEAD ?w.
+	?w conll:HEAD ?s.
+} INSERT {
+	?w conll:HEAD ?hh.
+	?w conll:EDGE ?he.
+} WHERE {
+	?n x:HEAD ?w, ?hh.
+	?w conll:HHEAD ?hh.
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?w conll:HEDGE ?he.
+	OPTIONAL {
+		?w conll:DHEAD ?dh.
+		?w conll:DEDGE ?de.
+	}
+};
+
+# for every nif:Word whose conll:DHEAD has the same parent, adopt conll:DHEAD as conll:HEAD property and remove x:HEAD
+DELETE {
+	?n x:HEAD ?w.
+	?w conll:HEAD ?s.
+} INSERT {
+	?w conll:HEAD ?dh.
+	?w conll:EDGE ?de.
+} WHERE {
+	?n x:HEAD ?w, ?dh.
+	OPTIONAL {
+		?w conll:HHEAD ?hh.
+		?w conll:HEDGE ?he.
+	}
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?w conll:DHEAD ?dh.
+	?w conll:DEDGE ?de.
+};
+
+# remove x:HEAD if another x:HEAD has a higher ?hdeps scopre
+DELETE {
+	?n x:HEAD ?c
+} WHERE {
+	?n x:HEAD ?c,?d.
+	?c conll:HDEPS ?cds.
+	?d conll:HDEPS ?dds.
+	FILTER(?dds > ?cds)
+};
+
+# remove x:HEAD if another x:HEAD has a higher ?ddeps scopre
+DELETE {
+	?n x:HEAD ?c
+} WHERE {
+	?n x:HEAD ?c,?d.
+	?c conll:DDEPS ?cds.
+	?d conll:DDEPS ?dds.
+	FILTER(?dds > ?cds)
+};
+
+# remove x:HEAD if another x:HEAD precedes it (=> keep first)
+DELETE {
+	?n x:HEAD ?c
+} WHERE {
+	?n x:HEAD ?c,?d.
+	?w powla:hasParent* ?c.
+	?v powla:hasParent* ?d.
+	?v nif:nextWord+ ?w.
+	FILTER(?c!=?d)
+};
+
+# => we have now established one head per constituent, which points to the most prominent sub-constituent and (indirectly) to the syntactic head
+
+# attach unattached words *within a phrase* to the (indirect) x:HEAD
+# => remaining unattached words are either not within phrases or they are their x:HEADs
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?x; conll:EDGE ?e; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?s.
+	?s a nif:Sentence.
+	?w powla:hasParent ?p.
+	?p x:HEAD+ ?x.
+	?x a nif:Word.
+	FILTER(?x != ?w)
+	{	?w conll:HHEAD ?x.
+		?w conll:HEDGE ?e.
+	} UNION {
+		?w conll:DHEAD ?x.
+		MINUS { ?w conll:HHEAD ?x }
+		?w conll:DEDGE ?e
+	} UNION {
+		?w powla:hasParent [].
+		MINUS { ?w conll:HHEAD ?x }
+		MINUS { ?w conll:DHEAD ?x }
+		MINUS { ?w conll:EDGE [] }
+		BIND("dep" as ?e)
+		OPTIONAL { ?w conll:MISC ?misc }
+		BIND(if(bound(?misc), concat(?misc,";B*"), "B*") as ?comment)
+	}
+};
+
+# for every powla:Node that is not the x:HEAD of its parent
+# attach to the x:HEAD* word of the parent
+# keep the phase label as dependency
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?x; conll:EDGE ?e; conll:MISC ?comment
+} WHERE {
+	?n x:HEAD+ ?w.
+	?w a nif:Word.
+	?w conll:HEAD ?s.
+	?s a nif:Sentence.
+	?n powla:hasParent ?p.
+	?p x:HEAD ?m.
+	FILTER(?m != ?n)
+	?m x:HEAD+ ?x.
+	?x a nif:Word.
+	OPTIONAL {
+		?n rdf:value ?e
+	}
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";B"), "B") as ?comment)
+};
+
+# if an uttached/root node is in a DHEAD relation to an element that it is not a dependent, use DHEAD as HEAD
+# we prefer DHEAD here because the text is closer, so alignment errors are less likely
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?misc.
+} INSERT {
+	?w conll:HEAD ?hh; conll:EDGE ?he; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?w conll:DHEAD ?hh; conll:DEDGE ?he.
+	MINUS { ?hh conll:HEAD+ ?w }
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";D"), "D") as ?comment)
+};
+
+# if an uttached/root node is in a HHEAD relation to an element that it is not a dependent, use HHEAD as HEAD
+DELETE {
+	?w conll:HEAD ?s; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?hh; conll:EDGE ?he; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	?w conll:HHEAD ?hh; conll:HEDGE ?he.
+	MINUS { ?hh conll:HEAD+ ?w }
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";H"), "H") as ?comment)
+};
+
+# introduce root, but only for elements that are actually x:HEAD of a powla:Node
+DELETE {
+	?w conll:EDGE ?e; conll:MISC ?misc
+} INSERT {
+	?w conll:EDGE "root"; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?s. ?s a nif:Sentence.
+	[] x:HEAD ?w.
+	OPTIONAL { ?w conll:EDGE ?e }
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";r"), "r") as ?comment)
+};
+
+# source-specific punctuation: fix label; if unattached, attach to preceding token
+DELETE {
+	?w conll:EDGE ?e; conll:HEAD ?s; conll:UPOS ?upos; conll:MISC ?misc
+} INSERT {
+	?w conll:UPOS "PUNCT"; conll:EDGE "punct"; conll:MISC ?comment.
+	?w conll:HEAD ?last.
+}
+WHERE {
+	?w conll:WORD ?word; conll:EDGE ?e.
+	OPTIONAL { ?w conll:UPOS ?upos. }
+	FILTER(?word in ("/","//"))
+	OPTIONAL { ?w conll:HEAD ?s. ?s a nif:Sentence. ?last nif:nextWord ?w }	
+	MINUS { [] conll:HEAD ?w }
+		# this would be an alignment error, but we need to track them
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";p"), "p") as ?comment)
+};	
+
+# fixing flat annotation
+# if B4 siblings have an internal structure in D, adopt it
+# (in B4, this is an artifact of the flat, span-based annotation)
+# 's1_31 . . . . . . / P---------- mid         DDEPS 0 DHEAD 's1_32 HDEPS 0 HHEAD 's1_32 ID 31 MISC B PARSE (PO[35] (PP[35] (P[31] *) UPOS ADP XPOS P
+# 's1_32 . . . . . . / N---------- uuordun     DDEPS 1 DHEAD 's1_29 HDEPS 1 HHEAD 's1_35 ID 32 MISC B PARSE (N[32] *) UPOS NOUN XPOS N
+# 's1_33 . . . . . . / CONJ------- endi        DDEPS 0 DHEAD 's1_35 HDEPS 0 HHEAD 's1_35 ID 33 MISC B PARSE (CONJ[33] *) UPOS CCONJ XPOS CONJ
+# 's1_34 . . . . . . / P---------- mid         DDEPS 0 DHEAD 's1_35 HDEPS 0 HHEAD 's1_35 ID 34 MISC B PARSE (P[34] *) UPOS ADP XPOS P
+# 's1_35 . . . . . \ PO----------- uuercun     DDEPS 3 DHEAD 's1_29 HDEPS 4 HHEAD 's1_29 ID 35 MISC B PARSE (N[35] *) ) ) ) UPOS NOUN XPOS N
+DELETE {
+	?w conll:HEAD ?h; conll:EDGE ?e; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?hh; conll:EDGE ?he; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?h; conll:DHEAD ?hh. FILTER(?h!=?hh)
+	?w conll:EDGE ?e; conll:DEDGE ?he.
+	?hh conll:HEAD ?h.
+	MINUS { ?w conll:EDGE "punct" }	# this would be an alignment error
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";D"), "D") as ?comment)
+};
+
+# same for H
+DELETE {
+	?w conll:HEAD ?h; conll:EDGE ?e; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?hh; conll:EDGE ?he; conll:MISC ?comment
+} WHERE {
+	?w conll:HEAD ?h; conll:HHEAD ?hh. FILTER(?h!=?hh)
+	?w conll:EDGE ?e; conll:HEDGE ?he.
+	?hh conll:HEAD ?h.
+	MINUS { ?w conll:EDGE "punct" } # this would be an alignment error
+	OPTIONAL { ?w conll:MISC ?misc. } 
+	BIND(if(bound(?misc),concat(?misc,";H"), "H") as ?comment)
+};
+
+# the following makes the parse UD conformant, but it basically eliminates the original contribution of B4
+# better map labels directly
+# # resort to H (or, if these are not available, D) labels if a triple has same source and target
+# # this is because B4 annotations do not necessarily give away the grammatical role, but often, just the POS, e.g., PRONDEM modifying a N is det, but we cannot tell this from the PRONDEM label (could also be a pronoun in a conjunction)
+# DELETE {
+	# ?w conll:EDGE ?e.
+# } INSERT {
+	# ?w conll:EDGE ?he; conll:MISC ?comment.
+# } WHERE {
+	# {	?w conll:HEAD ?h; conll:HHEAD ?h; conll:EDGE ?e; conll:HEDGE ?he.
+		# BIND("H" as ?comment)
+	# } UNION {
+		# ?w conll:HEAD ?h; conll:DHEAD ?h; conll:EDGE ?e; conll:DEDGE ?he.
+		# MINUS { ?w conll:HHEAD ?h }
+		# BIND("D" as ?comment)
+	# }
+# };
+
+# map B4 labels to UD labels
+DELETE {
+	?w conll:EDGE ?b4; conll:MISC ?misc
+} INSERT {
+	?w conll:EDGE ?ud; conll:MISC ?comment
+} WHERE {
+	?w conll:EDGE ?b4.
+	values (?b4 ?ud) {
+		("A"	 "amod")
+		("adv:neg"	 "advmod")
+		("ADVCAUS"	 "obl")
+		("ADVDIR"	 "obl")
+		("ADVLOC"	 "obl")
+		("ADVMOD"	"advmod")
+		("ADVP"	 "advmod")
+		("ADVTEMP"	 "obl")
+		("AP"	 "amod")
+		("ap_do"	 "obj")
+		("app"	 "appos")
+		("app_adv"	 "obl")
+		("app_adv:dir"	 "obl")
+		("app_adv:loc"	 "obl")
+		("app_attr"	 "nmod")
+		("app_do"	 "obj")
+		("app_do+inf"	 "xcomp")
+		("app_inf"	 "xcomp")
+		("app_io"	 "iobj")
+		("app_io+pred"	 "appos")
+		("app_po"	 "appos")
+		("app_pred"	 "appos")
+		("app_su"	 "nsubj")
+		("app_vp"	 "appos")
+		("ATTR"	 "nmod")
+		("attr:pred"	 "nmod")
+		("attr_do"	 "nmod")
+		("attr_su"	 "nmod")
+		("attr_su_1"	 "nmod")
+		("attr_su_2"	 "nmod")
+		("ATTRSUBJ"	 "nsubj")
+		("CONJ" "mark")
+		("DO"	 "obj")
+		("do_1"	 "obj")
+		("INF"	 "xcomp")
+		("IO"	 "iobj")
+		("modal"	 "aux")
+		("N"	 "nmod")
+		("NEG"	 "advmod")
+		("neg+"	 "amod")
+		("NP"	 "nsubj")
+		("NUM"	 "nummod")
+		("P"	 "case")
+		("PARTPF"	 "xcomp")
+		("PO"	 "obl")
+		("PP"	 "obl")
+		("PRD"	 "amod")
+		("PRDNOM"	 "nsubj")
+		("pred"	 "nmod")
+		("predattr"	 "xcomp")
+		("prefix"	 "compound")
+		("prep"	 "case")
+		("printerr"	 "obl")
+		("PRONDEM"	 "det")
+		("PRONINDEF"	 "amod")
+		("PRONINT"	 "advmod")
+		("PRONPOS"	 "det")
+		("PRONPRS"	 "det")
+		("PTC"	 "advmod")
+		("su"	 "nsubj")
+		("su_1"	 "nsubj")
+		("SUBJ"	 "nsubj")
+		("V"	 "dep")
+		("VA"	 "dep")
+		("VAUX"	 "aux")
+		("VCOP"	 "cop")
+		("VFIN"	 "aux")
+		("VOC"	"voc")
+		("VP"	 "aux")
+	}
+	OPTIONAL { ?w conll:MISC ?misc }
+	BIND(if (bound(?misc), concat(?misc,";BL(",?b4,")"),concat("BL(",?b4,")"))  as ?comment)
+};
+
+# update UPOS from POS annotation
+DELETE {
+	?w conll:UPOS ?old_upos; conll:MISC ?misc
+} INSERT {
+	?w conll:UPOS ?upos; conll:MISC ?comment
+} WHERE {
+	?w a nif:Word.
+	{ 	?w conll:UPOS ?old_upos.
+		FILTER(?upos not in ("ADJ","ADP","ADV","AUX","CCONJ","DET","NOUN","NUM","PART","PRON","PROPN","PUNCT","SCONJ","VERB"))
+	} UNION {
+		?w conll:XPOS ?old_upos.
+		MINUS { ?w conll:UPOS [] }
+	} UNION {
+		?w conll:XPOS ?old_upos.
+		?w conll:UPOS ?upos
+	}
+	VALUES (?old_upos ?upos) {
+		("_"	"X")
+		("A"	"ADJ")
+		("adv:neg"	"ADV")
+		("ADVCAUS"	"ADV")
+		("ADVDIR"	"ADV")
+		("ADVLOC"	"ADV")
+		("ADVMOD"	"ADV")
+		("ADVTEMP"	"ADV")
+		("AP"	"ADJ")
+		("CONJ"	"CCONJ")
+		("modal"	"AUX")
+		("N"	"NOUN")
+		("NEG"	"ADV")
+		("NP"	"NOUN")
+		("NUM"	"NUM")
+		("P"	"ADP")
+		("particle:relative"	"DET")
+		("PP"	"ADV")
+		("PRD"	"ADJ")
+		("prep"	"ADP")
+		("printerr"	"ADV")
+		("prnum"	"NUM")
+		("PRONDEM"	"PRON")
+		("PRONINDEF"	"PRON")
+		("PRONINT"	"PRON")
+		("PRONPOS"	"PRON")
+		("PRONPRS"	"PRON")
+		("PTC"	"ADV")
+		("V"	"VERB")
+		("VA"	"VERB")
+		("VAUX"	"AUX")
+		("VCOP"	"COP")
+	}
+	OPTIONAL { ?w conll:MISC ?misc. }
+	BIND(concat(
+		if(bound(?misc),concat(?misc,";"),""),
+		"BP") as ?comment)
+};	
+
+# update UPOS comments
+DELETE {
+	?w conll:MISC ?misc
+} INSERT {
+	?w conll:MISC ?comment
+} WHERE {
+	?w conll:UPOS ?upos; conll:DUPOS ?upos
+	OPTIONAL { ?w conll:MISC ?misc.}
+	BIND(if(bound(?misc), concat(?misc,";DP"), "DP") as ?comment)
+};
+
+# detach and re-attach punctuation, this is to counter projectivity errors
+# note that this may generate multiple attachments if multiple spanning dependencies exist, hence the following fall-back solution
+DELETE {
+	?w conll:HEAD ?oldh; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?head; conll:MISC "p"
+} WHERE {
+	{
+		?dep conll:HEAD ?head.
+		?dep nif:nextWord+ ?w.
+		?w conll:EDGE "punct".
+		?w nif:nextWord+ ?head.
+	} UNION {
+		?dep conll:HEAD ?head.
+		?dep (^nif:nextWord)+ ?w.
+		?w conll:EDGE "punct".
+		?w (^nif:nextWord)+ ?head.
+	}
+	
+	?w conll:EDGE "punct"; conll:HEAD ?oldh.
+	FILTER(?head!=?oldh)
+	OPTIONAL { ?w conll:MISC ?misc }	
+};
+
+# if a punct has multiple heads, attach to the last word
+DELETE {
+	?w conll:HEAD ?h1, ?h2; conll:MISC ?misc
+} INSERT {
+	?w conll:HEAD ?last; conll:MISC "p"
+} WHERE {
+	?w conll:EDGE "punct"; conll:HEAD ?h1, ?h2.
+	FILTER(?h1!=?h2)
+	?last nif:nextWord ?w
+	OPTIONAL { ?w conll:MISC ?misc }
+};
+
+# merge MISC into a single property
+DELETE {
+	?w conll:MISC ?misc
+} INSERT {
+	?w conll:MISC ?agg_misc
+} WHERE {
+	?w conll:MISC ?misc.
+	OPTIONAL 
+	{ SELECT ?w (GROUP_CONCAT(distinct ?m; separator=";") AS ?agg_misc)
+	  WHERE {
+		?w conll:MISC ?m
+	  } GROUP BY ?w ORDER BY ?w ?m
+	}
+};
+
+# mark whether dependency or label agree with H or D
+DELETE { ?w conll:MISC ?misc } INSERT { ?w conll:MISC ?comment } WHERE { ?w conll:HEAD ?h; conll:DHEAD ?h. 	OPTIONAL { ?w conll:MISC ?misc } BIND(if (bound(?misc), concat(?misc,";D"),"D")  as ?comment) };
+DELETE { ?w conll:MISC ?misc } INSERT { ?w conll:MISC ?comment } WHERE { ?w conll:HEAD ?h; conll:HHEAD ?h. 	OPTIONAL { ?w conll:MISC ?misc } BIND(if (bound(?misc), concat(?misc,";H"),"H")  as ?comment) };
+DELETE { ?w conll:MISC ?misc } INSERT { ?w conll:MISC ?comment } WHERE { ?w conll:EDGE ?e; conll:DEDGE ?e. 	OPTIONAL { ?w conll:MISC ?misc } BIND(if (bound(?misc), concat(?misc,";DL"),"DL")  as ?comment) };
+DELETE { ?w conll:MISC ?misc } INSERT { ?w conll:MISC ?comment } WHERE { ?w conll:EDGE ?e; conll:HEDGE ?e. 	OPTIONAL { ?w conll:MISC ?misc } BIND(if (bound(?misc), concat(?misc,";HL"),"HL")  as ?comment) };
+
+# update XPOS to HPOS|DPOS|XPOS
+DELETE {
+	?w conll:XPOS ?xpos
+} INSERT {
+	?w conll:XPOS ?agg
+} WHERE {
+	?w a nif:Word.
+	OPTIONAL { ?w conll:XPOS ?xpos }
+	OPTIONAL { ?w conll:HPOS ?hpos }
+	OPTIONAL { ?w conll:DPOS ?dpos }
+	BIND(
+		concat(
+			if(bound(?hpos),?hpos,"_"),
+			"|",
+			if(bound(?dpos),?dpos,"_"),
+			"|",
+			if(bound(?xpos),?xpos,"_")
+		) AS ?agg)
+};
+
+# prune
+DELETE {
+	?w ?prop ?val
+} WHERE {
+	?w a nif:Word.
+	?w ?prop ?val.
+	FILTER(?prop in (conll:DUPOS,conll:DLEMMA) )
+};
+
+# debug: make DEPS scores readable
+DELETE {
+	?w ?prop ?val
+} INSERT {
+	?w ?prop ?str
+} WHERE {
+	?w ?prop ?val.
+	FILTER(?prop in (conll:HDEPS, conll:DDEPS))
+	BIND(str(?val) as ?str)
+};
+
+# debug: write PTB incl. x:HEAD
+INSERT {
+	?w conll:PARSE ?parse
+} WHERE {
+	?w a nif:Word.
+	OPTIONAL 
+	{ SELECT ?h ?w (GROUP_CONCAT(?l; separator=" ") as ?pre)
+	  WHERE {
+		?h a powla:Node.
+		MINUS { ?h powla:hasParent [] }
+		?h (^powla:hasParent)* ?n.
+		?n (^powla:hasParent)+ ?w.
+		?w a nif:Word.
+		MINUS {
+			?v a nif:Word; powla:hasParent+ ?n.
+			?n (^powla:hasParent)+ ?w.
+			?w a nif:Word.
+			?v nif:nextWord+ ?w
+		}
+		OPTIONAL {
+			?n rdf:value ?cat
+		}
+		OPTIONAL {
+			SELECT ?n (GROUP_CONCAT(distinct ?xid; separator=",") as ?xh)
+			WHERE {
+				?n x:HEAD+ ?x.
+				?x a nif:Word; conll:ID ?xid.
+			} GROUP BY ?n ORDER BY xsd:int(?xid)
+		}
+		BIND(
+			concat("(",
+				if(bound(?cat), ?cat, ""),
+				# "[",
+				# if(bound(?xh),str(?xh),""),
+				# "]",
+				""
+				) as ?l)
+		# label incl. x:HEADs
+				
+	  } GROUP BY ?h ?w
+	}
+	OPTIONAL
+	{ SELECT ?h ?w (GROUP_CONCAT(?l; separator=" ") as ?post)
+	  WHERE {
+		?h a powla:Node.
+		MINUS { ?h powla:hasParent [] }
+		?h (^powla:hasParent)* ?n.
+		?n (^powla:hasParent)+ ?w.
+		?w a nif:Word.
+		MINUS {
+			?v a nif:Word; powla:hasParent+ ?n.
+			?n (^powla:hasParent)+ ?w.
+			?w a nif:Word.
+			?v (^nif:nextWord)+ ?w
+		}
+		BIND(")" as ?l)
+	  } GROUP BY ?h ?w
+	}
+	BIND(if(bound(?pre), 
+			if(bound(?post), concat(?pre," *",?post), concat(?pre, " *")),
+			if(bound(?post), concat("*",?post), "*")) as ?parse)
+};
+
+# # debug: make results more readable
+# DELETE {
+	# ?w ?prop ?val
+# } WHERE {
+	# ?w a nif:Word.
+	# ?w ?prop ?val.
+	# FILTER(?prop in (conll:DEDGE,conll:HEDGE,conll:DPOS,conll:HPOS, conll:LEMMA) )
+# };
+
+# update local IDs
+DELETE {
+	?w conll:ID ?id
+} INSERT {
+	?w conll:ID ?newid
+} WHERE {
+	?w a nif:Word.
+	{ SELECT ?w (COUNT(distinct ?pre) as ?pos)
+	  WHERE {
+		?w a nif:Word.
+		?pre nif:nextWord* ?w
+	  } GROUP BY ?w
+	}
+	OPTIONAL {
+		?w conll:ID ?id.
+	}
+	BIND(str(?pos) as ?newid)
+};
+
+# generate NEW_HEAD
+INSERT {
+	?w conll:NEW_HEAD ?hid
+} WHERE {
+	{	?w conll:HEAD/conll:ID ?hid } UNION
+	{	?w conll:HEAD/a nif:Sentence. BIND("0" as ?hid) }
+};

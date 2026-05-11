@@ -1,0 +1,707 @@
+1	Thô	tho	ADV	ADV	_	4	nmod	_	*
+2	ni	ne	PART	PTKNEG	_	4	advmod	_	*
+3	uuas	wesan	AUX	VVFIN.IND_PAST_SG_3	_	4	aux	_	*
+4	lang	lang	ADJ	ADJD.POS	_	0	root	_	*
+5	aftar	aftar thiu	ADV	ADV	_	4	nmod	_	CF_U_M
+6	thiu	?	ADV	?.?	_	4	nmod	_	CF_U_M
+7	,	*	PUNCT	$,	_	6	punct	_	*
+8	ne	ne	SCONJ	KOUS	_	12	mark	_	*
+9	it	he	PRON	PPER.NEUT_SG_NOM_3	_	12	nsubj	_	*
+10	al	all	ADJ	DI.NEUT_SG_NOM_0	_	9	amod	_	*
+11	sô	so	ADV	ADV	_	12	advmod	_	*
+12	gilêstid	gilestian	VERB	VVPP	_	4	advcl	_	*
+13	uuarð	werđan	AUX	VAFIN.IND_PAST_SG_3	_	12	aux	_	CF_I_S
+14	,	*	PUNCT	$,	_	13	punct	_	*
+15	sô	so	SCONJ	KOUS	_	23	mark	_	*
+16	he	he	PRON	PPER.MASC_SG_NOM_3	_	23	nsubj	_	*
+17	mancunnea	mankunni	NOUN	NA.SG_DAT	_	23	iobj	_	*
+18	managa	manag	ADJ	DIS.FEM_SG_ACC_ST	_	19	amod	_	*
+19	huîla	hwila	NOUN	NA.SG_ACC	_	23	obl	_	*
+20	,	*	PUNCT	$,	_	19	punct	_	*
+21	god	god	PROPN	NE.SG_NOM	_	23	nsubj	_	*
+22	alomahtig	alomahtig	ADJ	ADJN.POS_MASC_SG_NOM_0	_	21	amod	_	*
+23	forgeƀen	fargeban	VERB	VVPP	_	12	advcl	_	*
+24	habda	hebbian	AUX	VAFIN.IND_PAST_SG_3	_	23	aux	_	CF_I_Adv_Mod
+25	,	*	PUNCT	$,	_	24	punct	_	*
+26	that	that	SCONJ	KOUS	_	38	mark	_	*
+27	he	he	PRON	PPER.MASC_SG_NOM_3	_	38	nsubj	_	*
+28	is	he	DET	DPOS.MASC_SG_GEN_3	_	30	det	_	*
+29	himilisc	himilisk	ADJ	ADJ.POS_NEUT_SG_ACC_0	_	30	amod	_	*
+30	barn	barn	NOUN	NA.SG_ACC	_	38	obj	_	*
+31	herod	herod	ADV	ADV	_	38	nmod	_	*
+32	te	te	ADP	APPR	_	33	case	_	*
+33	uueroldi	werold	NOUN	NA.SG_DAT	_	38	obl	_	*
+34	,	*	PUNCT	$,	_	33	punct	_	*
+35	is	he	PRON	PPER.MASC_SG_GEN_3	_	37	nmod	_	*
+36	selƀes	self	DET	DDS.MASC_SG_GEN_ST	_	37	det	_	*
+37	sunu	sunu	NOUN	NA.SG_ACC	_	38	nsubj	_	*
+38	sendean	sendian	VERB	VVINF	_	23	advcl	_	*
+39	uueldi	willian	AUX	VMFIN.SUBJ_PAST_SG_3	_	38	aux	_	CF_I_O
+40	,	*	PUNCT	$,	_	39	punct	_	*
+41	te	?	SCONJ	?.?	_	46	mark	_	*
+42	thiu	te thiu that	SCONJ	KOUS	_	46	mark	_	*
+43	that	?	SCONJ	?.?	_	46	mark	_	*
+44	he	he	PRON	PPER.MASC_SG_NOM_3	_	46	nsubj	_	*
+45	hêr	her	ADV	ADV	_	46	obl	_	*
+46	alôsdi	alosian	VERB	VVFIN.SUBJ_PAST_SG_3	_	38	advcl	_	*
+47	al	all	ADJ	DI.MASC_PL_ACC_0	_	48	amod	_	*
+48	liudstamna	liudstamn	NOUN	NA.PL_ACC	_	46	obj	_	*
+49	,	*	PUNCT	$,	_	48	punct	_	*
+50	uuerod	werod	NOUN	NA.SG_ACC	_	46	nsubj	_	*
+51	fon	fan	ADP	APPR	_	52	case	_	*
+52	uuîtea	witi	NOUN	NA.SG_DAT	_	46	obl	_	CF_I_Adv_Fin
+53	.	*	PUNCT	$.	_	52	punct	_	*
+				.					
+		da, dann		*.					
+1		?	ADV	?.?	_	9	obl	_	*
+				.					
+2	uuarð	werđan	AUX	VAFIN.IND_PAST_SG_3	_	9	aux	_	*
+3	is	he	DET	DPOS.MASC_SG_GEN_3	_	4	det	_	*
+4	uuisbodo	wisbodo	NOUN	NA.SG_NOM	_	9	nsubj	_	*
+5	an	an	ADP	APPR	_	6	case	_	*
+6	Galilealand	Galilealand	PROPN	NEO.SG_ACC	_	9	obl	_	*
+7	,	*	PUNCT	$,	_	6	punct	_	*
+8	Gabriel	Gabriel	PROPN	NE.SG_NOM	_	9	nsubj	_	*
+9	cuman	kuman	VERB	VVPP	_	0	root	_	*
+10	,	*	PUNCT	$,	_	9	punct	_	*
+11	engil	engil	NOUN	NA.SG_NOM	_	9	nsubj	_	*
+12	thes	the	DET	DDA.MASC_SG_GEN	_	13	det	_	*
+13	alouualdon	alowaldo	NOUN	NA.SG_GEN	_	11	nmod	_	CF_U_M
+14	,	*	PUNCT	$,	_	13	punct	_	*
+15	thar	thar	ADV	PWAVREL	_	19	obl	_	*
+16	he	he	PRON	PPER.MASC_SG_NOM_3	_	19	nsubj	_	*
+17	êne	en	NUM	DIA.FEM_SG_ACC_ST	_	18	nummod	_	*
+18	idis	idis	NOUN	NA.SG_ACC	_	19	obj	_	*
+19	uuisse	witan	VERB	VVFIN.IND_PAST_SG_3	_	9	advcl	_	*
+20	,	*	PUNCT	$,	_	19	punct	_	*
+21	munilîca	munalik	ADJ	ADJ.POS_FEM_SG_ACC_ST	_	22	amod	_	*
+22	magað	magađ	NOUN	NA.SG_ACC	_	19	obj	_	CF_I_Rel
+23	:	*	PUNCT	$.	_	22	punct	_	*
+				.					
+				.					
+1	Maria	Maria	PROPN	NE.SG_NOM	_	4	nsubj	_	*
+2	uuas	wesan	AUX	VAINF.IND_PAST_SG_3	_	4	aux	_	*
+3	siu	he	PRON	PPER.FEM_SG_NOM_3	_	4	nsubj	_	*
+4	hêten	hetan	VERB	VVPP	_	0	root	_	CF_U_M
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	uuas	wesan	AUX	VAFIN.IND_PAST_SG_3	_	9	aux	_	*
+7	iru	he	PRON	PRF.FEM_SG_DAT_3	_	9	iobj	_	*
+8	thiorna	thiorna	NOUN	NA.SG_NOM	_	9	obj	_	*
+9	githigan	githihan	VERB	VVPPD.POS	_	4	acl	_	CF_U_M
+10	.	*	PUNCT	$.	_	9	punct	_	*
+				.					
+				.					
+1	Sea	he	PRON	PPER.FEM_SG_ACC_3	_	7	nsubj	_	*
+2	ên	en	NUM	DIA.MASC_SG_NOM_0	_	3	nummod	_	*
+3	thegan	thegan	NOUN	NA.SG_NOM	_	7	obj	_	*
+4	habda	hebbian	AUX	VAFIN.IND_PAST_SG_3	_	7	aux	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	Ioseph	Ioseph	PROPN	NE.SG_NOM	_	7	nsubj	_	*
+7	gimahlit	gimahlian	VERB	VVPP	_	0	root	_	*
+8	,	*	PUNCT	$,	_	7	punct	_	*
+9	gôdes	god	ADJ	ADJ.POS_NEUT_SG_GEN_ST	_	10	amod	_	*
+10	cunnies	kunni	NOUN	NA.SG_GEN	_	11	nmod	_	*
+11	man	mann	NOUN	NA.SG_NOM	_	7	obj	_	*
+12	,	*	PUNCT	$,	_	11	punct	_	*
+13	thea	the	DET	DDA.FEM_SG_ACC	_	15	det	_	*
+14	Dauides	David	PROPN	NE.SG_GEN	_	15	nmod	_	*
+15	dohter	dohtar	NOUN	NA.SG_ACC	_	7	obj	_	CF_U_M
+16	:	*	PUNCT	$.	_	15	punct	_	*
+				.					
+				.					
+1	that	the	DET	DDS.NEUT_SG_NOM	_	5	nsubj	_	*
+2	uuas	wesan	AUX	VAFIN.IND_PAST_SG_3	_	5	aux	_	*
+3	sô	so	ADV	ADV	_	4	advmod	_	*
+4	diurlîc	diurlik	ADJ	ADJ.POS_NEUT_SG_NOM_0	_	5	amod	_	*
+5	uuîf	wif	NOUN	NA.SG_NOM	_	0	root	_	*
+6	,	*	PUNCT	$,	_	5	punct	_	*
+7	idis	idis	NOUN	NA.SG_NOM	_	5	nsubj	_	*
+8	anthêti	antheti	ADJ	ADJN.POS_FEM_SG_NOM_0	_	7	amod	_	CF_U_M
+9	.	*	PUNCT	$.	_	8	punct	_	*
+				.					
+				.					
+1	Thar	thar	ADV	ADV	_	11	obl	_	*
+2	sie	he	PRON	PPER.FEM_SG_ACC_3	_	11	nsubj	_	*
+3	the	the	DET	DDA.MASC_SG_NOM	_	4	det	_	*
+4	engil	engil	NOUN	NA.SG_NOM	_	11	obj	_	*
+5	godes	god	PROPN	NE.SG_GEN	_	4	nmod	_	*
+6	an	an	ADP	APPR	_	7	case	_	*
+7	Nazarethburg	Nazarethburg	PROPN	NEO.SG_DAT	_	11	obl	_	*
+8	bi	bi	ADP	APPR	_	9	case	_	*
+9	namon	namo	NOUN	NA.SG_DAT	_	11	obl	_	*
+10	selƀo	self	ADJ	DDN.MASC_SG_NOM_WK	_	11	amod	_	*
+11	grôtte	grotian	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+12	geginuuarde	geginwardi	NOUN	NA.SG_DAT	_	17	obj	_	*
+13	endi	endi	CCONJ	KON	_	17	cc	_	*
+14	sie	he	PRON	PPER.FEM_SG_ACC_3	_	17	obj	_	*
+15	fon	fan	ADP	APPR	_	16	case	_	*
+16	gode	god	PROPN	NE.SG_DAT	_	17	obl	_	*
+17	quedda	queddian	VERB	VVFIN.IND_PAST_SG_3	_	11	xcomp	_	CF_U_M
+18	:	*	PUNCT	$.	_	17	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	9	punct	_	*
+				.					
+2	Hêl	hel	ADJ	ADJD.POS	_	9	amod	_	*
+3	uuis	wesan	AUX	VAIMP.IMP_PRES_SG_2	_	9	aux	_	*
+4	thu	thu	PRON	PPER.SG_NOM_2	_	9	iobj	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	Maria	Maria	PROPN	NE.SG_NOM	_	9	nsubj	_	CF_U_Imp
+7	"	*	PUNCT	*	_	6	punct	_	*
+8	,	*	PUNCT	$,	_	7	punct	_	*
+9	quað	queđan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+10	he	he	PRON	PPER.MASC_SG_NOM_3	_	9	nsubj	_	CF_U_M
+11	,	*	PUNCT	$,	_	10	punct	_	*
+12		*	PUNCT	*	_	11	punct	_	*
+				.					
+13	thu	thu	PRON	PPER.SG_DAT_2	_	17	nsubj	_	*
+14	bist	wesan	AUX	VAFIN.IND_PRES_SG_2	_	17	aux	_	*
+15	thînun	thin	DET	DPOS.MASC_SG_DAT_WK	_	16	det	_	*
+16	hêrron	herro	NOUN	NA.SG_DAT	_	17	obj	_	*
+17	liof	liof	ADJ	ADJD.POS	_	9	amod	_	*
+18	,	*	PUNCT	$,	_	17	punct	_	*
+19	uualdande	waldand	NOUN	NA.SG_DAT	_	17	iobj	_	*
+20	uuirðig	wirđig	ADJ	ADJD.POS	_	17	amod	_	CF_U_M
+21	,	*	PUNCT	$,	_	20	punct	_	*
+22	huuand	hwand	SCONJ	KOUS	_	25	mark	_	*
+23	thu	thu	PRON	PPER.SG_NOM_2	_	25	nsubj	_	*
+24	giuuit	giwit	NOUN	NA.SG_ACC	_	25	obj	_	*
+25	haƀes	hebbian	AUX	VVFIN.IND_PRES_SG_2	_	17	advcl	_	*
+26	,	*	PUNCT	$,	_	25	punct	_	*
+27	idis	idis	NOUN	NA.SG_NOM	_	25	obj	_	*
+28	enstio	anst	NOUN	NA.PL_GEN	_	29	nmod	_	*
+29	fol	ful	ADJ	ADJD.POS	_	27	amod	_	CF_I_Adv_Caus
+30	.	*	PUNCT	$.	_	29	punct	_	*
+				.					
+				.					
+1	Thu	thu	PRON	PPER.SG_NOM_2	_	7	nsubj	_	*
+2	scalt	skulan	AUX	VMFIN.IND_PRES_SG_2	_	7	aux	_	*
+3	for	for	ADP	APPR	_	4	case	_	*
+4	allun	all	ADJ	DI.NEUT_PL_DAT_ST	_	7	amod	_	*
+5	uuesan	wesan	AUX	VAINF	_	7	aux	_	*
+6	uuîƀun	wif	NOUN	NA.PL_DAT	_	7	iobj	_	*
+7	giuuîhit	giwihian	VERB	VVPPD.POS	_	0	root	_	CF_U_M
+8	.	*	PUNCT	$.	_	7	punct	_	*
+				.					
+				.					
+1	Ne	ne	PART	PTKNEG	_	2	advmod	_	*
+2	haƀe	hebbian	VERB	VVIMP.IMP_PRES_SG_2	_	0	root	_	*
+3	thu	thu	PRON	PPER.SG_NOM_2	_	2	nsubj	_	*
+4	uuêcan	wek	ADJ	ADJ.POS_MASC_SG_ACC_ST	_	5	amod	_	*
+5	hugi	hugi	NOUN	NA.SG_ACC	_	2	obj	_	CF_U_Imp
+6	,	*	PUNCT	$,	_	5	punct	_	*
+7	ne	ne	PART	PTKNEG	_	2	advmod	_	*
+8	forhti	forhtian	VERB	VVIMP.IMP_PRES_SG_2	_	2	xcomp	_	*
+9	thu	thu	PRON	PPER.SG_NOM_2	_	8	obj	_	*
+10	thînun	thin	DET	DPOS.NEUT_SG_DAT_WK	_	11	det	_	*
+11	ferhe	ferah	NOUN	NA.SG_DAT	_	8	obj	_	CF_U_Imp
+12	:	*	PUNCT	$.	_	11	punct	_	*
+				.					
+				.					
+1	ne	ne	PART	PTKNEG	_	2	advmod	_	*
+2	quam	kuman	VERB	VVFIN.IND_PAST_SG_1	_	11	advcl	_	*
+3	ic	ik	PRON	PPER.SG_NOM_1	_	2	nsubj	_	*
+4	thi	thu	PRON	PPER.SG_DAT_2	_	2	iobj	_	*
+5	te	te	ADP	APPR	_	7	case	_	*
+6	ênigun	enig	ADJ	DI.POS_MASC_PL_DAT_ST	_	7	amod	_	*
+7	frêson	fresa	NOUN	NA.PL_DAT	_	2	obl	_	*
+8	herod	herod	ADV	ADV	_	2	nmod	_	CF_U_M
+9	,	*	PUNCT	$,	_	8	punct	_	*
+10	ne	ne	PART	PTKNEG	_	11	advmod	_	*
+11	dragu	dragan	VERB	VVFIN.IND_PRES_SG_1	_	0	root	_	*
+12	ic	ik	PRON	PPER.SG_NOM_1	_	11	nsubj	_	*
+13	ênig	enig	ADJ	DI.POS_NEUT_SG_ACC_0	_	14	amod	_	*
+14	drugithing	drugithing	NOUN	NA.SG_ACC	_	11	obj	_	CF_U_M
+15	.	*	PUNCT	$.	_	14	punct	_	*
+				.					
+				.					
+1	Thu	thu	PRON	PPER. SG_NOM_2	_	6	nsubj	_	*
+2	scalt	skulan	AUX	VMFIN.IND_PRES_SG_2	_	6	aux	_	*
+3	ûses	usa	DET	DPOS.MASC_SG_GEN_ST	_	4	det	_	*
+4	drohtines	drohtin	NOUN	NA.SG_GEN	_	6	nmod	_	*
+5	uuesan	wesan	AUX	VAINF	_	6	aux	_	*
+6	môdar	modar	NOUN	NA.SG_NOM	_	0	root	_	*
+7	mid	mid	ADP	APPR	_	8	case	_	*
+8	mannun	mann	NOUN	NA.PL_DAT	_	6	obl	_	CF_U_M
+9	endi	endi	CCONJ	KON	_	13	cc	_	*
+10	scalt	skulan	AUX	VMFIN.IND_PRES_SG_2	_	13	aux	_	*
+11	thana	the	DET	DDA.MASC_SG_ACC	_	12	det	_	*
+12	magu	magu	NOUN	NA.SG_ACC	_	13	obj	_	*
+13	fôdean	fodian	VERB	VVINF	_	6	conj	_	*
+14	,	*	PUNCT	$,	_	13	punct	_	*
+15	thes	the	DET	DDA.MASC_SG_GEN	_	18	det	_	*
+16	hôhon	hoh	ADJ	ADJ.POS_MASC_SG_GEN_WK	_	18	amod	_	*
+17	heƀancuninges	hebankuning	NOUN	NA.SG_GEN	_	18	nmod	_	*
+18	suno	sunu	NOUN	NA.SG_ACC	_	13	obj	_	CF_I_M
+19	.	*	PUNCT	$.	_	18	punct	_	*
+				.					
+				.					
+1	The	the	DET	DDS.MASC_SG_NOM	_	6	nsubj	_	*
+2	scal	skulan	AUX	VMFIN.IND_PRES_SG_3	_	6	aux	_	*
+3	Hêliand	heliand	NOUN	NA.SG_ACC	_	6	obj	_	*
+4	te	te	ADP	APPR	_	5	case	_	*
+5	namon	namo	NOUN	NA.SG_DAT	_	6	obl	_	*
+6	êgan	egan	VERB	VVINF	_	0	root	_	*
+7	mid	mid	ADP	APPR	_	8	case	_	*
+8	eldiun	eldi	NOUN	NA.PL_DAT	_	6	obl	_	CF_U_M
+9	.	*	PUNCT	$.	_	8	punct	_	*
+				.					
+		nie, niemals, nimmer		*.					
+1		?	ADV	?.?	_	4	obl	_	*
+				.					
+2	endi	endi	NOUN	NA.SG_NOM	_	4	nsubj	_	*
+3	ni	ne	PART	PTKNEG	_	4	advmod	_	*
+4	kumid	kuman	VERB	VVFIN.IND_PRES_SG_3	_	0	root	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	thes	the	DET	DDA.NEUT_SG_GEN	_	9	det	_	*
+7	uuîdon	wid	ADJ	ADJ.POS_NEUT_SG_GEN_WK	_	9	amod	_	*
+8	rîkeas	riki	NOUN	NA.SG_GEN	_	9	nmod	_	*
+9	giuuand	giwand	NOUN	NA.SG_NOM	_	4	nsubj	_	CF_U_M
+10	,	*	PUNCT	$,	_	9	punct	_	*
+11	the	the	DET	PTKREL	_	13	obj	_	*
+12	he	he	PRON	PPER.MASC_SG_NOM_3	_	13	nsubj	_	*
+13	giuualdan	giwaldan	VERB	VVINF	_	9	acl	_	*
+14	scal	skulan	AUX	VMFIN.IND_PRES_SG_3	_	13	aux	_	*
+15	,	*	PUNCT	$,	_	14	punct	_	*
+16	mâri	mari	ADJ	ADJ.POS_MASC_SG_NOM_0	_	17	amod	_	*
+17	theodan	thiodan	NOUN	NA.SG_NOM	_	13	nsubj	_	CF_I_Rel
+18	.	*	PUNCT	$.	_	17	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	3	punct	_	*
+				.					
+2	Thô	tho	ADV	ADV	_	3	obl	_	*
+3	sprac	sprekan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+4	im	he	PRON	PPER.MASC_SG_DAT_3	_	3	iobj	_	*
+5	eft	eft	ADV	ADV	_	3	obl	_	*
+6	thiu	the	DET	DDA.FEM_SG_NOM	_	7	det	_	*
+7	magað	magađ	NOUN	NA.SG_NOM	_	3	nsubj	_	*
+8	angegin	angegin	ADV	PTKVZ	_	3	nmod	_	*
+9	,	*	PUNCT	$,	_	8	punct	_	*
+10	uuið	wiđ	ADP	APPR	_	12	case	_	*
+11	thana	the	DET	DDA.MASC_SG_ACC	_	12	det	_	*
+12	engil	engil	NOUN	NA.SG_ACC	_	3	obl	_	*
+13	godes	god	PROPN	NE.SG_GEN	_	12	nmod	_	*
+14	idiso	idis	NOUN	NA.PL_GEN	_	15	nmod	_	*
+15	scôniost	skoni	ADJ	ADJN.SUP_FEM_SG_NOM_WK	_	3	nsubj	_	*
+16	,	*	PUNCT	$,	_	15	punct	_	*
+17	allaro	all	ADJ	DI.NEUT_PL_GEN_ST	_	18	amod	_	*
+18	uuîƀo	wif	NOUN	NA.PL_GEN	_	19	nmod	_	*
+19	uulitigost	wlitig	ADJ	ADJN.SUP_FEM_SG_NOM_WK	_	3	obj	_	CF_U_M
+20	:	*	PUNCT	$.	_	19	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	5	punct	_	*
+				.					
+2	huô	hwo	ADV	PWAV	_	5	advmod	_	*
+3	mag	mugan	AUX	VMFIN.IND_PRES_SG_3	_	5	aux	_	*
+4	that	the	DET	DDS.NEUT_SG_NOM	_	5	nsubj	_	*
+5	giuuerðen	giwerđan	VERB	VVINF	_	0	root	_	*
+6	sô	so	ADV	ADV	_	5	advmod	_	CF_I_Int
+7	"	*	PUNCT	*	_	6	punct	_	*
+8	,	*	PUNCT	$,	_	7	punct	_	*
+9	quað	queđan	VERB	VVFIN.IND_PAST_SG_3	_	5	conj	_	*
+10	siu	he	PRON	PPER.FEM_SG_NOM_3	_	9	nsubj	_	CF_U_M
+11	,	*	PUNCT	$,	_	10	punct	_	*
+12	"	*	PUNCT	*	_	11	punct	_	*
+13	that	that	SCONJ	KOUS	_	16	mark	_	*
+14	ic	ik	PRON	PPER.SG_NOM_1	_	16	nsubj	_	*
+15	magu	magu	NOUN	NA.SG_ACC	_	16	obj	_	*
+16	fôdie	fodian	VERB	VVFIN.SUBJ_PRES_SG_1	_	9	advcl	_	CF_I_O
+17	?	*	PUNCT	$.	_	16	punct	_	*
+				.					
+				.					
+1	Ne	ne	PART	PTKNEG	_	7	advmod	_	*
+2	ic	ik	PRON	PPER.SG_NOM_1	_	7	nsubj	_	*
+3	gio	io	ADV	ADV	_	7	nmod	_	*
+4	mannes	mann	NOUN	NA.SG_GEN	_	7	nmod	_	*
+5	ni	ne	PART	PTKNEG	_	7	advmod	_	*
+6	uuarð	werđan	AUX	VAFIN.IND_PAST_SG_1	_	7	aux	_	*
+7	uuîs	wis	ADJ	ADJD.POS	_	0	root	_	*
+8	an	an	ADP	APPR	_	10	case	_	*
+9	mînera	min	DET	DPOS.FEM_SG_DAT_ST	_	10	det	_	*
+10	uueroldi	werold	NOUN	NA.SG_DAT	_	7	obl	_	CF_U_M
+11	.	*	PUNCT	$.	_	10	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	3	punct	_	*
+				.					
+2	Thô	tho	ADV	ADV	_	3	nmod	_	*
+3	habde	hebbian	AUX	VAFIN.IND_PAST_SG_3	_	0	root	_	*
+4	eft	eft	ADV	ADV	_	3	nmod	_	*
+5	is	he	DET	DPOS.MASC_SG_GEN_3	_	6	det	_	*
+6	uuord	word	NOUN	NA.PL_ACC	_	7	nsubj	_	*
+7	garu	garu	ADJ	ADJD.POS	_	8	amod	_	*
+8	engil	engil	NOUN	NA.SG_NOM	_	3	nsubj	_	*
+9	thes	the	DET	DDA.MASC_SG_GEN	_	10	det	_	*
+10	alouualdon	alowaldo	NOUN	NA.SG_GEN	_	8	nmod	_	*
+11	thero	the	DET	DDA.FEM_SG_DAT	_	12	det	_	*
+12	idisiu	idis	NOUN	NA.SG_DAT	_	3	obj	_	*
+13	tegegnes	tegegnes	ADV	ADV	_	3	nmod	_	CF_U_M
+14	:	*	PUNCT	$.	_	13	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	9	punct	_	*
+				.					
+2	an	an	ADP	APPR	_	3	case	_	*
+3	thi	thu	PRON	PPER. SG_ACC_2	_	9	obl	_	*
+4	scal	skulan	AUX	VMFIN.IND_PRES_SG_3	_	9	aux	_	*
+5	hêlag	helag	ADJ	ADJ.POS_MASC_SG_NOM_0	_	6	amod	_	*
+6	gêst	gest	NOUN	NA.SG_NOM	_	9	nsubj	_	*
+7	fon	fan	ADP	APPR	_	8	case	_	*
+8	heƀanuuange	hebanwang	NOUN	NA.SG_DAT	_	9	obl	_	*
+9	cuman	kuman	VERB	VVINF	_	0	root	_	*
+10	thurh	thurh	ADP	APPR	_	11	case	_	*
+11	craft	kraft	NOUN	NA.SG_ACC	_	9	obl	_	*
+12	godes	god	PROPN	NE.SG_GEN	_	11	nmod	_	CF_U_M
+13	.	*	PUNCT	$.	_	12	punct	_	*
+				.					
+				.					
+1	Thanan	thanan	ADV	ADV	_	5	nmod	_	*
+2	scal	skulan	AUX	VMFIN.IND_PRES_SG_3	_	5	aux	_	*
+3	thi	thu	PRON	PPER. SG_DAT_2	_	5	iobj	_	*
+4	kind	kind	NOUN	NA.SG_NOM	_	5	nsubj	_	*
+5	ôdan	odan	ADJ	ADJD.POS	_	0	root	_	*
+6	uuerðan	werđan	AUX	VAINF	_	5	aux	_	*
+7	an	an	ADP	APPR	_	9	case	_	*
+8	thesaro	thesa	DET	DD.FEM_SG_DAT	_	9	det	_	*
+9	uueroldi	werold	NOUN	NA.SG_DAT	_	5	obl	_	CF_U_M
+10	.	*	PUNCT	$.	_	9	punct	_	*
+				.					
+				.					
+1	Uualdandes	waldand	NOUN	NA.SG_GEN	_	2	nmod	_	*
+2	craft	kraft	NOUN	NA.SG_NOM	_	9	obj	_	*
+3	scal	skulan	AUX	VMFIN.IND_PRES_SG_3	_	9	aux	_	*
+4	thi	thu	PRON	PPER. SG_ACC_2	_	9	nsubj	_	*
+5	fon	fan	ADP	APPR	_	8	case	_	*
+6	them	the	DET	DDA.MASC_SG_DAT	_	8	det	_	*
+7	hôhoston	hoh	ADJ	ADJ.SUP_MASC_SG_DAT_WK	_	8	amod	_	*
+8	heƀancuninge	hebankuning	NOUN	NA.SG_DAT	_	9	obl	_	*
+9	scadouuan	skadowan	VERB	VVINF	_	0	root	_	*
+10	mid	mid	ADP	APPR	_	11	case	_	*
+11	skimon	skimo	NOUN	NA.PL_DAT	_	9	obl	_	CF_U_M
+12	.	*	PUNCT	$.	_	11	punct	_	*
+				.					
+				.					
+1	Ni	ne	PART	PTKNEG	_	2	advmod	_	*
+2	uuarð	werđan	AUX	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+3	scôniera	skoni	ADJ	ADJ.COMP_FEM_SG_NOM_WK	_	4	amod	_	*
+4	giburd	giburd	NOUN	NA.SG_NOM	_	2	nsubj	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	ne	ne	PART	PTKNEG	_	7	advmod	_	*
+7	sô	so	ADV	ADV	_	8	advmod	_	*
+8	mâri	mari	ADJ	ADJ.POS_FEM_SG_NOM_0	_	2	amod	_	*
+9	mid	mid	ADP	APPR	_	10	case	_	*
+10	mannun	mann	NOUN	NA.PL_DAT	_	2	obl	_	CF_U_M
+11	,	*	PUNCT	$,	_	10	punct	_	*
+12	huand	hwand	SCONJ	KOUS	_	14	mark	_	*
+13	siu	he	PRON	PPER.FEM_SG_NOM_3	_	14	nsubj	_	*
+14	kumid	kuman	VERB	VVFIN.IND_PRES_SG_3	_	2	advcl	_	*
+15	thurh	thurh	ADP	APPR	_	16	case	_	*
+16	maht	maht	NOUN	NA.SG_ACC	_	14	obl	_	*
+17	godes	god	PROPN	NE.SG_GEN	_	16	nmod	_	*
+18	an	an	ADP	APPR	_	21	case	_	*
+19	these	thesa	DET	DD.FEM_SG_ACC	_	21	det	_	*
+20	uuîdon	wid	ADJ	ADJ.POS_FEM_SG_ACC_WK	_	21	amod	_	*
+21	uuerold	werold	NOUN	NA.SG_ACC	_	14	obl	_	CF_I_Adv_Caus
+22	.	*	PUNCT	$.	_	21	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	12	punct	_	*
+				.					
+2	Thô	than	ADV	ADV	_	3	nmod	_	*
+3	uuarð	werđan	AUX	VAFIN.IND_PAST_SG_3	_	12	aux	_	*
+4	eft	eft	ADV	ADV	_	7	obl	_	*
+5	thes	the	DET	DDA.NEUT_SG_NOM,GEN_	_	6	det	_	*
+6	uuîbes	wif	NOUN	NA.SG_GEN	_	7	nmod	_	*
+7	hugi	hugi	NOUN	NA.SG_NOM	_	3	nsubj	_	*
+8	aftar	aftar	ADP	APPR	_	10	case	_	*
+9	them	the	DET	DDA.NEUT_SG_DAT	_	10	det	_	*
+10	ârundie	arundi	NOUN	NA.SG_DAT	_	12	obl	_	*
+11	al	all	ADJ	DIS	_	12	amod	_	*
+12	gihuorƀen	hwerban	VERB	VVPP	_	0	root	_	*
+13	an	an	ADP	APPR	_	15	case	_	*
+14	godes	god	PROPN	NE.SG_GEN	_	15	nmod	_	*
+15	uuilleon	willio	NOUN	NA.SG_DAT	_	12	obl	_	CF_U_M
+16	.	*	PUNCT	$.	_	15	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	9	punct	_	*
+				.					
+2	Than	than	ADV	ADV	_	9	obl	_	*
+3	ic	ik	PRON	PPER.SG_NOM_1	_	9	nsubj	_	*
+4	hêr	her	ADV	ADV	_	9	obl	_	*
+5	garu	garu	ADJ	ADJD.POS	_	9	amod	_	*
+6	standu	standan	VERB	VVFIN.IND_PRES_SG_1	_	9	dep	_	CF_CS_U_M
+7	"	*	PUNCT	*	_	6	punct	_	*
+8	,	*	PUNCT	$,	_	7	punct	_	*
+9	quað	queđan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+10	siu	he	PRON	PPER.MASC_SG_NOM_3	_	9	nsubj	_	CF_U_M
+11	,	*	PUNCT	$,	_	10	punct	_	*
+12	"	*	PUNCT	*	_	11	punct	_	*
+13	te	te	ADP	APPR	_	15	case	_	*
+14	sulicun	sulik	DET	DD.MASC_SG_DAT_WK	_	15	det	_	*
+15	ambahtskepi	ambahtskepi	NOUN	NA.SG_DAT	_	9	obl	_	CF_CC_U_M
+16	,	*	PUNCT	$,	_	15	punct	_	*
+17	sô	so	SCONJ	KOUS	_	20	mark	_	*
+18	he	he	PRON	PPER.MASC_SG_NOM_3	_	20	nsubj	_	*
+19	mi	ik	PRON	PPER.SG_ACC_1	_	20	obj	_	*
+20	êgan	egan	VERB	VVINF	_	9	advcl	_	*
+21	uuili	willian	AUX	VMFIN.IND_PRES_PL_3	_	20	aux	_	CF_I_Rel
+22	.	*	PUNCT	$.	_	21	punct	_	*
+				.					
+				.					
+1	Thiu	thiwa	NOUN	NA.SG_NOM	_	0	root	_	*
+2	bium	wesan	AUX	VAFIN.IND_PRES_SG_1	_	1	aux	_	*
+3	ic	ik	PRON	PPER.SG_NOM_1	_	1	nsubj	_	*
+4	theotgodes	thiodgod	PROPN	NE.SG_GEN	_	1	nmod	_	CF_U_M
+5	.	*	PUNCT	$.	_	4	punct	_	*
+				.					
+				.					
+1	Nu	nu	ADV	ADV	_	5	obl	_	*
+2	ik	ik	PRON	PPER.SG_NOM_1	_	5	nsubj	_	*
+3	theses	thesa	DET	DD.MASC_SG_GEN	_	4	det	_	*
+4	thinges	thing	NOUN	NA.SG_GEN	_	5	obj	_	*
+5	gitrûon	gitruon	VERB	VVFIN.IND_PRES_SG_1	_	0	root	_	CF_U_M
+6	;	*	PUNCT	$.	_	5	punct	_	*
+				.					
+1	uuerðe	werđan	AUX	VVFIN.SUBJ_PRES_SG_3	_	0	root	_	*
+2	mi	ik	PRON	PPER.SG_DAT_1	_	1	iobj	_	*
+3	aftar	aftar	ADP	APPR	_	5	case	_	*
+4	thînun	thin	DET	DPOS.NEUT_PL_DAT_ST	_	5	det	_	*
+5	uuordun	word	NOUN	NA.PL_DAT	_	1	obl	_	CF_U_M
+6	,	*	PUNCT	$,	_	5	punct	_	*
+7	al	all so	SCONJ	KOUS	_	11	mark	_	*
+8	sô	?	SCONJ	?.?	_	11	mark	_	*
+9	is	he	DET	DPOS.MASC_SG_GEN_3	_	10	det	_	*
+10	uuilleo	willio	NOUN	NA.SG_NOM	_	11	nsubj	_	*
+11	sî	wesan	AUX	VAFIN.SUBJ_PRES_SG_3	_	1	advcl	_	*
+12	,	*	PUNCT	$,	_	11	punct	_	*
+13	hêrron	herro	NOUN	NA.SG_GEN	_	11	nmod	_	*
+14	mînes	min	DET	DPOS.MASC_SG_GEN_ST	_	13	det	_	CF_I_Adv_Mod
+15	;	*	PUNCT	$.	_	14	punct	_	*
+				.					
+		nicht		*.					
+1		?	PART	?.?	_	5	advmod	_	*
+				.					
+2	is	wesan	AUX	VAFIN.IND_PRES_SG_3	_	5	aux	_	*
+3	mi	ik	PRON	PPER.SG_DAT	_	5	iobj	_	*
+4	hugi	hugi	NOUN	NA.SG_NOM	_	5	nsubj	_	*
+5	tuîfli	twifli	ADJ	ADJD.POS	_	10	amod	_	*
+6	,	*	PUNCT	$,	_	5	punct	_	*
+7	ne	ne	PART	PTKNEG	_	8	advmod	_	*
+8	uuord	word	NOUN	NA.SG_NOM	_	5	nsubj	_	*
+9	ne	ne	PART	PTKNEG	_	10	advmod	_	*
+10	uuîsa	wisa	NOUN	NA.SG_NOM	_	0	root	_	CF_U_M
+11	.	*	PUNCT	$.	_	10	punct	_	*
+				.					
+		*		*.					
+1		?	PUNCT	?.?	_	3	punct	_	*
+				.					
+2	Sô	so	ADV	ADV	_	3	advmod	_	*
+3	gifragn	gifregnan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+4	ik	ik	PRON	PPER.SG_NOM_1	_	3	nsubj	_	CF_U_M
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	that	that	SCONJ	KOUS	_	9	mark	_	*
+7	that	the	DET	DDA.NEUT_SG_NOM	_	8	det	_	*
+8	uuîf	wif	NOUN	NA.SG_NOM	_	9	nsubj	_	*
+9	antfeng	antfahan	VERB	VVFIN.IND_PAST_SG_3	_	3	advcl	_	*
+10	that	the	DET	DDA.NEUT_SG_ACC	_	12	det	_	*
+11	godes	god	PROPN	NE.SG_GEN	_	12	nmod	_	*
+12	ârundi	arundi	NOUN	NA.SG_ACC	_	9	obj	_	*
+13	gerno	gerno	ADV	ADV	_	14	advmod	_	*
+14	suîðo	swiđo	ADV	ADV	_	9	advmod	_	*
+15	mid	mid	ADP	APPR	_	17	case	_	*
+16	leohtu	lioht	ADJ	ADJ.POS_MASC_SG_INS_ST	_	17	amod	_	*
+17	hugi	hugi	NOUN	NA.SG_INS	_	9	obl	_	*
+18	endi	endi	CCONJ	KON	_	25	cc	_	*
+19	mid	mid	ADP	APPR	_	20	case	_	*
+20	gilôƀon	gilobo	NOUN	NA.SG_DAT	_	25	nmod	_	*
+21	gôdun	god	ADJ	ADJN.POS_MASC_SG_DAT_WK	_	20	amod	_	*
+22	endi	endi	CCONJ	KON	_	25	cc	_	*
+23	mid	mid	ADP	APPR	_	25	case	_	*
+24	hluttrun	hluttar	ADJ	ADJ.POS_FEM_PL_DAT_ST,WK	_	25	amod	_	*
+25	treuun	treuwa	NOUN	NA.PL_DAT	_	9	conj	_	CF_I_O
+26	.	*	PUNCT	$.	_	25	punct	_	*
+				.					
+				.					
+1	Uuarð	werđan	AUX	VAFIN.IND_PAST_SG_3	_	4	aux	_	*
+2	the	the	DET	DDA.MASC_SG_NOM	_	4	det	_	*
+3	hêlago	helag	ADJ	ADJ.POS_MASC_SG_NOM_WK	_	4	amod	_	*
+4	gêst	gest	NOUN	NA.SG_NOM	_	7	nsubj	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	that	the	DET	DDA.NEUT_SG_ACC	_	7	det	_	*
+7	barn	barn	NOUN	NA.SG_NOM	_	0	root	_	*
+8	an	an	ADP	APPR	_	10	case	_	*
+9	ira	he	DET	DPOS.FEM_SG_GEN_3	_	10	det	_	CF_U_M
+10	bôsma	bosom	NOUN	NA.SG_DAT	_	7	obl	_	*
+11	;	*	PUNCT	$.	_	10	punct	_	*
+				.					
+				.					
+1	endi	endi	CCONJ	KON	_	5	cc	_	*
+2	siu	he	PRON	PPER.FEM_SG_NOM_3	_	5	nsubj	_	*
+3	ira	he	DET	DPOS.FEM_SG_GEN_3	_	4	det	_	*
+4	breostun	briost	NOUN	NA.PL_DAT	_	5	obj	_	*
+5	forstôd	farstandan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+6	iac	jak	CCONJ	KON	_	12	cc	_	*
+7	an	an	ADP	APPR	_	9	case	_	*
+8	ire	he	DET	DPOS.FEM_SG_GEN_3	_	9	det	_	*
+9	seƀon	sebo	NOUN	NA.SG_ACC	_	12	obl	_	*
+10	selƀo	self	ADJ	DDN.FEM_SG_NOM_WK	_	9	amod	_	CF_I_M
+11	,	*	PUNCT	$,	_	10	punct	_	*
+12	sagda	seggian	VERB	VVFIN.IND_PAST_SG_3	_	15	conj	_	*
+13	them	the	DET	DDS.MASC_PL_DAT	_	15	iobj	_	CF_U_M
+14	siu	he	PRON	PPER.FEM_SG_NOM_3	_	15	nsubj	_	*
+15	uuelda	willian	AUX	VMFIN.SUBJ_PAST_SG_3	_	5	aux	_	CF_U_Rel
+16	,	*	PUNCT	$,	_	15	punct	_	*
+17	that	that	SCONJ	KOUS	_	20	mark	_	*
+18	sie	he	PRON	PPER.FEM_SG_ACC_3	_	20	nsubj	_	*
+19	habde	hebbian	AUX	VAFIN.IND_PAST_SG_3	_	20	aux	_	*
+20	giôcana	okan	VERB	VVPP.P_POS_FEM_SG_ACC_ST	_	5	advcl	_	*
+21	thes	the	DET	DDA.MASC_SG_GEN	_	22	det	_	*
+22	alouualdon	alowaldo	NOUN	NA.SG_GEN	_	23	nmod	_	*
+23	craft	kraft	NOUN	NA.SG_NOM	_	20	obj	_	*
+24	hêlag	helag	ADJ	ADJD.POS	_	23	amod	_	*
+25	fon	fan	ADP	APPR	_	26	case	_	*
+26	himile	himil	NOUN	NA.SG_DAT	_	20	obl	_	CF_I_O
+27	.	*	PUNCT	$.	_	26	punct	_	*
+				.					
+				.					
+1	Thô	tho	ADV	ADV	_	2	nmod	_	*
+2	uuarð	werđan	AUX	VAFIN.IND_PAST_SG_3	_	8	aux	_	*
+3	hugi	hugi	NOUN	NA.SG_NOM	_	2	nsubj	_	*
+4	Iosepes	Ioseph	PROPN	NE.SG_GEN	_	3	nmod	_	*
+5	,	*	PUNCT	$,	_	4	punct	_	*
+6	is	he	DET	DPOS.MASC_SG_GEN_3	_	7	det	_	*
+7	môd	mod	NOUN	NA.SG_NOM	_	8	obj	_	*
+8	giuuorrid	worrian	VERB	VVPPD.POS	_	0	root	_	CF_U_M
+9	,	*	PUNCT	$,	_	8	punct	_	*
+10	the	the	DET	DDSREL.MASC_SG_NOM	_	15	nsubj	_	*
+11	im	he	PRON	PRF.MASC_SG_DAT_3	_	15	iobj	_	*
+12	êr	er	ADV	ADV	_	15	nmod	_	*
+13	thea	the	DET	DDA.FEM_SG_ACC	_	14	det	_	*
+14	magað	magađ	NOUN	NA.SG_ACC	_	15	nsubj	_	*
+15	habda	hebbian	AUX	VVFIN.IND_PAST_SG_3	_	23	aux	_	*
+16	,	*	PUNCT	$,	_	15	punct	_	*
+17	thea	the	DET	DDA.FEM_SG_ACC	_	18	det	_	*
+18	idis	idis	NOUN	NA.SG_ACC	_	15	obj	_	*
+19	anthêttea	antheti	ADJ	ADJN.POS_FEM_SG_ACC_ST	_	18	amod	_	*
+20	,	*	PUNCT	$,	_	19	punct	_	*
+21	aðalcnôsles	ađalknosal	NOUN	NA.SG_GEN	_	22	nmod	_	*
+22	uuîf	wif	NOUN	NA.SG_ACC	_	23	nsubj	_	*
+23	giboht	buggian	VERB	VVPP	_	8	conj	_	*
+24	im	he	PRON	PRF.MASC_SG_DAT_3	_	23	iobj	_	*
+25	te	te	ADP	APPR	_	26	case	_	*
+26	brûdiu	brud	NOUN	NA.SG_DAT	_	23	obl	_	CF_I_Rel
+27	.	*	PUNCT	$.	_	26	punct	_	*
+				.					
+				.					
+1	He	he	PRON	PPER.MASC_SG_NOM_3	_	2	nsubj	_	*
+2	afsôf	afsebbian	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	CF_U_M
+3	that	that	SCONJ	KOUS	_	5	mark	_	*
+4	siu	he	PRON	PPER.FEM_SG_NOM_3	_	5	nsubj	_	*
+5	habda	hebbian	AUX	VVFIN.IND_PAST_SG_3	_	2	advcl	_	*
+6	barn	barn	NOUN	NA.SG_ACC	_	5	obj	_	*
+7	undar	undar	ADP	APPR	_	8	case	_	*
+8	iru	he	PRON	PRF.FEM_SG_DAT_3	_	5	obl	_	CF_I_O
+9	:	*	PUNCT	$.	_	8	punct	_	*
+				.					
+				.					
+1	ni	ne	PART	PTKNEG	_	2	advmod	_	*
+2	uuânda	wanian	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+3	thes	the	DET	DDS.NEUT_SG_NOM	_	5	obj	_	*
+4	mid	?	ADV	?.?	_	5	advmod	_	CF_U_M
+5	uuihti	mid wihti	ADV	ADV	_	2	advmod	_	CF_U_M
+6	,	*	PUNCT	$,	_	5	punct	_	*
+7	that	that	SCONJ	KOUS	_	12	mark	_	*
+8	iru	he	PRON	PRF.FEM_SG_DAT_3	_	12	iobj	_	*
+9	that	the	DET	DDA.NEUT_SG_NOM	_	10	det	_	*
+10	uuîf	wif	NOUN	NA.SG_NOM	_	12	nsubj	_	*
+11	habdi	hebbian	AUX	VAFIN.SUBJ_PAST_SG_3	_	12	aux	_	*
+12	giuuardod	giwardon	VERB	VVPP	_	2	advcl	_	*
+13	sô	so	ADV	ADV	_	14	advmod	_	*
+14	uuarolîco	waraliko	ADV	ADV	_	12	advmod	_	CF_I_O
+15	:	*	PUNCT	$.	_	14	punct	_	*
+				.					
+				.					
+1	ni	ne	PART	PTKNEG	_	2	advmod	_	*
+2	uuisse	witan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	*
+3	uualdandes	waldand	NOUN	NA.SG_GEN	_	7	nmod	_	*
+4	thô	tho	ADV	ADV	_	7	nmod	_	*
+5	noh	noh	ADV	ADV	_	7	nmod	_	*
+6	blîði	bliđi	ADJ	ADJ.POS_NEUT_SG_ACC_0	_	7	amod	_	*
+7	gibodskepi	gibodskepi	NOUN	NA.SG_ACC	_	2	obj	_	CF_U_M
+8	.	*	PUNCT	$.	_	7	punct	_	*
+				.					
+				.					
+1	Ni	ne	PART	PTKNEG	_	9	advmod	_	*
+2	uuelda	willian	AUX	VMFIN.IND_PAST_SG_3	_	9	aux	_	*
+3	sia	he	PRON	PPER.FEM_SG_ACC_3	_	9	nsubj	_	*
+4	imo	he	PRON	PRF.MASC_SG_DAT_3	_	9	iobj	_	*
+5	te	te	ADP	APPR	_	6	case	_	*
+6	brûdi	brud	NOUN	NA.SG_DAT	_	9	obl	_	*
+7	thô	tho	ADV	ADV	_	9	obl	_	*
+8	,	*	PUNCT	$,	_	7	punct	_	*
+9	halon	halon	VERB	VVINF	_	0	root	_	*
+10	imo	he	PRON	PRF.MASC_SG_DAT_3	_	9	iobj	_	*
+11	te	te	ADP	APPR	_	12	case	_	*
+12	hîuuon	hiwa	NOUN	NA.SG_DAT	_	9	obl	_	CF_U_M
+13	,	*	PUNCT	$,	_	12	punct	_	*
+14	ac	ak	CCONJ	KON	_	15	cc	_	*
+15	bigan	biginnan	VERB	VVFIN.IND_PRES_SG_3	_	9	conj	_	*
+16	im	he	PRON	PRF.MASC_SG_DAT_3	_	15	iobj	_	*
+17	thô	tho	ADV	ADV	_	15	advmod	_	*
+18	an	an	ADP	APPR	_	19	case	_	*
+19	hugi	hugi	NOUN	NA.SG_DAT	_	15	nsubj	_	*
+20	thenkean	thenkian	VERB	VVINF	_	15	dep	_	CF_I_M
+21	,	*	PUNCT	$,	_	20	punct	_	*
+22	huô	hwo	ADV	PWAV	_	26	advmod	_	*
+23	he	he	PRON	PPER.MASC_SG_NOM_3	_	26	nsubj	_	*
+24	sie	he	PRON	PPER.FEM_SG_ACC_3	_	26	obj	_	*
+25	sô	so	ADV	ADV	_	26	advmod	_	*
+26	forlêti	farlatan	VERB	VVFIN.SUBJ_PAST_SG_3	_	9	advcl	_	CF_I_O
+27	,	*	PUNCT	$,	_	26	punct	_	*
+28	sô	so	SCONJ	KOUS	_	32	mark	_	*
+29	iru	he	PRON	PPER.FEM_SG_DAT_3	_	32	iobj	_	*
+30	thar	thar	ADV	ADV	_	32	nmod	_	*
+31	ni	ne	PART	PTKNEG	_	32	advmod	_	*
+32	uurði	werđan	AUX	VAFIN.SUBJ_PAST_SG_3	_	26	advcl	_	*
+33	lêdes	leđ	NOUN	NA.SG_GEN	_	34	nmod	_	*
+34	uuiht	wiht	NOUN	NA.SG_NOM	_	32	obj	_	*
+35	,	*	PUNCT	$,	_	34	punct	_	*
+36	ôdan	odan	ADJ	ADJD.POS	_	37	amod	_	*
+37	arƀides	arbed	NOUN	NA.SG_GEN	_	32	obj	_	CF_I_Adv_Cns
+38	.	*	PUNCT	$.	_	37	punct	_	*
+				.					
+				.					
+1	Ni	ne	PART	PTKNEG	_	6	advmod	_	*
+2	uuelda	willian	AUX	VMFIN.IND_PAST_SG_3	_	6	aux	_	*
+3	sie	he	PRON	PPER.FEM_SG_ACC_3	_	6	nsubj	_	*
+4	aftar	aftar thiu	ADV	ADV	_	6	obl	_	*
+5	thiu	?	ADV	?.?	_	6	nmod	_	*
+6	meldon	meldon	VERB	VVINF	_	0	root	_	*
+7	for	for	ADP	APPR	_	8	case	_	*
+8	menigi	menigi	NOUN	NA.SG_DAT	_	6	obl	_	CF_U_M
+9	:	*	PUNCT	$.	_	8	punct	_	*
+				.					
+				.					
+1	antdrêd	antdradan	VERB	VVFIN.IND_PAST_SG_3	_	0	root	_	CF_U_M
+2	that	that	SCONJ	KOUS	_	7	mark	_	*
+3	sie	he	PRON	PPER.FEM_SG_ACC_3	_	7	nsubj	_	*
+4	manno	mann	NOUN	NA.PL_GEN	_	5	nmod	_	*
+5	barn	barn	NOUN	NA.PL_NOM	_	7	obj	_	*
+6	lîƀu	lif	NOUN	NA.SG_INS	_	7	obl	_	*
+7	binâmin	biniman	VERB	VVFIN.SUBJ_PAST_PL_3	_	1	advcl	_	CF_I_O
+8	.	*	PUNCT	$.	_	7	punct	_	*
+				.					
+				.					
+1	Sô	so	ADV	ADV	_	2	advmod	_	*
+2	uuas	wesan	AUX	VAFIN.IND_PAST_SG_3	_	0	root	_	*
+3	than	than	ADV	ADV	_	2	nmod	_	*
+4	thero	the	DET	DDA.MASC_PL_GEN	_	5	det	_	*
+5	liudeo	liudi	NOUN	NA.PL_GEN	_	6	nmod	_	*
+6	thau	thau	NOUN	NA.SG_NOM	_	2	nsubj	_	*
+7	thurh	thurh	ADP	APPR	_	10	case	_	*
+8	then	the	DET	DDA.MASC_SG_ACC	_	10	det	_	*
+9	aldon	ald	ADJ	ADJ.POS_MASC_SG_ACC_WK	_	10	amod	_	*
+10	êu	eo	NOUN	NA.SG_ACC	_	2	obl	_	*

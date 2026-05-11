@@ -1,0 +1,844 @@
+
+Sô	Sô	so	*	so, auf diese Weise	*	*	*	so	ADV	ADV	*	*	*	Hel_40.eaf
+lêrde	lêrde	lerian	*	lehren, unterweisen	*	*	*	lerde	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_40.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_40.eaf
+hêlago	hêlago	helag	S2	heilig	*	*	*	helago	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_40.eaf
+Crist	Crist	Krist	*	Christus	*	*	3223	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+thea	thea	the	*	der, die, das; dieser, diese, dieses	*	*	*	thea	DD	DD	*	*	MASC_PL_ACC	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+gôdon	gôdon	god	S1a	gut, trefflich, freundlich, nützlich	*	*	*	godon	ADJ	ADJ	A,O	N	POS_MASC_PL_ACC_WK	Hel_40.eaf
+iungaron	iungaron	jungaro	S1b	Jünger, Diener	CF_U_M	*	*	iungaron	NA	NA	N_MASC	N_MASC	PL_ACC	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+ênig	ênig	enig	*	irgendein	*	*	*	enig	DI	DIS	A,O	A,O	MASC_SG_NOM_0	Hel_40.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_40.eaf
+uuið	uuið	wiđ	*	wider, gegen, gegenüber	*	*	*	uuid	AP	APPR	*	*	*	Hel_40.eaf
+iu	iu	gi	*	ihr	CF_CS_I_Adv_Cnd	*	*	iu	PPER	PPER	*	*	PL_ACC_2	Hel_40.eaf
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	, 	$,	$,	*	*	*	Hel_40.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+he	he	he	*	er, sie, es	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+,	,	*	*	,	*	*	3224	,	$,	$,	*	*	*	Hel_40.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+sundea	sundea	sundea	S1	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	N,JO_FEM	SG_ACC	Hel_40.eaf
+geuuirkea	geuuirkea	giwirkian	*	tun, machen, antun	CF_CC_I_Adv_Cnd	*	*	geuuirkea	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+nim	nim	niman	*	nehmen	*	*	*	nim	VV	VVIMP	ST4	ST4	IMP_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_40.eaf
+sundar	sundar	sundar	S2	besonders, einzeln	*	*	*	sundar	ADV	ADV	*	*	*	Hel_40.eaf
+te	te	te	*	zu, an	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+,	,	*	*	,	*	*	3225	,	$,	$,	*	*	*	Hel_40.eaf
+thene	thene	the	*	der, die, das; dieser, diese, dieses	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_40.eaf
+rink	rink	rink	S1a	Jünger, Krieger, Mann	*	*	*	rink	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_40.eaf
+an	an	an	*	in, an, ui	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+rûna	rûna	runa	S1b	vertrauliche Besprechung, geheimes Gespräch	CF_U_Imp	*	*	runa	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+râd	râd	rad	S2	Rat, Lehre	*	*	*	rad	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+saga	saga	seggian	*	sagen	*	*	*	saga	VV	VVIMP	WK3	WK3	IMP_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3226	,	$,	$,	*	*	*	Hel_40.eaf
+uuîsi	uuîsi	wisian	S1a	zeigen, weisen, lehren	*	*	*	uuisi	VV	VVIMP	WK1A	WK1A	IMP_PRES_SG_2	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_40.eaf
+uuordun	uuordun	word	S1b	Wort, Rede	CF_I_Imp	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Ef	Ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+than	than	than	*	dann, jedoch, aber	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+thes	thes	the	*	der, die, das; dieser, diese, dieses	*	*	*	thes	DD	DDS	*	*	NEUT_SG_GEN	Hel_40.eaf
+uuerð	uuerð	werđ	S2	wert, würdig	*	*	*	uuerd	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+sî	sî	wesan	*	sein	CF_I_Adv_Cnd	*	*	si	VA	VAFIN	ST5	ST5	SUBJ_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	3227	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	 dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+gihôrie	gihôrie	gihorian	S1	gehorchen, gehören	CF_I_O	*	*	gihorie	VV	VVFIN	WK1A	WK1A	SUBJ_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+hala	hala	halon	S2	holen, bringen	*	*	*	hala	VV	VVIMP	WK2	WK2	IMP_PRES_SG_2	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+thar	thar	thar	*	dort, dorthin, da	*	*	*	thar	ADV	ADV	*	*	*	Hel_40.eaf
+ôðara	ôðara	ođar	*	ein anderer	*	*	*	odara	DI	DIS	A,O	P	MASC_PL_ACC_ST	Hel_40.eaf
+tô	tô	to	*	hinzu, herzu	*	*	3228	to	ADV	ADV	*	*	*	Hel_40.eaf
+gôdaro	gôdaro	god	S1a	gut, trefflich	*	*	*	godaro	ADJ	ADJ	A,O	P	POS_MASC_PL_GEN_ST	Hel_40.eaf
+gumono	gumono	gumo	S1b	Mann, Mensch	CF_U_Imp	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+lah	lah	lahan	*	tadeln, verbieten	*	*	*	lah	VV	VVIMP	ST6	ST6	IMP_PRES_SG_2	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+grimmun	grimmun	grim	S2	grimmig, feindlich, böse	*	*	*	grimmun	ADJ	ADJ	A,O	N	POS_NEUT_PL_ACC_WK	Hel_40.eaf
+uuerc	uuerc	werk	*	Werk, Tat, Handlung	*	*	*	uuerc	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	3229	,	$,	$,	*	*	*	Hel_40.eaf
+sak	sak	sakan	S1a	tadeln, schelten	*	*	*	sak	VV	VVIMP	ST6	ST6	IMP_PRES_SG_2	Hel_40.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_40.eaf
+sôðuuordun	sôðuuordun	sođword	S1b	wahres Wort	CF_I_Imp	*	*	soduuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Ef	Ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+than	than	than	*	dann, aber, jedoch	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+sundea	sundea+aftar	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	N,JO_FEM	PL_NOM	Hel_40.eaf
+aftar thiu	thiu	aftar thiu	*	danach, darauf, dann	*	*	*	aftar thiu	ADV	ADV	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	3230	,	$,	$,	*	*	*	Hel_40.eaf
+lôsuuerc	lôsuuerc	leđwerk	S1a	Übeltat	*	*	*	losuuerc	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+lêðon	lêðon	leđon	S1b	leidtun, reuen	CF_I_Adv_Cnd	*	*	ledon	VV	VVFIN	WK2	WK2	SUBJ_PRES_PL_3	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+giduo	giduo	gidon	*	tun, machen	*	*	*	giduo	VV	VVIMP	IRR	IRR	IMP_PRES_SG_2	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_40.eaf
+ôðrun	ôðrun	ođar	*	andere	*	*	*	odrun	DI	DI	A,O	P	MASC_PL_DAT_ST	Hel_40.eaf
+liudiun	liudiun	liudi	S2	Leute, Mensch	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_40.eaf
+cûð	cûð	kuđ	*	kund, bekannt	*	*	*	cud	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+,	,	*	*	,	*	*	3231	,	$,	$,	*	*	*	Hel_40.eaf
+mâri	mâri	marian	S1a	verkünden, rühmen	*	*	*	mari	VV	VVIMP	WK1A	WK1A	IMP_PRES_SG_2	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+for	for	for	*	vor	*	*	*	for	AP	APPR	*	*	*	Hel_40.eaf
+menegi	menegi	menigi	S1b	Menge, Schar, Volk	CF_U_Imp	*	*	menegi	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+lât	lât	latan	*	lassen, zulassen, erlauben	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_40.eaf
+manno	manno	mann	S2	Mensch, Leute	*	*	*	manno	NA	NA	C,A_MASC	A_MASC	PL_GEN	Hel_40.eaf
+filu	filu	filu	*	viel, Vieles	*	*	3232	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_40.eaf
+uuiten	uuiten	witan	S1a	wissen, kennen	*	*	*	uuiten	 VV	 VVINF	 PRPR	 PRPR	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+faruurhti	faruurhti	farwurht	S1b	Übeltat, Sünde	CF_I_Imp	*	*	faruurhti	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+ôðo	ôðo	ođo	*	leicht; hier: vielleicht	*	*	*	odo	ADV	ADV	*	*	*	Hel_40.eaf
+beginnad	beginnad	biginnan	*	beginnen, anfangen	*	*	*	beginnad	VV	VVFIN	ST3A	ST3A	IND_PRES_PL_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+than	than	than	*	dann, da	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+uuerk	uuerk	werk	S2	Werk, Tat, Handlung	*	*	*	uuerk	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_40.eaf
+tregan	tregan	tregan	*	leid sein, betrüben	*	*	*	tregan	VV	VVINF	ST5	ST5	*	Hel_40.eaf
+,	,	*	*	,	*	*	3233	,	$,	$,	*	*	*	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+hugi	hugi	hugi	S1a	Sinn, Gedanke, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_40.eaf
+hreuuen	hreuuen	hreuwan	S1b	beklagen, schmerzlich sein	CF_U_M	*	*	hreuuen	VV	VVINF	ST5	ST5	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	dann; als, wenn	*	*	*	than	KO	KOUS	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_40.eaf
+gihôrid	gihôrid	gihorian	*	hören, anhören, gehören	CF_I_Adv_Temp	*	*	gihorid	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_40.eaf
+heliðo	heliðo	heliđ	S2	Held, Mann, Mensch	*	*	*	helido	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_40.eaf
+filu	filu	filu	*	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	3234	,	$,	$,	*	*	*	Hel_40.eaf
+ahton	ahton	ahton	S1a	achten auf, glauben	*	*	*	ahton	VV	VVINF	WK2	WK2	*	Hel_40.eaf
+eldibarn	eldibarn	eldibarn	S1b	Menschenkinder	CI_U_O	*	*	eldibarn	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+uƀilon	uƀilon	ubil	S2	böse, schlecht, schlimm	*	*	*	ubilon	ADJ	ADJ	A,O	N	POS_FEM_SG_ACC_WK	Hel_40.eaf
+dâd	dâd	dad	*	Tat, Handlung, Ereignis	*	*	3235	dad	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_40.eaf
+uueread	uueread	werian	S1a	verwehren, verbieten	*	*	*	uueread	VV	VVIMP	WK1B	WK1B	IMP_PRES_PL_2	Hel_40.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_40.eaf
+uuordun	uuordun	word	S1b	Wort, Rede	CF_I_Imp	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Ef	Ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+than	than	than	*	dann, aber, jedoch	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+ôk	ôk	ok	*	auch	*	*	*	ok	ADV	ADV	*	*	*	Hel_40.eaf
+uuendien	uuendien	wendian	S2a	sich wenden, wandeln, sich abwenden	*	*	*	uuendien	VV	VVINF	WK1A	WK1A	*	Hel_40.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+uuili	uuili	willian	S2b	wollen	CF_I_Adv_Cnd	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	3236	,	$,	$,	*	*	*	Hel_40.eaf
+ac	ac	ak	*	sondern	*	*	*	ac	KO	KON	*	*	*	Hel_40.eaf
+farmôdat	farmôdat	farmodian	S1a	verachten	*	*	*	farmodat	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_3	Hel_40.eaf
+sulica	sulica	sulik	*	solch, dieser	*	*	*	sulica	DD	DD	A,O	 P	FEM_SG_ACC_ST	Hel_40.eaf
+menegi	menegi	menigi	S1b	Menge, Schar, Volk	CF_I_M	*	*	menegi	NA	NA	IN_FEM	IN_FEM	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+lât	lât	latan	*	lassen, zulassen, erlauben	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+thene	thene	the	*	dieser, diese, dieses	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_40.eaf
+man	man	mann	S2	Mensch, Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_40.eaf
+faren	faren	faran	*	reisen, ziehen, gehen	*	*	*	faren	VV	VVINF	ST6	ST6	*	Hel_40.eaf
+,	,	*	*	,	*	*	3237	,	$,	$,	*	*	*	Hel_40.eaf
+haƀa	haƀa	hebbian	S1a	halten	*	*	*	haba	VA	VVIMP	WK3	WK3	IMP_PRES_SG_2	Hel_40.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+far	far	for	*	vor, von	*	*	*	far	AP	APPR	*	*	*	Hel_40.eaf
+hêðinen	hêðinen	heđin	S1b	heidnisch, Heidnischer	CF_U_Imp	*	*	hedinen	ADJ	ADJS	A,O	N	POS_MASC_SG_DAT_WK	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+lât	lât	latan	*	lassen	*	*	*	lat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_40.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_40.eaf
+thi	thi	thu	*	 du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+an	an	an	*	an, in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+thînumu	thînumu	thin	*	dein	*	*	*	thinumu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_40.eaf
+hugi	hugi	hugi	S2	Sinn, Gedanke, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_40.eaf
+lêðen	lêðen	leđian	*	feindlich, widerwärtig, verhaßt, leid, böse, bösartig	CF_I_Imp	*	*	leden	ADJ	ADJD	A,O	N	POS_MASC_SG_DAT_WK	Hel_40.eaf
+,	,	*	*	,	*	*	3238	,	$,	$,	*	*	*	Hel_40.eaf
+mîð	mîð	miđan	S1a	vermeiden, unterlassen, meiden	*	*	*	mid	VV	VVIMP	ST1	ST1	IMP_PRES_SG_2	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	PPER	*	*	MASC_SG_GEN_3	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+thînumu	thînumu	thin	*	dein	*	*	*	thinumu	DPOS	DPOS	A,O	P	MASC_SG_DAT_ST	Hel_40.eaf
+môde	môde	mod	S1b	Sinn, Gesinnung	CF_U_Imp	*	*	mode	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+sî	sî	wesan	*	sein	CF_U_M	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_40.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+eft	eft	eft	*	wieder	*	*	*	eft	ADV	ADV	*	*	*	Hel_40.eaf
+mildi	mildi	mildi	S2	barmherzig	*	*	*	mildi	ADJ	ADJ	JA,JO	JA,JO	POS_MASC_SG_NOM_0	Hel_40.eaf
+god	god	god	*	Gott	*	*	*	god	NA	NE	A,I_MASC	A_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	,	*	*	3239	,	$,	$,	*	*	*	Hel_40.eaf
+hêr	hêr	her	S1a	hoch, vornehm	*	*	*	her	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_40.eaf
+heƀencuning	heƀencuning	hebankuning	S1b	Himmelskönig	*	*	*	hebencuning	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+helpe	helpe	helpa	S2	Hilfe, Rettung	*	*	*	helpe	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_40.eaf
+farlîhe	farlîhe	farlihan	*	verleihen, geben	*	*	*	farlihe	VV	VVFIN	ST1	ST1	SUBJ_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	3240	,	$,	$,	*	*	*	Hel_40.eaf
+fader	fader	fadar	S1a	Vater	*	*	*	fader	NA	NA	ER_MASC	ER_MASC	SG_NOM	Hel_40.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	NEUT_PL_GEN_ST	Hel_40.eaf
+firiho	firiho	firihos	S1b	Menschen	*	*	*	firiho	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_40.eaf
+barno	barno	barn	*	Kind	CF_I_S	*	*	barno	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+frâgode	frâgode	fragon	S2	fragen	*	*	*	fragode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_40.eaf
+Petrus	Petrus	Petrus	*	Petrus	*	*	*	petrus	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	*	*	*	3241	,	$,	$,	*	*	*	Hel_40.eaf
+allaro	allaro	all	*	all	*	*	*	allaro	DI	DI	A,O	P	MASC_PL_GEN_ST	Hel_40.eaf
+thegno	thegno	thegan	S1	Knabe, Mann, Dienstmann	*	*	*	thegno	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_40.eaf
+bezt	bezt	betst	*	best	*	*	*	bezt	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_40.eaf
+theodan	theodan	thiodan	S2	Volksherr, Herrscher	*	*	*	theodan	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_40.eaf
+sînan	sînan	sin	*	sein	CF_U_M	*	*	sinan	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_40.eaf
+:	:	*	*	:	*	*	3242	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+huô	huô	hwo	*	wie	*	*	*	huo	PW	PWAV	*	*	*	Hel_40.eaf
+oft	oft	oft	*	oft	*	*	*	oft	ADV	ADV	*	*	*	Hel_40.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_40.eaf
+mannun	mannun	mann	S1	Mensch, Mann	CF_CS_I_Int	*	*	mannun	NA	NA	C,A_MASC	A_MASC	PL_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das; welcher, welche, welches	*	*	*	the	DD	DDSREL	*	*	MASC_PL_NOM	Hel_40.eaf
+uuið	uuið	wiđ	*	gegen, wider, gegenüber	*	*	*	uuid	AP	APPR	*	*	*	Hel_40.eaf
+mi	mi	ik	S2	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_40.eaf
+habbiad	habbiad	hebbian	*	haben	*	*	3243	habbiad	VA	VAFIN	WK3	WK3	IND_PRES_PL_3	Hel_40.eaf
+lêðuuerk	lêðuuerk	leđwerk	S1	Übeltat	*	*	*	leduuerk	NA	NA	A_NEUT	A_NEUT	PL_ACC	Hel_40.eaf
+giduan	giduan	gidon	*	tun, machen	CF_I_Rel	*	*	giduan	VV	VVPP	IRR	IRR	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+leoƀo	leoƀo	liof	S2	lieb, wert	*	*	*	leobo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_40.eaf
+drohtin	drohtin	drohtin	*	Herr	*	*	*	drohtin	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	,	*	*	3244	,	$,	$,	*	*	*	Hel_40.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+im	im	he	*	er, sie, es	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_40.eaf
+siƀun	siƀun	sibun	S1a	sieben	*	*	*	sibun	CARD	CARD	I	I	MASC_PL_DAT_0	Hel_40.eaf
+sîðun	sîðun	siđ	S1b	Mal	*	*	*	sidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_40.eaf
+iro	iro	he	*	er, sie, es	*	*	*	iro	PPER	DPOS	*	*	MASC_PL_GEN_3	Hel_40.eaf
+sundea	sundea	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	N,JO_FEM	SG_GEN	Hel_40.eaf
+alâten	alâten	alatan	*	erlassen	*	*	*	alaten	VV	VVINF	RED1B	RED1B	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+]	]	*	*	]	*	*	3245	]	$(	$(	*	*	*	Hel_40.eaf
+uurêðaro	uurêðaro	wređ	S1a	zornig, feindselig, böse	*	*	*	uuredaro	ADJ	ADJ	A,O	P	POS_NEUT_PL_GEN_ST	Hel_40.eaf
+uuerko	uuerko	werk	S1b	Werk, Tat, Handlung	CF_CC_I_Int	*	*	uuerko	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_40.eaf
+,	,+êr	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+êr than	than	er than	*	bevor, ehe	*	*	*	er than	KO	KOUS	*	*	*	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_40.eaf
+êniga	êniga	enig	*	irgendein	*	*	*	eniga	DI	DI	A,O	P	FEM_SG_ACC_ST	Hel_40.eaf
+uurêka	uurêka	wraka	S2	Rache	*	*	*	uureka	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_40.eaf
+frummie	frummie	frummian	*	ausführen, vollbringen, tun,	*	*	*	frummie	VV	VVFIN	WK1B	WK1B	SUBJ_PRES_SG_1	Hel_40.eaf
+,	,	*	*	,	*	*	3246	,	$,	$,	*	*	*	Hel_40.eaf
+lêðes	lêðes	leđ	S1a	Böses, Übles	*	*	*	ledes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_40.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+lône	lône	lon	S1b	Lohn, Vergeltung	*	*	*	lone	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_40.eaf
+?	?	*	*	?	CF_I_Adv_Temp	*	*	?	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_40.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das; dieser, diese, dieses	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_40.eaf
+landes	landes	land	S2	Land, Reich	*	*	*	landes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_40.eaf
+uuard	uuard	ward	*	Wart, Beschützer	*	*	*	uuard	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	,	*	*	3247	,	$,	$,	*	*	*	Hel_40.eaf
+angegin	angegin	angegin	S1a	entgegen, wider	*	*	*	angegin	ADV	ADV	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_40.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+sunu	sunu	sunu	*	Sohn	*	*	*	sunu	NA	NA	U_MASC	U_MASC	SG_NOM	Hel_40.eaf
+gôdumu	gôdumu	god	S2	gut	*	*	*	godumu	ADJ	ADJ	A,O	P	POS_MASC_SG_DAT_ST	Hel_40.eaf
+thegne	thegne	tekan	*	Zeichen	CF_U_M	*	*	thegne	NA	NA	A_NEUT	A_NEUT	SG_DAT	Hel_40.eaf
+:	:	*	*	:	*	*	3248	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+seggiu	seggiu	seggian	S1a	sagen	*	*	*	seggiu	VV	VVFIN	WK3	WK3	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+fan	fan	fan	*	von	*	*	*	fan	AP	APPR	*	*	*	Hel_40.eaf
+siƀuniun	siƀuniun	sibun	S1b	sieben	CF_U_M	*	*	sibuniun	CARD	CARDS	I	I	MASC_PL_DAT_ST	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+sô	sô	so	*	so, wie	*	*	*	so	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+selƀo	selƀo	self	S2	selbst	*	*	*	selbo	DD	DDS	A,O	N	MASC_SG_NOM_WK	Hel_40.eaf
+sprikis	sprikis	sprekan	*	sprechen, reden	*	*	*	sprikis	VV	VVFIN	ST4	ST4	IND_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3249	,	$,	$,	*	*	*	Hel_40.eaf
+mahlis	mahlis	mahlian	S1a	sprechen, reden	*	*	*	mahlis	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_40.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_40.eaf
+thînu	thînu	thin	*	dein	*	*	*	thinu	DPOS	DPOS	A,O	P	MASC_SG_INS_ST	Hel_40.eaf
+mûðu	mûðu	muđ	S1b	Mund	CF_I_Adv_Mod	*	*	mudu	NA	NA	A,I_MASC	A_MASC	SG_INS	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+duom	duom	don	*	tun, machen	*	*	*	duom	VV	VVFIN	IRR	IRR	IND_PRES_SG_1	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+mêra	mêra+thar	mero	S2	mehr	*	*	*	mera	ADV	ADV	*	*	*	Hel_40.eaf
+thar tô	tô	thar to	*	dazu	CF_U_M	*	*	thar to	ADV	ADV	*	*	*	Hel_40.eaf
+:	:	*	*	:	*	*	3250	:	$.	$.	*	*	*	Hel_40.eaf
+
+siƀun	siƀun	sibun	S1a	sieben	*	*	*	sibun	CARD	CARD	I	I	MASC_PL_DAT_0	Hel_40.eaf
+sîðun	sîðun	siđ	S1b	Mal	*	*	*	sidun	NA	NA	A,I_MASC	A_MASC	PL_DAT	Hel_40.eaf
+siƀuntig	siƀuntig	sibuntig	S1c	siebenzig, siebzig	*	*	*	sibuntig	CARD	CARDS	0	0	MASC_PL_DAT	Hel_40.eaf
+sô	sô	so	*	so	*	*	*	so	ADV	ADV	*	*	*	Hel_40.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+sundea	sundea	sundea	S2	Übeltat, Sünde	*	*	*	sundea	NA	NA	N,JO_FEM	JO_FEM	SG_GEN	Hel_40.eaf
+gehuemu	gehuemu	gihwe	*	jeder	*	*	*	gehuemu	PI	PI	*	*	MASC_SG_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	3251	,	$,	$,	*	*	*	Hel_40.eaf
+lêðes	lêðes	leđ	S1a	Sünde, Böses	*	*	*	ledes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_40.eaf
+alâten	alâten	alatan	S1b	erlassen, freilassen	CF_U_M	*	*	alaten	VV	VVINF	RED1B	RED1B	*	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+sô	sô	so	*	so, so sehr	*	*	*	so	ADV	ADV	*	*	*	Hel_40.eaf
+uuilliu	uuilliu	willian	*	wollen	*	*	*	uuilliu	VM	VMFIN	IRR	IRR	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+te	te	te	*	zu, in	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+lêrun	lêrun	lera	S2	Lehre, Unterweisung	*	*	*	lerun	NA	NA	N,O_FEM	N,O_FEM	PL_DAT	Hel_40.eaf
+geƀen	geƀen	geban	*	geben, hingeben, übergeben	*	*	3252	geben	VV	VVINF	ST5	ST5	*	Hel_40.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_40.eaf
+uuârfastun	uuârfastun	warfast	S1b	wahr	CF_U_M	*	*	uuarfastun	ADJ	ADJN	A,O	P,N	POS_NEUT_PL_DAT_ST,WK	Hel_40.eaf
+.	.	*	*	:	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Nu	Nu	nu	*	nun; hier: da, weil	*	*	*	nu	KO	KOUS	*	*	*	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+sulica	sulica	sulik	*	solch, dieser, solch ein	*	*	*	sulica	DD	DD	A,O	P	FEM_SG_ACC_ST	Hel_40.eaf
+giuuald	giuuald	giwald	S2	Macht, Gewalt, Verfügung. mit abhäng. Satze allein	*	*	*	giuuald	NA	NA	I_FEM,I_MASC	I_FEM	SG_ACC	Hel_40.eaf
+fargaf	fargaf	fargeban	*	geben, verleihen, schenken	CF_I_Adv_Caus	*	*	fargaf	VV	VVFIN	ST5	ST5	IND_PAST_SG_1	Hel_40.eaf
+,	,	*	*	,	*	*	3253	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	dass, sodass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+mînes	mînes	min	*	mein	*	*	*	mines	DPOS	DPOS	A,O	P	NEUT_SG_GEN_ST	Hel_40.eaf
+hîuuiskes	hîuuiskes	hiwiski	S1	Hausgemeinschaft, Familie	*	*	*	hiuuiskes	NA	NA	JA_NEUT	A_NEUT	SG_GEN	Hel_40.eaf
+hêrost	hêrost	her	S2	der erste, princeps, Herr	*	*	*	herost	ADJ	ADJS	A,O	N	SUP_MASC_SG_NOM_WK	Hel_40.eaf
+uuâris	uuâris	wesan	*	sein	*	*	*	uuaris	VA	VAFIN	ST5	IRR	IND_PAST_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3254	,	$,	$,	*	*	*	Hel_40.eaf
+manages	manages	manag	S1a	manch, viel	*	*	*	manages	DI	DI	A,O	P	NEUT_SG_GEN_ST	Hel_40.eaf
+mannkunnies	mannkunnies	mankunni	S1b	Menschengeschlecht	CF_I_Adv_Cns	*	*	mannkunnies	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+nu	nu	nu	*	nun, nun aber	*	*	*	nu	ADV	ADV	*	*	*	Hel_40.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+im	im	he	*	er, sie, es	*	*	*	im	PPER	PPER	*	*	MASC_PL_DAT_3	Hel_40.eaf
+mildi	mildi	mildi	S2	gnädig, barmherzig	*	*	*	mildi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_40.eaf
+uuesen	uuesen	wesan	*	sein	*	*	*	uuesen	VA	VAINF	ST5	ST5	*	Hel_40.eaf
+,	,	*	*	:	*	*	3255	,	$,	$,	*	*	*	Hel_40.eaf
+liudiun	liudiun	liudi	S1a	Leute, Menschen, Volk	*	*	*	liudiun	NA	NA	I_MASC	I_MASC	PL_DAT	Hel_40.eaf
+lîði	lîði	liđi	S1b	mild, gnädig	CF_U_M	*	*	lidi	ADJ	ADJD	JA,JO	JA,JO	POS	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_40.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_40.eaf
+lêreande	lêreande	leriand	S2	Lehrer, Lehrender	*	*	*	lereande	NA	NA	ND_MASC	A_MASC	SG_DAT	Hel_40.eaf
+quam	quam	kuman	*	kommen	*	*	3256	quam	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_40.eaf
+ên	ên	en	*	ein	*	*	*	en	DI	DIA	A,O	A,O	MASC_SG_NOM_0	Hel_40.eaf
+iung	iung	jung	S1a	jung	*	*	*	iung	ADJ	ADJ	A,O	A,O	POS_MASC_SG_NOM_0	Hel_40.eaf
+man	man	mann	*	Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_40.eaf
+angegin	angegin	angegin	S1b	entgegen	CF_U_M	*	*	angegin	ADV	ADV	*	*	*	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+frâgode	frâgode	fragon	*	fragen	*	*	*	fragode	VV	VVFIN	WK2	WK2	IND_PAST_SG_3	Hel_40.eaf
+Iesu	Iesu	Iesus	S2	Jesus	*	*	*	iesu	NE	NE	0_MASC	0_MASC	SG_ACC	Hel_40.eaf
+Crist	Crist	Krist	*	Christus	CF_I_M	*	*	crist	NE	NE	A_MASC	A_MASC	SG_ACC	Hel_40.eaf
+:	:	*	*	:	*	*	3257	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+mêster	mêster	mestar	S1	Herr, Lehrer, Meister	*	*	*	mester	NA	NA	A,I_MASC	A,I_MASC	SG_NOM	Hel_40.eaf
+the	the	the	*	der, die, das;  welcher, welche, welches	*	*	*	the	DD	DD	*	*	MASC_SG_NOM	Hel_40.eaf
+gôdo	gôdo	god	*	gut, trefflich, freundlich, nützlich	CE	*	*	godo	ADJ	ADJS	A,O	N	POS_MASC_SG_NOM_WK	Hel_40.eaf
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	, 	$,	$,	*	*	*	Hel_40.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+he	he	he	*	er, sie, es	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+huat	huat	hwe	*	wer, was	*	*	*	huat	PW	PW	*	*	NEUT_SG_ACC	Hel_40.eaf
+scal	scal	skulan	*	sollen, müssen	*	*	*	scal	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+manages	manages	manag	S2	mancher, manches	*	*	*	manages	DI	DIS	A,O	P	NEUT_SG_GEN_ST	Hel_40.eaf
+duan	duan	don	*	tun, machen	CF_I_Int	*	*	duan	VV	VVINF	IRR	IRR	*	Hel_40.eaf
+,	,+an+thiu	*	*	*	*	*	3258	,	$,	$,	*	*	*	Hel_40.eaf
+an thiu the	the	an thiu the	*	damit	*	*	*	an thiu the	KO	KOUS	*	*	*	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+heƀenrîki	heƀenrîki	hebanriki	S1	Himmelreich	*	*	*	hebenriki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_40.eaf
+gehalan	gehalan	gihalon	S2	erwerben, erlangen	*	*	*	gehalan	VV	VVINF	WK2	WK2	*	Hel_40.eaf
+môti	môti	motan	*	dürfen, vermögen	CF_I_Adv_Fin	*	*	moti	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_1	Hel_40.eaf
+?	?	*	*	?	*	*	*	?	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	3259	"	*	*	*	*	*	Hel_40.eaf
+Habde	Habde	hebbian	*	haben	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_40.eaf
+ôduuelon	ôduuelon	odwelo	S1	der ererbte Besitz, Gut, Reichtum	*	*	*	oduuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+allen	allen	all	S2	ganz	*	*	*	allen	DI	DIS	A,O	P	MASC_PL_DAT_ST	Hel_40.eaf
+geuunnen	geuunnen	giwinnan	*	erkämpfen, erlangen, gewinnen	*	*	*	geuunnen	VV	VVPP	ST3A	ST3A	*	Hel_40.eaf
+,	,	*	*	,	*	*	3260	,	$,	$,	*	*	*	Hel_40.eaf
+mêðomhord	mêðomhord	međomhord	S1a	verwahrtes Geld, kostbarer Schatz	*	*	*	medomhord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+manag	manag	manag	S1b	manch, viel	CF_U_M	*	*	manag	DI	DIN	A,O	A,O	NEUT_SG_ACC_0	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+thoh	thoh	thoh	*	doch, jedoch	*	*	*	thoh	ADV	ADV	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+mildean	mildean	mildi	S2	freundlich, gnädig, barmherzig	*	*	*	mildean	ADJ	ADJ	JA,JO	P	POS_MASC_SG_ACC_ST	Hel_40.eaf
+hugi	hugi	hugi	*	Sinn, Gemüt, Herz	*	*	3261	hugi	NA	NA	I_MASC	I_MASC	SG_ACC	Hel_40.eaf
+bâri	bâri	beran	S1a	tragen	*	*	*	bari	VV	VVFIN	ST4	ST4	SUBJ_PAST_SG_3	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+breostun	breostun	briost	S1b	Inneres, Gemüt, Brust	CF_U_M	*	*	breostun	NA	NA	C_NEUT	C_NEUT	PL_DAT	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDA	*	*	NEUT_SG_NOM	Hel_40.eaf
+barn	barn	barn	S2	Kind, Sohn	*	*	*	barn	NA	NA	A_NEUT	A_NEUT	SG_NOM	Hel_40.eaf
+godes	godes	god	*	Gott	CF_U_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+:	:	*	*	:	*	*	3262	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+huat	huat	hwe	*	wer, was	*	*	*	huat	PW	PW	*	*	NEUT_SG_ACC	Hel_40.eaf
+quiðis	quiðis	queđan	*	sprechen, sagen	*	*	*	quidis	VV	VVFIN	ST5	ST5	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+umbi	umbi	umbi	*	wegen, in Bezug auf	*	*	*	umbi	AP	APPR	*	*	*	Hel_40.eaf
+gôdon	gôdon	god	S1	gut, trefflich, freundlich, nützlich	CF_I_Int	*	*	godon	ADJ	ADJS	A,O	N	POS_MASC_SG_GEN_WK	Hel_40.eaf
+?	?	*	*	?	*	*	*	?	$.	$.	*	*	*	Hel_40.eaf
+
+]	]	*	*	]	*	*	*	]	$(	$(	*	*	*	Hel_40.eaf
+n	*	ne	*	nicht	*	*	*	n	PTK	PTKNEG	*	*	*	Hel_40.eaf
+is	nis	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_40.eaf
+that	that	the	*	der, die, das	*	*	*	that	DD	DDS	*	*	NEUT_SG_NOM	Hel_40.eaf
+gumono	gumono	gumo	S2	Mann, Mensch	*	*	*	gumono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_40.eaf
+ênig	ênig	enig	*	irgendein	*	*	3263	enig	DI	DIS	A,O	P	MASC_SG_NOM_ST	Hel_40.eaf
+biûtan	biûtan	biutan	*	ausgenommen, außer	*	*	*	biutan	KO	KON	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das; dieser, diese, deises	*	*	*	the	DD	DDS	*	*	MASC_SG_NOM	Hel_40.eaf
+êno	êno	en	S1	einzig, alleinig	CF_U_M	*	*	eno	DI	DIS	A,O	N	MASC_SG_NOM_WK	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das; welcher, welche, welches	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_40.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_40.eaf
+al	al	all	S2	all	*	*	*	al	DI	DIS	A,O	P	NEUT_SG_ACC_ST	Hel_40.eaf
+gescôp	gescôp	giskeppian	*	schaffen	*	*	*	gescop	VV	VVFIN	ST6	ST6	IND_PAST_SG_3	Hel_40.eaf
+,	,	*	*	*	*	*	3264	,	$,	$,	*	*	*	Hel_40.eaf
+uuerold	uuerold	werold	S1a	Welt, Erde	*	*	*	uuerold	NA	NA	C,I_FEM,I_MASC	C_FEM	SG_ACC	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+uunnea	uunnea	wunnia	S1b	Wonne, Freude, Lust	CF_I_Rel	*	*	uunnea	NA	NA	JO_FEM	JO_FEM	PL_ACC	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Ef	Ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+uuillean	uuillean	willio	S2	Wille, Gnade	*	*	*	uuillean	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+haƀas	haƀas	hebbian	*	haben	CF_I_Adv_Cnd	*	*	habas	VA	VAFIN	WK3	WK3	IND_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3265	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+lioht	lioht	lioht	S1	Himmelreich	*	*	*	lioht	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+godes	godes	god	*	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+lîðan	lîðan	liđan	S2	gehen, ziehen	*	*	*	lidan	VV	VVINF	ST1	ST1	*	Hel_40.eaf
+môtis	môtis	motan	*	dürfen, vermögen	CF_I_O	*	*	motis	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3266	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+bihalden	bihalden	bihaldan	S1	festhalten an, bewahren	*	*	*	bihalden	VV	VVINF	RED1A	RED1A	*	Hel_40.eaf
+thea	thea	the	*	der, die, das	*	*	*	thea	DD	DDA	*	*	FEM_SG_ACC	Hel_40.eaf
+hêlagon	hêlagon	helag	S2	heilig	*	*	*	helagon	ADJ	ADJ	A,O	N	POS_FEM_SG_ACC_WK	Hel_40.eaf
+lêra	lêra	lera	*	Lehre	CF_U_M	*	*	lera	NA	NA	N,O_FEM	O_FEM	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	3267	,	$,	$,	*	*	*	Hel_40.eaf
+the	the	the	*	welcher, welche, welches	*	*	*	the	PTK	PTKREL	*	*	*	Hel_40.eaf
+thar	thar	thar	*	da, dort	*	*	*	thar	ADV	ADV	*	*	*	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+themu	themu	the	*	der, die, das	*	*	*	themu	DD	DDA	*	*	MASC_SG_DAT	Hel_40.eaf
+aldon	aldon	ald	S1	alt	*	*	*	aldon	ADJ	ADJ	A,O	N	POS_MASC_SG_DAT_WK	Hel_40.eaf
+êuua	êuua	eo	S2	Gesetz, Recht	*	*	*	euua	NA	NA	WA_MASC	WA_MASC	SG_DAT	Hel_40.eaf
+gebiudid	gebiudid	gibiodan	*	gebieten, befehlen	CF_I_Rel	*	*	gebiudid	VV	VVFIN	ST2	ST2	IND_PRES_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	3268	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+man	man	mann	S1	Mensch, Mann	*	*	*	man	NA	NA	C,A_MASC	C,A_MASC	SG_ACC	Hel_40.eaf
+ni	ni	ne	*	nicht; hier. weder	*	*	*	ni	KO	KON	*	*	*	Hel_40.eaf
+slah	slah	slahan	*	erschlagen, töten	*	*	*	slah	VV	VVIMP	ST6	ST6	IMP_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+ni	ni	ne	*	nicht; hier:  noch	*	*	*	ni	KO	KON	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+mênes	mênes	men	S2	Frevel, Sünde	*	*	*	menes	NA	NA	A_NEUT	A_NEUT	SG_GEN	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+sueri	sueri	swerian	*	schwören	*	*	*	sueri	VV	VVIMP	ST6	ST6	IMP_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3269	,	$,	$,	*	*	*	Hel_40.eaf
+farlegarnessi	farlegarnessi	farlegarnessi	S1a	Ehebruch, Hurerei	*	*	*	farlegarnessi	NA	NA	IN_FEM	IN_FEM	SG_ACC	Hel_40.eaf
+farlât	farlât	farlatan	S1b	vermeiden, lassen	*	*	*	farlat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+luggi	luggi	luggi	S2	falsch	*	*	*	luggi	ADJ	ADJ	JA,JO	JA,JO	POS_NEUT_SG_ACC_0	Hel_40.eaf
+geuuitskepi	geuuitskepi	giwitskepi	*	Zeugnis	*	*	*	geuuitskepi	NA	NA	I_NEUT	I_NEUT	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	3270	,	$,	$,	*	*	*	Hel_40.eaf
+strîd	strîd	strid	S1a	Widerstreben, Streit	*	*	*	strid	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+stulina	stulina	stulina	S1b	Diebstahl	CF_I_O	*	*	stulina	NA	NA	O_FEM	O_FEM	SG_ACC	Hel_40.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_40.eaf
+
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+uuis	uuis	wesan	*	sein	*	*	*	uuis	VA	VAIMP	ST5	IRR	IMP_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+te	te	to	*	zu, allzu	*	*	*	te	ADV	ADV	*	*	*	Hel_40.eaf
+stark	stark	stark	S2	böse, feindlich	*	*	*	stark	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+hugi	hugi	hugi	*	Sinn, Gemüt, Herz	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	3271	,	$,	$,	*	*	*	Hel_40.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+nîðin	nîðin	niđin	S1	feindselig	*	*	*	nidin	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+ne	ne	ne	*	nicht	*	*	*	ne	PTK	PTKNEG	*	*	*	Hel_40.eaf
+hatul	hatul	hatul	*	feindselig, hasserfüllt	*	*	*	hatul	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+nôdrôf	nôdrôf	nodrof	S2	gewaltsamer Raub	*	*	*	nodrof	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+fremi	fremi	fremmian	*	ausführen, tun	CF_U_M	*	*	fremi	VV	VVIMP	WK1B	WK1B	IMP_PRES_SG_2	Hel_40.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_40.eaf
+
+]	]	*	*	]	*	*	3272	]	$(	$(	*	*	*	Hel_40.eaf
+aƀunst	aƀunst	abunst	S1a	Missgunst, Hass, Neid	*	*	*	abunst	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_40.eaf
+alla	alla	all	S1b	all	*	*	*	alla	DI	DIN	A,O	P	FEM_SG_ACC_ST	Hel_40.eaf
+farlât	farlât	farlatan	*	sich von etwas abwenden, vermeiden	CF_U_Imp	*	*	farlat	VV	VVIMP	RED1B	RED1B	IMP_PRES_SG_2	Hel_40.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_40.eaf
+
+uuis	uuis	wesan	*	sein	*	*	*	uuis	VA	VAIMP	ST5	ST5	IMP_PRES_SG_2	Hel_40.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	MASC_PL_DAT_ST	Hel_40.eaf
+eldirun	eldirun	aldiro	S2	Eltern	*	*	*	eldirun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_40.eaf
+gôd	gôd	god	*	gut, nützlich	*	*	*	god	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+,	,	*	*	,	*	*	3273	,	$,	$,	*	*	*	Hel_40.eaf
+fader	fader	fadar	S1	Vater	*	*	*	fader	NA	NA	ER_MASC	ER_MASC	SG_DAT	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+môder	môder	modar	*	Mutter	*	*	*	moder	NA	NA	ER_FEM	ER_FEM	SG_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+thînun	thînun	thin	*	dein	*	*	*	thinun	DPOS	DPOS	A,O	P	MASC_PL_DAT_ST	Hel_40.eaf
+friundun	friundun	friund	S2	Freund	*	*	*	friundun	NA	NA	ND_MASC	A_MASC	PL_DAT	Hel_40.eaf
+hold	hold	hold	*	hold, lieb	*	*	*	hold	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+,	,	*	*	,	*	*	3274	,	$,	$,	*	*	*	Hel_40.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_40.eaf
+nâhistun	nâhistun	nah	S1a	nahe	*	*	*	nahistun	ADJ	ADJS	A,O	N	SUP_MASC_PL_DAT_WK	Hel_40.eaf
+ginâðig	ginâðig	ginađig	S1b	barmherzig, gnädig	CF_U_Imp	*	*	ginadig	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Than	Than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PRF	*	*	SG_ACC_2	Hel_40.eaf
+giniodon	giniodon	giniudon	S2	sich erfreuen, genießen	*	*	*	giniodon	VV	VVINF	WK2	WK2	*	Hel_40.eaf
+môst	môst	motan	*	können, dürfen	*	*	3275	most	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+himilo	himilo	himil	S1	Himmel	*	*	*	himilo	NA	NA	A_MASC	A_MASC	PL_GEN	Hel_40.eaf
+rîkeas	rîkeas	riki	*	der Bezirk, über den die Herrschgewalt sich erstreckt, das beherrschte Land, Reich	CF_U_M	*	*	rikeas	NA	NA	JA_NEUT	JA_NEUT	SG_GEN	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+]	]	*	*	]	*	*	*	]	$(	$(	*	*	*	Hel_40.eaf
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_40.eaf
+bihalden	bihalden	bihaldan	S2	festhalten an, bewahren	*	*	*	bihalden	VV	VVINF	RED1A	RED1A	*	Hel_40.eaf
+uuili	uuili	willian	*	wollen	*	*	*	uuili	VM	VMFIN	IRR	IRR	IND_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3276	,	$,	$,	*	*	*	Hel_40.eaf
+ful	*	ful	*	angefüllt, voll	*	*	*	ful	ADJ	PTKVZ	*	*	*	Hel_40.eaf
+gangan	fulgangan	fulgangan	S1a	befolgen	*	*	*	gangan	VV	VVINF	RED1A	RED1A	*	Hel_40.eaf
+godes	godes	god	S1b	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+lêrun	lêrun	lera	*	Lehre, Gebot	CF_I_Adv_Cnd	*	*	lerun	NA	NA	N,O_FEM	N_FEM	SG_ACC	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+sprak	sprak	sprekan	*	sprechen, reden	*	*	*	sprak	VV	VVFIN	ST4	ST4	IND_PAST_SG_3	Hel_40.eaf
+eft	eft	eft	*	darauf, nachher, sodann	*	*	*	eft	ADV	ADV	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das	*	*	*	the	DD	DDA	*	*	MASC_SG_NOM	Hel_40.eaf
+iungo	iungo	jung	S2	jung	*	*	*	iungo	ADJ	ADJ	A,O	N	POS_MASC_SG_NOM_WK	Hel_40.eaf
+man	man	mann	*	Mann	CF_U_M	*	3277	man	NA	NA	C,A_MASC	C,A_MASC	SG_NOM	Hel_40.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+al	al	all	*	alles	*	*	*	al	DI	DIS	A,O	P	NEUT_SG_ACC_ST	Hel_40.eaf
+hebbiu	hebbiu	hebbian	*	haben	*	*	*	hebbiu	VA	VAFIN	WK3	WK3	IND_PRES_SG_1	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+sô	sô	so	*	so, genauso	*	*	*	so	ADV	ADV	*	*	*	Hel_40.eaf
+gilêstid	gilêstid	gilestian	S1	ausführen, tun, vollbringen	CF_U_M	*	*	gilestid	VV	VVPP	WK1A	WK1A	*	Hel_40.eaf
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	, 	$,	$,	*	*	*	Hel_40.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+he	he	he	*	er, sie, es	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+sô	sô	so	*	so, wie	*	*	*	so	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_ACC_1	Hel_40.eaf
+lêris	lêris	lerian	S2	lehren	*	*	*	leris	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_40.eaf
+nu	nu	nu	*	nun, jetzt	*	*	*	nu	ADV	ADV	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	3278	,	$,	$,	*	*	*	Hel_40.eaf
+uuordun	uuordun	word	S1a	Wort, Rede, Gebot	*	*	*	uuordun	NA	NA	A_NEUT	A_NEUT	PL_DAT	Hel_40.eaf
+uuîsis	uuîsis	wisian	S1b	zeigen, verkünden, weisen	*	*	*	uuisis	VV	VVFIN	WK1A	WK1A	IND_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+sô	sô	so	*	so, wie	*	*	*	so	KO	KOUS	*	*	*	Hel_40.eaf
+ik	ik	ik	*	ich	*	*	*	ik	PPER	PPER	*	*	SG_NOM_1	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	PPER	*	*	NEUT_SG_GEN_3	Hel_40.eaf
+eo	eo	io	*	zu irgendeiner Zeit, je; mit Negation: nie	*	*	*	eo	ADV	ADV	*	*	*	Hel_40.eaf
+uuiht	uuiht	wiht	S2	Ding, etwas	*	*	*	uuiht	NA	NA	I_MASC,NEUT	I_MASC,NEUT	SG_ACC	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+farlêt	farlêt	farlatan	*	unterlassen	*	*	3279	farlet	VV	VVFIN	RED1B	RED1B	IND_PAST_SG_1	Hel_40.eaf
+fan	fan	fan	*	von, seit	*	*	*	fan	AP	APPR	*	*	*	Hel_40.eaf
+mînero	mînero	min	*	mein	*	*	*	minero	DPOS	DPOS	A,O	P	FEM_SG_DAT_ST	Hel_40.eaf
+kindiski	kindiski	kindiski	S1	Jugend	CF_I_Adv_Mod	*	*	kindiski	NA	NA	IN_FEM	IN_FEM	SG_DAT	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+bigan	bigan	biginnan	*	beginnen, anfangen	*	*	*	bigan	VV	VVFIN	ST3A	ST3A	IND_PRES_SG_3	Hel_40.eaf
+ina	ina	he	*	er, sie, es	*	*	*	ina	PPER	PPER	*	*	MASC_SG_ACC_3	Hel_40.eaf
+Crist	Crist	Krist	S2	Christus	*	*	*	crist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+sehan	sehan	ansehan	*	ansehen	*	*	3280	sehan	VV	VVINF	ST5	ST5	*	Hel_40.eaf
+an	an	an	S1a	an	*	*	*	an	AP	PTKVZ	*	*	*	Hel_40.eaf
+mid	mid	mid	*	mit	*	*	*	mid	AP	APPR	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+ôgun	ôgun	oga	S1b	Auge	CF_U_M	*	*	ogun	NA	NA	N_NEUT	N_NEUT	PL_DAT	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+ên	ên	en	S2	ein	*	*	*	en	CARD	CARDS	A,O	A,O	NEUT_SG_NOM_0	Hel_40.eaf
+is	is	wesan	*	sein	*	*	*	is	VA	VAFIN	ST5	IRR	IND_PRES_SG_3	Hel_40.eaf
+thar	thar	thar	*	jedoch, aber	*	*	*	thar	ADV	ADV	*	*	*	Hel_40.eaf
+noh	noh	noh	*	noch	*	*	*	noh	ADV	ADV	*	*	*	Hel_40.eaf
+nu	nu	nu	*	nun, jetzt	CF_CS_U_M	*	*	nu	ADV	ADV	*	*	*	Hel_40.eaf
+"	"	*	*	"	*	*	*	"	*	*	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	, 	$,	$,	*	*	*	Hel_40.eaf
+quað	quað	queđan	*	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+he	he	he	*	er, sie, es	CF_U_M	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+,	,	*	*	,	*	*	3281	,	$,	$,	*	*	*	Hel_40.eaf
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+uuan	uuann	wan	S1a	mangelhaft, fehlend	*	*	*	uuan	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+thero	thero	the	*	der, die, das	*	*	*	thero	DD	DDA	*	*	NEUT_PL_GEN	Hel_40.eaf
+uuerko	uuerko	werk	S1b	Werk, Tat, Handlung	CF_CC_U_M	*	*	uuerko	NA	NA	A_NEUT	A_NEUT	PL_GEN	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+ef	ef	ef	*	wenn, falls	*	*	*	ef	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+uuilleon	uuilleon	willio	S2	Wille, Wunsch	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+haƀas	haƀas	hebbian	*	haben	CF_I_Adv_Cnd	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_40.eaf
+,	,	*	*	,	*	*	3282	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+thurhfremid	thurhfremid	thurhfremid	S1	vollkommen	*	*	*	thurhfremid	ADV	ADV	*	*	*	Hel_40.eaf
+thionon	thionon	thionon	S2	dienen	*	*	*	thionon	VV	VVINF	WK2	WK2	*	Hel_40.eaf
+môtis	môtis	motan	*	dürfen, vermögen	*	*	3283	motis	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_2	Hel_40.eaf
+hêrron	hêrron	herro	S1	Herr	*	*	*	herron	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_40.eaf
+thînumu	thînumu	thin	*	dein	CF_I_O	*	*	thinumu	DPOS	DPOSN	A,O	P	MASC_SG_DAT_ST	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+that	that	the	*	der, die, das; dieser, diese, dieses	*	*	*	that	DD	DDA	*	*	NEUT_SG_ACC	Hel_40.eaf
+thîn	thîn	thin	*	dein	*	*	*	thin	DPOS	DPOS	A,O	P	NEUT_SG_ACC_ST	Hel_40.eaf
+hord	hord	hord	S2	Schatz	*	*	*	hord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+nimen	nimen	niman	*	nehmen	*	*	*	nimen	VV	VVINF	ST4	ST4	*	Hel_40.eaf
+,	,	*	*	,	*	*	3284	,	$,	$,	*	*	*	Hel_40.eaf
+scalt	scalt	skulan	*	sollen, müssen	*	*	*	scalt	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_2	Hel_40.eaf
+thînan	thînan	thin	*	dein	*	*	*	thinan	DPOS	DPOS	A,O	P	MASC_SG_ACC_ST	Hel_40.eaf
+ôduuelon	ôduuelon	odwelo	S1	Besitz, Reichtum	*	*	*	oduuelon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+allan	allan	all	S2	all, ganz	*	*	*	allan	DI	DIN	A,O	P	MASC_SG_ACC_ST	Hel_40.eaf
+farcôpien	farcôpien	farkopon	*	verkaufen, veräußern	*	*	*	farcopien	VV	VVINF	WK2	WK2	*	Hel_40.eaf
+,	,	*	*	,	*	*	3285	,	$,	$,	*	*	*	Hel_40.eaf
+diurie	diurie	diuri	S1	wertvoll, teuer, kostbar	*	*	*	diurie	ADJ	ADJ	JA,JO	P	POS_MASC_PL_ACC_ST	Hel_40.eaf
+mêðmos	mêðmos	međom	*	Kleinod, Juwel	CF_U_M	*	*	medmos	NA	NA	A,I_MASC	A_MASC	PL_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+endi	endi	endi	*	und	CF_CS_I_M	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+dêlien	dêlien	delian	S2	teilen, austeilen	CI_CS_U_O	*	*	delien	VV	VVINF	WK1A	WK1A	*	Hel_40.eaf
+hêt	hêt	hetan	*	befehlen, heißen	CF_CC_I_M	*	3286	het	VV	VVFIN	RED2	RED2	IND_PAST_SG_2	Hel_40.eaf
+armun	armun	arm	S1	arm, bedürftig	*	*	*	armun	ADJ	ADJ	A,O	P,N	POS_MASC_PL_DAT_ST,WK	Hel_40.eaf
+mannun	mannun	mann	*	Mensch, Leute	CI_CC_U_O	*	*	mannun	NA	NA	C,A_MASC	C,A_MASC	PL_DAT	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+than	than	than	*	dann	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+haƀas	haƀas	hebbian	*	haben, halten	*	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_40.eaf
+thu	thu+aftar	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+aftar thiu	thiu	aftar thiu	S2	danach	*	*	3287	aftar thiu	ADV	ADV	*	*	*	Hel_40.eaf
+hord	hord	hord	S1a	Schatz	*	*	*	hord	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+himile	himile	himil	S1b	Himmel	CF_U_M	*	*	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_40.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_40.eaf
+
+cum	cum	kuman	*	kommen	*	*	*	cum	VV	VVIMP	ST4	ST4	IMP_PRES_SG_2	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+than	than	than	*	dann, darauf, danach	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+gihalden	gihalden	gihaldan	S2	bewahren, erhalten, retten	*	*	*	gihalden	VV	VVPPD	RED1A	RED1A	POS	Hel_40.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+mi	mi	ik	*	ich	*	*	*	mi	PPER	PPER	*	*	SG_DAT_1	Hel_40.eaf
+,	,	*	*	,	*	*	3288	,	$,	$,	*	*	*	Hel_40.eaf
+folgo	folgo	folgon	S1a	folgen, nachfolgen	*	*	*	folgo	VV	VVIMP	WK2	WK2	IMP_PRES_SG_2	Hel_40.eaf
+thi	thi	thu	*	du	*	*	*	thi	PPER	PPER	*	*	SG_DAT_2	Hel_40.eaf
+mînaro	mînaro	min	*	mein	*	*	*	minaro	DPOS	DPOS	A,O	P	FEM_SG_DAT_ST	Hel_40.eaf
+ferdi	ferdi	fard	S1b	Weg, Fährte	CF_U_Imp	*	*	ferdi	NA	NA	I_FEM	I_FEM	SG_DAT	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+than	than	than	*	dann, danach	*	*	*	than	ADV	ADV	*	*	*	Hel_40.eaf
+haƀas	haƀas	hebbian	*	haben	*	*	*	habas	VA	VVFIN	WK3	WK3	IND_PRES_SG_2	Hel_40.eaf
+thu	thu	thu	*	du	*	*	*	thu	PPER	PPER	*	*	SG_NOM_2	Hel_40.eaf
+friðu	friðu	friđu	S2	Friede, Schutz	*	*	*	fridu	NA	NA	U_MASC	U_MASC	SG_ACC	Hel_40.eaf
+sîður	sîður	siđor	*	später, seitdem	CF_U_M	*	*	sidur	ADV	ADV	*	*	*	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	"	*	*	3289	"	*	*	*	*	*	Hel_40.eaf
+Thô	Thô	tho	*	da, dann	*	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+uurðun	uurðun	werđan	*	werden, kommen	*	*	*	uurdun	VA	VVFIN	ST3B	ST3B	IND_PAST_PL_3	Hel_40.eaf
+Kristes	Kristes	Krist	S1	Christus	*	*	*	kristes	NE	NE	A_MASC	A_MASC	SG_GEN	Hel_40.eaf
+uuord	uuord	word	*	Wort, Rede, Gebot	*	*	*	uuord	NA	NA	A_NEUT	A_NEUT	PL_NOM	Hel_40.eaf
+kindiungumu	kindiungumu	kindjung	S2	sehr jung, kindlich	*	*	*	kindiungumu	ADJ	ADJ	A,O	P	POS_MASC_SG_DAT_ST	Hel_40.eaf
+manne	manne	mann	*	Mann	*	*	3290	manne	NA	NA	C,A_MASC	A_MASC	SG_DAT	Hel_40.eaf
+suîðo	suîðo	swiđo	S1a	sehr	*	*	*	suido	ADV	ADV	*	*	*	Hel_40.eaf
+an	an	an	*	zu	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+sorgun	sorgun	soraga	S1b	Sorge, Kummer	CF_U_M	*	*	sorgun	NA	NA	O_FEM	O_FEM	PL_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+sêr	sêr	ser	S2	schmerzlich, traurig	*	*	*	ser	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+hugi	hugi	hugi	*	Gedanke, Gemüt	*	*	*	hugi	NA	NA	I_MASC	I_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	,	*	*	3291	,	$,	$,	*	*	*	Hel_40.eaf
+môd	môd	mod	S1	Gesinnung, Mut	*	*	*	mod	NA	NA	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+umbi	umbi	umbi	*	um, in	*	*	*	umbi	AP	APPR	*	*	*	Hel_40.eaf
+herte	herte	herta	*	Herz	CF_U_M	*	*	herte	NA	NA	N_NEUT	N_NEUT	SG_ACC	Hel_40.eaf
+:	:	*	*	:	*	*	*	:	$.	$.	*	*	*	Hel_40.eaf
+
+habde	habde	hebbian	*	haben	*	*	*	habde	VA	VAFIN	WK3	WK3	IND_PAST_SG_3	Hel_40.eaf
+mêðmo	mêðmo	međom	S2	Juwel, Kostbarkeit	*	*	*	medmo	NA	NA	A,I_MASC	A_MASC	PL_GEN	Hel_40.eaf
+filu	filu	filu	*	viel, Vieles	*	*	*	filu	NA	NA	U_NEUT	0_NEUT	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	3292	,	$,	$,	*	*	*	Hel_40.eaf
+uuelono	uuelono	welo	S1a	Gut, Besitz, Reichtum	*	*	*	uuelono	NA	NA	N_MASC	N_MASC	PL_GEN	Hel_40.eaf
+geuunnen	geuunnen	giwinnan	S1b	erlangen, gewinnen	CF_U_M	*	*	geuunnen	VV	VVPP	ST3A	ST3A	*	Hel_40.eaf
+;	;	*	*	;	*	*	*	;	$.	$.	*	*	*	Hel_40.eaf
+
+uuende	uuende	wendian	S2	sich wenden, sich abwenden	*	*	*	uuende	VV	VVFIN	WK1A	WK1A	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PRF	*	*	MASC_SG_DAT_3	Hel_40.eaf
+eft	eft	eft	*	wieder, abermals	*	*	*	eft	ADV	ADV	*	*	*	Hel_40.eaf
+thanen	thanen	thanan	*	ab, von dannen	CF_U_M	*	*	thanen	ADV	ADV	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	3293	,	$,	$,	*	*	*	Hel_40.eaf
+uuas	uuas	wesan	*	sein	*	*	*	uuas	VA	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+unôðo	unôðo	unođo	S1	schwer, bedrückt	*	*	*	unodo	ADV	ADV	*	*	*	Hel_40.eaf
+innan	innan	innan	S2	in, innerhalb	*	*	*	innan	ADV	ADV	*	*	*	Hel_40.eaf
+breostun	breostun	briost	*	Inneres, Gemüt, Brust	*	*	*	breostun	NA	NA	C_NEUT	C_NEUT	PL_DAT	Hel_40.eaf
+,	,	*	*	,	*	*	3294	,	$,	$,	*	*	*	Hel_40.eaf
+an	an	an	*	in	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+seƀon	seƀon	sebo	S1a	Gemüt, Herz	*	*	*	sebon	NA	NA	N_MASC	N_MASC	SG_DAT	Hel_40.eaf
+suâro	suâro	swaro	S1b	schwer, bedrückend	CF_U_M	*	*	suaro	ADV	ADV	*	*	*	Hel_40.eaf
+.	.	*	*	.	*	*	*	. 	$.	$.	*	*	*	Hel_40.eaf
+
+Sah	Sah	sehan	S2	sehen	*	*	*	sah	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+imu	imu	he	*	er, sie, es	*	*	*	imu	PPER	PPER	*	*	MASC_SG_DAT_3	Hel_40.eaf
+aftar	aftar	aftar	*	nach	*	*	*	aftar	ADV	ADV	*	*	*	Hel_40.eaf
+thô	thô	tho	*	da, dann	*	*	3295	tho	ADV	ADV	*	*	*	Hel_40.eaf
+Krist	Krist	Krist	S1	Christus	*	*	*	krist	NE	NE	A_MASC	A_MASC	SG_NOM	Hel_40.eaf
+alouualdo	alouualdo	alowaldo	*	Allwaltender	CF_U_M	*	*	alouualdo	NA	NA	N_MASC	N_MASC	SG_NOM	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+quað	quað	queđan	S2	sprechen, sagen	*	*	*	quad	VV	VVFIN	ST5	ST5	IND_PAST_SG_3	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_ACC_3	Hel_40.eaf
+thô	thô	tho	*	da, dann	CF_CS_U_M	*	*	tho	ADV	ADV	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	, 	$,	$,	*	*	*	Hel_40.eaf
+thar	thar	thar	*	da, weil	*	*	*	thar	KO	KOUS	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+uuelde	uuelde	willian	*	wollen	CF_I_Adv_Caus	*	*	uuelde	VM	VMFIN	IRR	IRR	IND_PAST_SG_3	Hel_40.eaf
+,	,	*	*	,	*	*	3296	,	$,	$,	*	*	*	Hel_40.eaf
+te	te	te	*	zu	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+them	them	the	*	der, die, das	*	*	*	them	DD	DDA	*	*	MASC_PL_DAT	Hel_40.eaf
+is	is	he	*	er, sie, es	*	*	*	is	PPER	DPOS	*	*	MASC_SG_GEN_3	Hel_40.eaf
+iungarun	iungarun	jungaro	S1a	Jünger, Diener	*	*	*	iungarun	NA	NA	N_MASC	N_MASC	PL_DAT	Hel_40.eaf
+geginuuardun	geginuuardun	geginward	S1b	gegenüber stehend, gegenwärtig	CF_CC_U_M	*	*	geginuuardun	ADJ	ADJN	A,O	P,N	POS_MASC_PL_DAT_ST,WK	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+that	that	that	*	dass	*	*	*	that	KO	KOUS	*	*	*	Hel_40.eaf
+uuâri	uuâri	wesan	*	sein	*	*	*	uuari	VA	VAFIN	ST5	ST5	SUBJ_PAST_SG_3	Hel_40.eaf
+an	an	an	*	in, zu, für	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+godes	godes	god	S2	Gott	*	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+rîki	rîki	riki	*	Reich	*	*	3297	riki	NA	NA	JA_NEUT	JA_NEUT	SG_ACC	Hel_40.eaf
+unôði	unôði	unođi	S1a	schwer	*	*	*	unodi	ADJ	ADJD	JA,JO	JA, JO	POS	Hel_40.eaf
+ôdagumu	ôdagumu	odag	S1b	reich, wohlhabend	*	*	*	odagumu	ADJ	ADJ	A,O	P	POS_MASC_SG_DAT_ST	Hel_40.eaf
+manne	manne	mann	*	Mensch, Mann	*	*	*	manne	NA	NA	C,A_MASC	A_MASC	SG_DAT	Hel_40.eaf
+up	up	up	S2	auf, hinauf	*	*	*	up	ADV	ADV	*	*	*	Hel_40.eaf
+te	te	te	*	zu, nach, in	*	*	*	te	AP	PTKZU	*	*	*	Hel_40.eaf
+cumanne	cumanne	kuman	*	kommen	CF_I_O	*	*	cumanne	VV	VVINFS	ST4	ST4	SG_DAT	Hel_40.eaf
+:	:	*	*	:	*	*	3298	:	$.	$.	*	*	*	Hel_40.eaf
+
+"	"	*	*	*	*	*	*	*	*	*	*	*	*	Hel_40.eaf
+ôður	ôður	ođo	S1a	leicht, mit Leichtigkeit	*	*	*	odur	ADV	ADV	*	*	COMP	Hel_40.eaf
+mag	mag	mugan	*	vermögen, können	*	*	*	mag	VM	VMFIN	PRPR	PRPR	IND_PRES_SG_3	Hel_40.eaf
+man	man	mann	*	man	*	*	*	man	NA	PI	C,A_MASC	C,A_MASC	SG_NOM	Hel_40.eaf
+olbundeon	olbundeon	olbundeo	S1b	Kamel	CF_CS_U_M	*	*	olbundeon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_40.eaf
+he	he	he	*	er, sie, es	*	*	*	he	PPER	PPER	*	*	MASC_SG_NOM_3	Hel_40.eaf
+sî	sî	wesan	*	sein	*	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_40.eaf
+unmet	unmet	unmet	S2	maßlos, ungemein, sehr	*	*	*	unmet	ADV	ADV	*	*	*	Hel_40.eaf
+grôt	grôt	grot	*	groß	CF_I_Adv_Cnc	*	*	grot	ADJ	ADJD	A,O	A,O	POS	Hel_40.eaf
+,	,	*	*	,	*	*	3299	,	$,	$,	*	*	*	Hel_40.eaf
+thurh	thurh	thurh	*	durch	*	*	*	thurh	AP	APPR	*	*	*	Hel_40.eaf
+nâðlan	nâðlan	nađla	S1	Nadel	*	*	*	nadlan	NA	NA	N_FEM	N_FEM	SG_GEN	Hel_40.eaf
+gat	gat	gat	*	Loch, Öhr	CF_CC_U_M	*	*	gat	NA	NA	A_NEUT	A_NEUT	SG_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+thoh	thoh	thoh	*	obwohl, obgleich	*	*	*	thoh	KO	KOUS	*	*	*	Hel_40.eaf
+it	it	he	*	er, sie, es	*	*	*	it	PPER	PPER	*	*	NEUT_SG_NOM_3	Hel_40.eaf
+sî	sî	wesan	*	sein	*	*	*	si	VA	VAFIN	ST5	IRR	SUBJ_PRES_SG_3	Hel_40.eaf
+naru	naru	naru	S2	enge	*	*	*	naru	ADJ	ADJD	WA,WO	WA,WO	POS	Hel_40.eaf
+suîðo	suîðo	swiđo	*	sehr	CF_I_Adv_Cnc	*	*	suido	ADV	ADV	*	*	*	Hel_40.eaf
+,	,	*	*	,	*	*	3300	,	$,	$,	*	*	*	Hel_40.eaf
+sâftur	sâftur	safto	S1a	leicht, sanft, einfach	*	*	*	saftur	ADV	ADV	*	COMP	*	Hel_40.eaf
+thurh	*	thurh	*	durch	*	*	*	thurh	AP	PTKVZ	*	*	*	Hel_40.eaf
+slôpien	thurhslôpien	thurhslopian	S1b	durchschlüpfen lassen	CF_CC_U_M	*	*	slopien	VV	VVINF	WK1A	WK1A	*	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+than	than	than	*	als, als dass	*	*	*	than	KO	KOUS	*	*	*	Hel_40.eaf
+mugi	mugi	mugan	*	vermögen, können	*	*	*	mugi	VM	VMFIN	PRPR	PRPR	SUBJ_PRES_SG_3	Hel_40.eaf
+cuman	cuman	kuman	*	kommen	*	*	*	cuman	VV	VVINF	ST4	ST4	*	Hel_40.eaf
+thiu	thiu	the	*	der, die, das	*	*	*	thiu	DD	DDA	*	*	FEM_SG_NOM	Hel_40.eaf
+siole	siole	seola	S2	Seele	*	*	*	siole	NA	NA	N,O_FEM	N,O_FEM	SG_NOM	Hel_40.eaf
+te	te	te	*	in	*	*	*	te	AP	APPR	*	*	*	Hel_40.eaf
+himile	himile	himil	*	Himmel	*	*	3301	himile	NA	NA	A_MASC	A_MASC	SG_DAT	Hel_40.eaf
+thes	thes	the	*	der, die, das	*	*	*	thes	DD	DDA	*	*	MASC_SG_GEN	Hel_40.eaf
+ôdagan	ôdagan	odag	S1	reich, wohlhabend	*	*	*	odagan	ADJ	ADJ	A,O	N	POS_MASC_SG_GEN_WK	Hel_40.eaf
+mannes	mannes	mann	*	Mann, Mensch	CF_I_Adv_Mod	*	*	mannes	NA	NA	C,A_MASC	A_MASC	SG_GEN	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+the	the	the	*	der, die, das; welcher, welche, welches	*	*	*	the	DD	DDSREL	*	*	MASC_SG_NOM	Hel_40.eaf
+hêr	hêr	her	*	hier	*	*	*	her	ADV	ADV	*	*	*	Hel_40.eaf
+al	al	all	S2	alles	*	*	*	al	DI	DIS	A,O	A,O	NEUT_SG_ACC_0	Hel_40.eaf
+haƀad	haƀad	hebbian	*	haben	*	*	3302	habad	VA	VAFIN	WK3	WK3	IND_PRES_SG_3	Hel_40.eaf
+giuuendid	giuuendid	wendian	S1a	wenden, kehren, umkehren	*	*	*	giuuendid	VV	VVPP	WK1A	WK1A	*	Hel_40.eaf
+an	an	an	*	in, zu	*	*	*	an	AP	APPR	*	*	*	Hel_40.eaf
+thene	thene	the	*	der, die, das	*	*	*	thene	DD	DDA	*	*	MASC_SG_ACC	Hel_40.eaf
+uueroldscat	uueroldscat	weroldskat	S1b	irdischer Besitz	*	*	*	uueroldscat	NA	NA	A,I_MASC	A,I_MASC	SG_ACC	Hel_40.eaf
+uuilleon	uuilleon	willio	S2	Wille, Wunsch	*	*	*	uuilleon	NA	NA	N_MASC	N_MASC	SG_ACC	Hel_40.eaf
+sînen	sînen	sin	*	sein	*	*	*	sinen	DPOS	DPOSN	A,O	P	MASC_SG_ACC_ST	Hel_40.eaf
+,	,	*	*	,	*	*	3303	,	$,	$,	*	*	*	Hel_40.eaf
+môdgithâhti	môdgithâhti	modgithaht	S1	Gedanke, Sinn	CF_I_Rel	*	*	modgithahti	NA	NA	I_FEM	I_FEM	PL_ACC	Hel_40.eaf
+,	,	*	*	,	*	*	*	,	$,	$,	*	*	*	Hel_40.eaf
+endi	endi	endi	*	und	*	*	*	endi	KO	KON	*	*	*	Hel_40.eaf
+ni	ni	ne	*	nicht	*	*	*	ni	PTK	PTKNEG	*	*	*	Hel_40.eaf
+hugid	hugid	huggian	*	sich kümmern, gedenken	*	*	*	hugid	VV	VVFIN	WK3	WK3	IND_PRES_SG_3	Hel_40.eaf
+umbi	umbi	umbi	*	um	*	*	*	umbi	AP	APPR	*	*	*	Hel_40.eaf
+thie	thie	the	*	der, die, das	*	*	*	thie	DD	DDA	*	*	FEM_SG_ACC	Hel_40.eaf
+maht	maht	maht	S2	Macht, Kraft, Gewalt	*	*	*	maht	NA	NA	I_FEM	I_FEM	SG_ACC	Hel_40.eaf
+godes	godes	god	*	Gott	CF_I_M	*	*	godes	NA	NE	A,I_MASC	A_MASC	SG_GEN	Hel_40.eaf
+.	.	*	*	.	*	*	*	.	$.	$.	*	*	*	Hel_40.eaf
+
+"	*	*	*	"	*	XL	3304	"	*	*	*	*	*	Hel_40.eaf

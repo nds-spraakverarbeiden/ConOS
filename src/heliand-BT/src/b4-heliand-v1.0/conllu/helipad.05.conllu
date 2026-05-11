@@ -1,0 +1,643 @@
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thuo	tho	ADV	ADV	_	20	obl	_	_
+2	uuarth	werthan	AUX	RDDI^3^SG	_	20	aux	_	_
+3	fan	fan	ADP	P	_	4	case	_	_
+4	Rumuburg	Rumuburg	PROPN	NPR^SG^D	_	20	obl	_	_
+5	rikeas	riki	ADJ	ADJ^SG^G	_	6	amod	_	_
+6	mannes	man	NOUN	N^SG^G	_	20	nmod	_	_
+7	oƀer	ovar	ADP	P	_	10	case	_	_
+8	alla	al	ADJ	Q^A^SG	_	10	amod	_	_
+9	thesa	these	DET	D^SG^A	_	10	det	_	_
+10	irminthiod	irminthiod	NOUN	N^A^SG	_	20	obl	_	_
+11	Octauianes	Octavian	PROPN	NPR^G^SG	_	20	nmod	_	_
+12	ban	ban	NOUN	N^N^SG	_	20	nsubj	_	_
+13	endi	endi	CCONJ	CONJ	_	14	cc	_	_
+14	bodscepi	bodskepi	NOUN	N^SG^N	_	20	conj	_	_
+15	oƀer	ovar	ADP	P	_	19	case	_	_
+16	thia	the	DET	D^A^SG	_	19	det	_	_
+17	is	is	DET	PRO$^SG^A^3	_	19	det	_	_
+18	bredun	bred	ADJ	ADJ^SG^A	_	19	amod	_	_
+19	giuuald	giwald	NOUN	N^A^SG	_	20	obl	_	_
+20	kuman	kuman	VERB	VN	_	0	root	_	_
+21	fan	fan	ADP	P	_	23	case	_	_
+22	them	the	DET	D^SG^D	_	23	det	_	_
+23	kesure	kesur	NOUN	N^SG^D	_	20	obl	_	_
+24	cuningo	kuning	NOUN	N^G^PL	_	25	nmod	_	_
+25	gihuilicon	gihwilik	ADJ	GE+WADJ^D^SG	_	20	iobj	_	_
+26	,	,	PUNCT	,	_	25	punct	_	_
+27	hemsittendion	hemsittiand	NOUN	N^D^PL	_	20	iobj	_	_
+28	,	,	PUNCT	,	_	27	punct	_	_
+29	so	so	SCONJ	C	_	30	mark	_	_
+30	uuido	wido	ADV	ADV	_	20	obl	_	_
+31	so	so	SCONJ	C	_	39	mark	_	_
+32	is	is	DET	PRO$^3^PL^N	_	33	det	_	_
+33	heritogon	heritogo	NOUN	N^N^PL	_	39	nsubj	_	_
+34	oƀar	ovar	ADP	P	_	37	case	_	_
+35	all	al	ADJ	Q^SG^A	_	37	amod	_	_
+36	that	the	DET	D^A^SG	_	37	det	_	_
+37	landscepi	landskepi	NOUN	N^A^SG	_	39	obl	_	_
+38	liudio	liudi	NOUN	N^PL^G	_	39	obj	_	_
+39	giuuieldon	waldan	VERB	GE+VBDI^3^PL	_	30	advcl	_	_
+40	.	.	PUNCT	.	_	39	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Hiet	hetan	VERB	VBDI^3^SG	_	0	root	_	_
+2	man	man	PRON	MAN^N^3^SG	_	1	nsubj	_	_
+3	that	that	SCONJ	C	_	10	mark	_	_
+4	all	al	ADJ	Q^PL^N	_	7	amod	_	_
+5	thia	the	DET	D^N^PL	_	7	det	_	_
+6	elilendiun	elilendi	ADJ	ADJ^PL^N	_	7	amod	_	_
+7	man	man	NOUN	N^PL^N	_	10	nsubj	_	_
+8	iro	iru	DET	PRO$^3^SG^A	_	9	det	_	_
+9	vođil	othil	NOUN	N^SG^A	_	10	obj	_	_
+10	suohtin	sokian	VERB	VBDS^PL^3	_	1	acl	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	helithos	helith	NOUN	N^PL^N	_	10	nsubj	_	_
+13	iro	iru	DET	PRO$^PL^3^A	_	14	det	_	_
+14	handmahal	handmahal	NOUN	N^A^SG	_	10	obj	_	_
+15	angegin	angegin	ADP	P	_	18	case	_	_
+16	iro	iru	DET	PRO$^G^3^SG	_	17	det	_	_
+17	herren	herro	NOUN	N^G^SG	_	18	nmod	_	_
+18	bodon	bodo	NOUN	N^PL^D	_	10	obl	_	_
+19	,	,	PUNCT	.	_	18	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	quami	kuman	VERB	VBDS^3^SG	_	0	root	_	_
+2	te	te	ADP	P	_	4	case	_	_
+3	them	the	DET	D^D^SG	_	4	det	_	_
+4	cnuosla	knosal	NOUN	N^D^SG	_	1	obl	_	_
+5	gihue	gihwe	PRON	GE+WPRO^N	_	1	nsubj	_	_
+6	thanan	thanan	ADV	ADV	_	8	nmod	_	_
+7	hie	he	PRON	PRO^SG^N^3	_	8	nsubj	_	_
+8	cunneas	kunni	NOUN	N^G^SG	_	1	acl	_	_
+9	uuas	wesan	AUX	BEDI^SG^3	_	8	aux	_	_
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	giboran	beran	VERB	GE+VN	_	8	advcl	_	_
+12	fan	fan	ADP	P	_	14	case	_	_
+13	them	the	DET	D^PL^D	_	14	det	_	_
+14	burgion	burg	NOUN	N^D^PL	_	11	obl	_	_
+15	.	.	PUNCT	.	_	14	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	That	the	DET	D^N^SG	_	2	det	_	_
+2	gibod	gibod	NOUN	N^SG^N	_	4	nsubj	_	_
+3	uuarth	werthan	AUX	RDDI^SG^3	_	4	aux	_	_
+4	gilestid	lestian	VERB	GE+VN	_	0	root	_	_
+5	oƀer	ovar	ADP	P	_	8	case	_	_
+6	thesa	these	DET	D^SG^A	_	8	det	_	_
+7	uuidun	wid	ADJ	ADJ^A^SG	_	8	amod	_	_
+8	uuerold	werold	NOUN	N^A^SG	_	4	obl	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Uuerod	werod	NOUN	N^N^SG	_	2	nsubj	_	_
+2	samnode	samnon	VERB	VBDI^3^SG	_	0	root	_	_
+3	to	to	ADP	P	_	6	case	_	_
+4	allero	al	ADJ	Q^G^PL	_	5	amod	_	_
+5	burgo	burg	NOUN	N^G^PL	_	6	nmod	_	_
+6	gihuem	gihwe	PRON	GE+WPRO^D	_	2	obl	_	_
+7	.	.	PUNCT	.	_	6	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Forun	faran	VERB	VBDI^PL^3	_	0	root	_	_
+2	thia	the	DET	D^PL^N	_	3	det	_	_
+3	bodon	bodo	NOUN	N^PL^N	_	1	nsubj	_	_
+4	oƀar	ovar	ADP	P	_	5	case	_	_
+5	all	al	ADJ	Q^A^SG	_	1	amod	_	_
+6	thia	the	DET	D^PL^N	_	10	nsubj	_	_
+7	fan	fan	ADP	P	_	9	case	_	_
+8	them	the	DET	D^D^SG	_	9	det	_	_
+9	kesure	kesur	NOUN	N^D^SG	_	10	obl	_	_
+10	cumana	kuman	ADJ	ADJ|VNI^PL^N	_	1	acl	_	_
+11	uuarun	wesan	AUX	BEDI^3^PL	_	10	aux	_	_
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	buokspaha	bokspahi	ADJ	ADJ^PL^N	_	14	amod	_	_
+14	uueros	wer	NOUN	N^N^PL	_	1	nsubj	_	_
+15	:	:	PUNCT	.	_	14	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	An	an	ADP	P	_	2	case	_	_
+2	brief	bref	NOUN	N^A^SG	_	3	obl	_	_
+3	scriƀun	skrivan	VERB	VBDI^3^PL	_	0	root	_	_
+4	suitho	switho	ADV	ADV	_	5	advmod	_	_
+5	niudlico	niudliko	ADV	ADV	_	3	advmod	_	_
+6	namono	namo	NOUN	N^PL^G	_	7	nmod	_	_
+7	gihuilican	gihwilik	ADJ	GE+WADJ^A^SG	_	3	obj	_	_
+8	,	,	PUNCT	,	_	7	punct	_	_
+9	ia	ja	CCONJ	CONJ	_	10	cc	_	_
+10	land	land	NOUN	N^A^SG	_	3	obj	_	_
+11	ia	ja	CCONJ	CONJ	_	12	cc	_	_
+12	liudi	liudi	NOUN	N^A^PL	_	10	conj	_	_
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	that	that	SCONJ	C	_	18	mark	_	_
+15	im	he	PRON	PRO^D^3^PL	_	18	iobj	_	_
+16	ni	ne	PART	NEG	_	18	advmod	_	_
+17	mahta	mugan	AUX	MDDI^SG^3	_	18	aux	_	_
+18	alettian	alettian	VERB	VB	_	3	acl	_	_
+19	man	man	PRON	MAN^N^3^SG	_	18	nsubj	_	_
+20	gumono	gumo	NOUN	N^PL^G	_	19	nmod	_	_
+21	sulica	sulik	ADJ	ADJ^A^SG	_	22	amod	_	_
+22	gambra	gambra	NOUN	N^A^SG	_	18	obj	_	_
+23	so	so	SCONJ	C	_	26	mark	_	_
+24	imo	he	PRON	PRO^D^SG^3	_	26	iobj	_	_
+25	scolda	skulan	AUX	MDDI^3^SG	_	26	aux	_	_
+26	geldan	geldan	VERB	VB	_	22	advcl	_	_
+27	gihuie	gihwe	PRON	GE+WPRO^N	_	26	nsubj	_	_
+28	helitho	helith	NOUN	N^G^PL	_	27	nmod	_	_
+29	fan	fan	ADP	P	_	31	case	_	_
+30	is	is	DET	PRO$^3^D^SG	_	31	det	_	_
+31	hobde	hovid	NOUN	N^D^SG	_	26	obl	_	_
+32	.	.	PUNCT	.	_	31	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thuo	tho	ADV	ADV	_	2	obl	_	_
+2	giuuet	witan	VERB	GE+VBDI^3^SG	_	0	root	_	_
+3	im	he	PRON	PRO^SG^3^D	_	2	iobj	_	_
+4	oc	ok	ADV	ALSO	_	2	advmod	_	_
+5	mid	mid	ADP	P	_	7	case	_	_
+6	is	is	DET	PRO$^3^D^SG	_	7	det	_	_
+7	hiuuiskie	hiwiski	NOUN	N^D^SG	_	2	obl	_	_
+8	Ioseph	Joseph	PROPN	NPR^SG^N	_	2	nsubj	_	_
+9	thie	the	DET	D^SG^N	_	8	det	_	_
+10	guodo	god	ADJ	ADJ^N^SG	_	8	amod	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	so	so	SCONJ	C	_	17	mark	_	_
+13	it	it	PRON	PRO^SG^A^3	_	17	obj	_	_
+14	god	god	PROPN	NPR^N^SG	_	17	nsubj	_	_
+15	mahtig	mahtig	ADJ	ADJ^N^SG	_	14	amod	_	_
+16	uualdand	waldand	NOUN	N^SG^N	_	17	nsubj	_	_
+17	uuelda	willian	AUX	MDDI^3^SG	_	2	advcl	_	_
+18	:	:	PUNCT	.	_	17	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	suohta	sokian	VERB	VBDI^SG^3	_	0	root	_	_
+2	im	he	PRON	PRO^D^SG^3	_	1	iobj	_	_
+3	thia	the	DET	D^PL^A	_	5	det	_	_
+4	uuanamon	wanam	ADJ	ADJ^PL^A	_	5	amod	_	_
+5	hem	hem	NOUN	N^PL^A	_	1	obj	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	thia	the	DET	D^A^SG	_	8	det	_	_
+8	burg	burg	NOUN	N^SG^A	_	1	obj	_	_
+9	an	an	ADP	P	_	10	case	_	_
+10	Bethlem	Bethlehem	PROPN	NPR^SG^D	_	1	obl	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	thar	thar	ADV	ADV	_	15	nmod	_	_
+13	iro	iru	DET	PRO$^G^PL^3	_	14	nmod	_	_
+14	bethero	bethia	ADJ	Q^PL^G	_	15	nmod	_	_
+15	uuas	wesan	AUX	BEDI^3^SG	_	10	acl	_	_
+16	thes	the	DET	D^SG^G	_	17	det	_	_
+17	helithes	helith	NOUN	N^G^SG	_	18	nmod	_	_
+18	handmahal	handmahal	NOUN	N^N^SG	_	15	nsubj	_	_
+19	endi	endi	CCONJ	CONJ	_	23	cc	_	_
+20	oc	ok	ADV	ALSO	_	23	advmod	_	_
+21	theru	the	DET	D^G^SG	_	23	det	_	_
+22	helagun	helag	ADJ	ADJ^G^SG	_	23	amod	_	_
+23	thiernun	thiorna	NOUN	N^G^SG	_	15	conj	_	_
+24	,	,	PUNCT	,	_	23	punct	_	_
+25	Mariun	Maria	PROPN	NPR^SG^G	_	15	nmod	_	_
+26	thera	the	DET	D^G^SG	_	25	det	_	_
+27	guodun	god	ADJ	ADJ^SG^G	_	25	amod	_	_
+28	.	.	PUNCT	.	_	27	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thar	thar	ADV	ADV	_	2	nmod	_	_
+2	uuas	wesan	AUX	BEDI^SG^3	_	0	root	_	_
+3	thes	the	DET	D^G^SG	_	4	det	_	_
+4	marien	mari	ADJ	ADJ^G^SG	_	5	nmod	_	_
+5	stuol	stol	NOUN	N^N^SG	_	2	nsubj	_	_
+6	an	an	ADP	P	_	7	case	_	_
+7	erdagon	erdagos	NOUN	N^PL^D	_	2	obl	_	_
+8	ađalcuninges	athalkunig	NOUN	N^G^SG	_	2	obj	_	_
+9	Dauides	David	PROPN	NPR^SG^G	_	2	nmod	_	_
+10	thes	the	DET	D^SG^G	_	9	det	_	_
+11	guoden	god	ADJ	ADJ^G^SG	_	9	amod	_	_
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	than	than	ADV	ADV	_	14	advmod	_	_
+14	lang	lang	ADV	ADV	_	2	nmod	_	_
+15	thie	the	SCONJ	C	_	23	mark	_	_
+16	hie	he	PRON	PRO^N^SG^3	_	23	nsubj	_	_
+17	thena	the	DET	D^A^SG	_	18	det	_	_
+18	drohscepi	druhtskepi	NOUN	N^SG^A	_	23	obj	_	_
+19	thar	thar	ADV	ADV	_	23	obl	_	_
+20	erl	erl	NOUN	N^N^SG	_	23	nsubj	_	_
+21	undar	undar	ADP	P	_	22	case	_	_
+22	Ebreon	Ebreo	PROPN	NPR^D^PL	_	23	obl	_	_
+23	egan	egan	VERB	VB	_	14	advcl	_	_
+24	muosta	motan	AUX	MDDI^SG^3	_	23	aux	_	_
+25	,	,	PUNCT	,	_	24	punct	_	_
+26	haldan	haldan	VERB	VB	_	23	conj	_	_
+27	hohgisetu	hohgiset	NOUN	N^A^PL	_	26	obj	_	_
+28	.	.	PUNCT	.	_	27	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Sea	he	PRON	PRO^3^PL^N	_	4	nsubj	_	_
+2	uuarun	wesan	AUX	BEDI^PL^3	_	4	aux	_	_
+3	is	is	DET	PRO$^SG^3^G	_	4	det	_	_
+4	hiuuisces	hiwiski	NOUN	N^G^SG	_	0	root	_	_
+5	,	,	PUNCT	,	_	4	punct	_	_
+6	cuman	kuman	VERB	VN	_	4	advcl	_	_
+7	fan	fan	ADP	P	_	9	case	_	_
+8	is	is	DET	PRO$^D^3^SG	_	9	det	_	_
+9	cnuosle	knosal	NOUN	N^SG^D	_	6	obl	_	_
+10	,	,	PUNCT	,	_	9	punct	_	_
+11	kunneas	kunni	NOUN	N^SG^G	_	4	obj	_	_
+12	guodes	god	ADJ	ADJ^G^SG	_	11	amod	_	_
+13	bethiu	bethia	ADJ	Q^N^PL	_	4	amod	_	_
+14	bi	bi	ADP	P	_	15	case	_	_
+15	giburdion	giburd	NOUN	N^PL^D	_	4	obl	_	_
+16	.	.	PUNCT	.	_	15	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thar	thar	ADV	ADV	_	2	obl	_	_
+2	gifran	fregnan	VERB	GE+VBDI^1^SG	_	0	root	_	_
+3	ik	ik	PRON	PRO^1^SG^N	_	2	nsubj	_	_
+4	that	that	SCONJ	C	_	10	mark	_	_
+5	sia	siu	PRON	PRO^A^SG^3	_	10	obj	_	_
+6	thiu	the	DET	D^PL^N	_	8	det	_	_
+7	berehtun	berht	ADJ	ADJ^N^PL	_	8	amod	_	_
+8	giscapu	giskap	NOUN	N^N^PL	_	10	nsubj	_	_
+9	Mariun	Maria	PROPN	NPR^SG^A	_	10	obj	_	_
+10	gimanodun	manon	VERB	GE+VBDI^PL^3	_	2	acl	_	_
+11	endi	endi	CCONJ	CONJ	_	12	cc	_	_
+12	maht	maht	NOUN	N^N^SG	_	10	conj	_	_
+13	godes	god	PROPN	NPR^G^SG	_	12	nmod	_	_
+14	,	,	PUNCT	,	_	13	punct	_	_
+15	that	that	SCONJ	C	_	21	mark	_	_
+16	iro	siu	PRON	PRO^3^D^SG	_	21	iobj	_	_
+17	an	an	ADP	P	_	19	case	_	_
+18	them	the	DET	D^D^SG	_	19	det	_	_
+19	sithe	sith	NOUN	N^SG^D	_	21	obl	_	_
+20	suno	sunu	NOUN	N^N^SG	_	21	nsubj	_	_
+21	odan	odan	ADJ	ADJ^N^SG	_	10	acl	_	_
+22	uarth	werthan	AUX	RDDI^SG^3	_	21	aux	_	_
+23	,	,	PUNCT	,	_	22	punct	_	_
+24	giboran	beran	VERB	GE+VN	_	21	advcl	_	_
+25	an	an	ADP	P	_	26	case	_	_
+26	Bethlehem	Bethlehem	PROPN	NPR^SG^D	_	24	obl	_	_
+27	barno	barn	NOUN	N^G^PL	_	28	nmod	_	_
+28	strangost	strang	ADJ	ADJS^N^SG	_	21	nsubj	_	_
+29	,	,	PUNCT	,	_	28	punct	_	_
+30	allero	al	ADJ	Q^PL^G	_	31	amod	_	_
+31	cuningo	kuning	NOUN	N^PL^G	_	32	nmod	_	_
+32	craftigost	kraftag	ADJ	ADJS^N^SG	_	21	nsubj	_	_
+33	:	:	PUNCT	.	_	32	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	cuman	kuman	VERB	VN	_	0	root	_	_
+2	uuarth	werthan	AUX	RDDI^SG^3	_	1	aux	_	_
+3	thie	the	DET	D^SG^N	_	4	det	_	_
+4	mario	mari	ADJ	ADJ^N^SG	_	1	nsubj	_	_
+5	mahtig	mahtig	ADJ	ADJ^N^SG	_	4	amod	_	_
+6	on	an	ADP	P	_	8	case	_	_
+7	manno	man	NOUN	N^PL^G	_	8	nmod	_	_
+8	lioht	lioht	NOUN	N^SG^A	_	1	obl	_	_
+9	,	,	PUNCT	,	_	8	punct	_	_
+10	so	so	SCONJ	C	_	20	mark	_	_
+11	is	it	PRON	PRO^G^SG^3	_	20	nmod	_	_
+12	er	er	ADV	ADV	_	20	nmod	_	_
+13	managan	manag	ADJ	Q^A^SG	_	14	amod	_	_
+14	dag	dag	NOUN	N^SG^A	_	20	nmod	_	_
+15	bilithi	bilithi	NOUN	N^PL^N	_	20	nsubj	_	_
+16	uuarun	wesan	AUX	BEDI^3^PL	_	20	aux	_	_
+17	endi	endi	CCONJ	CONJ	_	19	cc	_	_
+18	bocno	bokan	NOUN	N^G^PL	_	19	nmod	_	_
+19	filo	filo	ADJ	Q^PL^N	_	20	amod	_	_
+20	giuuorđan	werthan	AUX	GE+RN	_	1	advcl	_	_
+21	an	an	ADP	P	_	23	case	_	_
+22	thesaro	these	DET	D^SG^D	_	23	det	_	_
+23	uueroldi	werold	NOUN	N^SG^D	_	20	obl	_	_
+24	.	.	PUNCT	.	_	23	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Tho	tho	ADV	ADV	_	5	obl	_	_
+2	uuas	wesan	AUX	BEDI^SG^3	_	5	aux	_	_
+3	it	it	PRON	PRO^N^SG^3	_	5	nsubj	_	_
+4	all	al	ADJ	Q^N^SG	_	3	amod	_	_
+5	giuuarod	waron	VERB	GE+VN	_	0	root	_	_
+6	so	so	ADV	ADV	_	5	advmod	_	_
+7	so	so	SCONJ	C	_	12	mark	_	_
+8	it	it	PRON	PRO^SG^3^A	_	12	obj	_	_
+9	er	er	ADV	ADV	_	12	obl	_	_
+10	spaha	spahi	ADJ	ADJ^N^PL	_	11	amod	_	_
+11	man	man	NOUN	N^N^PL	_	12	nsubj	_	_
+12	gisprokean	sprekan	VERB	GE+VN	_	6	advcl	_	_
+13	haƀdun	hebbian	AUX	HVDI^PL^3	_	12	aux	_	_
+14	,	,	PUNCT	,	_	13	punct	_	_
+15	thuru	thurh	ADP	P	_	17	case	_	_
+16	huilik	hwilik	ADJ	WADJ^A^SG	_	17	amod	_	_
+17	odmuodi	othmodi	NOUN	N^A^SG	_	26	obl	_	_
+18	hie	he	PRON	PRO^SG^3^N	_	26	nsubj	_	_
+19	thit	these	DET	D^SG^A	_	20	det	_	_
+20	erthriki	erthriki	NOUN	N^SG^A	_	26	obj	_	_
+21	herod	herod	ADV	ADV	_	26	nmod	_	_
+22	thuru	thurh	ADP	P	_	25	case	_	_
+23	is	he	PRON	PRO^3^SG^G	_	25	nmod	_	_
+24	selƀes	self	ADJ	ADJ^SG^G	_	23	amod	_	_
+25	craft	kraft	NOUN	N^SG^A	_	26	obl	_	_
+26	suokean	sokian	VERB	VB	_	12	advcl	_	_
+27	uuelda	willian	AUX	MDDI^3^SG	_	26	aux	_	_
+28	,	,	PUNCT	,	_	27	punct	_	_
+29	managero	manag	ADJ	Q^G^PL	_	30	nmod	_	_
+30	mundboro	mundboro	NOUN	N^N^SG	_	26	nsubj	_	_
+31	.	.	PUNCT	.	_	30	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thuo	tho	ADV	ADV	_	5	obl	_	_
+2	ina	he	PRON	PRO^3^A^SG	_	5	obj	_	_
+3	thiu	the	DET	D^SG^N	_	4	det	_	_
+4	moder	modar	NOUN	N^N^SG	_	5	nsubj	_	_
+5	nam	niman	VERB	VBDI^3^SG	_	0	root	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	biuand	biwindan	VERB	VBDI^SG^3	_	0	root	_	_
+2	ina	he	PRON	PRO^3^SG^A	_	1	obj	_	_
+3	mid	mid	ADP	P	_	4	case	_	_
+4	uuadi	uuad	NOUN	N^SG^I	_	1	obl	_	_
+5	uuiƀo	wif	NOUN	N^G^PL	_	6	nmod	_	_
+6	scoinosta	skoni	ADJ	ADJS^N^SG	_	1	nsubj	_	_
+7	,	,	PUNCT	,	_	6	punct	_	_
+8	fagaron	fagar	ADJ	ADJ^PL^D	_	9	amod	_	_
+9	fratohon	frataha	NOUN	N^D^PL	_	1	iobj	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	endi	endi	CCONJ	CONJ	_	7	cc	_	_
+2	ina	he	PRON	PRO^3^A^SG	_	7	obj	_	_
+3	mid	mid	ADP	P	_	5	case	_	_
+4	iro	iru	DET	PRO$^3^D^PL	_	5	det	_	_
+5	folmon	folm	NOUN	N^PL^D	_	7	obl	_	_
+6	tuem	twene	NUM	NUM^PL^D	_	5	nummod	_	_
+7	legda	leggian	VERB	VBDI^3^SG	_	0	root	_	_
+8	lieflico	liofliko	ADV	ADV	_	7	advmod	_	_
+9	luttilna	luttil	ADJ	ADJ^SG^A	_	10	amod	_	_
+10	mann	man	NOUN	N^SG^A	_	7	obj	_	_
+11	,	,	PUNCT	,	_	10	punct	_	_
+12	that	the	DET	D^SG^A	_	13	det	_	_
+13	kind	kind	NOUN	N^A^SG	_	7	obj	_	_
+14	an	an	ADP	P	_	16	case	_	_
+15	ena	en	NUM	NUM^SG^A	_	16	nummod	_	_
+16	cribbiun	kribbia	NOUN	N^SG^A	_	7	obl	_	_
+17	,	,	PUNCT	,	_	16	punct	_	_
+18	thoh	thoh	ADV	ADV	_	20	advmod	_	_
+19	hie	he	PRON	PRO^N^SG^3	_	20	nsubj	_	_
+20	habdi	hebbian	AUX	HVDS^SG^3	_	7	advcl	_	_
+21	craft	kraft	NOUN	N^A^SG	_	20	obj	_	_
+22	godes	god	PROPN	NPR^G^SG	_	21	nmod	_	_
+23	,	,	PUNCT	,	_	22	punct	_	_
+24	manno	man	NOUN	N^G^PL	_	25	nmod	_	_
+25	drohtin	drohtin	NOUN	N^N^SG	_	20	nsubj	_	_
+26	.	.	PUNCT	.	_	25	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thar	thar	ADV	ADV	_	2	obl	_	_
+2	sat	sittian	VERB	VBDI^3^SG	_	0	root	_	_
+3	thiu	the	DET	D^SG^N	_	4	det	_	_
+4	muodor	modar	NOUN	N^N^SG	_	2	nsubj	_	_
+5	biforan	biforan	ADV	ADV	_	2	obl	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	uuiƀ	wif	NOUN	N^N^SG	_	2	nsubj	_	_
+8	uuacoiande	wakon	ADJ	VGI|ADJ^N^SG	_	7	amod	_	_
+9	,	,	PUNCT	.	_	8	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	uuardoda	wardon	VERB	VBDI^3^SG	_	0	root	_	_
+2	selƀo	self	ADJ	ADJ^N^SG	_	1	nsubj	_	_
+3	,	,	PUNCT	.	_	2	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	held	haldan	VERB	VBDI^3^SG	_	0	root	_	_
+2	that	the	DET	D^A^SG	_	4	det	_	_
+3	helaga	helag	ADJ	ADJ^A^SG	_	4	amod	_	_
+4	barn	barn	NOUN	N^A^SG	_	1	obj	_	_
+5	:	:	PUNCT	.	_	4	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	ni	ne	PART	NEG	_	5	advmod	_	_
+2	uuas	wesan	AUX	BEDI^3^SG	_	5	aux	_	_
+3	iru	siu	PRON	PRO^SG^D^3	_	5	iobj	_	_
+4	hugi	hugi	NOUN	N^SG^N	_	5	nsubj	_	_
+5	tuifli	twifli	ADJ	ADJ^N^SG	_	0	root	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	thero	the	DET	D^SG^D	_	8	det	_	_
+8	magat	magath	NOUN	N^SG^D	_	5	iobj	_	_
+9	iro	iru	DET	PRO$^3^N^SG	_	10	det	_	_
+10	muodseƀo	modsevo	NOUN	N^SG^N	_	5	nsubj	_	_
+11	.	.	PUNCT	.	_	10	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Thuo	tho	ADV	ADV	_	4	nmod	_	_
+2	uuarth	werthan	AUX	RDDI^SG^3	_	4	aux	_	_
+3	managon	manag	ADJ	Q^PL^D	_	4	iobj	_	_
+4	cuth	kuth	ADJ	ADJ^N^SG	_	0	root	_	_
+5	oƀer	ovar	ADP	P	_	8	case	_	_
+6	thesa	these	DET	D^A^SG	_	8	det	_	_
+7	uuidun	wid	ADJ	ADJ^SG^A	_	8	amod	_	_
+8	uuerold	werold	NOUN	N^SG^A	_	4	obl	_	_
+9	,	,	PUNCT	.	_	8	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	uuardos	ward	NOUN	N^PL^N	_	2	nsubj	_	_
+2	anfunden	andfindan	VERB	VBDI^3^PL	_	0	root	_	_
+3	thia	the	DET	D^N^PL	_	5	nsubj	_	_
+4	thar	thar	ADV	ADV	_	5	nmod	_	_
+5	ehuscalcos	ehuskalk	NOUN	N^PL^N	_	2	acl	_	_
+6	ute	uta	ADP	P	_	5	case	_	_
+7	uuarun	wesan	AUX	BEDI^PL^3	_	5	aux	_	_
+8	uueros	wer	NOUN	N^PL^N	_	5	nsubj	_	_
+9	an	an	ADP	P	_	10	case	_	_
+10	uuahtu	wahta	NOUN	N^D^SG	_	5	obl	_	_
+11	uuiggeo	wig	NOUN	N^G^PL	_	12	obj	_	_
+12	gomean	gomian	VERB	VB	_	5	xcomp	_	_
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	fehes	fehu	NOUN	N^SG^G	_	12	obj	_	_
+15	after	aftar	ADP	P	_	16	case	_	_
+16	felde	feld	NOUN	N^D^SG	_	12	obl	_	_
+17	:	:	PUNCT	.	_	16	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	gisahun	sehan	VERB	GE+VBDI^PL^3	_	0	root	_	_
+2	finistri	finistri	NOUN	N^A^SG	_	5	nsubj	_	_
+3	an	an	ADP	P	_	4	case	_	_
+4	tue	twene	NUM	NUM^A^PL	_	5	nummod	_	_
+5	telatan	telatan	VERB	VB	_	1	xcomp	_	_
+6	an	an	ADP	P	_	7	case	_	_
+7	lufte	luft	NOUN	N^D^SG	_	5	obl	_	_
+8	,	,	PUNCT	.	_	7	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	endi	endi	CCONJ	CONJ	_	2	cc	_	_
+2	quam	kuman	VERB	VBDI^SG^3	_	0	root	_	_
+3	lioht	lioht	NOUN	N^SG^N	_	2	nsubj	_	_
+4	godes	god	PROPN	NPR^G^SG	_	3	nmod	_	_
+5	uuanom	wanam	ADJ	ADJ^SG^N	_	3	amod	_	_
+6	thuru	thurh	ADP	P	_	8	case	_	_
+7	thiu	the	DET	D^A^PL	_	8	det	_	_
+8	uolkan	wolkan	NOUN	N^A^PL	_	2	obl	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	endi	endi	CCONJ	CONJ	_	5	cc	_	_
+2	thia	the	DET	D^A^PL	_	3	det	_	_
+3	uuardos	ward	NOUN	N^A^PL	_	5	obj	_	_
+4	thar	thar	ADV	ADV	_	5	obl	_	_
+5	bifieng	bifahan	VERB	VBDI^SG^3	_	0	root	_	_
+6	an	an	ADP	P	_	8	case	_	_
+7	them	the	DET	D^D^SG	_	8	det	_	_
+8	felde	feld	NOUN	N^D^SG	_	5	obl	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Sia	he	PRON	PRO^3^N^PL	_	2	nsubj	_	_
+2	uuurdun	werthan	AUX	RDDI^PL^3	_	0	root	_	_
+3	an	an	ADP	P	_	4	case	_	_
+4	forohton	forhta	NOUN	N^D^PL	_	2	obl	_	_
+5	tho	tho	ADV	ADV	_	2	nmod	_	_
+6	thia	the	DET	D^PL^N	_	7	det	_	_
+7	man	man	NOUN	N^PL^N	_	2	nsubj	_	_
+8	an	an	ADP	P	_	10	case	_	_
+9	iro	iru	DET	PRO$^SG^D^3	_	10	det	_	_
+10	muode	mod	NOUN	N^SG^D	_	2	obl	_	_
+11	:	:	PUNCT	.	_	10	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	gisahun	sehan	VERB	GE+VBDI^PL^3	_	0	root	_	_
+2	thar	thar	ADV	ADV	_	1	obl	_	_
+3	mahtigna	mahtig	ADJ	ADJ^SG^A	_	5	amod	_	_
+4	godes	god	PROPN	NPR^G^SG	_	5	nmod	_	_
+5	engil	engil	NOUN	N^A^SG	_	6	nsubj	_	_
+6	cuman	kuman	VERB	VB	_	1	xcomp	_	_
+7	,	,	PUNCT	,	_	6	punct	_	_
+8	thie	the	DET	D^N^SG	_	11	nsubj	_	_
+9	im	he	PRON	PRO^PL^3^D	_	11	iobj	_	_
+10	tegegnes	tegegnes	ADV	ADV	_	11	nmod	_	_
+11	sprak	sprekan	VERB	VBDI^SG^3	_	6	acl	_	_
+12	,	,	PUNCT	,	_	11	punct	_	_
+13	hiet	hetan	VERB	VBDI^SG^3	_	11	conj	_	_
+14	that	that	SCONJ	C	_	20	mark	_	_
+15	im	he	PRON	PRO^PL^D^3	_	20	iobj	_	_
+16	thia	the	DET	D^N^PL	_	17	det	_	_
+17	uuardos	ward	NOUN	N^N^PL	_	20	nsubj	_	_
+18	uuiht	wiht	NOUN	N^A^SG	_	20	obj	_	_
+19	ni	ne	PART	NEG	_	20	advmod	_	_
+20	andriedin	andradan	VERB	VBDI^3^PL	_	13	acl	_	_
+21	lethes	leth	NOUN	N^G^SG	_	20	nmod	_	_
+22	fan	fan	ADP	P	_	24	case	_	_
+23	them	the	DET	D^SG^D	_	24	det	_	_
+24	liohte	lioht	NOUN	N^SG^D	_	20	obl	_	_
+25	:	:	PUNCT	.	_	24	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	'	'	PUNCT	'	_	6	punct	_	_
+2	Ik	ik	PRON	PRO^1^N^SG	_	6	nsubj	_	_
+3	scal	skulan	AUX	MDPI^1^SG	_	6	aux	_	_
+4	iu	gi	PRON	PRO^2^PL^D	_	6	iobj	_	_
+5	'	'	PUNCT	'	_	4	punct	_	_
+6	quat	kwethan	VERB	VBDI^SG^3	_	0	root	_	_
+7	hie	he	PRON	PRO^3^SG^N	_	6	nsubj	_	_
+8	,	,	PUNCT	,	_	7	punct	_	_
+9	liebara	liof	ADJ	ADJR^SG^A	_	10	amod	_	_
+10	thing	thing	NOUN	N^A^SG	_	6	obj	_	_
+11	suitho	switho	ADV	ADV	_	12	advmod	_	_
+12	uuarlico	warliko	ADV	ADV	_	6	advmod	_	_
+13	uuilleon	willio	NOUN	N^SG^D	_	6	obl	_	_
+14	seggian	seggian	VERB	VB	_	6	dep	_	_
+15	,	,	PUNCT	,	_	14	punct	_	_
+16	cuthian	kuthian	VERB	VB	_	6	conj	_	_
+17	craft	kraft	NOUN	N^A^SG	_	16	obj	_	_
+18	mikil	mikil	ADJ	ADJ^A^SG	_	17	amod	_	_
+19	:	:	PUNCT	.	_	18	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	Nu	nu	ADV	ADV	_	4	obl	_	_
+2	ist	wesan	AUX	BEPI^3^SG	_	4	aux	_	_
+3	Crist	Krist	PROPN	NPR^SG^N	_	4	nsubj	_	_
+4	giboran	beran	VERB	GE+VN	_	0	root	_	_
+5	an	an	ADP	P	_	8	case	_	_
+6	thesaro	these	DET	D^D^SG	_	8	det	_	_
+7	selƀun	self	ADJ	ADJ^D^SG	_	8	amod	_	_
+8	naht	naht	NOUN	N^D^SG	_	4	obl	_	_
+9	,	,	PUNCT	,	_	8	punct	_	_
+10	salig	salig	ADJ	ADJ^N^SG	_	11	amod	_	_
+11	barn	barn	NOUN	N^SG^N	_	4	nsubj	_	_
+12	godes	god	PROPN	NPR^SG^G	_	11	nmod	_	_
+13	,	,	PUNCT	,	_	12	punct	_	_
+14	an	an	ADP	P	_	17	case	_	_
+15	thesaro	these	DET	D^D^SG	_	17	det	_	_
+16	Dauides	David	PROPN	NPR^G^SG	_	17	nmod	_	_
+17	burg	burg	NOUN	N^D^SG	_	4	obl	_	_
+18	,	,	PUNCT	,	_	17	punct	_	_
+19	drohtin	drohtin	NOUN	N^N^SG	_	4	nsubj	_	_
+20	thie	the	DET	D^N^SG	_	19	det	_	_
+21	guodo	god	ADJ	ADJ^SG^N	_	19	amod	_	_
+22	.	.	PUNCT	.	_	21	punct	_	_
+
+
+
+# global.columns = ID WORD LEMMA UPOS POS FEATS HEAD EDGE DEPS COMMENT
+1	That	the	DET	D^N^SG	_	3	nsubj	_	_
+2	is	wesan	AUX	BEPI^SG^3	_	3	aux	_	_
+3	mendislo	mendislo	NOUN	N^N^SG	_	0	root	_	_
+4	manno	man	NOUN	N^PL^G	_	5	nmod	_	_
+5	cunnies	kunni	NOUN	N^SG^G	_	3	nmod	_	_
+6	,	,	PUNCT	,	_	5	punct	_	_
+7	allero	al	ADJ	Q^PL^G	_	8	amod	_	_
+8	firio	firihos	NOUN	N^PL^G	_	9	nmod	_	_
+9	fruma	fruma	NOUN	N^SG^N	_	3	nsubj	_	_
+10	.	.	PUNCT	.	_	9	punct	_	_
