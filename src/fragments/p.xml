@@ -1,0 +1,247 @@
+<xml source="Timothy Blaine Price (2010), The Old Saxon Leipzig Heliand manuscript fragment (MS L), Phd thesis, UC Berkeley, https://escholarship.org/uc/item/19k1z5h8, segmentation based on appendix and Sec. 4.2.1.2: whenever a gap is inserted *in either of these*, we assume a space, for the reading of characters, we follow Sec 4.2.1.2, as we see this to be a revision of an earlier draft preserved in the appendix">
+	<comment>fragments of P, aligned with M or C</comment>
+	<v nr="958">
+		<m>éndi anthana heleanduuili hluttrogilobeaN .</m>
+		<c>endi anthena        uuili hluttro giloƀean</c>
+		<p>                    uuili hluttro giloƀoN .</p>
+	</v>
+	<v nr="959">
+		<m>leftean isleara.  T ho niuuas lang tethiu</m>
+		<c>lestean is lera . Thuo niuuas lang ti thiu</c>
+		<p>LesteaN is lera   thuo Niuua  lang afte[r</p>
+	</v>
+	<v nr="960">
+		<m>that im  fon galilea giuuet   godes egan barn</m>
+		<c>that him fan galilea giuuet   godes egan barn</c>
+		<p>]at  im  fan [g...]  giuuet . godes egaN barn.</p>
+	</v>
+	<v nr="961">
+		<c>Diurlic drohtines sunu dopi suokean</c>
+		<p>diolic  drohtinas suno dope suokeaN.</p>
+	</v>
+	<v nr="962">
+		<c>uuasim   thuo anis  uuastme uualdandes barn</c>
+		<p>u uas im thuo in is uuastma uuldandas  barn .</p>
+	</v>
+	<v nr="963">
+		<m>al   so he  mi d thero thi odu thri ti g habdi</m>
+		<c>all  so hie mid  thero thiedo  thritig   haƀdi</c>
+		<p>alla so hie miđ  thero thiođo  thritig   habdi</p>
+	</v>
+	<v nr="964">
+		<m>ui ntro an    isuueroldi . tho  hean i s  uui lleon quam</m>
+		<c>uuintro anis  uueroldi     Thuo hie anis  uuilleon</c>
+		<p>uuintro aN is uueroldi     thuo hie an is uuilleaN  qua .</p>
+	</v>
+	<v nr="965">
+		<m>thar i ohannes an i ordanes strome</m>
+		<c>thar iohannes  aniordana    strome</c>
+		<p>thar giohannes aN giordana  stroma.</p>
+	</v>
+	<v nr="966">
+		<m>allan langandag   li udi manage</m>
+		<c>allan langan  dag liudi  managa</c>
+		<p>allan langana dag liodi  managa.</p>
+	</v>
+	<v nr="967">
+		<m>dopte di urli co . Rehto sohetho     i sdrohti n gi sah</m>
+		<c>dopta diurlico   . Reht  sohie  thuo is drohtin  gisah</c>
+		<p>dopta diorlico.    reht  so hie thuo isdrohtiN   gisah .</p>
+	</v>
+	<v nr="968">
+		<m>holden herron . so uuari m  i s hugi bli di</m>
+		<c>holdan herron   so uuarthim is  hugo bliđi</c>
+		<p>holdaN herraN   so uuarđ im is  hugi bliđi .</p>
+	</v>
+	<v nr="969">
+		<m>thes i m thea uui lleo gi stod. endi sprac i m tho  mi d i suuordun to</m>
+		<c>thes im  thie uuillo   gistuod  endi sprak im  thuo mid  is uuordon to</c>
+		<p>thes im  thie uuilleo  gistuod  eNdi sprak          miđ  is uuordoN tuo .</p>
+	</v>
+	<v nr="970">
+		<m>suui do   god  gumo. Iohannes te kri ste .</m>
+		<c>suithuo . guod gumo  iohannes te criste</c>
+	</v>
+	<v nr="971">
+		<m>Nu cumi s thu te mi nero dopi drohti n fromi n</m>
+		<c>Nu cumis  thu teminero   dopi drohtin  fromin</c>
+		<p>Nu cumis  thu te minero  dopi drohtiN  fromiN</p>
+	</v>
+	<v nr="972">
+		<m>thi od gumono bezto . so scolde i c tethi nero duaN .</m>
+		<c>thied  gumo   best    soscolda  ik  te thinero duan .</c>
+		<p>thiođ  gumoNo bezto   so scolđa ik  te thinaro doaN .</p>
+	</v>
+	<v nr="973">
+		<m>huuand thubi st allaro cuni ngo crafti gost . kri st selbo gi bod</m>
+		<c>huand  thu bist allero cuningo  craftigost.   crist  selƀo gibod</c>
+		<p>huand  thu bist allaro kuningo  craftigost    crist  selƀo gibod</p>
+	</v>
+	<v nr="974">
+		<m>uualdand uuarli co that he  ni spraki thero uuordo than mer.</m>
+		<c>uualdand uuarlico  that hie nispraki  thero uuordo than mer .</c>
+		<p>uualdand uuarlico  that hie ni spraki thero uuordo thanmer</p>
+	</v>
+	<v nr="975">
+		<m>Vuest  thu that us so gi ri si d quad he    allaro rehto gi huui li g</m>
+		<c>uuest  thu that us    girisit    quat hie   allaro rehto gihuilik</c>
+		<p>u uest thu that us so gerisiđ    quad hie . allaro rehto gehuilic .</p>
+	</v>
+	<v nr="976">
+		<m>te gi fulleanne forduuardes nu.</m>
+		<c>tigifullanne    for uuerdes nu</c>
+		<p>tegifulleanna   forđuuardas Nu .</p>
+	</v>
+	<v nr="977">
+		<m>angodes  uui lleon . I ohannes stod</m>
+		<c>an godes uuillon .   iohannes  stuod</c>
+		<p>aN godas uuilleaN    giohannes stuod .</p>
+	</v>
+	<v nr="978">
+		<m>dopte allandag  druhtfolc  mi ki l.</m>
+		<c>dopta allan dag druht folc mikil .</c>
+		<p>dopti allan dag druht folc mikil .</p>
+	</v>
+	<v nr="979">
+		<m>uuerod anuuatere  . endi og uualdand kri st</m>
+		<c>uuerod an uuatere   endi oc ualdan   crist</c>
+		<p>uuerodaN  uuatara   eNdiok  uualdand crist .</p>
+	</v>
+	<v nr="980">
+		<m>heranhebeN   cuni ng handun si nun</m>
+		<c>herren heƀan cuning  handon sinon</c>
+		<p>herraN heƀaNkuning   handuN sinum</p>
+	</v>
+	<v nr="981">
+		<m>an allaro bađo   them bezton. endi i m thar te bedu gi hneg</m>
+		<c>an allero bethuo them beston  endi im  thar tebedu  gihneg</c>
+		<p>aN allaro bađo   them beztom  eNdi im  thar tebeda  gihneg .</p>
+	</v>
+	<v nr="982">
+		<m>an cneo craftag kri st . up  gi uuet .</m>
+		<c>ankneo  craftig crist    up  giuuet</c>
+		<p>aN knio kraftag crist    upp giuuet .</p>
+	</v>
+	<v nr="983">
+		<m>fagar fon them flode. fri dubarn godes.</m>
+		<c>fagar gan them flode  friđu barn godes</c>
+		<p>fagar fan them fluoda friđubarn  godas.</p>
+	</v>
+	<v nr="984">
+		<m>li of li udi o uuard. So he  tho  that land af stop .</m>
+		<c>liof  liudeo   uuard  So hie thro that land of stuop</c>
+		<p>Liof  liodo    uuard  so hie thuo that land af stuop .</p>
+	</v>
+	<v nr="985">
+		<m>so ant hli dun tho  hi mi les doru . endi quam the  helago gest .</m>
+		<c>so anthlidun   thuo himiles   duru   endi quam the  helago gest</c>
+		<p>[s      ]duN   thu[    ]las   doru   eNdi quã  thie helago gest .</p>
+	</v>
+	<v nr="986">
+		<m>fon them alouualdon obane te kri ste .</m>
+		<c>fan them aluualdan  oƀona tecriste .</c>
+		<p>fon them alouualdoN oƀana te crista .</p>
+	</v>
+
+	<v nr="987">
+		<m>uuas i m an gi li cni s si e i ungres          fugles</m>
+		<c>uuas im  angilicnesse        lungras           fugles</c>
+		<p>uuasim   aN gelicnessia      lungras (gitalas) fuglas .</p>
+	</v>
+	<v nr="988">
+		<m>di urli cara dubuN. endi .sat i m uppan uses drohti nes a(h)slu .</m>
+		<c>diurlicaro   dufun  endi  satim   uppan usses drohtines ahsla.</c>
+		<p>diurlicaro   duƀoN  eNdi  sat im  uppaN usas  drohtinasahslo(N) .</p>
+	</v>
+	<v nr="989">
+		<m>uuonoda i mobar them uualdandes  barne . Aftar quamthar  uuord    fon hi mi le.</m>
+		<c>uuonoda im oƀar them uualdandes  barne   after quam thar uuor(d;) fanhimile</c>
+		<p>UuuNoda im oƀorthem  uualdan das barna   aftar quã  thar uuord    fan himila .</p>
+	</v>
+	<v nr="990">
+		<m>hlud fon them hohon radura. en   grotta  thane helean selbon</m>
+		<c>hlud fan them hohon radore  endi gruotta thena heland selƀon.</c>
+		<p>hlud faN them hohom radura  eNdi gruotta thana heland selƀaN</p>
+	</v>
+	<v nr="991">
+		<m>kri st .allar  cuni ngo bezton . quađ that he  ina gi coranan habdi .</m>
+		<c>Crist   allaro cuningo  beston   quat that hie ina gicoranan  haƀdi</c>
+		<p>c ristaallaro  kuningo  beztoN   quađ that hie ina gicoranaN  habdi .</p>
+	</v>
+	<v nr="992">
+		<m>selbo fon si nun ri kea. quad that im the  sunulicodi</m>
+		<c>selƀo fan sinon  rikea   quat that im thie suno licode</c>
+		<p>selƀo fan sium   rikea   quađ that im thie suno licodi .</p>
+	</v>
+	<v nr="993">
+		<m>bezt allaro giboranaro manno quad that he  i m uuari allaro barni li obost .</m>
+		<c>best allero giboranero manno quat that hie im  uuari allero barno leoƀost .</c>
+		<p>bezt allaro giboranaro manno quađ that he  im  uuari allaro barno liobost .</p>
+	</v>
+	<v nr="994">
+		<m>That moste  i ohannes tho  alsoi t   goduuelde</m>
+		<c>That muosta iohannes       all so it guod uuelda</c>
+		<p>That muosta giohanns  thuo all so it god  uuelda .</p>
+	</v>
+	<v nr="995"> 
+		<m>gi sehan.endi gi horean . he  gi deda i t san afthar thi u</m>
+		<c>gisahan  endi gihorean    hie gideda  it  san after  thiu</c>
+		<p>gisehaN  eNdi gihoriaN    hie gideda  it  saN aftar  thiu .</p>
+	</v>
+	<v nr="996">
+		<m>maNnun mari    that si e thar mahti gna</m>
+		<c>mannon mari    that sia  thar mahtina</c>
+		<p>mannom gimarid that sia  thar mahtigana .</p>
+	</v>
+	<v nr="997">
+		<m>herron habdun . Thi t i s quad he  heben cuni nges sunu .</m>
+		<c>herron haƀdun.  That  is  quat hie heƀan cuninges  suno</c>
+		<p>herroN habduN   thitt is  quađ hie heƀakuningas    suno .</p>
+	</v>
+	<v nr="998">
+		<m>en alouualdand . thesas uui lleo i c urcundeo</m>
+		<c>enao  uualdan    theses uuilleo  ik  urkundeo</c>
+		<p>eN .alouualdand  thesas uuilleo  ik  urkundeo .</p>
+	</v>
+	<v nr="999">
+		<m>uuesan an thesaro uueroldi . huuandi tsagdami  uuordgodes.</m>
+		<c>uuesan anthesaro  uueroldi   huand it sagda mi uuord godes</c>
+		<p>uuesaN an thesaro uueroldi   uuand it sagdami  uuord godas .</p>
+	</v>
+	<v nr="1000">
+		<m>drohti  nestemne tho  he  mi dopean het</m>
+		<c>drohtines stemna thuo hie mi dopean hiet</c>
+		<p>drohtinas stemna thuo hie mi dopeaN hiet .</p>
+	</v>
+	<v nr="1001">
+		<m>uueros an uuatare . so huuar soi cgi sahi  uuarli co</m>
+		<c>uueros an uua tere  sohuar   so ik gisauui uuarlico</c>
+		<p>uuerosaN  uuatara   sohuar   so ik gisauue uuarlico .</p>
+	</v>
+	<v nr="1002">
+		<m>thana helagon gest . </m>
+		<c>thena helagna gest   fan heƀan uange</c>
+		<p>thana helagon gest   fan heƀanuuanga .</p>
+	</v>
+	<v nr="1003">
+		<c>anthesan    middil gard enigan man  uuaron</c>
+		<p>a N thesaro middilgard  enigaN maNN uuaroN .</p>
+	</v>
+	<v nr="1004">
+		<c>Cuman  midcraftu  that quat      scoldi crist uuesan</c>
+		<p>c umaN miđ craftu that quađ that scoldi crist uuesaN .</p>
+	</v>
+	<v nr="1005">
+		<c>diurlic  drohtines suno hie dopean scal</c>
+		<p>d iorlic drohtinas suno hie dopean scal .</p>
+	</v>
+	<v nr="1006">
+		<m>                     endi helean managa</m>
+		<c>anthana  helagan gest endi helean managa .</c>
+		<p>aN thana...</p>
+	</v>
+</xml>
+
+
+
+	ƀ

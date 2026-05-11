@@ -1,0 +1,306 @@
+<xml source="
+	l consolidated version compiled from Price (2010) and Gippert (2010, using Price's transliteration (and Gippert's additions in <>) but Gippert's word segmentation, line breaks (/) additional punctuation and upper casing (which is usually lacking from Price's L transcript, but not from the P transcript; where Price uses upper case, this is preserved).
+	lp and cp versions from Timothy Blaine Price (2010), The Old Saxon Leipzig Heliand manuscript fragment (MS L), Phd thesis, UC Berkeley, https://escholarship.org/uc/item/19k1z5h8 (appendix). Note that their word segmentation is broken and even extends beyond line breaks. lt from Titus: On the basis of images of the original manuscript
+and under collation of the edition by
+Hans Ulrich Schmid,
+Ein neues 'Heliand'-Fragment
+aus der Universitätsbibliothek Leipzig,
+ZfdA 135, 2006, 309-323
+electronically prepared by Jost Gippert,
+Frankfurt a/M, 6.11.2010;
+TITUS version by Jost Gippert,
+Frankfurt a/M, 7.11.2010 ">
+	<comment>fragments of L, aligned with C</comment>
+	<v nr="5823">
+		<l><ac hie ist ast>andaN iú eNdi sind thesa stedi lárea . /</l>
+		<lp>...andaniú              endisindthesastedilárea</lp>
+		<lt>ac hie ist astandaN  iú eNdi sind thesa stedi lárea · / </lt>
+		<c>achieistastandaniu       endisindthesastedilarea</c>
+	</v>
+	<v nr="5824">
+		<l>Thit graf an thesuN griota nu muguN gi gangaN / herod .</l>
+		<lp>thitgrafanthesungriota     numugungiganganherod</lp>
+		<lt>Thit graf an thesuN griota Nu muguN gi gangaN / herod ·</lt>
+		<c>thitgrafanthesongriote      numugungiganganherod</c>
+	</v>
+	<v nr="5825">
+		<l>Nahor mikilo ik uuet that is iu is Niod / sehaN</l>
+		<lp>nahormikilo  ikuuetthatisiuisniodsehan</lp>
+		<lt>Nahor mikilu ik uuet that is iu is Niod / sehaN</lt>		
+		<c>Nahormikilu   ikuuetthatisiuistniudsehan</c>
+	</v>
+	<v nr="5826">
+		<l>aN thesaN stéN innaN hier sind Noh thiu / stedi skina .</l>
+		<lp>anthesansténinnan    hiersindnohthiustediskina</lp>
+		<lt>aN thesaN stéN innaN hier sind Noh thia / stedi skina ·</lt>
+		<c>anthesonsteneinnan    hiersindnohthiastediscina</c>
+	</v>
+	<v nr="5827">
+		<l>thar is líchamo lag lungra fengun . /</l>
+		<lp>tharislíchamolag    lungrafengun</lp>
+		<lt>thar is lichamo lag lungra fengun · / </lt>
+		<c>Tharislichamolag     lungrafengun</c>
+	</v>
+	<v nr="5828">
+		<l>gibada an iro briostuN blecoN idise .</l>
+		<lp>gibadaanirobriostun    bleconidise</lp>
+		<lt>gibada an iro briostuN blecoN idise ·</lt>
+		<c>gibadaanirobrioston     blecaidisi</c>
+	</v>
+	<v nr="5829">
+		<l>uulitesco / nion uuif . uuas im that uuillspell mikil</l>
+		<lp>uulitesconionuuif       uuasimthatuuillspellmikil</lp>
+		<lt>uulitesco / nio  uuif · uuas im      uuillspell mikil</lt>
+		<c>ulitisconiuuiƀ           uuasimuuilspellmikil</c>
+	</v>
+	<v nr="5830">
+		<l>te gi / hóreanna that im fan iro hérroN sagda</l>
+		<lp>tegihóreannathat      imfanirohérronsagda</lp>
+		<lt>te gi / horeanna that im fan iro hérroN sagda</lt>
+		<c>tegihoriannethat       imfaniroherensagda</c>
+	</v>
+	<v nr="5831">
+		<l>engil / thas alouualdoN hiet sia eft thanaN</l>
+		<lp>engilthasalouualdon     hietsiaeftthanan</lp>
+		<lt>engil / thas alouualdoN hiet sia eft thanaN</lt>
+		<c>engilthesalouualden      hietsiaeftthanan</c>
+	</v>
+	<v nr="5832">
+		<l>faN them / graua gangan endi faraN te them giungarom / xristas</l>
+		<lp>fanthemgrauagangan      endifarantethemgiungaromxristas</lp>
+		<lt>faN them / graua gangan endi faraN te them giungarom / xpcts</lt>
+		<c>fanth.emgraƀegangan      endifarantethemiungroncristes</c>
+	</v>
+	<v nr="5833">
+		<l>seggian them is gisiđoN suođon uuordon /</l>
+		<lp>seggianthemisgisiđon    suođonuuordon</lp>
+		<lt>seggian them is gisíđoN suođon uuordon / </lt>
+		<c>seggianthemisgisithon    suothonuuordon</c>
+	</v>
+	<v nr="5834">
+		<l>Tha  iro drohtin uuas . fan dođa astandaN .</l>
+		<lp>thairodrohtinuuas       fandođaastandan</lp>
+		<lt>That iro drohtin uuas · fan dođe astandaN ·</lt>
+		<c>thatirodrohtinuuas       fandođeastandan</c>
+	</v>
+	<v nr="5835">
+		<l>Hiet / ok an sundroN symon petrusa .</l>
+		<lp>hietokansundron      symonpetrusa</lp>
+		<lt>Hiet / ok an sundroN simon petruse ·</lt>
+		<c>hietocansundron       simonpetruse</c>
+	</v>
+	<v nr="5836">
+		<l>uuillspell mikil / uuordiN kuđean</l>
+		<lp>uuillspellmikil    uuordinkuđean</lp>
+		<lt>uillspell mikil /  uuorduN kuđean</lt>
+		<c>uuillspellmikil     uuordoncuthian</c>
+	</v>
+	<v nr="5837">
+		<l>kumi drohtinas io that / xrist selƀo</l>
+		<lp>kumidrohtinas  iothatxristselƀo</lp>
+		<lt>kumi drohtinas io that / xpict selƀo</lt>
+		<c>Cumidrohtines   giethatcristselƀo</c>
+	</v>
+	<v nr="5838">
+		<l>uuas an galileo land thar ina eft / is giungaroN sculuN .</l>
+		<lp>uuasangalileoland    tharinaeftisgiungaronsculun</lp>
+		<lt>uuas an galileo land thar ina eft / is giungaroN sculuN ·</lt>
+		<c>uuasangalileoland     thatinaefisiungronsculun</c>
+	</v>
+	<v nr="5839">
+		<l>gisehaN is gesiđos so hie im / er selƀo gisprak</l>
+		<lp>gisehanisgesiđos   sohieimerselƀogisprak</lp>
+		<lt>gisehaN is gesíđos so hie im / er selƀo gisprak</lt>
+		<c>gisehanisgifithos   sohieimerselƀogisprac</c>
+	</v>
+	<v nr="5840">
+		<l>Uuarom uuorduN reht so thúo / thia uuif thanaN</l>
+		<lp>uuaromuuordun  rehtsothúothiauuifthanan</lp>
+		<lt>Uuarom uuorduN reht so thúo / thia uuif thanaN</lt>
+		<c>uuaronuuordon   Rehtsothuothiuuuiƀthanan</c>
+	</v>
+	<v nr="5841">
+		<l>gangaN uueldun so stuoduN im / tegegnas thar</l>
+		<lp>ganganuueldun  sostuodunimtegegnasthar</lp>
+		<lt>gangaN uuelduN so stuoduN im / tegegnas thar</lt>
+		<c>ganganuueldun   sostuodunimtegegnesthar</c>
+	</v>
+	<v nr="5842">
+		<l>Engilos tueNa aN alohuitoN</l>
+		<lp>Engilostuena  analohuiton</lp>
+		<lt>engilos tueNa aN alohuitoN</lt>
+		<c>engilostuena   analahuiton</c>
+	</v>
+	<v nr="5843">
+		<l>uuana / mon giuuadeom . eNdi sprakuN im miđ iro uuor / doN tuo</l>
+		<lp>uuanamongiuuadeom       endisprakunimmiđirouuordontuo</lp>
+		<lt>uuana / mon giuuadeom · eNdi sprakuN im miđ iro uuor / doN tuo</lt>
+		<c>uuanamongiuuadion        endispracunmidirouuordontuo</c>
+	</v>
+	<v nr="5844">
+		<l>hélaglico hugi uuarđ giblóđid .</l>
+		<lp>hélaglico hugiuuarđgiblóđid</lp>
+		<lt>hélaglico hugi uuarđ giblóđid ·</lt>
+		<c>helaglico  hugiuarthgiblothid</c>
+	</v>
+	<v nr="5845">
+		<l>them / idisoN an egisoN Ni mahtuN aN thia engilos godas /</l>
+		<lp>themidisonanegison      nimahtunanthiaengilosgodas</lp>
+		<lt>them / idisoN an egisoN Ni mahtuN aN thia engilos godas / </lt>
+		<c>Thenidisionanegison      nemahtunanthiaengilosgodes</c>
+	</v>
+	<v nr="5846">
+		<l>Bi them uulite uulitan (scauuon) uuas im thiu uuaname (scone) te / strang</l>
+		<lp>bithemuuliteuulitan(scauuon)     uuasimthiuuuaname(scone)testrang</lp>
+		<lt>Bi them uulite uulitaN  scauuoN  uuas im thiu uuaname  scone  te / strang .</lt>
+		<c>bithemouulitescauuon              uuasimthiuuuanamitestrang</c>
+	</v>
+	<v nr="5847">
+		<l>te <t> siúkle(tskir) te sehanna . thúo sprákuN <im san> / angegin .</l>
+		<lp>tesiúkle(tskir)tesehanna          thúosprákunangegin</lp>
+		<lt>te  t  suíkle  skir  te sehanna · thúo sprákuN  im san  / aNgegiN ·</lt>
+		<c>tesuithitesehanne                  thuospracunimsanangegin</c>
+	</v>
+	<v nr="5848">
+		<l>Uualdandas bodoN endi thea uuif fra / goduN .</l>
+		<lp>uualdandasbodon  enditheauuiffragodun</lp>
+		<lt>Uualdandas bodoN endi thea uuif fra / goduN ·</lt>
+		<c>uualdandesbodun   endithiuuuiƀfragodun</c>
+	</v>
+	<v nr="5849">
+		<l>Te hui sia crista tharod . quicaN mid dó / duN .</l>
+		<lp>tehuisiacristatharod       quicanmiddódun</lp>
+		<lt>Te hui sia crista tharod · quicaN mid dó / duN ·</lt>
+		<c>Tehuisiacristantharod       quicanmiddodon</c>
+	</v>
+	<v nr="5850">
+		<l>suno drohtinas suókiaN quámiN .</l>
+		<lp>sunodrohtinas  suókianquámin</lp>
+		<lt>suno drohtinas suókiaN quámiN ·</lt>
+		<c>sunodrohtines suikianquamin.</c>
+	</v>
+	<v nr="5851">
+		<l>ferahas / fullaN Nú gi ina Ne fiđat hier .</l>
+		<lp>ferahasfullan    núgiianefiđathier</lp>
+		<lt>ferahas / fullaN Nú gi ina Ne fíđat hier ·</lt>
+		<c>ferahesfullan     nugiinanifindathier</c>
+	</v>
+	<v nr="5852">
+		<l>aN thesuN steNgra / ua ac hie is astandaN giu .</l>
+		<lp>anthesunstengraua achieisastandangiu</lp>
+		<lt>aN thesuN steNgra / ua ac hie is astandaN giu ·</lt>
+		<c>anthesonstengraƀe achieistastandannu</c>
+	</v>
+	<v nr="5853">
+		<l>aN is líchamoN thes / gí giloƀean sculuN .</l>
+		<lp>anislíchamon   thesgígiloƀeansculun</lp>
+		<lt>aN is líchamoN thes / gí giloƀean sculuN ·</lt>
+		<c>anisliclichamen thesgigilobiansculun</c>
+	</v>
+	<v nr="5854">
+		<l>Endi gehuggiat thero uuor / do the hie iu teuuaraN oft .</l>
+		<lp>Endigehuggiattherouuordo       thehieiuteuuaranoft</lp>
+		<lt>Endi gehuggiat thero uuor / do the hie iu teuuaraN oft ·</lt>
+		<c>endigihuggiantherouuordo        thehieiuteuuaronoft</c>
+	</v>
+	<v nr="5855">
+		<l>selƀo sagda thann hie / aN iuuuoN gesíđea uuas .</l>
+		<lp>selƀosagda thannhieaniuuuongesíđeauuas</lp>
+		<lt>selƀo sagda thann hie / aN iuuuoN gesíđea uuas ·</lt>
+		<c>selbosagda thannieaniuuuongisitheuuas</c>
+	</v>
+	<v nr="5856">
+		<l>AN galileo landa hu hie / scoldi gigeƀen uuerđaN .</l>
+		<lp>angalileolanda huhiescoldigigeƀenuuerđan</lp>
+		<lt>AN galileo landa hu hie / scoldi gigeƀen uuerđaN ·</lt>
+		<c>angalilealande huohiescoldigigebanuuerthan</c>
+	</v>
+	<v nr="5857">
+		<l>gisald selbo an sundigaro / manno .</l>
+		<lp>gisaldselbo ansundigaromanno</lp>
+		<lt>gisald selbo an sundigaro / manno ·</lt>
+		<c>gisaldselƀo ansundigaromanno</c>
+	</v>
+	<v nr="5858">
+		<l>hetteandero hand helag drohtiN .</l>
+		<lp>hetteanderohand helagdrohtin</lp>
+		<lt>hetteandero hand hélag drohtiN ·</lt>
+		<c>hetanderohand helagdrohtin</c>
+	</v>
+	<v nr="5859">
+		<l>That / sea ina quelediN endi aN crucea slúogiN .</l>
+		<lp>thatseainaqueledin endiancruceaslúogin</lp>
+		<lt>That / sea ina quelediN endi aN crucea slúogiN ·</lt>
+		<c>Thatsiainaquelidin endiancrucislogun</c>
+	</v>
+	<v nr="5960">
+		<l>dóđaN / gidádiN endi that hie scoldi thuruh drohtinas / craft .</l>
+		<lp>dóđangidádin endithathiescoldithuruhdrohtinascraft</lp>
+		<lt>dóđaN / gidádiN endi that hie scoldi thuruh drohtinas / craft ·</lt>
+		<c>dodangidadin endithathiescoldithurudrohtinescraft</c>
+	</v>
+	<v nr="5861">
+		<l>An thriddion daga thioda te uuilleaN . /</l>
+		<lp>anthriddiondaga thiodateuuillean</lp>
+		<lt>An thriddion daga thioda te uuilleaN · / </lt>
+		<c>anthriddiondage thiodateuuillion</c>
+	</v>
+	<v nr="5862">
+		<l>LibbeaNdi astandaN Nú habat hie all gilestid só . /</l>
+		<lp>Libbeandiastandan núhabathieallgilestidsó</lp>
+		<lt>LibbeaNdi astandaN Nú habat hie all gilestid só . / </lt>
+		<c>libbiandiastandan nuhabithieallgilestidso</c>
+	</v>
+	<v nr="5863">
+		<l>gefrumid miđ firihoN íleat gí nú forđ hinaN . /</l>
+		<lp>gefrumidmiđfirihon   íleatgínúforđhinan</lp>
+		<lt>gefrumid miđ firihoN ileat gí nú forđ hinaN · / </lt>
+		<c>Gifrumidmidfirihon iliatginoforthhinan</c>
+	</v>
+	<v nr="5864">
+		<l>gangat gahlico . eNdi giduat it them is giungarom kúđ . /</l>
+		<lp>gangatgahlico endigiduatitthemisgiungaromkúđ</lp>
+		<lt>gangat gahlico · eNdi giduat it them is giungarom kúđ . / </lt>
+		<c>gangatgahlico endiduotitthemisiungroncuth</c>
+	</v>
+	<v nr="5865">
+		<l>Hie haƀat sia giu farfarana . endi is im forđ / hinaN .</l>
+		<lp>Hiehaƀatsiagiufarfarana endiisimforđhinan</lp>
+		<lt>Hie haƀat sia giu farfarana · endi is im forđ / hinaN ·</lt>
+		<c>hiehabitsiaiufurfarana endiistimforthhinan</c>
+	</v>
+	<v nr="5866">
+		<l>AN galileo land thar ina eft is giunga / roN sculuN .</l>
+		<lp>angalileoland tharinaeftisgiungaronsculun</lp>
+		<lt>AN galileo land thar ina eft is giunga / roN sculuN ·</lt>
+		<c>angelileoland tharinaeftisiungronsculun</c>
+	</v>
+	<v nr="5867">
+		<l>gisehan is gesíđos thuo uuarđ sán af / tar thiu .</l>
+		<lp>gisehanisgesíđos   thuo uuarđsánaftarthiu</lp>
+		<lt>gisehan is gesíđos thuo uuarđ sán af / tar thiu ·</lt>
+		<c>gisehanisgisithos Thouuuarthafterthiu</c>
+	</v>
+	<v nr="5868">
+		<l>thém uuiboN aN uuilleoN . that sia gihór / duN sulic uuord sprekaN .</l>
+		<lp>thémuuibonanuuilleon thatsiagihórdunsulicuuordsprekan</lp>
+		<lt>thém uuiboN aN uuilleoN · that sia gihór / duN sulic uuord sprekaN ·</lt>
+		<c>themuuibonanuuillon thatsiagihordunsulicuuordsprecan</c>
+	</v>
+	<v nr="5869">
+		<l>kuđean thia craft godas . / uuaruN im só akumana thúo noh .</l>
+		<lp>kuđeanthiacraftgodas uuarunimsóakumanathúonoh</lp>
+		<lt>kuđean thia craft godas · / uuaruN im só akumana thúo noh ·</lt>
+		<c>Cuthianthiacraftgodes uuarunimsoacumanathuonoh</c>
+	</v>
+	<v nr="5870">
+		<l>Ia forohta ...</l>
+		<lp>iaforohta ...</lp>
+		<lt>Ia forohta</lt>
+		<c>giesoforahtagiefrumida giuuitunimforththanun</c>
+	</v>
+</xml>
+
+
+
+	ƀ
