@@ -1,0 +1,23 @@
+# replaces HEAD object properties by conll:head datatype properties
+# (re-)initializes ID
+
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX terms: <http://purl.org/acoli/open-ie/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+
+# (re-)initialize ?id
+DELETE {
+	?word conll:ID ?id
+} INSERT {
+	?word conll:ID ?nr
+} WHERE {
+	{ SELECT ?word (COUNT(DISTINCT ?pre) AS ?nr)
+	  WHERE { ?pre a nif:Word; nif:nextWord* ?word }
+	  GROUP BY ?word
+	}
+	OPTIONAL {?word conll:ID ?id }
+};

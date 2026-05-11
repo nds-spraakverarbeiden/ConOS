@@ -1,0 +1,138 @@
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX terms: <http://purl.org/acoli/open-ie/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+
+
+#######################
+# remove empty tokens #
+#######################
+# remove CODE and tokens without POS (= empty tokens)
+
+DELETE {
+	?child conll:EDGE ?cEdge; conll:HEAD ?w.
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?child conll:HEAD ?head; conll:EDGE ?edge.
+	?last nif:nextWord ?next.
+} WHERE {
+	?w a nif:Word.
+	{ ?w conll:POS "CODE" } UNION 
+	{ ?w a nif:Word. MINUS { ?w conll:POS [] }}
+	OPTIONAL {
+		?last nif:nextWord+ ?w.
+		?last conll:POS ?lastPos. FILTER(?lastPos!="CODE")
+		MINUS {
+			?last nif:nextWord+ ?tmp. ?tmp nif:nextWord+ ?w.
+			?tmp conll:POS ?tmpPos. FILTER(?tmpPos!="CODE")
+		}
+	}
+	OPTIONAL {
+		?w nif:nextWord+ ?next.
+		?next conll:POS ?nextPos. FILTER(?nextPos!="CODE")
+		MINUS {
+			?w nif:nextWord+ ?tmp. ?tmp nif:nextWord+ ?next.
+			?tmp conll:POS ?tmpPos. FILTER(?tmpPos!="CODE")
+		}
+	}
+	?w conll:HEAD ?h.
+	OPTIONAL {
+		?child conll:HEAD ?w; conll:EDGE ?cEdge. ?w conll:POS "CODE".
+		BIND(?cEdge as ?edge)
+	}
+	OPTIONAL {
+		?child conll:HEAD ?w; conll:EDGE ?cEdge. MINUS { ?w conll:POS [] }
+		BIND("orphan" AS ?edge)
+	}
+	OPTIONAL { ?a ?b ?w. }
+	OPTIONAL { ?w ?c ?d. }	
+};
+
+#####################
+# update token URIs #
+#####################
+doesn't work yet, so the IDs will not be continuous
+
+INSERT {
+	?w terms:RENAME_TO ?tmp.
+} WHERE {
+	?w a nif:Word.
+	BIND(uri(concat(str(?w),'_tmp')) AS ?tmp)
+};
+
+DELETE {
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?A ?b ?tmp.
+	?tmp ?c ?D.
+} WHERE {
+	?w a nif:Word; terms:RENAME_TO ?tmp.
+	OPTIONAL { ?a ?b ?w. ?a terms:RENAME_TO ?A }
+	OPTIONAL { ?a ?b ?w. MINUS { ?a terms:RENAME_TO [] } BIND(?a AS ?A) }
+	OPTIONAL { ?w ?c ?d. ?d terms:RENAME_TO ?D }
+	OPTIONAL { ?w ?c ?d. MINUS { ?d terms:RENAME_TO [] } BIND(?d AS ?D) }
+	OPTIONAL { ?w ?c ?d. FILTER(isliteral(?d)) BIND(?d as ?D) } # for literals 
+
+};
+
+DELETE {
+	?x terms:RENAME_TO ?y.
+	?a ?b ?x.
+	?x ?c ?d.
+} WHERE {
+	?x terms:RENAME_TO ?y.
+	OPTIONAL { ?a ?b ?x}
+	OPTIONAL { ?x ?c ?d }	
+};
+
+DELETE {
+	?a terms:RENAME_TO ?b
+} WHERE {
+	?a terms:RENAME_TO ?b
+};	
+
+INSERT {
+	?tmp terms:RENAME_TO ?w.
+} WHERE {
+	?tmp conll:HEAD+ ?s.
+	?s a nif:Sentence.
+	{ SELECT ?tmp (COUNT(distinct ?pre) AS ?pos)
+	  WHERE { ?pre nif:nextWord* ?tmp. ?tmp a nif:Word } GROUP BY ?tmp }
+	BIND(uri(concat(replace(str(?s),'_0$',''),'_',str(?pos))) AS ?w)
+};
+
+DELETE {
+	?a ?b ?w.
+	?w ?c ?d.
+} INSERT {
+	?A ?b ?tmp.
+	?tmp ?c ?D.
+} WHERE {
+	?w a nif:Word; terms:RENAME_TO ?tmp.
+	OPTIONAL { ?a ?b ?w. ?a terms:RENAME_TO ?A }
+	OPTIONAL { ?a ?b ?w. MINUS { ?a terms:RENAME_TO [] } BIND(?a AS ?A) }
+	OPTIONAL { ?w ?c ?d. ?d terms:RENAME_TO ?D }
+	OPTIONAL { ?w ?c ?d. MINUS { ?d terms:RENAME_TO [] } BIND(?d AS ?D) }
+};
+
+DELETE {
+	?x terms:RENAME_TO ?y.
+	?a ?b ?x.
+	?x ?c ?d.
+} WHERE {
+	?x terms:RENAME_TO ?y.
+	OPTIONAL { ?a ?b ?x}
+	OPTIONAL { ?x ?c ?d }	
+};
+
+DELETE {
+	?a terms:RENAME_TO ?b
+} WHERE {
+	?a terms:RENAME_TO ?b
+};	
+

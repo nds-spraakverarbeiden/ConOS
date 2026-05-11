@@ -1,0 +1,85 @@
+# restructure PARSE annotations as follows:
+# - basic syntactic tags in conll:CAT (was rdf:value of powla:Node)
+# - extended syntactic tags in conll:ROLE (multiple, trailing - stripped)
+# - POS tags in conll:POS (as by default, but additional attributes stripped)
+# - additional POS attributes in conll:FEAT (multiple, training ^ stripped)
+
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX terms: <http://purl.org/acoli/open-ie/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+
+# split compound POS (keep all)
+INSERT {
+	?w conll:POS ?p1, ?p2
+} WHERE {
+	?w conll:POS ?pos.
+	FILTER(contains(?pos,'+'))
+	BIND(strbefore(?pos,'+') AS ?p1)
+	BIND(strafter(?pos,'+') AS ?p2)
+};
+
+# strip FEAT from POS
+DELETE {
+	?w conll:POS ?pos.
+} 
+INSERT {
+	?w conll:POS ?shortpos.
+	?w conll:FEAT ?feat
+} WHERE {
+	?w conll:POS ?pos
+	FILTER(contains(?pos,'^'))
+	BIND(strbefore(?pos,'^') AS ?shortpos)
+	BIND(strafter(?pos,'^') AS ?feat)
+};
+
+# split FEAT
+DELETE {
+	?w conll:FEAT ?feat.
+} 
+INSERT {
+	?w conll:FEAT ?f1, ?f2.
+} WHERE {
+	?w conll:FEAT ?feat
+	FILTER(contains(?feat,'^'))
+	BIND(strbefore(?feat,'^') AS ?f1)
+	BIND(strafter(?feat,'^') AS ?f2)
+};
+
+# rename rdf:value of conll:PARSE to conll:CAT (and strip ellipsis)
+DELETE {
+	?phrase rdf:value ?label
+} INSERT {
+	?phrase conll:CAT ?cat
+} WHERE {
+	?phrase rdf:value ?label; a powla:Node.
+	BIND(replace(?label,'[=-][0-9]+','') AS ?cat)
+};
+
+# strip ROLE from conll:CAT
+DELETE {
+	?phrase conll:CAT ?long
+} INSERT {
+	?phrase conll:CAT ?cat; conll:ROLE ?role
+} WHERE {
+	?phrase conll:CAT ?long.
+	FILTER(contains(?long,'-'))
+	BIND(strbefore(?long,'-') AS ?cat)
+	BIND(strafter(?long,'-') AS ?role)
+};
+
+# split ROLE
+DELETE {
+	?phrase conll:ROLE ?role
+} INSERT {
+	?phrase conll:ROLE ?r1, ?r2
+} WHERE {
+	?phrase conll:ROLE ?role.
+	FILTER(contains(?role,'-'))
+	BIND(strbefore(?role,'-') AS ?r1)
+	BIND(strafter(?role,'-') AS ?r2)
+};
+	

@@ -1,0 +1,100 @@
+PREFIX : <http://replace.me/> 
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+# # extract phrase label, POS/CAT of all children in document order and their morphological features
+# #############################
+# SELECT ?cat ?pattern ?mpattern
+# # ? poss was for debugging only
+# WHERE {
+  # ?node conll:CAT ?cat.
+  # { SELECT ?node 
+		   # (GROUP_CONCAT(?label; separator=" ") AS ?args) 
+		   # (GROUP_CONCAT(?mlabel; separator=" ") AS ?margs) 
+		   # (GROUP_CONCAT(?pos; separator=" ") AS ?poss)
+    # WHERE {
+      # ?node ^powla:hasParent ?child.
+      # { SELECT ?child (COUNT(distinct ?pre) AS ?pos) 
+			  # (GROUP_CONCAT(distinct ?anno; separator="/") AS ?label) 
+			  # (GROUP_CONCAT(distinct ?annos; separator="/") AS ?mlabel)
+        # WHERE {
+          # ?child powla:hasParent [].
+          # ?pre powla:next* ?child.
+          # { ?child (conll:CAT|conll:POS) ?anno. 
+		  # } UNION {
+		    # ?child conll:WORD ?anno.
+			# MINUS { ?child conll:CAT [] }
+			# MINUS { ?child conll:POS [] }
+		  # }
+			# OPTIONAL {
+				# SELECT ?child 
+					  # (GROUP_CONCAT(distinct ?feat; separator="|") AS ?feats)
+				# WHERE {
+					# ?child (conll:ROLE|conll:FEAT) ?feat
+				# } GROUP BY ?child ORDER BY ?feat
+			# }
+		# BIND(IF(bound(?feats), ?feats, '_') AS ?annos)
+        # } GROUP BY ?child ORDER BY ?node ?pos
+      # }  
+   # } GROUP BY ?node ORDER BY ?node ?pos
+  # }
+  # BIND(concat(?cat,' ( ', ?args, ' )') AS ?pattern)
+  # BIND(concat('( ', ?margs, ' ) )') AS ?mpattern)
+# }
+
+# extract phrase label, POS/CAT of all children in document order and their morphological features
+# mark term:HEAD argument(s) with [...]
+#############################
+SELECT ?cat ?pattern ?mpattern ?comments
+# ? poss was for debugging only
+WHERE {
+  ?node conll:CAT ?cat.
+  { SELECT ?node 
+		   (GROUP_CONCAT(?clabel; separator=" ") AS ?args) 
+		   (GROUP_CONCAT(?mlabel; separator=" ") AS ?margs) 
+    WHERE {
+      ?node ^powla:hasParent ?child.
+      { SELECT ?child (COUNT(distinct ?pre) AS ?pos) 
+			  (GROUP_CONCAT(distinct ?anno; separator="/") AS ?label) 
+			  (GROUP_CONCAT(distinct ?annos; separator="/") AS ?mlabel)
+        WHERE {
+          ?child powla:hasParent [].
+          ?pre powla:next* ?child.
+          { ?child (conll:CAT|conll:POS) ?anno. 
+		  } UNION {
+		    ?child conll:WORD ?anno.
+			MINUS { ?child conll:CAT [] }
+			MINUS { ?child conll:POS [] }
+		  }
+			OPTIONAL {
+				SELECT ?child 
+					  (GROUP_CONCAT(distinct ?feat; separator="|") AS ?feats)
+				WHERE {
+					?child (conll:ROLE|conll:FEAT) ?feat
+				} GROUP BY ?child ORDER BY ?feat
+			}
+		BIND(IF(bound(?feats), ?feats, '_') AS ?annos)
+        } GROUP BY ?child ORDER BY ?node ?pos
+      }
+ 	  OPTIONAL {
+		?termsHEAD terms:HEAD ?child
+	  }
+	  BIND(IF(bound(?termsHEAD), concat("[",?label,"]"), ?label) AS ?clabel)
+   } GROUP BY ?node ORDER BY ?node ?pos
+  }
+  BIND(concat(?cat,' ( ', ?args, ' )') AS ?pattern)
+  BIND(concat('( ', ?margs, ' ) )') AS ?mpattern)
+  OPTIONAL {
+	SELECT ?node (GROUP_CONCAT(distinct(?comment); separator=", ") AS ?comments)
+	WHERE {
+		?node rdfs:comment ?comment
+	} GROUP BY ?node ORDER BY ?node ?comment
+  }
+}

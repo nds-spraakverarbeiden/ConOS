@@ -1,0 +1,865 @@
+# require HeliPaD annotations as follows:
+# - powla:Node with basic syntactic tags in conll:CAT, optionally extended syntactic tags in conll:ROLE (multiple, trailing - stripped)
+# - nif:Word with conll:POS, optionally conll:FEAT
+
+# known issues: 
+# - copular treated as aux rather than cop
+
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#>
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#>
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX terms: <http://purl.org/acoli/open-ie/>
+PREFIX powla: <http://purl.org/powla/powla.owl#>
+
+########################
+# simplify annotations #
+########################
+
+# typos
+INSERT { ?node conll:CAT "ADJP" } WHERE { ?node conll:CAT "ADJ" };
+INSERT { ?node conll:POS "PRO$" } WHERE { ?node conll:POS "PRO$" };
+INSERT { ?node conll:POS "WADV" } WHERE { ?node conll:POS "WADVP" };
+
+# ms. errors
+# treat X like CPX or IPX (i.e., if verbal, set verb to head)
+INSERT {
+	?node conll:CAT "CPX","IPX"
+} WHERE {
+	?node conll:CAT "X"
+};
+
+# WNP => NP, etc. (keep both)
+INSERT {
+	?node conll:CAT ?plain
+} WHERE {
+	?node conll:CAT ?w
+	FILTER(strstarts(?w,'W'))
+	BIND(replace(?w,"^W","") AS ?plain)
+};
+
+# QTP => NP, etc. (keep both)
+INSERT {
+	?node conll:CAT "NP"
+} WHERE {
+	?node conll:CAT "QTP"
+};
+
+# IPX, CPX => IP, CP (keep both)
+INSERT {
+	?node conll:CAT ?plain
+} WHERE {
+	?node conll:CAT ?cat
+	FILTER(strends(?cat,'X'))
+	BIND(replace(?cat,'X$','') AS ?plain)
+	FILTER(?plain in ('IP','CP'))
+};
+
+# WADV => ADV, etc. (keep both)
+INSERT {
+	?node conll:POS ?plain
+} WHERE {
+	?node conll:POS ?w
+	FILTER(strstarts(?w,'W'))
+	BIND(replace(?w,"^W","") AS ?plain)
+};
+
+# ADJR, etc. => ADJ (keep both)
+INSERT {
+	?node conll:POS ?positive
+} WHERE {
+	?node conll:POS ?comparative.
+	FILTER(strends(?comparative,'R'))
+	BIND(replace(?comparative,'R$','') AS ?positive)
+	FILTER(?positive in ('ADJ','ADV', 'Q'))
+};
+
+# ADJS, etc. => ADJ (keep both)
+INSERT {
+	?node conll:POS ?positive
+} WHERE {
+	?node conll:POS ?superlative.
+	FILTER(strends(?superlative,'S'))
+	BIND(replace(?superlative,'S$','') AS ?positive)
+	FILTER(?positive in ('ADJ','ADV','Q'))
+};
+
+# VGI, VNI, VBI, PRO$ => ADJ (keep both)
+INSERT {
+	?node conll:POS "ADJ"
+} WHERE {
+	?node conll:POS ?pos.
+	FILTER(?pos in ('VGI','VNI','PRO$'))
+};
+
+# NUMP => ADJP (keep both)
+INSERT {
+	?node conll:POS "ADJP"
+} WHERE {
+	?node conll:POS "NUMP".
+};
+
+# remove CODE from parse (note that we keep it in the powla:next sequence)
+DELETE {
+	?code powla:hasParent ?node
+} WHERE {
+	?code conll:POS "CODE"; powla:hasParent ?node
+};
+
+# remove punctuation from parse
+DELETE {
+	?punct powla:hasParent ?node
+} WHERE {
+	?punct conll:POS ?pos; powla:hasParent ?node
+	FILTER(?pos in ('"',"'", ',', '.'))
+};
+
+######################
+# set syntactic head #
+######################
+
+# define syntactic HEAD within every phrase, using terms:HEAD
+# (a) non-branching phrases
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(a)".
+} WHERE {
+	?node a conll:PARSE.
+	?head powla:hasParent ?node.
+	MINUS { ?head powla:hasParent/^powla:hasParent ?tmp FILTER(?tmp!=?head)}
+};
+
+# (b) HEAD of CONJP is the first conjunct, CONJP inherits its CAT
+INSERT {
+	?node terms:HEAD ?head; conll:CAT ?cat; rdfs:comment "(b)"
+} WHERE {
+	?node conll:CAT "CONJP".
+	MINUS { ?node terms:HEAD [] }
+	?head a conll:PARSE; powla:hasParent ?node.
+	MINUS { [ a conll:PARSE; powla:hasParent ?node] powla:next+ ?head }
+	?head conll:CAT ?cat.
+};
+
+# (c.1) HEAD of PP is NP (not the preposition)
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(c.1)"
+} WHERE {
+	?node conll:CAT "PP".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node.
+	?head conll:CAT "NP"
+};
+
+# (c.2) HEAD of PP is first non-P
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(c.2)"
+} WHERE {
+	?node conll:CAT "PP".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node.
+	MINUS { ?head conll:POS "P" }
+	MINUS {
+		?head powla:hasParent ?node.
+		MINUS { ?head conll:POS "P" }
+		?head powla:next+ ?tmp.
+		?tmp powla:hasParent ?node.
+		MINUS { ?tmp conll:POS "P" }
+	}		
+};
+
+# (d.1) HEAD of NP or PP is last nominal (N or NPR)
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(d.1)"
+} WHERE {
+	?node conll:CAT ?np.
+	FILTER(?np in ("NP","PP"))
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:POS ?nominal.
+	FILTER(?nominal in ("N","NPR"))
+	MINUS { ?head powla:next+/conll:POS "N" }
+	MINUS { ?head powla:next+/conll:POS "NPR" }
+};
+
+# (d.2) HEAD of headless NP can also be (last) QP,Q,ADJP,ADJ,NUM or PRO
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(d.2)"
+} WHERE {
+	?node conll:CAT "NP".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; (conll:POS|conll:CAT) ?nominal.
+	FILTER(?nominal in ("QP","Q","ADJP","ADJ","PRO","NUM"))
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "QP" }
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "Q" }
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "NUM" }
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "ADJP" }
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "ADJ" }
+	MINUS { ?head powla:nextWord+/(conll:POS|conll:CAT) "PRO" }
+};
+
+# (d.3) HEAD of headless NP can also be a that-clause (THT) or a relative clause (REL)
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(d.3)"
+} WHERE {
+	?node conll:CAT ?cat. FILTER(?cat in ("NP",'PP'))
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:ROLE ?role.
+	FILTER(?role in ("THT","REL"))
+};
+
+# (d.4) HEAD of headless NP can be the first non-determiner
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(d.4)"
+} WHERE {
+	?node conll:CAT "NP".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node.
+	MINUS { ?head conll:POS ?pos. FILTER(?pos='D') }
+	MINUS { 
+			?head powla:hasParent ?node; conll:POS ?pos.
+			MINUS { ?head conll:POS ?pos. FILTER(?pos='D') }
+			?tmp powla:next+ ?head.
+			?tmp powla:hasParent ?node; conll:POS ?tmpPos.
+			MINUS { ?tmp conll:POS ?pos. FILTER(?pos='D') }
+		}
+};
+
+# (e) HEAD of ADJP, ADVP, NUMP or QP is the last ADJ, ADV, etc.
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(e)"
+} WHERE {
+	?node conll:CAT ?cat.
+	MINUS { ?node terms:HEAD [] }
+	FILTER(?cat in ("ADJP","ADVP","NUMP","QP", "INTJP"))
+	BIND(replace(?cat,'P$','') AS ?pos)
+	?head conll:POS ?pos; powla:hasParent ?node.
+	MINUS { ?head powla:next+ [ conll:POS ?pos ]}
+};
+	
+# (f) first main clause is head of anything 
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(f)"
+} WHERE {
+	?head conll:CAT "IP"; conll:ROLE "MAT".
+	?head powla:hasParent ?node.
+	MINUS { ?node terms:HEAD [] }
+	MINUS { [conll:CAT "IP"; conll:ROLE "MAT"] powla:next+ ?head }
+};
+
+# (g) HEAD of CP is first IP
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(g)"
+} WHERE {
+	?node conll:CAT "CP".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:CAT "IP".
+	MINUS { [conll:CAT "IP" ] powla:next+ ?head }
+};
+	
+# (h.1) HEAD of IP/PTP is (first) verb
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(h.1)"
+} WHERE {
+	?node conll:CAT ?cat FILTER(?cat in ('IP','PTP')).
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:POS ?pos.
+	FILTER(strstarts(?pos,'V'))
+};
+
+# (h.2) HEAD of verbless IP is (first) predicate
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(h.2)"
+} WHERE {
+	?node conll:CAT ?cat FILTER(?cat in ('IP','PTP')).
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:ROLE "PRD".
+};
+
+# (h.3) HEAD of headless IP can be (last) auxiliary
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(h.3)"
+} WHERE {
+	?node conll:CAT ?cat FILTER(?cat in ('IP','PTP')).
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:POS ?pos
+	FILTER(regex(?pos,'^(BE|M[DG]|H|R[DGN]).*'))
+	MINUS {
+		?head powla:next+/conll:POS ?tmp.
+		FILTER(regex(?tmp,'^(BE|MD|H|R[DGN]).*'))
+	}
+};
+
+# (h.4) HEAD of IP-SMC can be the first non-subject argument
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(h.4)"
+} WHERE {
+	?node conll:CAT ?cat FILTER(?cat in ('IP','PTP')).
+	?node conll:ROLE "SMC".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node.
+	MINUS { ?head conll:ROLE "SBJ" }
+	MINUS { ?head powla:hasParent ?node.
+			MINUS { ?head conll:ROLE "SBJ" }
+			?tmp powla:next+ ?head
+			MINUS { ?tmp conll:ROLE "SBJ" }
+		}
+};
+
+# (h.5) HEAD of headless IPX can be the subject
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(h.5)"
+} WHERE {
+	?node conll:CAT "IPX".
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:ROLE "SBJ".
+};
+
+# (i) phrases can be recursive, i.e., if it doesn't have a head but contains a phrase of the same type, then this phrase may be the same
+# e.g. (PP(PP mid uuordun) (CONJP endi (PP mid uuercun))) 
+# set to the first candidate
+INSERT {
+	?node terms:HEAD ?head; rdfs:comment "(i)"
+} WHERE {
+	?node conll:CAT ?cat.
+	MINUS { ?node terms:HEAD [] }
+	?head powla:hasParent ?node; conll:CAT ?cat.
+	MINUS { [conll:CAT ?cat ] powla:next+ ?head }
+};
+
+# (j) head of headless CP can be the (first) verb
+INSERT {
+	?cp terms:HEAD ?head; rdfs:comment "(j)"
+} WHERE {
+	?cp conll:CAT "CP".
+	MINUS { ?cp terms:HEAD [] }
+	?head powla:hasParent ?cp; conll:POS ?pos
+	FILTER(strstarts(?pos,'V') || ?pos in ('VBDI','VBPI')) # explicitly these pos, for uncaptured errors in sentence 979 and 2099
+};
+
+# (k) head of IPX, CPX is the first non-empty element, i.e., one those children contain a POS
+INSERT {
+	?fragment terms:HEAD ?head; rdfs:comment "(k)"
+} WHERE {
+	?fragment conll:CAT ?cat.
+	FILTER(?cat in ('IPX','CPX'))
+	MINUS { ?fragment terms:HEAD [] }
+	?head powla:hasParent ?fragment; (^powla:hasParent)*/conll:POS []. # must not be empty
+	MINUS { 
+		?tmp powla:next+ ?head; (^powla:hasParent)*/conll:POS []; powla:hasParent ?fragment.	# must be first
+	}
+};
+
+# (l) head of LATIN is the first content word
+INSERT {
+	?latin terms:HEAD ?head; rdfs:comment "(l)"
+} WHERE {
+	?latin conll:CAT "LATIN".
+	MINUS { ?latin terms:HEAD [] }
+	?head powla:hasParent ?latin; (^powla:hasParent)*/conll:POS [].
+	MINUS {
+		?tmp powla:next+ ?head; powla:hasParent ?latin; (^powla:hasParent)*/conll:POS []
+	}
+};
+
+# (m.1) head of X that cannot be recovered as CPX or IPX is the (first) comment (explaining the reason of ungrammaticality)
+# (not used)
+INSERT {
+	?x terms:HEAD ?comment; rdfs:comment "(m.1)"
+} WHERE {
+	?x conll:CAT "X".
+	MINUS { ?x terms:HEAD [] }
+	?comment powla:hasParent ?x; conll:POS "CODE"; conll:WORD ?w.
+	FILTER(strstarts(?w, "<COM:"))
+};
+
+# (m.2) head of "unrepaired" X is first non-empty child
+# (not used)
+INSERT {
+	?x terms:HEAD ?head; rdfs:comment "(m.2)"
+} WHERE {
+	?x conll:CAT "X".
+	MINUS { ?x terms:HEAD [] }
+	?head powla:hasParent ?x; (^powla:hasParent)*/conll:POS [].
+	MINUS { ?tmp powla:hasParent ?x; powla:next+ ?head; (^powla:hasParent)*/conll:POS [] }
+};
+
+################
+# repair rules #
+################
+
+# repair rules for headless phrases based on the "headiness" of their children: verb > noun > other content words (incl. finite aux) > phrases > adv > function words
+# (if used, this is marked with an rdfs:comment)
+# occurs with QTP phrases ("non-clausal direct speech") as these have no pre-defined internal organization
+
+# finite verb > infinite verb > imperative aux > noun
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBPI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBPS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBDS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VB" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VGI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VNI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VBG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "VN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HVI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BEI" };
+
+# name > noun > pronoun > adjective > aux
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "NPR" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "N" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "PRO" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "WPRO" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADJ" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "WADJ" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADJR" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADJS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "POS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "PRO$" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "PROS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "NUM" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "Q" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "QR" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "QS" };	
+
+# finite aux > phrases 
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BEPI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HVPI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MDPI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RDPI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BEPS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HVPS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MDPS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RDPS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BEDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HVDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MDDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RDDI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BEDS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HVDS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MDDS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RDDS" };
+
+# phrases (IP > NP > PP > CP > other) > adv
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "IP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "IPX" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "WNP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "NP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "WPP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "QTP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "LATIN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "PP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "CP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "CPX" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "FRAG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "QTP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "PTP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "ADJP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:CAT "ADVP" };
+
+# adv > infinite aux > other function words
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADV" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADVR" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ADVS" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "WADV" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "WADVP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "WQ" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "UTP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "FW" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MAN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BE" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HV" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MD" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RD" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BGI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BNI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HGI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MGI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MNI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RNI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RGI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HV" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HNI" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "BN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "HN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "MN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RN" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "NEG" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "INTJ" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "D" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "RP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "P" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "GE" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "ALSO" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "TO" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "FP" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "C" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "CONJ" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "CODE" };
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] }. ?y conll:POS "XX" };
+
+# absolute fallback: first element
+INSERT { ?x terms:HEAD ?y; rdfs:comment "warning: no applicable HEAD rule found, using default"  } WHERE { ?y powla:hasParent ?x. MINUS { ?x terms:HEAD [] } };
+
+# repair: multiple heads: keep the first # shouldn't happen with carefully designed rules, but this fallback allows us to be sloppy above when we want the first suitable element to be head
+DELETE {
+	?node terms:HEAD ?second; rdfs:comment ?comment
+} WHERE {
+	?node terms:HEAD ?first, ?second.
+	?first powla:next+ ?second.
+	BIND(concat("remove terms:HEAD "+str(?second)) as ?comment)
+};
+
+#######################
+# create dependencies #
+#######################
+
+# create HEAD and EDGE properties top-down
+DELETE {
+	?w conll:HEAD ?s
+} INSERT {
+	?w conll:HEAD ?head; conll:EDGE ?role, ?cat, ?nodePair.
+} WHERE {
+	?head a nif:Word; (^terms:HEAD)+ ?phrase.
+	?dependant powla:hasParent ?phrase. 
+	MINUS { ?phrase terms:HEAD ?dependant }
+	OPTIONAL { ?dependant conll:ROLE ?role. }
+	OPTIONAL { ?dependant conll:CAT ?cat; powla:hasParent ?phrase. ?phrase conll:CAT ?phraseCat. BIND(concat(?cat,'-',?phraseCat) AS ?nodePair) }
+	OPTIONAL { ?dependant conll:POS ?pos; powla:hasParent ?phrase. ?phrase conll:CAT ?phraseCat. BIND(concat(?pos,'-',?phraseCat) AS ?nodePair) }
+
+	?dependant terms:HEAD* ?w.
+	?w a nif:Word; conll:HEAD ?s.
+	?s a nif:Sentence.
+};
+
+# attach non-tokens to head of any relation that spans over it
+DELETE {
+	?w conll:HEAD ?s.
+} INSERT {
+	?w conll:HEAD ?y.
+} WHERE {
+	?w conll:HEAD ?s.
+	?s a nif:Sentence.
+	?w conll:POS ?pos
+	FILTER(regex(?pos,'^[^A-Z]$|CODE'))
+	{ ?x nif:nextWord+ ?w. ?x conll:HEAD ?y. ?w nif:nextWord+ ?y. } UNION
+	{ ?y nif:nextWord+ ?w. ?x conll:HEAD ?y. ?w nif:nextWord+ ?x. } 
+};
+
+# attach non-tokens to root node
+DELETE {
+	?w conll:HEAD ?s.
+} INSERT {
+	?w conll:HEAD ?y.
+} WHERE {
+	?w conll:HEAD ?s.
+	?s a nif:Sentence.
+	?w conll:POS ?pos
+	FILTER(regex(?pos,'^[^A-Z]$|CODE'))
+	?y conll:HEAD ?s. [] conll:HEAD ?y.
+};
+
+# repair
+# if a node has multiple heads, chose the closest one
+DELETE {
+	?w conll:HEAD ?h1; rdfs:comment ?comment
+} WHERE {
+	?w conll:HEAD ?h1, ?h2.
+	FILTER(?h1!=?h2)
+	{ 	?w conll:HEAD ?h1, ?h2. 	# if sentential head is retained along with dependency head, drop the sentential head
+		?h1 a nif:Sentence.
+		?h2 a nif:Word 
+	} UNION {						# keep the closest head to the left
+		?w conll:HEAD ?h1, ?h2. 	FILTER(?h1!=?h2)
+		?h1 a nif:Word. 
+		?h2 a nif:Word.
+		?h1 nif:nextWord+ ?h2.
+		?h2 nif:nextWord+ ?w.
+	} UNION {						# keep the closest head to the right
+		?w conll:HEAD ?h1, ?h2. 	FILTER(?h1!=?h2)
+		?h1 a nif:Word. 
+		?h2 a nif:Word.
+		?w nif:nextWord+ ?h2.
+		?h2 nif:nextWord+ ?h1.
+	} UNION {						# keep the head to the left
+		?w conll:HEAD ?h1, ?h2. 	FILTER(?h1!=?h2)
+		?h1 a nif:Word. 
+		?h2 a nif:Word.
+		?h2 nif:nextWord+ ?w.
+		?w nif:nextWord+ ?h1.
+	}
+	bind(concat("remove conll:HEAD "+str(?h1)) AS ?comment)
+};
+
+######################
+# delete powla:Nodes #
+######################
+# and their properties
+# but only for powla:Nodes that are linked to a nif:Word
+# comment for debugging
+
+DELETE {
+	?a ?b ?c.
+	?d ?e ?a.
+} WHERE {
+	?a a powla:Node.
+	?a terms:HEAD+/a nif:Word.
+	?a ?b ?c.
+	OPTIONAL { ?d ?e ?a }
+};
+
+###############
+# POS => UPOS #
+###############
+# order defines a preference if multiple POSes exist (e.g., in compounds)
+
+# preferred (in compounds)
+INSERT { ?w conll:UPOS "NOUN" } WHERE { ?w conll:POS "N". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PROPN" } WHERE { ?w conll:POS "NPR". MINUS { ?w conll:UPOS [] }};
+
+# preferred (in ambiguity)
+INSERT { ?w conll:UPOS "DET" } WHERE { ?w conll:POS "PRO$". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "DET" } WHERE { ?w conll:POS "PROS". MINUS { ?w conll:UPOS [] }};
+
+# "regular"
+INSERT { ?w conll:UPOS "PUNCT" } WHERE { ?w conll:POS "'". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PUNCT" } WHERE { ?w conll:POS '"'. MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PUNCT" } WHERE { ?w conll:POS ",". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PUNCT" } WHERE { ?w conll:POS ".". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "ADJ". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "ADJR". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "ADJS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "ADV". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "ADVR". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "ADVS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "ALSO". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BE". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BEDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BEDS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BEI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BEPI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BEPS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BG". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BGI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "BNI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "SCONJ" } WHERE { ?w conll:POS "C". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "CCONJ" } WHERE { ?w conll:POS "CONJ". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HV". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HGI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HNI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HV". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HVDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HVDS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HVI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HVPI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "HVPS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "INTJ" } WHERE { ?w conll:POS "INTJ". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PRON" } WHERE { ?w conll:POS "MAN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MD". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MDDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MDDS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MDPI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MDPS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MG". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MGI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "MNI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "NUM" } WHERE { ?w conll:POS "NUM". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADP" } WHERE { ?w conll:POS "P". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PRON" } WHERE { ?w conll:POS "PRO". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "Q". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "QR". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "QS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RD". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RDDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RDDS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RDPI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RDPS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RG". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RGI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "AUX" } WHERE { ?w conll:POS "RNI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "RP". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "SCONJ" } WHERE { ?w conll:POS "TO". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "UTP". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VB". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBDI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBDS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBG". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBPI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VBPS". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VG". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VGI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VN". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "VERB" } WHERE { ?w conll:POS "VNI". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADJ" } WHERE { ?w conll:POS "WADJ". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "WADV". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "ADV" } WHERE { ?w conll:POS "WADVP". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PRON" } WHERE { ?w conll:POS "WPRO". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "SCONJ" } WHERE { ?w conll:POS "WQ". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "X" } WHERE { ?w conll:POS "XX". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "X" } WHERE { ?w conll:POS "CODE". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "X" } WHERE { ?w conll:POS "FW". MINUS { ?w conll:UPOS [] }};
+
+# disprefered (clitics)
+INSERT { ?w conll:UPOS "DET" } WHERE { ?w conll:POS "D". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PART" } WHERE { ?w conll:POS "FP". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PART" } WHERE { ?w conll:POS "GE". MINUS { ?w conll:UPOS [] }};
+INSERT { ?w conll:UPOS "PART" } WHERE { ?w conll:POS "NEG". MINUS { ?w conll:UPOS [] }};
+
+#######
+# DEP #
+#######
+
+INSERT { ?w conll:DEP "root" } WHERE { ?w conll:HEAD/a nif:Sentence. MINUS { ?w conll:DEP [] }};
+
+# from ROLE labels or nominals
+# unclassified: PRD, MAT, SPE, PRN, LFD, RSP, X	
+INSERT { ?w conll:DEP "nsubj" } WHERE { ?w conll:EDGE "SBJ". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "obj" } WHERE { ?w conll:EDGE "OB1". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "iobj" } WHERE { ?w conll:EDGE "OB2". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "ADT". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "LOC"; conll:HEAD/conll:UPOS "VERB". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "TMP"; conll:HEAD/conll:UPOS "VERB". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "VOC". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "LOC". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "TMP". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "POS". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "ccomp" } WHERE { ?w conll:EDGE "SUB". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "xcomp" } WHERE { ?w conll:EDGE "INF". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "xcomp" } WHERE { ?w conll:EDGE "NCO". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "xcomp" } WHERE { ?w conll:EDGE "SMC". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "acl" } WHERE { ?w conll:EDGE "REL". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "acl" } WHERE { ?w conll:EDGE "FRL". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "acl" } WHERE { ?w conll:EDGE "THT". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "ADV". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "CMP". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "QUE". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "DEG". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "LOC". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "DIR". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "TMP". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "dislocated" } WHERE { ?w conll:EDGE "LFD". MINUS { ?w conll:DEP [] } };
+
+# from (U)POS und FEAT
+INSERT { ?w conll:DEP "vocative" } WHERE { ?w conll:FEAT "V". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "case" } WHERE { ?w conll:UPOS "ADP". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "det" } WHERE { ?w conll:POS "PRO$". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "det" } WHERE { ?w conll:UPOS "DET". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "nummod" } WHERE { ?w conll:POS "NUM". MINUS { ?w conll:DEP [] } };
+INSERT { ?w conll:DEP "amod" } WHERE { ?w conll:UPOS "ADJ". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advmod" } WHERE { ?w conll:UPOS "ADV". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "punct" } WHERE { ?w conll:UPOS "PUNCT". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "discourse" } WHERE { ?w conll:UPOS "INTJ". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "cc" } WHERE { ?w conll:UPOS "CCONJ". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "mark" } WHERE { ?w conll:UPOS "SCONJ". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "flat:code" } WHERE { ?w conll:POS "CODE". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "aux" } WHERE { ?w conll:UPOS "AUX". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advmod" } WHERE { ?w conll:UPOS "PART". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "flat:foreign" } WHERE { ?w conll:POS "FW". MINUS { ?w conll:DEP [] }};
+
+# from CAT(-CAT)
+INSERT { ?w conll:DEP "conj" } WHERE { ?w conll:EDGE "CONJP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "PP-IP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "PP-CP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "PP-PTP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "PP-PP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "PP-NP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "flat:foreign" } WHERE { ?w conll:EDGE "LATIN". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nsubj" } WHERE { ?w conll:EDGE "NP-IP"; conll:FEAT "N". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obj" } WHERE { ?w conll:EDGE "NP-IP"; conll:FEAT "A". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "iobj" } WHERE { ?w conll:EDGE "NP-IP"; conll:FEAT "D". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obj" } WHERE { ?w conll:EDGE "NP-IP"; conll:FEAT "G". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "NP-IP"; conll:FEAT "I". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nsubj" } WHERE { ?w conll:EDGE "PRO-IP"; conll:FEAT "N". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obj" } WHERE { ?w conll:EDGE "PRO-IP"; conll:FEAT "A". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "iobj" } WHERE { ?w conll:EDGE "PRO-IP"; conll:FEAT "D". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obj" } WHERE { ?w conll:EDGE "PRO-IP"; conll:FEAT "G". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "obl" } WHERE { ?w conll:EDGE "PRO-IP"; conll:FEAT "I". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advmod" } WHERE { ?w conll:EDGE "PP-ADJP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advmod" } WHERE { ?w conll:EDGE "NP-ADJP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "appos" } WHERE { ?w conll:EDGE "N-NP"; conll:HEAD/conll:UPOS "PROPN"; conll:FEAT ?f; conll:HEAD/conll:FEAT ?f. MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "appos" } WHERE { ?w conll:EDGE "NPR-NP"; conll:FEAT ?f; conll:HEAD/conll:FEAT ?f. MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "compound" } WHERE { ?w conll:EDGE "N-NP"; conll:FEAT ?f; conll:HEAD/conll:FEAT ?f. MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "PTP-IP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "PTP-PTP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "advcl" } WHERE { ?w conll:EDGE "PTP-CP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "amod" } WHERE { ?w conll:EDGE "PTP-NP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "NP-NP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "nmod" } WHERE { ?w conll:EDGE "NP-PP". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "reparandum:fragment" } WHERE { ?w conll:EDGE "FRAG". MINUS { ?w conll:DEP [] }};
+INSERT { ?w conll:DEP "parataxis" } WHERE { ?w conll:EDGE "IP". MINUS { ?w conll:DEP [] }};
+
+# fallback: unclassified
+INSERT { ?w conll:DEP "dep" } WHERE { ?w conll:HEAD/a nif:Word. MINUS { ?w conll:DEP [] }};
+
+###########
+# pruning #
+###########
+# remove intermediate representations
+
+DELETE {
+	?w conll:EDGE ?e; conll:DEP ?d
+} INSERT {
+	?w conll:EDGE ?d
+} WHERE {
+	?w conll:DEP ?d.
+	OPTIONAL { ?w conll:EDGE ?e }
+};
+
+DELETE {
+	?w conll:POS ?shortPos
+} WHERE {
+	?w conll:POS ?shortPos, ?longPos.
+	FILTER(strlen(?shortPos)<strlen(?longPos))
+};
+
+DELETE {
+	?w conll:POS ?oldPos.
+	?w conll:FEAT ?oldF.
+} INSERT {
+	?w conll:POS ?pfeats
+} WHERE {
+	{ SELECT ?w (GROUP_CONCAT(distinct ?pos; separator="|") AS ?poses)
+	  WHERE {
+			?w conll:POS ?pos
+		} GROUP BY ?w ORDER BY ?w ?pos
+	} 
+	OPTIONAL { 
+	  SELECT ?w (GROUP_CONCAT(distinct ?f; separator="^") AS ?feats)
+	  WHERE {
+			?w conll:FEAT ?f
+		} GROUP BY ?w ORDER BY ?w ?f
+	}
+	BIND(IF(bound(?feats), concat(?poses,'^',?feats), ?poses) AS ?pfeats)
+	?w conll:POS ?oldPos.
+	OPTIONAL { ?w conll:FEAT ?oldF. }
+};
+
+###########
+# add IDs #
+###########
+
+DELETE {
+	?a conll:ID ?id
+} INSERT {
+	?a conll:ID ?new
+} WHERE {
+	{ SELECT ?a (COUNT(distinct ?pre) AS ?new)
+	  WHERE {
+		?a a nif:Word.
+		?pre nif:nextWord* ?a
+	  } GROUP BY ?a
+	}
+	OPTIONAL { ?a conll:ID ?id }
+};

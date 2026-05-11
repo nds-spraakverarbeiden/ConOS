@@ -1,0 +1,325 @@
+rules
+
+single head
+
+ADJP	1	(ADJP ( GE/GE+VNI/VNI ) )	single head
+ADVP	1	(ADVP ( *T*-6 ) )	single head
+ADVP	1	(ADVP ( ADVP/WADVP ) )	single head
+CONJP	1	(CONJP ( *ICH*-6 ) )	single head
+CPX	1	(CPX ( *ICH*-1 ) )	single head
+IP	1	(IP ( *ICH*-2 ) )	single head
+IP	1	(IP ( GE/GE+VN/VN ) )	single head
+IP	1	(IP ( VB/GE/GE+VB ) )	single head
+IP	1	(IP ( VN ) )	single head
+IPX	1	(IPX ( GE/GE+VN/VN ) )	single head
+IPX	1	(IPX ( VB/GE/GE+VB ) )	single head
+IPX	1	(IPX ( VN ) )	single head
+NP	1	(NP ( *ICH*-7 ) )	single head
+NP	1	(NP ( *ICH*-9 ) )	single head
+NP	1	(NP ( *T*-7 ) )	single head
+NP	1	(NP ( ADJ/ADJR ) )	single head
+NP	1	(NP ( CP ) )	single head
+NP	1	(NP ( VNI ) )	single head
+NUMP	1	(NUMP ( *ICH*-2 ) )	single head
+NUMP	1	(NUMP ( *ICH*-3 ) )	single head
+PP	1	(PP ( *T*-3 ) )	single head
+PP	1	(PP ( 0 ) )	single head
+PTP	1	(PTP ( VBG ) )	single head
+QP	1	(QP ( *ICH*-6 ) )	single head
+QP	1	(QP ( PRO$ ) )	single head
+QP	1	(QP ( QS ) )	single head
+WADJP	1	(WADJP ( ADJ ) )	single head
+WADVP	1	(WADVP ( ADVP/WADVP ) )	single head
+WPP	1	(WPP ( 0 ) )	single head
+X	1	(X ( QTP ) )	single head
+ADJP	2	(ADJP ( *ICH*-6 ) )	single head
+ADJP	2	(ADJP ( *T*-6 ) )	single head
+ADJP	2	(ADJP ( ADJ/WADJ ) )	single head
+ADJP	2	(ADJP ( NUM ) )	single head
+ADVP	2	(ADVP ( *ICH*-3 ) )	single head
+ADVP	2	(ADVP ( *ICH*-4 ) )	single head
+CONJP	2	(CONJP ( *ICH*-5 ) )	single head
+CP	2	(CP ( *ICH*-6 ) )	single head
+IP	2	(IP ( ADJP ) )	single head
+IP	2	(IP ( NP ) )	single head
+IPX	2	(IPX ( ADJP ) )	single head
+IPX	2	(IPX ( NP ) )	single head
+NP	2	(NP ( *ICH*-6 ) )	single head
+PP	2	(PP ( *ICH*-4 ) )	single head
+QP	2	(QP ( *ICH*-4 ) )	single head
+QTP	2	(QTP ( IP/CONJP ) )	single head
+QTP	2	(QTP ( NP ) )	single head
+WADJP	2	(WADJP ( ADJ/WADJ ) )	single head
+ADJP	3	(ADJP ( *T*-4 ) )	single head
+ADVP	3	(ADVP ( *T*-5 ) )	single head
+CP	3	(CP ( *ICH*-7 ) )	single head
+FRAG	3	(FRAG ( IP/IPX ) )	single head
+NP	3	(NP ( *T*-8 ) )	single head
+NP	3	(NP ( QS ) )	single head
+PTP	3	(PTP ( *ICH*-2 ) )	single head
+PTP	3	(PTP ( MG ) )	single head
+QP	3	(QP ( *ICH*-5 ) )	single head
+QP	3	(QP ( QR ) )	single head
+ADJP	4	(ADJP ( *ICH*-5 ) )	single head
+CONJP	4	(CONJP ( *ICH*-4 ) )	single head
+IP	4	(IP ( *ICH*-1 ) )	single head
+NP	4	(NP ( *-1 ) )	single head
+NP	4	(NP ( GE/GE+VNI/VNI ) )	single head
+NP	4	(NP ( QR ) )	single head
+PP	4	(PP ( *T*-2 ) )	single head
+PTP	4	(PTP ( GE/GE+VNI/VNI ) )	single head
+PTP	4	(PTP ( VNI ) )	single head
+ADJP	5	(ADJP ( *T*-3 ) )	single head
+CONJP	5	(CONJP ( ADJP ) )	single head
+FRAG	5	(FRAG ( CP ) )	single head
+NP	5	(NP ( GE/PRO/WPRO/GE+WPRO ) )	single head
+NP	5	(NP ( N/NEG/NEG+N ) )	single head
+PTP	5	(PTP ( *ICH*-1 ) )	single head
+PTP	5	(PTP ( VG ) )	single head
+PTP	5	(PTP ( VGI ) )	single head
+QP	5	(QP ( *ICH*-3 ) )	single head
+QTP	5	(QTP ( INTJP ) )	single head
+CP	6	(CP ( *ICH*-5 ) )	single head
+PP	6	(PP ( *ICH*-2 ) )	single head
+ADJP	7	(ADJP ( *ICH*-4 ) )	single head
+ADJP	7	(ADJP ( *T*-2 ) )	single head
+ADJP	7	(ADJP ( ADJP ) )	single head
+NP	7	(NP ( *T*-5 ) )	single head
+PP	7	(PP ( *ICH*-1 ) )	single head
+PP	7	(PP ( *ICH*-3 ) )	single head
+PTP	7	(PTP ( VN ) )	single head
+NP	8	(NP ( *T*-6 ) )	single head
+NP	8	(NP ( ADJ/ADJS ) )	single head
+ADJP	9	(ADJP ( ADJ/ADJS ) )	single head
+NP	9	(NP ( *ICH*-5 ) )	single head
+NP	9	(NP ( PRO$ ) )	single head
+NUMP	9	(NUMP ( *ICH*-1 ) )	single head
+ADVP	10	(ADVP ( *ICH*-2 ) )	single head
+CONJP	10	(CONJP ( CP ) )	single head
+CP	10	(CP ( CP ) )	single head
+CPX	10	(CPX ( IP ) )	single head
+ADJP	11	(ADJP ( *T*-1 ) )	single head
+CONJP	11	(CONJP ( *ICH*-2 ) )	single head
+CONJP	11	(CONJP ( *ICH*-3 ) )	single head
+NP	11	(NP ( ADJ/WADJ ) )	single head
+WNP	11	(WNP ( ADJ/WADJ ) )	single head
+NP	12	(NP ( NUM ) )	single head
+ADJP	13	(ADJP ( ADJ/ADJR ) )	single head
+ADVP	13	(ADVP ( ADV/ADVS ) )	single head
+ADVP	13	(ADVP ( ADV/NEG/NEG+ADV ) )	single head
+CP	13	(CP ( *ICH*-4 ) )	single head
+ADJP	14	(ADJP ( VGI ) )	single head
+IPX	14	(IPX ( VB ) )	single head
+NUMP	14	(NUMP ( NUM ) )	single head
+QP	14	(QP ( *ICH*-2 ) )	single head
+ADVP	15	(ADVP ( *T*-4 ) )	single head
+NP	15	(NP ( *ICH*-4 ) )	single head
+ADJP	16	(ADJP ( PRO$ ) )	single head
+PTP	16	(PTP ( GE/GE+VN/VN ) )	single head
+ADJP	18	(ADJP ( *ICH*-3 ) )	single head
+CONJP	19	(CONJP ( NP ) )	single head
+PP	19	(PP ( *T*-1 ) )	single head
+INTJP	24	(INTJP ( ADV/WADV ) )	single head
+NP	24	(NP ( VGI ) )	single head
+ADJP	25	(ADJP ( 0 ) )	single head
+CP	25	(CP ( IP ) )	single head
+WADJP	25	(WADJP ( 0 ) )	single head
+ADVP	26	(ADVP ( *ICH*-1 ) )	single head
+NP	27	(NP ( *T*-4 ) )	single head
+CP	28	(CP ( *ICH*-3 ) )	single head
+ADVP	29	(ADVP ( *T*-3 ) )	single head
+CONJP	30	(CONJP ( *ICH*-1 ) )	single head
+NP	31	(NP ( NP ) )	single head
+IP	35	(IP ( VB ) )	single head
+NP	35	(NP ( 0 ) )	single head
+WNP	35	(WNP ( 0 ) )	single head
+ADVP	40	(ADVP ( ADV/ADVR ) )	single head
+NP	40	(NP ( *ICH*-3 ) )	single head
+NP	43	(NP ( *arb* ) )	single head
+ADVP	53	(ADVP ( 0 ) )	single head
+WADVP	53	(WADVP ( 0 ) )	single head
+WNP	57	(WNP ( PRO/WPRO ) )	single head
+ADJP	58	(ADJP ( *ICH*-2 ) )	single head
+NP	59	(NP ( PRO/WPRO ) )	single head
+NP	65	(NP ( *T*-3 ) )	single head
+QP	74	(QP ( *ICH*-1 ) )	single head
+NP	79	(NP ( MAN ) )	single head
+WADVP	82	(WADVP ( ADV ) )	single head
+ADVP	91	(ADVP ( *T*-2 ) )	single head
+QP	95	(QP ( Q ) )	single head
+CP	96	(CP ( *ICH*-2 ) )	single head
+NP	96	(NP ( Q ) )	single head
+NP	113	(NP ( *ICH*-2 ) )	single head
+NP	115	(NP ( *exp* ) )	single head
+NP	120	(NP ( *pro* ) )	single head
+WADVP	121	(WADVP ( ADV/WADV ) )	single head
+ADVP	122	(ADVP ( ADV/WADV ) )	single head
+ADVP	134	(ADVP ( *T*-1 ) )	single head
+NP	134	(NP ( *T*-2 ) )	single head
+ADJP	135	(ADJP ( *ICH*-1 ) )	single head
+NP	142	(NP ( ADJ ) )	single head
+CONJP	184	(CONJP ( IP ) )	single head
+IP	184	(IP ( IP ) )	single head
+CONJP	187	(CONJP ( IP/IPX ) )	single head
+IP	187	(IP ( IP/IPX ) )	single head
+IPX	187	(IPX ( IP/IPX ) )	single head
+NP	255	(NP ( *T*-1 ) )	single head
+CP	262	(CP ( *ICH*-1 ) )	single head
+NP	291	(NP ( *ICH*-1 ) )	single head
+WNP	309	(WNP ( D ) )	single head
+ADJP	555	(ADJP ( ADJ ) )	single head
+NP	626	(NP ( D ) )	single head
+C	807	(C ( 0 ) )	single head
+NP	957	(NP ( NPR ) )	single head
+NP	1090	(NP ( *con* ) )	single head
+NP	3472	(NP ( N ) )	single head
+ADVP	3557	(ADVP ( ADV ) )	single head
+NP	4199	(NP ( PRO ) )	single head
+
+CONJP: first conjunct of the same type as the phrase
+
+ADJP	1	(ADJP ( ADJP ADJP/CONJP ADJP/CONJP ) )	CONJP
+ADJP	1	(ADJP ( ADJP ADJP/CONJP ADJP/CONJP ADJP/CONJP ) )	CONJP
+ADJP	1	(ADJP ( ADJP ADJP/CONJP CONJ ) )	CONJP
+ADJP	1	(ADJP ( ADJP ADJP/CONJP CP ) )	CONJP
+ADJP	1	(ADJP ( ADJP ADJP/CONJP NEG/CONJ/NEG+CONJ ) )	CONJP
+ADJP	1	(ADJP ( ADJP CONJP CONJP ) )	CONJP
+IP	1	(IP ( IP CONJP CONJP ) )	CONJP
+IP	1	(IP ( IP IP IP/CONJP ) )	CONJP
+IP	1	(IP ( IP IP IP/CONJP/IPX ) )	CONJP
+IP	1	(IP ( IP IP/CONJP IP/CONJP IP/CONJP IP/CONJP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP IP/CONJP IP/CONJP IP/CONJP IP/CONJP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP IP/CONJP IP/CONJP IP/CONJP IP/CONJP IP/CONJP IP/CONJP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP IP/CONJP/IPX ) )	CONJP
+IP	1	(IP ( IP IP/CONJP IP/CONJP/IPX IP/CONJP IP/CONJP/IPX ) )	CONJP
+IP	1	(IP ( IP IP/CONJP NP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP NP CP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP/IPX IP/CONJP/IPX IP/CONJP/IPX CP NP CP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP/IPX IP/CONJP/IPX IP/CONJP/IPX IP/CONJP IP/CONJP/IPX IP/CONJP/IPX ) )	CONJP
+IP	1	(IP ( IP IP/CONJP/IPX NP ADJP PP ) )	CONJP
+IP	1	(IP ( IP IP/CONJP/IPX PP ) )	CONJP
+IP	1	(IP ( IP/CONJP/IPX IP IP/CONJP/IPX ) )	CONJP
+IP	1	(IP ( IP/IPX IP/CONJP/IPX ) )	CONJP
+NP	1	(NP ( NP CONJP CONJ ) )	CONJP
+NP	1	(NP ( NP CP/CONJP ) )	CONJP
+NP	1	(NP ( NP IP/CONJP ) )	CONJP
+NP	1	(NP ( NP NP NP NP/CONJP ) )	CONJP
+NP	1	(NP ( NP NP/CONJP ADJP ) )	CONJP
+NP	1	(NP ( NP NP/CONJP CP NEG/CONJ/NEG+CONJ ) )	CONJP
+NP	1	(NP ( NP NP/CONJP CP Q ) )	CONJP
+NP	1	(NP ( NP NP/CONJP NP/CONJP CP/CONJP ) )	CONJP
+NP	1	(NP ( NP NP/CONJP NP/CONJP NP ) )	CONJP
+NP	1	(NP ( NP NP/CONJP NP/CONJP QP ) )	CONJP
+NP	1	(NP ( NP NP/CONJP Q CONJ ) )	CONJP
+NUMP	1	(NUMP ( NUMP CONJP/NUMP ) )	CONJP
+PP	1	(PP ( PP CONJP CONJ/NEG/NEG+CONJ ) )	CONJP
+PP	1	(PP ( PP PP/CONJP CONJ ) )	CONJP
+PP	1	(PP ( PP PP/CONJP NEG/CONJ/NEG+CONJ ) )	CONJP
+PTP	1	(PTP ( PTP ADJP/CONJP ) )	CONJP
+QP	1	(QP ( QP ADJP/CONJP ) )	CONJP
+ADVP	2	(ADVP ( ADVP CONJP/ADVP ) )	CONJP
+CP	2	(CP ( CP CP/CONJP CP/CONJP ) )	CONJP
+CP	2	(CP ( CP CP/CONJP/CPX CONJ ) )	CONJP
+IP	2	(IP ( IP IP/CONJP CP ) )	CONJP
+IP	2	(IP ( IP IP/CONJP IP/CONJP CP ) )	CONJP
+NP	2	(NP ( NP NP CONJP ) )	CONJP
+NP	2	(NP ( NP NP NP/CONJP NEG/CONJ/NEG+CONJ ) )	CONJP
+NP	2	(NP ( NP NP/CONJP ADJ ) )	CONJP
+NP	2	(NP ( NP NP/CONJP CONJP ) )	CONJP
+NP	2	(NP ( NP NP/CONJP NP/CONJP NP/CONJP ) )	CONJP
+NP	2	(NP ( NP NP/CONJP NUM ) )	CONJP
+PP	2	(PP ( PP PP/CONJP CONJ/NEG/NEG+CONJ ) )	CONJP
+PP	2	(PP ( PP PP/CONJP PP/CONJP ) )	CONJP
+ADJP	3	(ADJP ( ADJP CONJP ) )	CONJP
+IP	3	(IP ( IP IP/CONJP/IPX CONJ ) )	CONJP
+IP	3	(IP ( IP IP/CONJP/IPX CP CONJ ) )	CONJP
+IP	3	(IP ( IP IP/CONJP/IPX CP CP ) )	CONJP
+IP	3	(IP ( IP IP/CONJP/IPX IP/CONJP/IPX CONJ ) )	CONJP
+NP	3	(NP ( NP NP NP/CONJP NP/CONJP ) )	CONJP
+NP	3	(NP ( NP NP/CONJP QP ) )	CONJP
+ADVP	4	(ADVP ( ADVP ADVP/CONJP ) )	CONJP
+IP	4	(IP ( IP IP/CONJP/IPX IP/CONJP/IPX IP/CONJP/IPX ) )	CONJP
+NP	4	(NP ( NP NP/CONJP Q ) )	CONJP
+IP	5	(IP ( IP IP/CONJP/IPX IP/CONJP ) )	CONJP
+NP	5	(NP ( NP NP/CONJP CONJ ) )	CONJP
+NP	5	(NP ( NP NP/CONJP CONJ/NEG/NEG+CONJ ) )	CONJP
+PP	5	(PP ( PP CONJP ) )	CONJP
+NP	6	(NP ( NP NP NP/CONJP ) )	CONJP
+NP	6	(NP ( NP NP/CONJP CP ) )	CONJP
+IP	10	(IP ( IP IP/CONJP IP/CONJP IP/CONJP ) )	CONJP
+IP	17	(IP ( IP IP/CONJP/IPX IP/CONJP/IPX ) )	CONJP
+NP	17	(NP ( NP NP/CONJP NP/CONJP ) )	CONJP
+ADJP	18	(ADJP ( ADJP ADJP/CONJP ) )	CONJP
+CP	24	(CP ( CP CP/CONJP ) )	CONJP
+PP	25	(PP ( PP PP/CONJP ) )	CONJP
+IP	35	(IP ( IP IP/CONJP IP/CONJP ) )	CONJP
+NP	36	(NP ( NP CONJP ) )	CONJP
+IP	37	(IP ( IP IP/CONJP/IPX CP ) )	CONJP
+IP	134	(IP ( IP IP/CONJP/IPX ) )	CONJP
+NP	137	(NP ( NP NP/CONJP ) )	CONJP
+IP	207	(IP ( IP IP/CONJP ) )	CONJP
+
+CONJ: first non-CONJ (within CONJP)
+
+ADJP	1	(ADJP ( ADJP CONJ/NEG/NEG+CONJ ) )	CONJ
+ADJP	1	(ADJP ( ADJP NEG/CONJ/NEG+CONJ ) )	CONJ
+ADJP	28	(ADJP ( ADJP CONJ ) )	CONJ
+ADVP	1	(ADVP ( ADVP NEG/CONJ/NEG+CONJ ) )	CONJ
+ADVP	2	(ADVP ( ADVP NP CONJ ) )	CONJ
+ADVP	5	(ADVP ( ADVP CONJ ) )	CONJ
+CP	1	(CP ( CP CONJ ALSO ) )	CONJ
+CP	1	(CP ( CP/CPX CONJ ) )	CONJ
+CP	1	(CP ( CP/CPX CONJ ALSO ) )	CONJ
+CP	20	(CP ( CP CONJ ) )	CONJ
+IP	1	(IP ( IP CONJ ALSO ) )	CONJ
+IP	1	(IP ( IP CONJ NEG VBI ) )	CONJ
+IP	1	(IP ( IP CONJ/NEG/NEG+CONJ ALSO ) )	CONJ
+IP	1	(IP ( IP NP ADJP CONJ VBI ) )	CONJ
+IP	1	(IP ( IP NP CONJ VBI ) )	CONJ
+IP	1	(IP ( IP/IPX ALSO CONJ ) )	CONJ
+IP	1	(IP ( IP/IPX NEG/CONJ/NEG+CONJ ) )	CONJ
+IP	3	(IP ( IP CONJ VBI ) )	CONJ
+IP	3	(IP ( IP NEG/CONJ/NEG+CONJ ) )	CONJ
+IP	3	(IP ( IP/IPX CONJ/NEG/NEG+CONJ ) )	CONJ
+IP	4	(IP ( IP CONJ/NEG/NEG+CONJ ) )	CONJ
+IP	4	(IP ( IP/IPX CONJ ALSO ) )	CONJ
+IP	65	(IP ( IP/IPX CONJ ) )	CONJ
+IP	158	(IP ( IP CONJ ) )	CONJ
+NP	1	(NP ( NP ADVP QP CONJ ) )	CONJ
+NP	1	(NP ( NP NP NP CONJ ) )	CONJ
+NP	3	(NP ( NP CONJ ALSO ) )	CONJ
+NP	3	(NP ( NP NP CONJ ALSO ) )	CONJ
+NP	4	(NP ( NP NP CONJ ) )	CONJ
+NP	7	(NP ( NP ADVP CONJ ) )	CONJ
+NP	7	(NP ( NP NEG/CONJ/NEG+CONJ ) )	CONJ
+NP	8	(NP ( NP CONJ/NEG/NEG+CONJ ) )	CONJ
+NP	231	(NP ( NP CONJ ) )	CONJ
+NUMP	1	(NUMP ( NUMP CONJ ) )	CONJ
+PP	1	(PP ( PP ADVP CONJ ALSO ) )	CONJ
+PP	1	(PP ( PP CONJ ADV ) )	CONJ
+PP	1	(PP ( PP CONJ ALSO ) )	CONJ
+PP	1	(PP ( PP NEG/CONJ/NEG+CONJ ) )	CONJ
+PP	3	(PP ( PP CONJ/NEG/NEG+CONJ ) )	CONJ
+PP	6	(PP ( PP ADVP CONJ ) )	CONJ
+PP	27	(PP ( PP CONJ ) )	CONJ
+
+PP => only non-P
+
+PP	3	(PP ( CP/CPX P ) )	[W]PP => only non-P
+PP	7	(PP ( P NP ) )	[W]PP => only non-P
+PP	17	(PP ( CP P ) )	[W]PP => only non-P
+PP	21	(PP ( NP/WNP P ) )	[W]PP => only non-P
+PP	67	(PP ( ADVP P ) )	[W]PP => only non-P
+PP	3577	(PP ( NP P ) )	[W]PP => only non-P
+
+
+
+XP => (last) X 
+(only ADVP and ADJP)
+
+ADJP	1	(ADJP ( NP ADJ/ADJR ADJ ) )	ADJP => ADJ
+ADJP	2	(ADJP ( ADJ/ADJR ADJ ) )	ADJP => ADJ
+ADVP	1	(ADVP ( ADV/NEG/NEG+ADV ADV ) )	ADVP => ADV
+ADVP	7	(ADVP ( ADV/WADV ADV ) )	ADVP => ADV
+
+

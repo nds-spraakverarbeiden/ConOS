@@ -1,0 +1,162 @@
+annotation	tag	definition	UD tag	UD label
+POS	'	single quote	PUNCT	punctuation
+POS	"	double quote	PUNCT	punctuation
+POS	,	sentence-internal punctuation	PUNCT	punctuation
+POS	.	sentence-final punctuation	PUNCT	punctuation
+	+	joins constituent morphemes in compounds		
+POS	ADJ	adjective	ADJ	adjective
+POS	ADJR	adjective, comparative	ADJ	adjective
+POS	ADJS	adjective, superlative	ADJ	adjective
+POS	ADV	adverb	ADV	adverb
+POS	ADVR	adverb, comparative	ADV	adverb
+POS	ADVS	adverb, superlative	ADV	adverb
+POS	ALSO	the words ALSO and OK	ADV	adverb
+POS	BE	infinitive of wesan	AUX	auxiliary
+POS	BEDI	past indicative of wesan	AUX	auxiliary
+POS	BEDS	past subjunctive of wesan	AUX	auxiliary
+POS	BEI	imperative of wesan	AUX	auxiliary
+POS	BEPI	present indicative of wesan	AUX	auxiliary
+POS	BEPS	present subjunctive of wesan	AUX	auxiliary
+POS	BG	present participle, uninflected of wesan	AUX	auxiliary
+POS	BGI	present participle, inflected of wesan	AUX	auxiliary
+POS	BN	past participle, uninflected of wesan	AUX	auxiliary
+POS	BNI	past participle, inflected of wesan	AUX	auxiliary
+POS	C	complementizer	SCONJ	subordinating conjunction
+POS	CODE	non-text material (e.g., page numbers)		
+POS	CONJ	coordinating conjunction	CCONJ	coordinating conjunction
+POS	D	determiner	DET	determiner
+POS	FP	focus particle (not used)	PART	particle
+POS	FW	foreign word	X	other
+POS	GE	prefix gi-, usually cliticized to a verbal form	PART	particle
+POS	HV	present participle, uninflected of hebbian	AUX	auxiliary
+POS	HGI	present participle, inflected of hebbian	AUX	auxiliary
+POS	HN	past participle, uninflected of hebbian	AUX	auxiliary
+POS	HNI	past participle, inflected of hebbian	AUX	auxiliary
+POS	HV	infinitive of hebbian	AUX	auxiliary
+POS	HVDI	past indicative of hebbian	AUX	auxiliary
+POS	HVDS	past subjunctive of hebbian	AUX	auxiliary
+POS	HVI	imperative of hebbian	AUX	auxiliary
+POS	HVPI	present indicative of hebbian	AUX	auxiliary
+POS	HVPS	present subjunctive of hebbian	AUX	auxiliary
+POS	INTJ	interjection	INTJ	interjection
+POS	MAN	indefinite pronoun, singular, unmodified man subjects	PRON	pronoun
+POS	MD	infinitive	AUX	auxiliary
+POS	MDDI	past indicative	AUX	auxiliary
+POS	MDDS	past subjunctive	AUX	auxiliary
+POS	MDI	imperative	AUX	auxiliary
+POS	MDPI	present indicative	AUX	auxiliary
+POS	MDPS	present subjunctive	AUX	auxiliary
+POS	MG	present participle, uninflected	AUX	auxiliary
+POS	MGI	present participle, inflected (not used)	AUX	auxiliary
+POS	MN	past participle, uninflected (not used)	AUX	auxiliary
+POS	MNI	past participle, inflected (not used)	AUX	auxiliary
+POS	N	singular, plural, collective, or compound noun	NOUN	noun
+POS	NEG	negative particle ne	PART	particle
+POS	NPR	proper noun	PROPN	proper noun
+POS	NUM	cardinal number	NUM	numeral
+POS	P	preposition (with a complement). Otherwise, these elements are labelled ADV or RP.	ADP	adposition
+POS	POS	possessive		
+POS	PRO	personal pronoun	PRON	pronoun
+POS	PRO$	possessive pronoun	PRON	pronoun
+POS	PROS	possessive pronoun	PRON	pronoun
+POS	Q	quantifier	ADJ	adjective
+POS	QR	quantifier, comparative (MORE, LESS)	ADJ	adjective
+POS	QS	quantifier, superlative (MOST, LEAST)	ADJ	adjective
+POS	RD	infinitive of werthan	AUX	auxiliary
+POS	RDDI	past indicative of werthan	AUX	auxiliary
+POS	RDDS	past subjunctive of werthan	AUX	auxiliary
+POS	RDI	imperative of werthan	AUX	auxiliary
+POS	RDPI	present indicative of werthan	AUX	auxiliary
+POS	RDPS	present subjunctive of werthan	AUX	auxiliary
+POS	RG	present participle, uninflected of werthan	AUX	auxiliary
+POS	RGI	present participle, inflected of werthan	AUX	auxiliary
+POS	RN	past participle, uninflected of werthan	AUX	auxiliary
+POS	RNI	past participle, inflected of werthan	AUX	auxiliary
+POS	RP	adverbial particles an, to, up and ut	ADV	adverb
+POS	TO	infinitival TO	SCONJ	subordinating conjunction
+POS	UTP	WITA, used to introduce hortative clauses ("let us...")	ADV	adverb
+POS	VB	infinitive of a lexical verb	VERB	verb
+POS	VBDI	past indicative of a lexical verb	VERB	verb
+POS	VBDS	past subjunctive of a lexical verb	VERB	verb
+POS	VBG	present participle, uninflected, of a lexical verb	VERB	verb
+POS	VBI	imperative of a lexical verb	VERB	verb
+POS	VBPI	present indicative of a lexical verb	VERB	verb
+POS	VBPS	present subjunctive of a lexical verb	VERB	verb
+POS	VG	present participle, uninflected, of a lexical verb	VERB	verb
+POS	VGI	present participle, inflected, of a lexical verb	VERB	verb
+POS	VN	past participle, uninflected, of a lexical verb	VERB	verb
+POS	VNI	past participle, inflected, of a lexical verb	VERB	verb
+POS	WADJ	wh-adjective	ADJ	adjective
+POS	WADV	wh-adverb	ADV	adverb
+POS	WADVP	wh-adverb	ADV	adverb
+POS	WPRO	wh-pronoun	PRON	pronoun
+POS	WQ	WHETHER introducing indirect questions	SCONJ	subordinating conjunction
+POS	XX	problematic word (not used)	X	other
+FEAT	^N			
+FEAT	^A			
+FEAT	^G			
+FEAT	^D			
+FEAT	^I			
+FEAT	^1			
+FEAT	^2			
+FEAT	^3			
+FEAT	^SG			
+FEAT	^PL			
+FEAT	^DU			
+CAT	ADJ	adjective		
+CAT	ADJP	adjectival phrase		
+CAT	ADVP	adverbial phrase		
+CAT	C	complementizer		
+CAT	CONJP	conjunction phrase		
+CAT	CP	clausal shell for subordinate and non-declarative clauses		
+CAT	CPX	incomplete CP		
+CAT	FRAG	sentence fragment		
+CAT	INTJP	interjection phrase		
+CAT	IP	basic clause, including verb		
+CAT	IPX	incomplete IP		
+CAT	LATIN	Latin		
+CAT	NP	noun phrase		
+CAT	NUMP	number phrase		
+CAT	PP	prepositional phrase		
+CAT	PTP	participial phrase		
+CAT	QP	quantifier phrase		
+CAT	QTP	quotative phrase (quoted non-sentential sequences)		
+CAT	WADJP	wh- adjectival phrase		
+CAT	WADVP	wh- adverbial phrase		
+CAT	WNP	wh- noun phrase		
+CAT	WPP	wh- prepositional phrase		
+CAT	WQP	wh- quantifier phrase		
+CAT	X	incomplete phrase due to text problems		
+ROLE	=0	indices indicating ellipsis sites		
+ROLE	=00	indices indicating ellipsis sites		
+ROLE	-0	indices indicating antecedents in instances of ellipsis		
+ROLE	-00	indices indicating antecedents in instances of ellipsis		
+ROLE	-1, -2, -3 etc.	indices indicating movement		
+ROLE	-ADT	adjunct (also for ADJPs and PTPs)	obl
+ROLE	-ADV	adverbial clause	advcl
+ROLE	-CMP	comparative clause	advcl
+ROLE	-DEG	degree clause	advcl
+ROLE	-DIR	directional	nmod
+ROLE	-FRL	free relative clause	acl
+ROLE	-INF	infinitival clause	xcomp
+ROLE	-LFD	left-dislocated (with later -RSP)	
+ROLE	-LOC	locative	obl (clausal head), nmod (nominal head)			
+ROLE	-MAT	main clause	
+ROLE	-NCO	non-complement infinitival clause	xcomp
+ROLE	-OB1	direct or only object	obj
+ROLE	-OB2	indirect or second object	iobj
+ROLE	-POS	possessor (only one immediately dominated by each NP)	obl
+ROLE	-PRD	predicate (also for ADJPs and PTPs)	
+ROLE	-PRN	parenthetical	
+ROLE	-QUE	interrogative clause	advcl
+ROLE	-REL	relative clause	acl
+ROLE	-RFL	reflexive (not mutually exclusive with above)	obl
+ROLE	-RSP	resumptive (usually with earlier -LFD)	
+ROLE	-SBJ	subject	nsubj
+ROLE	-SMC	small clause	xcomp
+ROLE	-SPE	direct speech (not mutually exclusive with above)	
+ROLE	-SUB	subordinate clause, inc. direct questions	ccomp
+ROLE	-THT	that-clause	acl
+ROLE	-TMP	temporal	obl (clausal head), nmod (nominal head)
+ROLE	-VOC	vocative	obl
+ROLE	-X	expletive subject or associate	

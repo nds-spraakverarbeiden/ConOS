@@ -1,0 +1,45 @@
+PREFIX : <http://replace.me/> 
+PREFIX powla: <http://purl.org/powla/powla.owl#> 
+PREFIX conll: <http://ufal.mff.cuni.cz/conll2009-st/task-description.html#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
+PREFIX terms: <http://purl.org/acoli/open-ie/> 
+PREFIX x: <http://purl.org/acoli/conll-rdf/xml#> 
+PREFIX nif: <http://persistence.uni-leipzig.org/nlp2rdf/ontologies/nif-core#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+# for dependencies without DEPs, extract
+# head UPOS, POS, FEAT
+# dep UPOS, POS, FEAT, EDGE, DEP
+SELECT ?dUPos ?dep ?hUPos ?dPos ?edge ?hPos ?dFeats ?hFeats
+WHERE {
+	?d conll:HEAD ?h.
+	{ SELECT ?d (GROUP_CONCAT(distinct ?p; separator="|") AS ?dPos)
+	  WHERE {
+		?d conll:POS ?p.
+	  } GROUP BY ?d ORDER BY ?d ?p
+	}
+	OPTIONAL { ?d conll:DEP ?dep }
+	OPTIONAL { 
+		SELECT ?d (GROUP_CONCAT(distinct ?e; separator=" ") AS ?edge)
+		WHERE {	
+			?d conll:EDGE ?e. 
+		} GROUP BY ?d ORDER BY ?e
+	}
+	OPTIONAL { ?d conll:UPOS ?dUPos }
+	OPTIONAL {
+		SELECT ?d (GROUP_CONCAT(distinct ?f; separator="|") AS ?dFeats)
+		WHERE { ?d conll:FEAT ?f } GROUP BY ?d ORDER BY ?f 
+	}
+	{ SELECT ?h (GROUP_CONCAT(distinct ?p; separator="|") AS ?hPos)
+	  WHERE {
+		?h conll:POS ?p.
+	  } GROUP BY ?h ORDER BY ?h ?p
+	}
+	OPTIONAL { ?h conll:UPOS ?hUPos }
+	OPTIONAL {
+		SELECT ?h (GROUP_CONCAT(distinct ?f; separator="|") AS ?hFeats)
+		WHERE { ?h conll:FEAT ?f } GROUP BY ?h ORDER BY ?f 
+	}
+}
